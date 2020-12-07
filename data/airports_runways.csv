@@ -1,4 +1,4 @@
-airport,length,width,le_name,le_latitude,le_longitude,le_elevation,le_heading,le_dthr,he_name,he_latitude,he_longitude,he_elevation,he_heading,he_dthr,surface,lighted,active
+airport,length,width,le_name,le_latitude,le_longitude,le_elevation,le_heading,le_displaced_threshold,he_name,he_latitude,he_longitude,he_elevation,he_heading,he_displaced_threshold,surface,lighted,active
 AGGH,7218,148,06,-9.43174,160.045,28,68,,24,-9.42426,160.064,14,248,,,1,1
 AGGM,4593,98,07,-8.32918,157.257,7,78.9,,25,-8.32676,157.269,9,258.9,,,0,1
 ANYN,7054,148,12,-0.54118,166.912,22,130.3,165,30,-0.55374,166.926,20,310.3,380,,1,1

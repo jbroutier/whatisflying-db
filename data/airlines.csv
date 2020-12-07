@@ -1,4 +1,4 @@
-"icao_code","iata_code","name","callsign","country","active","iata_member","iosa_certified","international","fleet_age","aircraft","aircraft_models","aircraft_over_25_years","routes","connections","destinations","annual_domestic_flights","annual_international_flights","accidents_last_5_years","fatal_accidents_last_5_years"
+"icao_code","iata_code","name","callsign","country","active","iata_member","iosa_certified","international","average_fleet_age","aircraft","aircraft_models","aircraft_over_25_years","routes","connections","destinations","annual_dom_flights","annual_intl_flights","accidents_last_5_years","fatal_accidents_last_5_years"
 "AAB",NULL,"Luxaviation Belgium","ABG","BE","1","0","0","0","8.22","18","10","0",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AAC",NULL,"Army Air Corps","ARMYAIR","GB","1","0","0","0","19.38","109","4","25",NULL,NULL,NULL,NULL,NULL,"0","0"
 "AAD",NULL,"Arrendamientos Aereos","PANABEAR","PA","1","0","0","0","7.00","2","1","0",NULL,NULL,NULL,NULL,NULL,"0","0"

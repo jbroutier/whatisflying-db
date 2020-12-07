@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "00600c","C9-EMA","Embraer","E190AR","E190","19000301","L2J","LAM",NULL,NULL,NULL
 "00600d","C9-EMB","Embraer","E190AR","E190","19000309","L2J","LAM",NULL,NULL,NULL
 "006012","C9-MEX","Embraer","ERJ-145MP","E145","145266","L2J",NULL,NULL,NULL,NULL

@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "0082cc","ZS-BAX","AgustaWestland","A.109S Grand","A109","22042","H2T",NULL,NULL,NULL,NULL
 "008c1f","ZS-EOS","AgustaWestland","AW139","A139","31502","H2T",NULL,"2013-09-10",NULL,"2013-01-01"
 "0092c7","ZS-HCG","AgustaWestland","AW119 Mk II","AW119","14739","H1T",NULL,NULL,NULL,NULL

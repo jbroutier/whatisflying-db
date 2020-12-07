@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "0081f2","ZS-ASN","Basler","BT-67","DC3T","33581","L2T",NULL,NULL,NULL,NULL
 "00821a","ZS-AUB","Douglas","DC-4","DC4","42984","L4P",NULL,NULL,NULL,NULL
 "0083f4","ZS-BMH","Douglas","DC-4","DC4","43157","L4P",NULL,NULL,NULL,NULL

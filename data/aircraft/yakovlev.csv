@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "110484","RA-1047K","Yakovlev","Yak-52","YK52","811212","L1P",NULL,NULL,NULL,NULL
 "119524","RA-1951K","Yakovlev","Yak-18T","Y18T","6201510","L1P",NULL,NULL,NULL,NULL
 "12dde5","RA-3446K","Yakovlev","Yak-50","YK50","853201","L1P",NULL,NULL,NULL,NULL

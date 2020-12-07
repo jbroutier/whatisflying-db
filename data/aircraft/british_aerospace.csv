@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "00b0df","ZS-SMO","British Aerospace","BAe 146-300","B463","E3169","L4J",NULL,NULL,NULL,NULL
 "00b116","ZS-SOR","British Aerospace","BAe 146-300","B463","E3155","L4J","DJU",NULL,NULL,NULL
 "042c59","3C-AKK","British Aerospace","BAe 146-200","B462","E2069","L4J",NULL,NULL,NULL,NULL

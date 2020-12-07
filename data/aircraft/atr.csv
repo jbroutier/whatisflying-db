@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "0080a4","ZS-AFR","ATR","42-500F","AT45","643","L2T",NULL,NULL,NULL,NULL
 "008210","ZS-ATR","ATR","42-320F","AT43","060","L2T",NULL,NULL,NULL,NULL
 "00a73a","ZS-OVP","ATR","42-300","AT43","088","L2T",NULL,NULL,NULL,NULL

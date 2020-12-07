@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "01004a","SU-EAI","Tupolev","Tu-204-120","T204","1450743164025","L2J",NULL,NULL,NULL,NULL
 "0b06a5","CU-T1701","Tupolev","Tu-204-100E","T204","1450744664035","L2J","CUB",NULL,NULL,NULL
 "0b06a6","CU-T1702","Tupolev","Tu-204-100E","T204","1450743764042","L2J","CUB",NULL,NULL,NULL

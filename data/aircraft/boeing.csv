@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "0000c4","N474EA","Boeing","737-448","B734","24474","L2J",NULL,NULL,NULL,"1989-01-01"
 "004002","Z-WPA","Boeing","737-2N0","B732","23677","L2J","AZW",NULL,NULL,NULL
 "004003","Z-WPB","Boeing","737-2N0","B732","23678","L2J","AZW",NULL,NULL,NULL

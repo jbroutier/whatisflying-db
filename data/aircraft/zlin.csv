@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "00a2d6","S5-DET","Zlín","Z-50MU","Z50","0079","L1P",NULL,NULL,NULL,NULL
 "34360d","EC-LGS","Zlín","Z-50","Z50","0044","L1P",NULL,NULL,NULL,NULL
 "383210","F-BMQQ","Zlín","Z-326","Z26","890","L1P",NULL,NULL,NULL,NULL

@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "300411","I-RVEG","Aermacchi","MB-326E","M326","6172","L1J",NULL,NULL,NULL,NULL
 "33ff84","MM7149","AMX International","A-11B","AMX","IX061","L1J","AMX",NULL,NULL,NULL
 "33ff87","MM7126","AMX International","A-11B","AMX","IX038","L1J","AMX",NULL,NULL,NULL

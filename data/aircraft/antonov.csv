@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "00a75c","ZS-OWX","Antonov","An-32B","AN32","2806","L2T","VLA",NULL,NULL,NULL
 "00a820","ZS-PEL","Antonov","An-32B","AN32","3004","L2T",NULL,NULL,NULL,NULL
 "00a98f","ZS-PSO","Antonov","An-32B","AN32","2808","L2T",NULL,NULL,NULL,NULL

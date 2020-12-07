@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "008058","ZS-ACT","Bombardier","Challenger 300","CL30","20034","L2J",NULL,NULL,NULL,NULL
 "008351","ZS-BGA","Bombardier","Challenger 600S","CL60","1072","L2J",NULL,NULL,NULL,NULL
 "00865d","ZS-CKA","Bombardier","Challenger 350","CL35","20626","L2J",NULL,NULL,NULL,NULL

@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "004000","2324","Airbus Helicopters","H215","AS32","2324","H2T","FMY",NULL,NULL,NULL
 "0083b4","ZS-BJV","Airbus Helicopters","H125","AS50","2428","H1T",NULL,NULL,NULL,NULL
 "00874b","ZS-CTE","Airbus Helicopters","H130","EC30","4299","H1T",NULL,NULL,NULL,NULL

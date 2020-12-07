@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "34340b","EC-DKX","CASA","1.131E Jungmann","BU31","2016","L1P",NULL,NULL,NULL,NULL
 "385efb","F-AZUL","CASA","1.131E Jungmann","BU31","2000","L1P",NULL,NULL,NULL,NULL
 "386432","F-AZBS","Bücker","Bü 133 Jungmeister","BU33","16","L1P",NULL,NULL,NULL,NULL

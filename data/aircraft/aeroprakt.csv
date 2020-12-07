@@ -1,4 +1,4 @@
-"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","airline","registered_at","registered_until","manufactured_at"
+"icao_24bit_address","registration","manufacturer","model","aircraft_type","serial_number","description","operator","registered_at","registered_until","manufactured_at"
 "140857","RA-02135","Aeroprakt","A-21 M Solo","A21","01","L1P",NULL,NULL,NULL,NULL
 "1418f5","RA-06389","Aeroprakt","A-20 Sky Cruiser","AP20","009","L1P",NULL,NULL,NULL,NULL
 "344482","EC-LRV","Aeroprakt","A-22L Vision","AP22","A22L-08-0025","L1P",NULL,NULL,NULL,NULL

@@ -1,4 +1,4 @@
-airport,year,dom_departures,intl_departures,dom_destinations,intl_destinations
+airport,year,domestic_departures,international_departures,domestic_destinations,international_destinations
 AGGA,2003,631,0,3,0
 AGGA,2004,533,0,3,0
 AGGA,2005,506,0,2,0

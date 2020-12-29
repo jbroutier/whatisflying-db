@@ -1,4 +1,4 @@
-slug,identifier,name,type,usage,frequency,dme_channel,dme_rx_frequency,dme_tx_frequency,dme_bias,vor_slaved_variation,loc_heading,gs_angle,reception_range,latitude,longitude,elevation,region,airport,airport_runway,country
+slug,identifier,name,type,usage,frequency,dme_channel,dme_rx_frequency,dme_tx_frequency,dme_bias,vor_slaved_variation,localizer_heading,glide_slope_angle,reception_range,latitude,longitude,elevation,region,airport,airport_runway,country
 1b-ndb-cy,1B,SABLE ISLAND NDB,NDB,ENROUTE,277,,,,,,,,50,43.930555556,-60.022777778,,CY,,,CA
 1d-ndb-cy,1D,CHARLOTTETOWN NDB,NDB,ENROUTE,346,,,,,,,,25,52.775411111,-56.125961111,,CY,,,CA
 1e-ndb-cy,1E,BLACK TICKLE NDB,NDB,ENROUTE,349,,,,,,,,50,53.467127778,-55.788663889,,CY,,,CA

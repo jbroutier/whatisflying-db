@@ -39,32 +39,34 @@ This file contains informations on aircraft. Only aircraft of manufacturers for 
 
 These files contains informations on aircraft, for a single manufacturer. The structure of these files is as follows:
 
-| Column             |     Type     | Description                                                  |  Example   |
-| ------------------ | :----------: | ------------------------------------------------------------ | :--------: |
-| icao_24bit_address |    string    | The ICAO 24-bit address of the aircraft.                     |   39cf01   |
-| registration       |    string    | The registration of the aircraft.                            |   F-HTYB   |
-| manufacturer       |    string    | The manufacturer of the aircraft.                            |   Airbus   |
-| model              |    string    | The model of the aircraft.                                   |  A350-941  |
-| aircraft_type      |    string    | The type of the aircraft, as an ICAO code.                   |    A359    |
-| serial_number      |    string    | The manufacturer serial number of the aircraft.              |    349     |
-| description        |    string    | The description of the aircraft, as defined in the ICAO Document 8643. |    L2J     |
-| operator           | string\|null | The airline which operates the aircraft, as an ICAO code.    |    AFR     |
-| registered_at      |  date\|null  | The date the aircraft was registered.                        | 2020-05-01 |
-| registered_until   |  date\|null  | The date the aircraft registration expires.                  | 2025-12-31 |
-| manufactured_at    |  date\|null  | The date the aircraft was manufactured.                      | 2020-01-01 |
+| Column             |     Type     | Description                                                  |       Example       |
+| ------------------ | :----------: | ------------------------------------------------------------ | :-----------------: |
+| icao_24bit_address |    string    | The ICAO 24-bit address of the aircraft.                     |       38fcbb        |
+| registration       |    string    | The registration of the aircraft.                            |       F-GXLG        |
+| manufacturer       |    string    | The manufacturer of the aircraft.                            |       Airbus        |
+| model              |    string    | The model of the aircraft.                                   | A330-743L Beluga XL |
+| aircraft_type      |    string    | The type of the aircraft, as an ICAO code.                   |        A337         |
+| serial_number      |    string    | The manufacturer serial number of the aircraft.              |        1824         |
+| description        |    string    | The description of the aircraft, as defined in the ICAO Document 8643. |         L2J         |
+| operator           | string\|null | The airline which operates the aircraft, as an ICAO code.    |         AIB         |
+| registered_at      |  date\|null  | The date the aircraft was registered.                        |     2020-01-01      |
+| registered_until   |  date\|null  | The date the aircraft registration expires.                  |     2022-12-31      |
+| manufactured_at    |  date\|null  | The date the aircraft was manufactured.                      |     2019-12-31      |
 
 #### aircraft_pictures.csv
 
 This file contains the list of photographs of aircraft as well as information on the author and the license issued by the latter. The structure of this file is as follows:
 
-| Column         |     Type     | Description                                                |                      Example                      |
-| -------------- | :----------: | ---------------------------------------------------------- | :-----------------------------------------------: |
-| aircraft       |    string    | The ICAO 24-bit address of the aircraft.                   |                      39cf01                       |
-| picture        |    string    | The relative path to the file.                             |           aircraft_pictures/39cf01.webp           |
-| source         |    string    | The source of the picture.                                 | https://www.flickr.com/photos/johndoe/1234567890/ |
-| author_name    |    string    | The name of the picture author.                            |                     John Doe                      |
-| author_profile | string\|null | The URL of the picture author's profile.                   |      https://www.flickr.com/photos/johndoe/       |
-| license        |    string    | The license of the picture, as an SPDX license identifier. |                   CC-BY-SA-2.0                    |
+| Column         |     Type     | Description                                                  |                      Example                      |
+| -------------- | :----------: | ------------------------------------------------------------ | :-----------------------------------------------: |
+| aircraft       |    string    | The ICAO 24-bit address of the aircraft.                     |                      38fcbb                       |
+| picture        |    string    | The relative path to the file.                               |           aircraft_pictures/38fcbb.webp           |
+| source         |    string    | The source of the picture.                                   | https://www.flickr.com/photos/johndoe/1234567890/ |
+| author_name    |    string    | The name of the picture author.                              |                     John Doe                      |
+| author_profile | string\|null | The URL of the picture author's profile.                     |      https://www.flickr.com/photos/johndoe/       |
+| license        |    string    | The license of the picture, as an SPDX license identifier ¹. |                   CC-BY-SA-2.0                    |
+
+¹  See https://spdx.org/licenses/ for a list of valid identifiers.
 
 ------
 
@@ -76,34 +78,34 @@ This dataset includes the following files:
 
 This file contains information on aircraft types. The structure of this file is as follows:
 
-| Column              |     Type      | Description                                                  | Example  |
-| ------------------- | :-----------: | ------------------------------------------------------------ | :------: |
-| icao_code           |    string     | The ICAO code of the aircraft type.                          |   A359   |
-| iata_code           | string\|null  | The IATA code of the aircraft type.                          |   359    |
-| manufacturer        |    string     | The manufacturer of the aircraft.                            |  Airbus  |
-| name                |    string     | The name of the aircraft type.                               | A350-900 |
-| description         |    string     | The description of the aircraft, as defined in the ICAO Document 8643. |   L2J    |
-| wtc                 |    string     | The wake turbulence category of the aircraft, as defined in the ICAO Document 8643. |    H     |
-| length              |  float\|null  | The length of the aircraft, in metres.                       |          |
-| height              |  float\|null  | The height of the aircraft, in metres.                       |          |
-| wingspan            |  float\|null  | The wingspan of the aircraft, in metres.                     |          |
-| wing_area           |  float\|null  | The wing area of the aircraft, in square metres.             |          |
-| fuselage_height     |  float\|null  | The height of the aircraft fuselage, in metres.              |          |
-| fuselage_width      |  float\|null  | The width of the aircraft fuselage, in metres.               |          |
-| main_rotor_diameter |  float\|null  | The diameter of the aircraft main rotor, in metres.          |          |
-| main_rotor_area     |  float\|null  | The area of the aircraft main rotor, in square metres.       |          |
-| mzfw                | integer\|null | The maximum zero-fuel weight of the aircraft, in kilograms.  |          |
-| mrw                 | integer\|null | The maximum ramp weight of the aircraft, in kilograms.       |          |
-| mtow                | integer\|null | The maximum takeoff weight of the aircraft, in kilograms.    |          |
-| mlw                 | integer\|null | The maximum landing weight of the aircraft, in kilograms.    |          |
-| fuel_capacity       | integer\|null | The fuel capacity of the aircraft, in litres.                |          |
-| approach_speed      | integer\|null | The approach speed (V<sub>Ref</sub>) of the aircraft, in knots. |          |
-| cruise_speed        | integer\|null | The cruise speed (V<sub>no</sub>) of the aircraft, in knots. |          |
-| maximum_speed       | integer\|null | The maximum speed (V<sub>ne</sub>) of the aircraft, in knots. |          |
-| service_ceiling     | integer\|null | The service ceiling of the aircraft, in feet.                |          |
-| absolute_ceiling    | integer\|null | The absolute ceiling of the aircraft, in feet.               |          |
-| operating_range     | integer\|null | The operating range of the aircraft, in nautical miles.      |          |
-| type_certificate    | string\|null  | The URL of the aircraft type certificate.                    |          |
+| Column              |     Type      | Description                                                  |  Example  |
+| ------------------- | :-----------: | ------------------------------------------------------------ | :-------: |
+| icao_code           |    string     | The ICAO code of the aircraft type.                          |   A35K    |
+| iata_code           | string\|null  | The IATA code of the aircraft type.                          |    351    |
+| manufacturer        |    string     | The manufacturer of the aircraft.                            |  Airbus   |
+| name                |    string     | The name of the aircraft type.                               | A350-1000 |
+| description         |    string     | The description of the aircraft, as defined in the ICAO Document 8643. |    L2J    |
+| wtc                 |    string     | The wake turbulence category of the aircraft, as defined in the ICAO Document 8643. |     H     |
+| length              |  float\|null  | The length of the aircraft, in metres.                       |   73.78   |
+| height              |  float\|null  | The height of the aircraft, in metres.                       |   16.90   |
+| wingspan            |  float\|null  | The wingspan of the aircraft, in metres.                     |   64.75   |
+| wing_area           |  float\|null  | The wing area of the aircraft, in square metres.             |  464.30   |
+| fuselage_height     |  float\|null  | The height of the aircraft fuselage, in metres.              |   5.96    |
+| fuselage_width      |  float\|null  | The width of the aircraft fuselage, in metres.               |   5.96    |
+| main_rotor_diameter |  float\|null  | The diameter of the aircraft main rotor, in metres.          |           |
+| main_rotor_area     |  float\|null  | The area of the aircraft main rotor, in square metres.       |           |
+| mzfw                | integer\|null | The maximum zero-fuel weight of the aircraft, in kilograms.  |  220000   |
+| mrw                 | integer\|null | The maximum ramp weight of the aircraft, in kilograms.       |  317500   |
+| mtow                | integer\|null | The maximum takeoff weight of the aircraft, in kilograms.    |  316000   |
+| mlw                 | integer\|null | The maximum landing weight of the aircraft, in kilograms.    |  236000   |
+| fuel_capacity       | integer\|null | The fuel capacity of the aircraft, in litres.                |  158791   |
+| approach_speed      | integer\|null | The approach speed (V<sub>Ref</sub>) of the aircraft, in knots. |    142    |
+| cruise_speed        | integer\|null | The cruise speed (V<sub>no</sub>) of the aircraft, in knots. |    500    |
+| maximum_speed       | integer\|null | The maximum speed (V<sub>ne</sub>) of the aircraft, in knots. |    520    |
+| service_ceiling     | integer\|null | The service ceiling of the aircraft, in feet.                |   35000   |
+| absolute_ceiling    | integer\|null | The absolute ceiling of the aircraft, in feet.               |   41450   |
+| operating_range     | integer\|null | The operating range of the aircraft, in nautical miles.      |   16100   |
+| type_certificate    | string\|null  | The URL of the aircraft type certificate.                    |           |
 
 #### aircraft_types_pictures.csv
 
@@ -116,7 +118,9 @@ This file contains the list of photographs of aircraft types as well as informat
 | source         |    string    | The source of the picture. | https://www.flickr.com/photos/johndoe/1234567890/ |
 | author_name    |    string    | The name of the picture author. | John Doe |
 | author_profile | string\|null | The URL of the picture author's profile. | https://www.flickr.com/photos/johndoe/ |
-| license        |    string    | The license of the picture, as an SPDX license identifier. | CC-BY-SA-2.0 |
+| license        |    string    | The license of the picture, as an SPDX license identifier ¹. | CC-BY-SA-2.0 |
+
+¹  See https://spdx.org/licenses/ for a list of valid identifiers.
 
 #### aircraft_models.csv
 
@@ -179,7 +183,9 @@ This file contains the list of photographs of aircraft wearing the livery of air
 | source         |    string    | The source of the picture. | https://www.flickr.com/photos/johndoe/1234567890/ |
 | author_name    |    string    | The name of the picture author. | John Doe |
 | author_profile | string\|null | The URL of the picture author's profile. | https://www.flickr.com/photos/johndoe/ |
-| license        |    string    | The license of the picture, as an SPDX license identifier. | CC-BY-SA-2.0 |
+| license        |    string    | The license of the picture, as an SPDX license identifier ¹. | CC-BY-SA-2.0 |
+
+¹  See https://spdx.org/licenses/ for a list of valid identifiers.
 
 ------
 
@@ -271,15 +277,15 @@ This dataset includes the following files:
 
 This file contains informations on fixes / waypoints. The structure of this file is as follows:
 
-| Column     |     Type     | Description                                                  | Example |
-| ---------- | :----------: | ------------------------------------------------------------ | :-----: |
-| slug       |    string    | The slug used to identify the fix ¹.                         |         |
-| identifier |    string    | The identifier of the fix.                                   |         |
-| latitude   |    float     | The latitude of the fix, in degrees.                         |         |
-| longitude  |    float     | The longitude of the fix, in degrees.                        |         |
-| usage      |    string    | The usage of the fix ².                                      |         |
-| region     |    string    | The ICAO region of the fix, as defined in the ICAO Document 7910. |         |
-| airport    | string\|null | The airport to which the fix is associated, as an ICAO code. |         |
+| Column     |     Type     | Description                                                  |    Example    |
+| ---------- | :----------: | ------------------------------------------------------------ | :-----------: |
+| slug       |    string    | The slug used to identify the fix ¹.                         | 18vor-lf-lfbo |
+| identifier |    string    | The identifier of the fix.                                   |     18VOR     |
+| latitude   |    float     | The latitude of the fix, in degrees.                         | 43.705230556  |
+| longitude  |    float     | The longitude of the fix, in degrees.                        |  1.285716667  |
+| usage      |    string    | The usage of the fix ².                                      |   TERMINAL    |
+| region     |    string    | The ICAO region of the fix, as defined in the ICAO Document 7910. |      LF       |
+| airport    | string\|null | The airport to which the fix is associated, as an ICAO code. |     LFBO      |
 
 ¹ A globally unique combination of the identifier, region and airport.
 
@@ -297,10 +303,10 @@ This file contains informations on flights. The structure of this file is as fol
 
 | Column            |      Type      | Description                                                  | Example |
 | ----------------- | :------------: | ------------------------------------------------------------ | :-----: |
-| airline           |     string     | The airline for which the flight is operated, as an ICAO code. |         |
-| flight_number     |     string     | The flight number.                                           |         |
-| departure_airport |     string     | The departure airport of the flight, as an ICAO code.        |         |
-| arrival_airport   |     string     | The arrival airport of the flight, as an ICAO code.          |         |
+| airline           |     string     | The airline for which the flight is operated, as an ICAO code. |   AFR   |
+| flight_number     |     string     | The flight number.                                           | AFR1032 |
+| departure_airport |     string     | The departure airport of the flight, as an ICAO code.        |  LFPG   |
+| arrival_airport   |     string     | The arrival airport of the flight, as an ICAO code.          |  LGAV   |
 | layover_airports  | string[]\|null | The layover airports of the flight, as a semicolon separated list of ICAO codes. |         |
 
 ------
@@ -313,10 +319,10 @@ This dataset includes the following files:
 
 This file contains informations on flight information regions. The structure of this file is as follows:
 
-| Column    |  Type  | Description                                     | Example |
-| --------- | :----: | ----------------------------------------------- | :-----: |
-| icao_code | string | The ICAO code of the flight information region. |         |
-| name      | string | The name of the flight information region.      |         |
+| Column    |  Type  | Description                                     | Example  |
+| --------- | :----: | ----------------------------------------------- | :------: |
+| icao_code | string | The ICAO code of the flight information region. |   LFBB   |
+| name      | string | The name of the flight information region.      | BORDEAUX |
 
 ------
 
@@ -328,29 +334,29 @@ This dataset includes the following files:
 
 This file contains informations on navigational aids. The structure of this file is as follows:
 
-| Column               |     Type      | Description                                                  | Example |
-| -------------------- | :-----------: | ------------------------------------------------------------ | :-----: |
-| slug                 |    string     | The slug used to identify the navaid ¹.                      |         |
-| identifier           |    string     | The identifier of the navaid.                                |         |
-| name                 |    string     | The name of the navaid.                                      |         |
-| type                 |    string     | The type of the navaid ².                                    |         |
-| usage                |    string     | The usage of the navaid ³.                                   |         |
-| frequency            |    integer    | The frequency of the navaid, in kilohertz.                   |         |
-| dme_channel          | string\|null  | The channel of the navaid DME part.                          |         |
-| dme_rx_frequency     | integer\|null | The RX frequency of the navaid DME part, in kilohertz.       |         |
-| dme_tx_frequency     | integer\|null | The TX frequency of the navaid DME part, in kilohertz.       |         |
-| dme_bias             |  float\|null  | The bias of the navaid DME part, in nautical miles.          |         |
-| vor_slaved_variation |  float\|null  | The slaved variation of the navaid VOR part, in degrees.     |         |
-| localizer_heading    |  float\|null  | The magnetic heading of the navaid localizer part, in degrees. |         |
-| glide_slope_angle    |  float\|null  | The angle of the navaid glide slope part, in degrees.        |         |
-| reception_range      |    integer    | The reception range of the navaid, in nautical miles.        |         |
-| latitude             |     float     | The latitude of the navaid, in degrees.                      |         |
-| longitude            |     float     | The longitude of the navaid, in degrees.                     |         |
-| elevation            | integer\|null | The elevation of the navaid, in feet AMSL.                   |         |
-| region               |    string     | The ICAO region of the navaid, as defined in the ICAO Document 7910. |         |
-| airport              | string\|null  | The airport to which the navaid is associated, as an ICAO code. |         |
-| airport_runway       | string\|null  | The airport runway to which the navaid is associated.        |         |
-| country              |    string     | The country where the navaid is located, as an ISO 3166-1 alpha-2 code. |         |
+| Column               |     Type      | Description                                                  |         Example          |
+| -------------------- | :-----------: | ------------------------------------------------------------ | :----------------------: |
+| slug                 |    string     | The slug used to identify the navaid ¹.                      |      tou-vor-dme-lf      |
+| identifier           |    string     | The identifier of the navaid.                                |           TOU            |
+| name                 |    string     | The name of the navaid.                                      | TOULOUSE BLAGNAC VOR/DME |
+| type                 |    string     | The type of the navaid ².                                    |         VOR-DME          |
+| usage                |    string     | The usage of the navaid ³.                                   |         ENROUTE          |
+| frequency            |    integer    | The frequency of the navaid, in kilohertz.                   |          117700          |
+| dme_channel          | string\|null  | The channel of the navaid DME part.                          |           124X           |
+| dme_rx_frequency     | integer\|null | The RX frequency of the navaid DME part, in kilohertz.       |         1148000          |
+| dme_tx_frequency     | integer\|null | The TX frequency of the navaid DME part, in kilohertz.       |         1211000          |
+| dme_bias             |  float\|null  | The bias of the navaid DME part, in nautical miles.          |            0             |
+| vor_slaved_variation |  float\|null  | The slaved variation of the navaid VOR part, in degrees.     |            0             |
+| localizer_heading    |  float\|null  | The magnetic heading of the navaid localizer part, in degrees. |                          |
+| glide_slope_angle    |  float\|null  | The angle of the navaid glide slope part, in degrees.        |                          |
+| reception_range      |    integer    | The reception range of the navaid, in nautical miles.        |           130            |
+| latitude             |     float     | The latitude of the navaid, in degrees.                      |       43.680833333       |
+| longitude            |     float     | The longitude of the navaid, in degrees.                     |       1.309805556        |
+| elevation            | integer\|null | The elevation of the navaid, in feet AMSL.                   |           574            |
+| region               |    string     | The ICAO region of the navaid, as defined in the ICAO Document 7910. |            LF            |
+| airport              | string\|null  | The airport to which the navaid is associated, as an ICAO code. |                          |
+| airport_runway       | string\|null  | The airport runway to which the navaid is associated.        |                          |
+| country              |    string     | The country where the navaid is located, as an ISO 3166-1 alpha-2 code. |            FR            |
 
 ¹ A globally unique combination of the identifier, type, region and airport.
 

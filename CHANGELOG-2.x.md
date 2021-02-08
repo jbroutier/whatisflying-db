@@ -1,5 +1,12 @@
 # Changelog for version 2.x
 
+**Version 2.0.10**
+
+- Add 594 Dassault aircraft.
+- Add 365 Lockheed Martin aircraft.
+- Add 189 aircraft pictures.
+- Remove wrong Cessna E350 aircraft type picture.
+
 **Version 2.0.9**
 
 - Add 3 Airbus aircraft.

@@ -1,5 +1,10 @@
 # Changelog for version 2.x
 
+**Version 2.0.11**
+
+- Add 6446 Bell aircraft.
+- Add 536 Mooney aircraft.
+
 **Version 2.0.10**
 
 - Add 594 Dassault aircraft.

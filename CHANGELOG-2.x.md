@@ -1,5 +1,13 @@
 # Changelog for version 2.x
 
+**Version 2.0.13**
+
+- Add 42 Airbus aircraft.
+- Add 2 ATR aircraft.
+- Add 16 Boeing aircraft.
+- Add 6 Embraer aircraft.
+- Add AirAsia India (IAD/I5) airline.
+
 **Version 2.0.12**
 
 - Add 20 Schweizer aircraft.

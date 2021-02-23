@@ -1,5 +1,12 @@
 # Changelog for version 2.x
 
+**Version 2.0.12**
+
+- Add 20 Schweizer aircraft.
+- Add 1456 Sikorsky aircraft.
+- Add 192 aircraft pictures.
+- Update aircraft type S330 manufacturer name.
+
 **Version 2.0.11**
 
 - Add 6446 Bell aircraft.

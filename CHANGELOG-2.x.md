@@ -1,5 +1,14 @@
 # Changelog for version 2.x
 
+**Version 2.0.14**
+
+- Add 65 Airbus aircraft.
+- Add 3 Cessna aircraft.
+- Add 6959 Piper aircraft.
+- Add 230 aircraft pictures.
+- Fix 18 Piper aircraft types names.
+- Replace aircraft type C30J picture (better quality).
+
 **Version 2.0.13**
 
 - Add 42 Airbus aircraft.

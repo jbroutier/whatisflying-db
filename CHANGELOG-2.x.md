@@ -1,5 +1,9 @@
 # Changelog for version 2.x
 
+**Version 2.0.15**
+
+- Remove 5 duplicate Airbus aircraft.
+
 **Version 2.0.14**
 
 - Add 65 Airbus aircraft.

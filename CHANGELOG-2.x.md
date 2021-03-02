@@ -1,5 +1,18 @@
 # Changelog for version 2.x
 
+**Version 2.0.16**
+
+- Add 274 Boeing aircraft.
+- Add 107 British Aerospace aircraft.
+- Add 999 Lockheed aircraft.
+- Add 712 McDonnell Douglas aircraft.
+- Add 67 aircraft pictures.
+- Add 18 aircraft types pictures.
+- Fix aircraft type C17 manufacturer name.
+- Fix aircraft type G96 name.
+- Fix aircraft type HAWK manufacturer name & name.
+- Fix aircraft type T33 name.
+
 **Version 2.0.15**
 
 - Remove 5 duplicate Airbus aircraft.

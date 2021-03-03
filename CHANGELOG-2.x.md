@@ -1,5 +1,15 @@
 # Changelog for version 2.x
 
+**Version 2.0.17**
+
+- Add 37 Aermacchi aircraft.
+- Add 421 Aero Vodochody aircraft.
+- Add 711 Cirrus aircraft.
+- Add 466 aircraft pictures.
+- Add 14 aircraft types.
+- Add 12 aircraft types pictures.
+- Fix aircraft `ad120c` model.
+
 **Version 2.0.16**
 
 - Add 274 Boeing aircraft.

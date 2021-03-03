@@ -17,4 +17,3 @@
 - Boolean values `true` and `false` are represented respectively by the numeric values `1` and `0`.
 - Multiple values - string representation of arrays - are separated by a semicolon. Trailing separators are not allowed.
 - Dates are represented using the `yyyy-mm-dd` format.
-

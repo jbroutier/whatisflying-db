@@ -1,5 +1,4 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
-300411,I-RVEG,Aermacchi,MB-326E,M326,6172,L1J,,,,
 33ff84,MM7149,AMX International,A-11B,AMX,IX061,L1J,AMX,,,
 33ff87,MM7126,AMX International,A-11B,AMX,IX038,L1J,AMX,,,
 33ff88,MM7114,AMX International,A-11B,AMX,IX026,L1J,AMX,,,
@@ -34,12 +33,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 382081,F-BIEB,ERCO,415-D Ercoupe,ERCO,4838,L1P,,,,
 386466,F-AZDG,ERCO,415-C Ercoupe,ERCO,3782,L1P,,,,
 394e66,F-GTTG,Stinson,108-1,S108,108-1719,L1P,,,,
-3d0530,D-EAFG,Aermacchi,AL-60B-2 Santa Maria,LA60,6255,L1P,,,,
 3d0906,D-EBRA,ERCO,415-CD Ercoupe,ERCO,4833,L1P,,,,
 3d1805,D-EHIR,ERCO,415-C Ercoupe,ERCO,2650,L1P,,,,
 3d1de9,D-EJOR,ERCO,415-CD Ercoupe,ERCO,4737,L1P,,,,
 3d2402,D-ELWS,Forney,F-1A Aircoupe,ERCO,5752,L1P,,,,
-3d28bd,D-ENRH,Aermacchi,AL-60B-2 Santa Maria,LA60,6243,L1P,,,,
 3d2906,D-ENUC,ERCO,415-D Ercoupe,ERCO,4718,L1P,,,,
 3d2b2e,D-EOPI,ERCO,415-D Ercoupe,ERCO,541,L1P,,,,
 3d4784,D-EZII,ERCO,415-D Ercoupe,ERCO,1769,L1P,,,,
@@ -65,21 +62,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4602e2,OH-BCK,Stinson,108-1,S108,108-863,L1P,,,,
 46b829,SX-NAI,ERCO,415-C Ercoupe,ERCO,1477,L1P,,,,
 484e80,PH-NCE,ERCO,415-CD Ercoupe,ERCO,4765,L1P,,,,
-49d048,OK-ALE,Aero Vodochody,Ae 270 Ibis,A270,0008,L1T,AOD,,,
 4a8c86,SE-CDF,Stinson,108-1,S108,108-1846,L1P,,,,
-a0d354,N152TP,Aermacchi,MB-326M,M326,481,L1J,,,2024-02-29,1967-01-01
-a0de79,N155TP,Aermacchi,MB-326M,M326,498,L1J,,,2021-10-31,1967-01-01
-a0e230,N156TP,Aermacchi,MB-326M,M326,468,L1J,,,2021-05-31,1967-01-01
-a0e99e,N158TP,Aermacchi,MB-326M,M326,471,L1J,,,2021-05-31,1967-01-01
-a0fe8a,N163TP,Aermacchi,MB-326M,M326,6358/129,L1J,,,,
 a1bf78,N211Z,Stinson,108-2,S108,108-2838,L1P,,,2023-01-31,1947-01-01
 a2c2e0,N2770L,Aces High,Cuby II,CUB2,1364,L1P,,,2021-04-30,1982-01-01
 a4e77e,N415JC,ERCO,415-D Ercoupe,ERCO,3728,L1P,,,2021-06-30,1946-01-01
 a64161,N502AC,Aces High,Cuby II,CUB2,502,L1P,,,2021-08-31,
 a6f563,N5478F,Alon,A2A Aircoupe,ERCO,B-278,L1P,,,2024-01-31,1968-01-01
 ac9db9,N9117K,Stinson,108-1,S108,1082117,L1P,,,2023-09-30,1947-01-01
-ad120c,N941NA,Aero Spacelines,B-377-SGT,SGUP,004,L4T,,,2021-07-31,
-ad5f08,N96038,Aermacchi,AL-60F-5 Trojan,LA60,53-6233,L1P,,,2022-09-30,1963-01-01
+ad120c,N941NA,Aero Spacelines,B377SGT Super Guppy,SGUP,004,L4T,,,2021-07-31,
 ade530,N99495,ERCO,415-C Ercoupe,ERCO,2118,L1P,,,2023-03-31,1946-01-01
 c08a0e,C-IAHH,Aces High,Cuby II,CUB2,03087,L1P,,2005-01-05,,
 c08cf3,C-IBJU,Aces High,Cuby II,CUB2,LC2088001,L1P,,2001-01-03,2003-08-29,

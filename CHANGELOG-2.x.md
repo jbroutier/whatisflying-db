@@ -1,5 +1,15 @@
 # Changelog for version 2.x
 
+**Version 2.0.18**
+
+- Add 77 AgustaWestland aircraft.
+- Add 140 Avro aircraft.
+- Add 66 BAC aircraft.
+- Add 18 Bell/Boeing aircraft?
+- Add 183 British Aerospace aircraft.
+- Add 22 aircraft types.
+- Add 22 aircraft types pictures.
+
 **Version 2.0.17**
 
 - Add 37 Aermacchi aircraft.

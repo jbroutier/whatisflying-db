@@ -1,8 +1,29 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+0099b5,ZS-JSM,British Aerospace,BAe-4112 Jetstream 41,JS41,41052,L2T,MCC,,,
+00a3dd,ZS-NOM,British Aerospace,BAe-4102 Jetstream 41,JS41,41047,L2T,MCC,,,
+00a423,ZS-NRE,British Aerospace,BAe-4121 Jetstream 41,JS41,41048,L2T,,,,
+00a424,ZS-NRF,British Aerospace,BAe-4101 Jetstream 41,JS41,41050,L2T,,,,
+00a425,ZS-NRG,British Aerospace,BAe-4121 Jetstream 41,JS41,41051,L2T,,,,
+00a426,ZS-NRH,British Aerospace,BAe-4121 Jetstream 41,JS41,41054,L2T,,,,
+00a427,ZS-NRI,British Aerospace,BAe-4121 Jetstream 41,JS41,41061,L2T,,,,
+00a428,ZS-NRJ,British Aerospace,BAe-4121 Jetstream 41,JS41,41062,L2T,,,,
+00a588,ZS-OEX,British Aerospace,BAe-4121 Jetstream 41,JS41,41103,L2T,,,,
+00a65a,ZS-OMZ,British Aerospace,BAe-4102 Jetstream 41,JS41,41037,L2T,,,,
 00b0df,ZS-SMO,British Aerospace,BAe 146-300,B463,E3169,L4J,,,,
 00b116,ZS-SOR,British Aerospace,BAe 146-300,B463,E3155,L4J,DJU,,,
+0200d7,CN-TMK,British Aerospace,BAe-3201 Jetstream 32,JS32,943,L2T,AFA,,,
 042c59,3C-AKK,British Aerospace,BAe 146-200,B462,E2069,L4J,,,,
 04403c,9G-SBA,British Aerospace,BAe 146-300,B463,E3125,L4J,,,,
+044046,9G-GAS,British Aerospace,BAe-3202 Jetstream 32,JS32,970,L2T,,,,
+070104,6V-AIE,British Aerospace,BAe-3201 Jetstream 32,JS32,899,L2T,,,,
+0ac0a2,HK-4502,British Aerospace,BAe-4101 Jetstream 41,JS41,41091,L2T,EFY,,,
+0ac0a6,HK-4522,British Aerospace,BAe-4101 Jetstream 41,JS41,41086,L2T,EFY,,,
+0ac0ae,HK-4551,British Aerospace,BAe-4101 Jetstream 41,JS41,41089,L2T,EFY,,,
+0ac124,HK-4765,British Aerospace,BAe-4101 Jetstream 41,JS41,41074,L2T,EFY,,,
+0ac12d,HK-4775,British Aerospace,BAe-4101 Jetstream 41,JS41,41039,L2T,EFY,,,
+0ac130,HK-4786-X,British Aerospace,BAe-4101 Jetstream 41,JS41,41098,L2T,EFY,,,
+0ac160,HK-4844,British Aerospace,BAe-3201 Jetstream 32,JS32,888,L2T,,,,
+0ac161,HK-4854,British Aerospace,BAe-3201 Jetstream 32,JS32,921,L2T,,,,
 34414c,EC-LMR,British Aerospace,BAe 146-300QT,B463,E3151,L4J,PNR,,,
 34415a,EC-LOF,British Aerospace,BAe 146-300QT,B463,E3150,L4J,PNR,,,
 3445c6,EC-MCK,British Aerospace,BAe 146-300QT,B463,E3153,L4J,PNR,,,
@@ -11,19 +32,50 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 34468e,EC-MFT,British Aerospace,BAe 146-300QT,B463,E3182,L4J,PNR,,,
 34468f,EC-MEO,British Aerospace,BAe 146-300QT,B463,E3186,L4J,PNR,,,
 3450d2,EC-MID,British Aerospace,BAe 146-300QT,B463,E3168,L4J,PNR,,,
+3982a3,F-HAVD,British Aerospace,BAe-4101 Jetstream 41,JS41,41022,L2T,DEF,,,
+3982a5,F-HAVF,British Aerospace,BAe-4101 Jetstream 41,JS41,41025,L2T,DEF,,,
+3a4c88,F-OTEI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,841,L2T,,,,
 3c1297,D-AWBA,British Aerospace,BAe 146-300,B463,E3134,L4J,WDL,,,
 3c1489,D-AWUE,British Aerospace,BAe 146-200,B462,E2050,L4J,WDL,,,
 3c5553,D-AEJS,British Aerospace,BAe 146-300,B463,E3183,L4J,WDL,,,
 3c74ec,D-AMGL,British Aerospace,BAe 146-200,B462,E2055,L4J,WDL,,,
 40053f,G-FLTC,British Aerospace,BAe 146-300,B463,E3205,L4J,,2009-03-05,,1991-01-01
+40064a,G-BTPJ,British Aerospace,ATP,ATP,2016,L2T,,2013-09-12,,1989-01-01
+40064c,G-BTPL,British Aerospace,ATP,ATP,2042,L2T,,2011-01-18,,1991-01-01
+40064f,G-OBWP,British Aerospace,ATP,ATP,2051,L2T,,2012-01-09,,1992-01-01
+400745,G-MANC,British Aerospace,ATP,ATP,2054,L2T,,2012-01-09,,1992-01-01
 4007bd,G-OTIF,British Aerospace,BAe 146-200QT,B462,E2056,L4J,WTN,2016-03-07,,1986-01-01
 40081a,G-LUXE,British Aerospace,BAe 146-300,B463,E3001,L4J,MET,2014-04-16,,1981-01-01
 40082e,G-OFOA,British Aerospace,BAe 146-100,B461,E1006,L4J,FOR,1998-03-03,,1983-01-01
 40083f,G-SMLA,British Aerospace,BAe 146-200,B462,E2047,L4J,ENZ,2014-08-06,,1985-01-01
 4008ba,G-OFOM,British Aerospace,BAe 146-100,B461,E1144,L4J,FOR,2000-03-16,,1990-01-01
 4008e3,G-ZAPK,British Aerospace,BAe 146-200QC,B462,E2148,L4J,,2013-11-11,,1989-01-01
+400983,G-MAJA,British Aerospace,BAe-4101 Jetstream 41,JS41,41032,L2T,EZE,2003-07-17,,1994-01-01
+400984,G-MAJB,British Aerospace,BAe-4101 Jetstream 41,JS41,41018,L2T,EZE,2003-07-17,,1993-01-01
+400985,G-MAJC,British Aerospace,BAe-4101 Jetstream 41,JS41,41005,L2T,EZE,2003-04-03,,1992-01-01
+400986,G-MAJD,British Aerospace,BAe-4101 Jetstream 41,JS41,41006,L2T,EZE,2003-05-13,,1992-01-01
+400987,G-MAJE,British Aerospace,BAe-4101 Jetstream 41,JS41,41007,L2T,,2003-04-03,,1992-01-01
+400988,G-MAJF,British Aerospace,BAe-4101 Jetstream 41,JS41,41008,L2T,,2003-05-13,,1992-01-01
+400989,G-MAJG,British Aerospace,BAe-4101 Jetstream 41,JS41,41009,L2T,EZE,2003-05-13,,1993-01-01
+40098a,G-MAJH,British Aerospace,BAe-4101 Jetstream 41,JS41,41010,L2T,,2003-04-03,,1993-01-01
+40098b,G-MAJI,British Aerospace,BAe-4101 Jetstream 41,JS41,41011,L2T,,2003-04-03,,1993-01-01
+40098c,G-MAJJ,British Aerospace,BAe-4101 Jetstream 41,JS41,41024,L2T,EZE,2003-04-03,,1993-01-01
+40098d,G-MAJK,British Aerospace,BAe-4101 Jetstream 41,JS41,41070,L2T,BEE,2012-03-06,,1995-01-01
+40098e,G-MAJL,British Aerospace,BAe-4101 Jetstream 41,JS41,41087,L2T,EZE,2002-02-15,,1996-01-01
+400a28,G-BWWW,British Aerospace,BAe-3102 Jetstream 31,JS31,614,L2T,WTN,1995-02-01,,1983-01-01
+400bc7,G-GAVA,British Aerospace,BAe-3102 Jetstream 31,JS31,785,L2T,,2013-11-26,,1987-01-01
+400d37,G-NFLA,British Aerospace,BAe-3102 Jetstream 31,JS31,637,L2T,,2006-02-15,,1984-01-01
+400de7,G-ISLC,British Aerospace,BAe-3202 Jetstream 32,JS32,873,L2T,,2015-06-09,,1989-01-01
+400e07,G-MAJT,British Aerospace,BAe-4101 Jetstream 41,JS41,41040,L2T,EZE,2013-05-17,,1994-01-01
+400ec2,G-MAJU,British Aerospace,BAe-4101 Jetstream 41,JS41,41071,L2T,EZE,2006-04-10,,1995-01-01
+400f22,G-MAJW,British Aerospace,BAe-4101 Jetstream 41,JS41,41015,L2T,EZE,2009-06-23,,1993-01-01
+400f26,G-MAJZ,British Aerospace,BAe-4101 Jetstream 41,JS41,41100,L2T,EZE,2006-08-14,,1997-01-01
+400f44,G-JIBO,British Aerospace,BAe-3102 Jetstream 31,JS31,711,L2T,,2017-04-10,,1986-01-01
+400f46,G-MAJY,British Aerospace,BAe-4101 Jetstream 41,JS41,41099,L2T,EZE,2011-06-02,,1997-01-01
 405aad,G-RAJJ,British Aerospace,BAe 146-200,B462,E2108,L4J,CLJ,2009-12-08,,1988-01-01
 4063b5,G-TYPH,British Aerospace,BAe 146-200,B462,E2200,L4J,WTN,2011-02-23,,1991-01-01
+406c03,G-CIHE,British Aerospace,BAe-4101 Jetstream 41,JS41,41068,L2T,,2014-07-04,,1995-01-01
+406c04,G-CIHD,British Aerospace,BAe-4101 Jetstream 41,JS41,41065,L2T,,2014-07-04,,1995-01-01
 43c04d,ZJ951,British Aerospace,Hawk 120D,HAWK,DT036,L1J,WTN,,,
 43c0df,XX159,Hawker Siddeley,Hawk T1A,HAWK,41H-312005,L1J,NVY,,,
 43c0e2,XX162,Hawker Siddeley,Hawk T1,HAWK,41H-312009,L1J,,,,
@@ -105,10 +157,71 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 43c705,ZE708,British Aerospace,BAe 146 C.3,B462,E2211,L4J,SHF,,,
 451f84,LZ-HBD,British Aerospace,BAe 146-300,B463,E3141,L4J,TBM,,,
 451f88,LZ-HBZ,British Aerospace,BAe 146-200,B462,E2103,L4J,LZB,,,
+45cec2,OY-SVB,British Aerospace,BAe-3217 Jetstream 32,JS32,985,L2T,XMS,,,
+45cec6,OY-SVF,British Aerospace,BAe-3108 Jetstream 31,JS31,686,L2T,XMS,,,
+469121,SX-DIA,British Aerospace,BAe-4101 Jetstream 41,JS41,41075,L2T,SEH,,,
 46913a,SX-DIZ,British Aerospace,BAe 146-300,B463,E3206,L4J,,,,
+46c9e4,SX-ROD,British Aerospace,BAe-4101 Jetstream 41,JS41,41076,L2T,SEH,,,
+46cca8,SX-SEH,British Aerospace,BAe-4102 Jetstream 41,JS41,41014,L2T,SEH,,,
+484ea6,PH-CCI,British Aerospace,BAe-3201 Jetstream 32,JS32,860,L2T,,,,
+484ede,PH-DCI,British Aerospace,BAe-3201 Jetstream 32,JS32,916,L2T,,,,
+48504e,PH-HCI,British Aerospace,BAe-3201 Jetstream 32,JS32,864,L2T,,,,
+48508f,PH-NCI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,844,L2T,,,,
+485090,PH-OCI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,846,L2T,,,,
+485091,PH-RCI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,848,L2T,,,,
+4851f2,PH-BCI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,953,L2T,,,,
+485329,PH-FCI,British Aerospace,BAe-3201 Jetstream 32,JS32,854,L2T,EZE,,,
+485334,PH-ICI,British Aerospace,BAe-3201 Jetstream 32,JS32,855,L2T,,,,
+4912d1,CS-DVQ,British Aerospace,BAe-3201 Jetstream 32,JS32,857,L2T,AOG,,,
 4a06d2,YR-AVR,British Aerospace,BAe 146-300,B463,E3193,L4J,,,,
+4a8180,SE-LGX,British Aerospace,ATP,ATP,2036,L2T,,,,
+4a81a2,SE-LGY,British Aerospace,ATP,ATP,2035,L2T,,,,
+4a9ad0,SE-FVP,British Aerospace,BAe-3101 Jetstream 31,JS31,719,L2T,,,,
+4aaf10,SE-KXP,British Aerospace,ATP,ATP,2056,L2T,,,,
+4ab0fa,SE-LGZ,British Aerospace,ATP,ATP,2021,L2T,,,,
+4ab11a,SE-LHZ,British Aerospace,ATP,ATP,2059,L2T,,,,
+4ab18f,SE-LLO,British Aerospace,ATP,ATP,2023,L2T,NTJ,,,
+4ab1d8,SE-LNX,British Aerospace,ATP,ATP,2061,L2T,,,,
+4ab1d9,SE-LNY,British Aerospace,ATP,ATP,2062,L2T,,,,
+4ab212,SE-LPR,British Aerospace,ATP,ATP,2057,L2T,,,,
+4ab213,SE-LPS,British Aerospace,ATP,ATP,2043,L2T,,,,
+4ab214,SE-LPT,British Aerospace,ATP,ATP,2058,L2T,,,,
+4ab216,SE-LPV,British Aerospace,ATP,ATP,2041,L2T,,,,
+4ab218,SE-LPX,British Aerospace,ATP,ATP,2063,L2T,,,,
+4ab428,SE-MAH,British Aerospace,ATP,ATP,2004,L2T,,,,
+4ab429,SE-MAI,British Aerospace,ATP,ATP,2010,L2T,,,,
+4ab42a,SE-MAJ,British Aerospace,ATP,ATP,2038,L2T,,,,
+4ab42b,SE-MAK,British Aerospace,ATP,ATP,2040,L2T,NTJ,,,
+4ab42c,SE-MAL,British Aerospace,ATP,ATP,2045,L2T,NTJ,,,
+4ab42d,SE-MAM,British Aerospace,ATP,ATP,2005,L2T,,,,
+4ab42e,SE-MAN,British Aerospace,ATP,ATP,2006,L2T,,,,
+4ab42f,SE-MAO,British Aerospace,ATP,ATP,2011,L2T,,,,
+4ab430,SE-MAP,British Aerospace,ATP,ATP,2037,L2T,,,,
+4ab432,SE-MAR,British Aerospace,ATP,ATP,2053,L2T,,,,
+4ab4a5,SE-MEE,British Aerospace,ATP,ATP,2019,L2T,NTJ,,,
+4ab4b8,SE-MEX,British Aerospace,ATP,ATP,2018,L2T,NTJ,,,
+4ab504,SE-MHD,British Aerospace,ATP,ATP,2008,L2T,,,,
+4ab505,SE-MHE,British Aerospace,ATP,ATP,2012,L2T,,,,
+4ab506,SE-MHF,British Aerospace,ATP,ATP,2013,L2T,,,,
+4ab507,SE-MHG,British Aerospace,ATP,ATP,2014,L2T,,,,
+4ab508,SE-MHH,British Aerospace,ATP,ATP,2015,L2T,,,,
+4ab509,SE-MHI,British Aerospace,ATP,ATP,2017,L2T,,,,
+4ab50b,SE-MHK,British Aerospace,ATP,ATP,2033,L2T,,,,
+4cc48a,TF-ORA,British Aerospace,BAe-3217 Jetstream 32,JS32,925,L2T,FEI,,,
+4cc48b,TF-ORC,British Aerospace,BAe-3217 Jetstream 32,JS32,981,L2T,FEI,,,
+4cc4a7,TF-ORD,British Aerospace,BAe-3101 Jetstream 31,JS31,740,L2T,FEI,,,
+4cc4dc,TF-ORG,British Aerospace,BAe-3217 Jetstream 32,JS32,986,L2T,FEI,,,
+511012,ES-PJG,British Aerospace,BAe-3108 Jetstream 31,JS31,701,L2T,AIA,,,
+51102c,ES-PJR,British Aerospace,BAe-3201 Jetstream 32,JS32,949,L2T,AIA,,,
+5110ab,ES-PJD,British Aerospace,BAe-3112 Jetstream 31,JS31,773,L2T,AIA,,,
 6010d2,EX-27002,British Aerospace,BAe 146-200,B462,E2172,L4J,TEZ,,,
 6010f8,EX-27007,British Aerospace,BAe 146-200,B462,E2180,L4J,AVJ,,,
+70a00d,9N-AIH,British Aerospace,BAe-4101 Jetstream 41,JS41,41085,L2T,NYT,,,
+70a96f,9N-AHV,British Aerospace,BAe-4101 Jetstream 41,JS41,41077,L2T,NYT,,,
+70a975,9N-AHY,British Aerospace,BAe-4101 Jetstream 41,JS41,41066,L2T,NYT,,,
+70a979,9N-AHW,British Aerospace,BAe-4101 Jetstream 41,JS41,41078,L2T,NYT,,,
+70a97c,9N-AHU,British Aerospace,BAe-4101 Jetstream 41,JS41,41072,L2T,NYT,,,
+70aeae,9N-AJC,British Aerospace,BAe-4102 Jetstream 41,JS41,41096,L2T,NYT,,,
 70c0d1,163,British Aerospace,Hawk 166,HAWK,OM003,L1J,MJN,,,
 70c0d2,ZB126,British Aerospace,Hawk 166,HAWK,OM004,L1J,MJN,,,
 710368,2101,British Aerospace,Hawk 165,HAWK,ST001,L1J,RSF,,,
@@ -139,6 +252,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7335eb,EP-MOK,British Aerospace,BAe 146-300,B463,E3146,L4J,IRM,,,
 7335ec,EP-MOL,British Aerospace,BAe 146-300,B463,E3159,L4J,IRM,,,
 7335ed,EP-MOM,British Aerospace,BAe 146-300,B463,E3165,L4J,IRM,,,
+758243,RP-C2812,British Aerospace,BAe-3217 Jetstream 32,JS32,923,L2T,,,,
+758244,RP-C8299,British Aerospace,BAe-4101 Jetstream 41,JS41,41080,L2T,,,,
+7582e0,RP-C2813,British Aerospace,BAe-3201 Jetstream 32,JS32,853,L2T,,,,
+78017a,B-HRS,British Aerospace,BAe-4124 Jetstream 41,JS41,41102,L2T,,,,
+78017b,B-HRT,British Aerospace,BAe-4124 Jetstream 41,JS41,41104,L2T,,,,
+7c005d,VH-ACV,British Aerospace,BAe-3201 Jetstream 32EP,JS32,974,L2T,,,,1992-01-01
 7c4319,VH-NJF,British Aerospace,BAe 146-300QT,B463,E3198,L4J,,,,1991-01-01
 7c431a,VH-NJG,British Aerospace,BAe 146-200,B462,E2170,L4J,,,,1990-01-01
 7c431f,VH-NJL,British Aerospace,BAe 146-300,B463,E3213,L4J,,,,
@@ -147,18 +266,35 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c4325,VH-NJR,British Aerospace,BAe 146-100,B461,E1152,L4J,,,,2020-01-01
 7c4329,VH-NJV,British Aerospace,BAe 146-100QT,B461,E1002,L4J,,,,
 7c432d,VH-NJZ,British Aerospace,BAe 146-300QT,B463,E3126,L4J,,,,1989-01-01
+7c4487,VH-NTL,British Aerospace,BAe-3206 Jetstream 32,JS32,982,L2T,FRE,,,1993-01-01
+7c498f,VH-OTD,British Aerospace,BAe-3206 Jetstream 32,JS32,978,L2T,FRE,,,1993-01-01
+7c4990,VH-OTE,British Aerospace,BAe-3206 Jetstream 32,JS32,980,L2T,FRE,,,1993-01-01
+7c499c,VH-OTQ,British Aerospace,BAe-3202 Jetstream 32,JS32,975,L2T,FRE,,,1993-01-01
 7c5be9,VH-SFV,British Aerospace,BAe 146-200QT,B462,E2086,L4J,,,,
 7c5bea,VH-SFW,British Aerospace,BAe 146-200QT,B462,E2105,L4J,,,,
 7c5c45,VH-SIF,British Aerospace,BAe 146-200QC,B462,E2119,L4J,,,,
+880027,41060,British Aerospace,BAe-4122 Jetstream 41,JS41,41060,L2T,,,,
+88002c,41094,British Aerospace,BAe-4122 Jetstream 41,JS41,41094,L2T,,,,
+8a04de,PK-DGC,British Aerospace,ATP,ATP,2052,L2T,DRY,,,
 8a17ff,PK-JKW,British Aerospace,BAe 146-200,B462,E2204,L4J,,,,
 8a1800,PK-BRF,British Aerospace,BAe 146-200,B462,E2210,L4J,,,,
 a03c22,N114M,British Aerospace,BAe 146-100,B461,E1068,L4J,,,,
+a063d4,N124PA,British Aerospace,BAe-3101 Jetstream 31,JS31,643,L2T,CXS,,2021-12-31,1984-01-01
+a11a75,N170PC,British Aerospace,BAe-3101 Jetstream 31,JS31,717,L2T,,,2021-11-30,1986-01-01
+a34710,N310CN,British Aerospace,BAe-3101 Jetstream 31,JS31,771,L2T,,,2022-10-31,1987-01-01
+a36a07,N319UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41042,L2T,VTE,,,
+a37017,N320UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41043,L2T,,,2021-11-30,1995-01-01
+a382aa,N325UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41063,L2T,,,2022-06-30,
+a4cbac,N408PP,British Aerospace,BAe-3101 Jetstream 31,JS31,605,L2T,,,2022-04-30,1982-01-01
+a4f95c,N42AX,British Aerospace,BAe-4101 Jetstream 41,JS41,41084,L2T,,,2022-02-28,1996-01-01
+a507a6,N423KA,British Aerospace,BAe-4101 Jetstream 41,JS41,41023,L2T,,,2021-09-30,1993-01-01
 a561fb,N446MA,British Aerospace,BAe 146-200,B462,E2111,L4J,,,,
 a5c247,N470NA,British Aerospace,BAe 146-200A,B462,E2049,L4J,,,2022-12-31,1986-01-01
 a5c5fe,N471NA,British Aerospace,BAe 146-200A,B462,E2136,L4J,,,2022-12-31,
 a5c9b5,N472NA,British Aerospace,BAe 146-200A,B462,E2138,L4J,,,2022-08-31,1989-01-01
 a5cd6c,N473NA,British Aerospace,BAe 146-200,B462,E2045,L4J,,,2022-12-31,1985-01-01
 a5d4da,N475NA,British Aerospace,BAe 146-200,B462,E 2192,L4J,,,2022-12-31,1991-01-01
+a60461,N487UE,British Aerospace,BAe-3201 Jetstream 32,JS32,906,L2T,,,2024-02-29,1990-01-01
 a633aa,N499XX,British Aerospace,Hawk 67,HAWK,67-499,L1J,,,2022-09-30,
 a64738,N503XX,British Aerospace,Hawk 67,HAWK,67-503,L1J,,,2022-09-30,1992-01-01
 a64aef,N504XX,British Aerospace,Hawk 67,HAWK,67-504,L1J,,,2022-09-30,
@@ -170,7 +306,54 @@ a66749,N511XX,British Aerospace,Hawk 67,HAWK,67-511,L1J,,,2022-09-30,1993-01-01
 a66eb7,N513XX,British Aerospace,Hawk 67,HAWK,67-513,L1J,,,2022-09-30,
 a67625,N515XX,British Aerospace,Hawk 67,HAWK,67-512,L1J,,,2022-09-30,1993-01-01
 a679dc,N516XX,British Aerospace,Hawk 67,HAWK,67-514,L1J,,,2022-09-30,
+a7367f,N564HK,British Aerospace,BAe-4101 Jetstream 41,JS41,41081,L2T,,,2022-10-31,1996-01-01
+a7cf7b,N602JF,British Aerospace,BAe-4107 Jetstream 41,JS41,41038,L2T,,,,
+a80e09,N618SC,British Aerospace,BAe-3101 Jetstream 31,JS31,618,L2T,,,2023-11-30,1983-01-01
+a87d6d,N646VN,British Aerospace,BAe-3101 Jetstream 31,JS31,646,L2T,,,,
+a8a6d5,N657BA,British Aerospace,BAe-3101 Jetstream 31,JS31,657,L2T,VTE,,,
+a8c3f3,N664JX,British Aerospace,BAe-3101 Jetstream 31,JS31,664,L2T,,,,
+a93e5d,N695MA,British Aerospace,BAe-3101 Jetstream 31,JS31,695,L2T,,,2022-06-30,
+a9aee4,N723CA,British Aerospace,BAe-3101 Jetstream 31,JS31,723,L2T,,,2024-03-31,1986-01-01
+aa235f,N752VN,British Aerospace,BAe-3101 Jetstream 31,JS31,752,L2T,,,,
+ab0a2c,N810JH,British Aerospace,BAe-3201 Jetstream 32,JS32,810,L2T,,,2022-08-31,1988-01-01
+aba221,N849JS,British Aerospace,BAe-3101 Jetstream 31,JS31,812,L2T,,,2024-04-30,1988-01-01
+abc559,N858CY,British Aerospace,BAe-3201 Jetstream 32,JS32,858,L2T,,,2023-12-31,1989-01-01
+ac7e74,N904EH,British Aerospace,BAe-3101 Jetstream 31,JS31,613,L2T,,,2022-02-28,1983-01-01
+aca1d5,N913AE,British Aerospace,BAe-3201 Jetstream 32,JS32,913,L2T,,,2023-12-31,1990-01-01
+ad6399,N962AE,British Aerospace,BAe-3201 Jetstream 32,JS32,962,L2T,,,2024-01-31,1992-01-01
+c006d2,C-FCPD,British Aerospace,BAe-3112 Jetstream 31,JS31,822,L2T,,2002-03-29,,
+c006d3,C-FCPE,British Aerospace,BAe-3112 Jetstream 31,JS31,825,L2T,PLR,1995-01-17,,
+c00e05,C-FFIA,British Aerospace,BAe-3112 Jetstream 31,JS31,779,L2T,BXH,2012-08-15,,
+c02255,C-FNAA,British Aerospace,BAe-3212 Jetstream 32,JS32,929,L2T,PLR,2013-05-08,,
+c02259,C-FNAE,British Aerospace,BAe-3212 Jetstream 32,JS32,881,L2T,PLR,2005-12-21,,
+c0225a,C-FNAF,British Aerospace,BAe-3112 Jetstream 31,JS31,789,L2T,PLR,2002-11-14,,
+c02261,C-FNAM,British Aerospace,BAe-3112 Jetstream 31,JS31,767,L2T,PLR,1997-10-30,,
+c0226e,C-FNAZ,British Aerospace,BAe-3212 Jetstream 32,JS32,843,L2T,PLR,2008-12-10,,
+c02973,C-FPSC,British Aerospace,BAe-3212 Jetstream 32,JS32,930,L2T,,2017-01-23,,
+c02979,C-FPSI,British Aerospace,BAe-3212 Jetstream 32,JS32,963,L2T,,2017-01-23,,
+c02d5d,C-FREQ,British Aerospace,BAe-3101 Jetstream 31,JS31,733,L2T,HRT,,,
+c0443f,C-FZVY,British Aerospace,BAe-3212 Jetstream 32,JS32,833,L2T,PSC,2012-03-16,2017-01-29,
+c04a32,C-GCCN,British Aerospace,BAe-3112 Jetstream 31,JS31,704,L2T,,2017-02-03,,
+c04d2d,C-GDFW,British Aerospace,BAe-3112 Jetstream 31,JS31,720,L2T,,2017-02-14,,
+c05551,C-GGIA,British Aerospace,BAe-3112 Jetstream 31,JS31,778,L2T,,2017-10-11,,
+c057cb,C-GHGK,British Aerospace,BAe-3112 Jetstream 31,JS31,786,L2T,,2004-02-04,,
+c06704,C-GNAH,British Aerospace,BAe-3212 Jetstream 32,JS32,874,L2T,PLR,2013-07-31,,
+c0670d,C-GNAQ,British Aerospace,BAe-3212 Jetstream 32,JS32,837,L2T,PLR,2008-12-10,,
+c067a1,C-GNGI,British Aerospace,BAe-3101 Jetstream 31,JS31,739,L2T,,,,
+c06ddd,C-GPPS,British Aerospace,BAe-3212 Jetstream 32,JS32,961,L2T,,2018-04-03,,
+c06e23,C-GPSK,British Aerospace,BAe-3212 Jetstream 32,JS32,958,L2T,,2017-01-23,,
 c072f2,C-GRNT,British Aerospace,BAe 146-200,B462,E2140,L4J,,2015-07-27,,
+c07f40,C-GWEX,British Aerospace,BAe-3112 Jetstream 31,JS31,796,L2T,,2016-10-28,2017-04-17,
+c812e0,ZK-JSH,British Aerospace,BAe-3102 Jetstream 31,JS31,838,L2T,,,,
+c81403,ZK-ECI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,946,L2T,,,,
+c81415,ZK-ECJ,British Aerospace,BAe-3201 Jetstream 32EP,JS32,969,L2T,,,,
+c81fcc,ZK-LFW,British Aerospace,BAe-3202 Jetstream 32,JS32,976,L2T,,,,
+c823d0,ZK-LFT,British Aerospace,BAe-3202 Jetstream 32,JS32,977,L2T,,,,
+e1a3d7,LV-ZOW,British Aerospace,BAe-3201 Jetstream 32EP,JS32,869,L2T,,,,
+e1a417,LV-ZPW,British Aerospace,BAe-3201 Jetstream 32EP,JS32,861,L2T,AVA,,,
+e1a41a,LV-ZPZ,British Aerospace,BAe-3201 Jetstream 32EP,JS32,931,L2T,AVA,,,
+e1a48c,LV-ZRL,British Aerospace,BAe-3201 Jetstream 32EP,JS32,928,L2T,AVA,,,
+e1a4c2,LV-ZSB,British Aerospace,BAe-3201 Jetstream 32EP,JS32,942,L2T,AVA,,,
 e803c1,CC-CZP,British Aerospace,BAe 146-200,B462,E2042,L4J,DAP,,,
 e803c2,CC-ACO,British Aerospace,BAe 146-200,B462,E2094,L4J,DAP,,,
 e8c016,OB-1943-P,British Aerospace,BAe 146-200,B462,E2133,L4J,,,,

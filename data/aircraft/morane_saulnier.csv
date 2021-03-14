@@ -1,5 +1,17 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+380088,F-BAEI,Morane-Saulnier,MS.230,MS23,1042,L1P,,,,
+380604,F-BBQE,Morane-Saulnier,MS.315,MS31,7603/345,L1P,,,,
+3806f4,F-BBXU,Morane-Saulnier,MS.317,MS31,6522/268,L1P,,,,
+380731,F-BBZR,Morane-Saulnier,MS.317,MS31,6512/258,L1P,,,,
+380822,F-BCBC,Morane-Saulnier,MS.317,MS31,6577/323,L1P,,,,
+3809ab,F-BCNL,Morane-Saulnier,MS.317,MS31,6527/273,L1P,,,,
+3809ad,F-BCNN,Morane-Saulnier,MS.317,MS31,6592/338,L1P,,,,
+3809b5,F-BCNV,Morane-Saulnier,MS.315,MS31,352,L1P,,,,
+3810e6,F-BEHG,Morane-Saulnier,MS.733 Alcyon,MS73,6,L1P,,,,
 3816ed,F-BFXN,Morane Saulnier,MS.885 Super Rallye,RALL,90,L1P,,,,
+38172a,F-BFZK,Morane-Saulnier,MS.317,MS31,6525/271,L1P,,,,
+381957,F-BGKX,Morane-Saulnier,MS.317,MS31,6518/264,L1P,,,,
+381a95,F-BGUV,Morane-Saulnier,MS.317,MS31,6551/297,L1P,,,,
 382644,F-BJSE,Morane Saulnier,MS.880A Rallye,RALL,02,L1P,,,,
 382863,F-BKDD,Morane Saulnier,MS.880B Rallye Club,RALL,15,L1P,,,,
 382875,F-BKDV,Morane Saulnier,MS.880B Rallye Club,RALL,69,L1P,,,,
@@ -28,6 +40,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 382973,F-BKLT,Morane Saulnier,MS.885 Super Rallye,RALL,156,L1P,,,,
 382975,F-BKLV,Morane Saulnier,MS.885 Super Rallye,RALL,162,L1P,,,,
 382979,F-BKLZ,Morane Saulnier,MS.885 Super Rallye,RALL,157,L1P,,,,
+3829c8,F-BKOI,Morane-Saulnier,MS.733 Alcyon,MS73,74,L1P,,,,
+3829c9,F-BKOJ,Morane-Saulnier,MS.733 Alcyon,MS73,138,L1P,,,,
+3829d9,F-BKOZ,Morane-Saulnier,MS.733 Alcyon,MS73,45,L1P,,,,
 382a62,F-BKTC,Morane Saulnier,MS.880B Rallye Club,RALL,191,L1P,,,,
 382a64,F-BKTE,Morane Saulnier,MS.880B Rallye Club,RALL,204,L1P,,,,
 382a6a,F-BKTK,Morane Saulnier,MS.880B Rallye Club,RALL,215,L1P,,,,
@@ -73,7 +88,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 382e50,F-BLSQ,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10454,L1P,,,,
 382e51,F-BLSR,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10481,L1P,,,,
 382e52,F-BLSS,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10484,L1P,,,,
+382eef,F-BLXP,Morane-Saulnier,MS.733 Alcyon,MS73,95,L1P,,,,
 383084,F-BMEE,Socata,MS.893E Rallye 180GT Gaillard,RALL,12435,L1P,,,,
+383134,F-BMJU,Morane-Saulnier,MS.733 Alcyon,MS73,189,L1P,,,,
 3831a2,F-BMNC,Morane Saulnier,MS.881 Rallye 105,RALL,408,L1P,,,,
 3831a8,F-BMNI,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10463,L1P,,,,
 3831a9,F-BMNJ,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10486,L1P,,,,
@@ -98,6 +115,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 38342a,F-BNBK,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10540,L1P,,,,
 38342d,F-BNBN,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10549,L1P,,,,
 383433,F-BNBT,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10557,L1P,,,,
+383482,F-BNEC,Morane-Saulnier,MS.733 Alcyon,MS73,129,L1P,,,,
 3835a5,F-BNNF,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10554,L1P,,,,
 3835aa,F-BNNK,Socata,MS.892A Rallye Commodore 150,RALL,10590,L1P,,,,
 383643,F-BNSD,Socata,MS.893A Rallye Commodore 180,RALL,10644,L1P,,,,
@@ -510,6 +528,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385c71,F-BXDR,Socata,MS.893E Rallye 180GT Gaillard,RALL,12602,L1P,,,,
 385c72,F-BXDS,Socata,MS.893E Rallye 180GT Gaillard,RALL,12603,L1P,,,,
 385c77,F-BXDX,Socata,MS.892E Rallye 150GT,RALL,2654,L1P,,,,
+385d31,F-BXJR,Morane-Saulnier,MS.733 Alcyon,MS73,154,L1P,,,,
 385d80,F-BXMA,Socata,MS.893E Rallye 180GT Gaillard,RALL,12607,L1P,,,,
 385d81,F-BXMB,Socata,MS.892E Rallye 150GT,RALL,2628,L1P,,,,
 385d86,F-BXMG,Socata,MS.893E Rallye 180GT Gaillard,RALL,12611,L1P,,,,
@@ -537,6 +556,19 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 385f14,F-BXYU,Socata,235E Gabier,RALL,12711,L1P,,,,
 385f15,F-BXYV,Socata,235E Gabier,RALL,12712,L1P,,,,
 385f18,F-BXYY,Socata,235E Gabier,RALL,12769,L1P,,,,
+386407,F-AZAH,Morane-Saulnier,MS.315,MS31,6508/254,L1P,,,,
+38640a,F-AZAK,Morane-Saulnier,MS.230,MS23,403,L1P,,,,
+38640e,F-AZAO,Morane-Saulnier,A1,MSAI,03,L1P,,,,
+38640f,F-AZAP,Morane-Saulnier,A1,MSAI,02,L1P,,,,
+3864eb,F-AZHL,Morane-Saulnier,MS.315,MS31,360,L1P,,,,
+38654d,F-AZKN,Morane-Saulnier,MS.733 Alcyon,MS73,165,L1P,,,,
+386552,F-AZKS,Morane-Saulnier,MS.733 Alcyon,MS73,83,L1P,,,,
+386559,F-AZKZ,Morane-Saulnier,MS.317,MS31,6549/295,L1P,,,,
+3865c7,F-AZOH,Morane-Saulnier,MS.733 Alcyon,MS73,63,L1P,,,,
+386640,F-AZSA,Morane-Saulnier,MS.733 Alcyon,MS73,149,L1P,,,,
+3866f4,F-AZXU,Morane-Saulnier,MS.733 Alcyon,MS73,141,L1P,,,,
+38672e,F-AZZO,Morane-Saulnier,MS.733 Alcyon,MS73,108,L1P,,,,
+38c6bb,F-AZLT,Morane-Saulnier,MS.760 Paris,MS76,32,L2J,,,,
 390040,F-GACA,Socata,MS.880B Rallye 110ST Galopin,RALL,2669,L1P,,,,
 390042,F-GACC,Socata,MS.880B Rallye Club,RALL,2746,L1P,,,,
 390045,F-GACF,Socata,MS.880B Rallye Club,RALL,2780,L1P,,,,
@@ -631,6 +663,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3914c7,F-GFGH,Socata,235E Gabier,RALL,13337,L1P,,,,
 39158b,F-GFML,Socata,MS.893E Rallye 180GT Gaillard,RALL,12386,L1P,,,,
 391663,F-GFTD,Socata,MS.880B Rallye 100ST,RALL,2883,L1P,,,,
+39172e,F-GFZO,Morane-Saulnier,MS.317,MS31,6530/276,L1P,,,,
 391831,F-GGBR,Socata,MS.880B Rallye 150SV Garnement,RALL,3365,L1P,,,,
 391972,F-GGLS,Morane Saulnier,MS.885 Super Rallye,RALL,125,L1P,,,,
 391974,F-GGLU,Morane Saulnier,MS.880B Rallye Club,RALL,68,L1P,,,,
@@ -660,6 +693,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3965f3,F-GZPT,Socata,235C Gabier,RALL,13353,L1P,,,,
 398148,F-HAKI,Socata,235E Gabier,RALL,12873,L1P,,,,
 39822f,F-HARP,Socata,MS.892E Rallye 150ST,RALL,2858,L1P,,,,
+398923,F-HCJD,Morane-Saulnier,MS.317,MS31,6565/311,L1P,,,,
 398c51,F-HDCR,Socata,MS.880B Rallye Club,RALL,1735,L1P,,,,
 3994e5,F-HFHF,Socata,MS.893A Rallye Commodore 180,RALL,11500,L1P,,,,
 39ada2,F-HLNC,Socata,MS.880B Rallye 150ST,RALL,3177,L1P,,,,
@@ -912,6 +946,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d454c,D-EYMM,Socata,MS.880B Rallye 100S Sport,RALL,2360,L1P,,,,
 3d460f,D-EYTZ,Socata,MS.880B Rallye Club,RALL,1538,L1P,,,,
 3d4825,D-EZON,Socata,MS.893A Rallye Commodore 180,RALL,12068,L1P,,,,
+3d4829,D-EZOR,Morane-Saulnier,MS.315,MS31,6533/279,L1P,,,,
 3d4901,D-EZWZ,Morane Saulnier,MS.885 Super Rallye,RALL,82,L1P,,,,
 400cf5,G-AZGL,Socata,MS.894A Rallye 220 Minerva,RALL,11929,L1P,,1972-05-17,,1972-01-01
 4012c2,G-BKBF,Socata,MS.894A Rallye 220 Minerva,RALL,11622,L1P,,2014-08-26,,1970-01-01
@@ -959,16 +994,20 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 403214,G-KOLI,PZL,PZL-110 Koliber 150,RALL,03900038,L1P,,2016-12-05,,1990-01-01
 4035bc,G-BUDO,PZL,PZL-110 Koliber 150,RALL,03900045,L1P,,1994-11-09,,1991-01-01
 403653,G-BUKR,Socata,MS.880B Rallye Club,RALL,2923,L1P,,1993-09-21,,1977-01-01
+4037ba,G-MSAL,Morane-Saulnier,MS.733 Alcyon,MS73,143,L1P,,2005-12-15,,1956-01-01
 4037d8,G-BVAI,PZL,PZL-110 Koliber 150,RALL,03900040,L1P,,2017-07-19,,1990-01-01
 403e66,G-BXLS,PZL,PZL-110 Koliber 160A,RALL,04980078,L1P,,2017-06-30,,1998-01-01
 403fec,G-OMIA,Socata,MS.893A Rallye Commodore 180,RALL,12074,L1P,,2015-06-08,,1972-01-01
 4041bc,G-BYPN,Socata,MS.880B Rallye Club,RALL,2043,L1P,,2008-02-25,,1972-01-01
 404258,G-BYSI,PZL,PZL-110 Koliber 160A,RALL,04990081,L1P,,2000-06-13,,1999-01-01
 404408,G-BZLC,PZL,PZL-110 Koliber 160A,RALL,04980084,L1P,,2002-06-21,,1998-01-01
+404453,G-BZNK,Morane-Saulnier,MS.315,MS31,354,L1P,,2000-11-02,,1932-01-01
 4049ee,G-CCIZ,PZL,PZL-110 Koliber 160A,RALL,04010087,L1P,,2009-08-28,,2001-01-01
 404c6b,G-CCZA,Socata,MS.894A Rallye 220 Minerva,RALL,12094,L1P,,2008-08-07,,1973-01-01
 406195,G-CGFI,Morane Saulnier,MS.885 Super Rallye,RALL,233,L1P,,,,
+406298,G-MOSA,Morane-Saulnier,MS.317,MS31,351,L1P,,2009-12-14,,1952-01-01
 406426,G-CGPN,Socata,MS.880B Rallye Club,RALL,2429,L1P,,2012-09-14,,1973-01-01
+4066e4,G-SHOW,Morane-Saulnier,MS.733 Alcyon,MS73,125,L1P,,2016-02-09,,1956-01-01
 4405bf,OE-KPA,Socata,MS.893E Rallye 180GT Gaillard,RALL,12989,L1P,,,,
 4408c8,OE-DKY,Socata,MS.880B Rallye 180T Galérien,RALL,3223,L1P,,,,
 4484ad,OO-AEM,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10281,L1P,,,,
@@ -983,6 +1022,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 449ec1,OO-GVA,Socata,MS.883 Rallye 115,RALL,1391,L1P,,,,
 44ac2a,OO-KAJ,PZL,PZL-110 Koliber 150,RALL,03900039,L1P,,,,
 44b279,OO-LSY,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10448,L1P,,,,
+44b661,OO-MSA,Morane-Saulnier,MS.733 Alcyon,MS73,178,L1P,,,,
 44b9c1,OO-NNA,Socata,MS.893A Rallye Commodore 180,RALL,10604,L1P,,,,
 44bacd,OO-NVM,Socata,MS.894A Rallye 220 Minerva,RALL,11008,L1P,,,,
 44be8f,OO-OTO,Socata,MS.880B Rallye Club,RALL,1264,L1P,,,,
@@ -1114,6 +1154,18 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b0d03,HB-EYD,Socata,MS.893E Rallye 180GT Gaillard,RALL,12680,L1P,,2015-11-05,,1972-01-01
 4b0d0a,HB-EYK,Socata,235E Gabier,RALL,13114,L1P,,,,
 4b1a9f,HB-KCD,Socata,MS.893A Rallye Commodore 180,RALL,11059,L1P,,,,
+4b2cf2,HB-RAO,Morane-Saulnier,MS 317,MS31,329,L1P,,1985-05-17,,1937-01-01
 4cab36,EI-FDC,PZL,PZL-110 Koliber 150,RALL,3930051,L1P,,2014-07-04,,1993-01-01
 4d0320,LX-GSL,Socata,MS.893A Rallye Commodore 180,RALL,11712,L1P,,,,
+a1ad20,N207MJ,Morane-Saulnier,MS.760B Paris II,MS76,02,L2J,,,2023-04-30,1966-01-01
 a433d4,N370AJ,Socata,MS.880B Rallye 150ST,RALL,2929,L1P,,,2022-12-31,1977-01-01
+a6e920,N5440,Morane-Saulnier,MS.733 Alcyon,MS73,40,L1P,,,2023-08-31,1954-01-01
+a7c58e,N60GT,Morane-Saulnier,MS.760 Paris,MS76,8,L2J,,,,
+a92a6a,N69X,Morane-Saulnier,MS.760B Paris II,MS76,90,L2J,,,2023-01-31,
+a9ac58,N722Q,Morane-Saulnier,MS.760 Paris,MS76,9,L2J,,,,
+aa4198,N760AR,Morane-Saulnier,MS.760B Paris II,MS76,108,L2J,,,,
+aa42d6,N760PJ,Morane-Saulnier,MS.760 Paris,MS76,27,L2J,,,,
+aa4318,N760S,Morane-Saulnier,MS.760 Paris,MS76,1043,L2J,,,2022-04-30,1959-01-01
+aa4395,N760X,Morane-Saulnier,MS.760B Paris II,MS76,1028,L2J,,,2023-01-31,1959-01-01
+aa6984,N770F,Morane-Saulnier,MS.733 Alcyon,MS73,103,L1P,,,,
+adf560,N999PJ,Morane-Saulnier,MS.760B Paris II,MS76,89,L2J,,,,

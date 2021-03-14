@@ -1,0 +1,35 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+380285,F-BAUF,Nord,1002 Pingouin II,ME08,173,L1P,,,,
+380625,F-BBRF,Nord,1002 Pingouin II,ME08,238,L1P,,,,
+381b28,F-BGZI,Nord,1002 Pingouin II,ME08,254,L1P,,,,
+386591,F-AZMR,Nord,1002 Pingouin II,ME08,216,L1P,,,,
+3d07bc,D-EBEI,Messerschmitt,Bf 108 D-1 Taifun,ME08,2246,L1P,,,,
+3d07e4,D-EBFW,Messerschmitt,Bf 108 B-1 Taifun,ME08,1561,L1P,,,,
+3d22de,D-ELLM,Nord,1002 Pingouin II,ME08,88,L1P,,,,
+3d2a7e,D-EOIO,Messerschmitt,Bf 108 B-1 Taifun,ME08,2086,L1P,,,,
+3d338d,D-ERTT,Nord,1002 Pingouin II,ME08,146,L1P,,,,
+3d3451,D-ESBH,Messerschmitt,Bf 108 B-1 Taifun,ME08,3701-14,L1P,,,,
+3d691b,D-FMBB,Hispano,HA-1112-M1L Buchon,ME09,156,L1P,,,,
+3d6b34,D-FMVS,Hispano,HA-1112-M1L Buchon,ME09,234,L1P,,,,
+3d6fc1,D-FOON,Hispano,HA-1112-M1L Buchon,ME09,133,L1P,,,,
+3d84a4,D-FWME,Messerschmitt,Bf 109 G-4,ME09,139,L1P,,,,
+3e38f9,D-IMTT,Messerschmitt,Me 262 B-1A Schwalbe,ME62,501244,L2J,,,,
+3e3d1e,D-IOIO,Messerschmitt,Bf 108 B-1 Taifun,ME08,2064,L1P,,,,
+4015f4,G-ASTG,Nord,1002 Pingouin II,ME08,183,L1P,,2011-05-25,,1945-01-01
+40161f,G-ATBG,Nord,1002 Pingouin II,ME08,121,L1P,,2010-01-19,,1945-01-01
+4041ad,G-ETME,Nord,1002 Pingouin II,ME08,274,L1P,,2017-05-23,,1951-01-01
+405cd8,G-AWHE,Hispano,HA-1112-M1L Buchon,ME09,67,L1P,,,,
+406615,G-JIMP,Messerschmitt,Bf 109 G-2,ME09,13605,L1P,,2013-01-25,,1942-01-01
+406cb3,G-OTME,Nord,1002 Pingouin II,ME08,197,L1P,,2014-09-23,,1945-01-01
+44b426,OO-MAF,Hispano,HA-1112-M1L Buchon,ME09,201,L1P,,,,
+44b582,OO-MLB,Nord,1002 Pingouin II,ME08,76,L1P,,,,
+4b12e5,HB-HEB,Messerschmitt,Bf 108 B-1 Taifun,ME08,1988,L1P,,2011-03-28,,1938-01-01
+a02384,N108ME,Nord,1002 Pingouin II,ME08,25,L1P,,,2023-01-31,
+a0269b,N109EV,Messerschmitt,Bf 109 G-4,ME09,610937,L1P,,,2021-08-31,
+a026d0,N109GY,Messerschmitt,Bf 109 G-4,ME09,19257,L1P,,,2022-04-30,1943-01-01
+a02827,N109WR,Messerschmitt,Bf 109 F,ME09,10256,L1P,,,2023-08-31,
+a1eea1,N2231,Messerschmitt,Bf 108 D-1 Taifun,ME08,3059,L1P,,,2021-09-30,1942-01-01
+a28683,N262AZ,Messerschmitt,Me 262 B-1C Schwalbe,ME62,501241,L2J,,,2023-10-31,2002-01-01
+a28784,N262MF,Messerschmitt,Me 262 B-1A Schwalbe,ME62,501243,L2J,,,2023-12-31,2011-01-01
+a3c541,N342FH,Messerschmitt,Bf 109 E-3,ME09,1342,L1P,,,2022-03-31,1939-01-01
+ac87e9,N90602,Messerschmitt,Bf 109 C-4K,ME09,193,L1P,,,2022-04-30,1959-01-01

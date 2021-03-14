@@ -320,6 +320,7 @@ F111,aircraft_types_pictures/F111.webp,https://www.flickr.com/photos/expertinfan
 F117,aircraft_types_pictures/F117.webp,https://www.flickr.com/photos/ausdew/25574716240/,ausdew,https://www.flickr.com/photos/ausdew/,CC0-1.0
 F14,aircraft_types_pictures/F14.webp,https://www.flickr.com/photos/my_public_domain_photos/21587723219/,Robert Sullivan,https://www.flickr.com/photos/my_public_domain_photos/,CC0-1.0
 F15,aircraft_types_pictures/F15.webp,https://www.flickr.com/photos/alexlayzell/34165253741/,Alex Layzell,https://www.flickr.com/photos/alexlayzell/,CC-BY-SA-2.0
+F156,aircraft_types_pictures/F156.webp,https://www.flickr.com/photos/martin55/9321836393/,martin_vmorris,https://www.flickr.com/photos/martin55/,CC-BY-SA-2.0
 F16,aircraft_types_pictures/F16.webp,https://www.flickr.com/photos/my_public_domain_photos/20083815132/,Robert Sullivan,https://www.flickr.com/photos/my_public_domain_photos/,CC0-1.0
 F18H,aircraft_types_pictures/F18H.webp,https://www.flickr.com/photos/24874528@N04/49788755131/,Airwolfhound,https://www.flickr.com/photos/24874528@N04/,CC-BY-SA-2.0
 F18S,aircraft_types_pictures/F18S.webp,https://www.flickr.com/photos/fireballsg72/8389537636/,ken H,https://www.flickr.com/photos/fireballsg72/,CC-BY-SA-2.0
@@ -391,7 +392,7 @@ LTNG,aircraft_types_pictures/LTNG.webp,https://www.flickr.com/photos/my_public_d
 M20P,aircraft_types_pictures/M20P.webp,https://www.flickr.com/photos/wiltshirespotter/19177442104/,Pete Webber,https://www.flickr.com/photos/wiltshirespotter/,CC-BY-SA-2.0
 M20T,aircraft_types_pictures/M20T.webp,https://www.flickr.com/photos/awilson154/8686302051/,Alec Wilson,https://www.flickr.com/photos/awilson154/,CC-BY-SA-2.0
 M22,aircraft_types_pictures/M22.webp,https://www.flickr.com/photos/chrisgivan/43745355131/,Chris Givan,https://www.flickr.com/photos/chrisgivan/,CC-BY-SA-2.0
-M308,aircraft_types_pictures/M308.webp,https://www.flickr.com/photos/ajw1970/6571107491/in/photolist-Y56Bat-X42cVX-b1EDjK,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+M308,aircraft_types_pictures/M308.webp,https://www.flickr.com/photos/ajw1970/6571107491/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
 M326,aircraft_types_pictures/M326.webp,https://www.flickr.com/photos/109661044@N07/11107724295/,Rob Schleiffert,https://www.flickr.com/photos/109661044@N07/,CC-BY-NC-2.0
 M339,aircraft_types_pictures/M339.webp,https://www.flickr.com/photos/24874528@N04/16473533555/,Airwolfhound,https://www.flickr.com/photos/24874528@N04/,CC-BY-SA-2.0
 M346,aircraft_types_pictures/M346.webp,https://www.flickr.com/photos/dylan33/49519780668/,Dylan Agbagni,https://www.flickr.com/photos/dylan33/,CC0-1.0
@@ -405,10 +406,28 @@ MD83,aircraft_types_pictures/MD83.webp,https://www.flickr.com/photos/airlines470
 MD87,aircraft_types_pictures/MD87.webp,https://www.flickr.com/photos/aero_icarus/4274743475/,Aero Icarus,https://www.flickr.com/photos/aero_icarus/,CC-BY-SA-2.0
 MD88,aircraft_types_pictures/MD88.webp,https://www.flickr.com/photos/ajw1970/39743097545/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
 MD90,aircraft_types_pictures/MD90.webp,https://www.flickr.com/photos/byeangel/13379359645/,byeangel,https://www.flickr.com/photos/byeangel/,CC-BY-SA-2.0
+ME08,aircraft_types_pictures/ME08.webp,https://www.flickr.com/photos/25451699@N04/4818909948/,tataquax,https://www.flickr.com/photos/25451699@N04/,CC-BY-SA-2.0
+ME09,aircraft_types_pictures/ME09.webp,https://www.flickr.com/photos/ajw1970/22205771649/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+ME62,aircraft_types_pictures/ME62.webp,https://www.flickr.com/photos/eyeno/9059382092/,Ken Mist,https://www.flickr.com/photos/eyeno/,CC-BY-2.0
+MG15,aircraft_types_pictures/MG15.webp,https://www.flickr.com/photos/24874528@N04/30988049958/,Airwolfhound,https://www.flickr.com/photos/24874528@N04/,CC-BY-SA-2.0
+MG17,aircraft_types_pictures/MG17.webp,https://www.flickr.com/photos/92854517@N00/23590046558/,LoadedAaron,https://www.flickr.com/photos/92854517@N00/,CC-BY-ND-2.0
+MG19,aircraft_types_pictures/MG19.webp,https://www.flickr.com/photos/airlines470/17573197084/,ERIC SALARD,https://www.flickr.com/photos/airlines470/,CC-BY-SA-2.0
+MG21,aircraft_types_pictures/MG21.webp,https://www.flickr.com/photos/24874528@N04/48577166282/,Airwolfhound,https://www.flickr.com/photos/24874528@N04/,CC-BY-SA-2.0
+MG23,aircraft_types_pictures/MG23.webp,https://www.flickr.com/photos/ajw1970/36891392981/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+MG25,aircraft_types_pictures/MG25.webp,https://www.flickr.com/photos/ajw1970/7902983602/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+MG29,aircraft_types_pictures/MG29.webp,https://www.flickr.com/photos/ajw1970/50960232077/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+MG31,aircraft_types_pictures/MG31.webp,https://www.flickr.com/photos/mashleymorgan/3863074381/,mashleymorgan,https://www.flickr.com/photos/mashleymorgan/,CC-BY-SA-2.0
+MG44,aircraft_types_pictures/MG44.webp,https://www.flickr.com/photos/130961247@N06/49580576543/,Anna Zvereva,https://www.flickr.com/photos/130961247@N06/,CC-BY-SA-2.0
+MGAT,aircraft_types_pictures/MGAT.webp,https://www.flickr.com/photos/130961247@N06/36521881604/,Anna Zvereva,https://www.flickr.com/photos/130961247@N06/,CC-BY-SA-2.0
 MIR2,aircraft_types_pictures/MIR2.webp,https://www.flickr.com/photos/ajw1970/49324848877/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
 MIRA,aircraft_types_pictures/MIRA.webp,https://www.flickr.com/photos/109661044@N07/17017214482/,Rob Schleiffert,https://www.flickr.com/photos/109661044@N07/,CC-BY-SA-2.0
 MITE,aircraft_types_pictures/MITE.webp,https://www.flickr.com/photos/fun_flying/4750623297/,D. Miller,https://www.flickr.com/photos/fun_flying/,CC-BY-2.0
 MRF1,aircraft_types_pictures/MRF1.webp,https://www.flickr.com/photos/34153108@N06/8660068211/,Gerard van der Schaaf,https://www.flickr.com/photos/34153108@N06/,CC-BY-2.0
+MS23,aircraft_types_pictures/MS23.webp,https://www.flickr.com/photos/johnnyflight/14910286359/,Johnny Comstedt,https://www.flickr.com/photos/johnnyflight/,CC-BY-NC-ND-2.0
+MS31,aircraft_types_pictures/MS31.webp,https://www.flickr.com/photos/ajw1970/33650955720/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+MS73,aircraft_types_pictures/MS73.webp,https://www.flickr.com/photos/ajw1970/49823577467/,Alan Wilson,https://www.flickr.com/photos/ajw1970/,CC-BY-SA-2.0
+MS76,aircraft_types_pictures/MS76.webp,https://www.flickr.com/photos/haza_a/5631894841/,haz[a_a],https://www.flickr.com/photos/haza_a/,CC-BY-NC-ND-2.0
+MSAI,aircraft_types_pictures/MSAI.webp,https://www.flickr.com/photos/johnnyflight/15096612372/,Johnny Comstedt,https://www.flickr.com/photos/johnnyflight/,CC-BY-NC-ND-2.0
 O1,aircraft_types_pictures/O1.webp,https://www.flickr.com/photos/97930879@N02/10679716133/,Tommy Japan 79,https://www.flickr.com/photos/97930879@N02/,CC-BY-2.0
 P2,aircraft_types_pictures/P2.webp,https://www.flickr.com/photos/109661044@N07/16601612562/,Rob Schleiffert,https://www.flickr.com/photos/109661044@N07/,CC-BY-SA-2.0
 P210,aircraft_types_pictures/P210.webp,https://www.flickr.com/photos/tomasdelcoro/25928843737/,Tomás Del Coro,https://www.flickr.com/photos/tomasdelcoro/,CC-BY-SA-2.0

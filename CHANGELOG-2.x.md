@@ -1,5 +1,16 @@
 # Changelog for version 2.x
 
+**Version 2.0.19**
+
+- Add 5 English Electric aircraft.
+- Add 26 Fieseler aircraft.
+- Add 34 Messerschmitt aircraft.
+- Add 78 Mikoyan-Gurevich aircraft.
+- Add 52 Morane-Saulnier aircraft.
+- Add 217 aircraft pictures.
+- Add 19 aircraft types.
+- Add 19 aircraft types pictures.
+
 **Version 2.0.18**
 
 - Add 77 AgustaWestland aircraft.

@@ -50,7 +50,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 402e05,G-BPTA,Stinson,108-2,S108,108-3429,L1P,,1997-10-27,,1947-01-01
 403141,G-BRZK,Stinson,108-2,S108,108-2846,L1P,,2015-07-09,,1947-01-01
 403714,G-ERCO,ERCO,415-D Ercoupe,ERCO,3210,L1P,,2014-12-03,,1946-01-01
+4039e2,G-CTTS,English Electric,Canberra B.6,CNBR,71399,L2J,,2016-06-03,,1955-01-01
 404db6,G-WAGN,Stinson,108-3 Flying Station Wagon,S108,108-4216,L1P,,2005-06-22,,1948-01-01
+40506c,G-OMHD,English Electric,Canberra PR.9,CNBR,SH.1724,L2J,,2016-09-27,,1959-01-01
 405ce6,G-CFGE,Stinson,108-1,S108,108-1127,L1P,,2014-08-29,,1946-01-01
 406c08,G-SKBD,Nextant Aerospace,Nextant 400XT,BE4W,RK-376,L2J,,2014-11-07,,2004-01-01
 407261,G-FXCR,Nextant Aerospace,Nextant 400XT,BE4W,RK-423,L2J,,2017-02-07,,2005-01-01
@@ -64,7 +66,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484e80,PH-NCE,ERCO,415-CD Ercoupe,ERCO,4765,L1P,,,,
 4a8c86,SE-CDF,Stinson,108-1,S108,108-1846,L1P,,,,
 a1bf78,N211Z,Stinson,108-2,S108,108-2838,L1P,,,2023-01-31,1947-01-01
+a202a3,N229CA,English Electric,Canberra B.20,CNBR,29,L2J,,,,
 a2c2e0,N2770L,Aces High,Cuby II,CUB2,1364,L1P,,,2021-04-30,1982-01-01
+a31ec9,N30UP,English Electric,Canberra B(I).8,CNBR,6663,L2J,,,,
+a4ac18,N40UP,English Electric,Canberra B.6,CNBR,71398,L2J,,,,
 a4e77e,N415JC,ERCO,415-D Ercoupe,ERCO,3728,L1P,,,2021-06-30,1946-01-01
 a64161,N502AC,Aces High,Cuby II,CUB2,502,L1P,,,2021-08-31,
 a6f563,N5478F,Alon,A2A Aircoupe,ERCO,B-278,L1P,,,2024-01-31,1968-01-01

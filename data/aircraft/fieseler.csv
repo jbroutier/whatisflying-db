@@ -1,0 +1,27 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+38022f,F-BARP,Morane-Saulnier,MS.505 Criquet,F156,496/10,L1P,,,,
+380453,F-BBCT,Morane-Saulnier,MS.502 Criquet,F156,512,L1P,,,,
+380699,F-BBUZ,Morane-Saulnier,MS.502 Criquet,F156,537,L1P,,,,
+380eec,F-BDXM,Morane-Saulnier,MS.506L Criquet,F156,635,L1P,,,,
+381125,F-BEJF,Morane-Saulnier,MS.505 Criquet,F156,654/4,L1P,,,,
+3821e9,F-BIPJ,Morane-Saulnier,MS.505 Criquet,F156,149,L1P,,,,
+38644f,F-AZCP,Morane-Saulnier,MS.502 Criquet,F156,320,L1P,,,,
+386460,F-AZDA,Morane-Saulnier,MS.500 Criquet,F156,226,L1P,,,,
+386661,F-AZTB,Morane-Saulnier,MS.505 Criquet,F156,602/23,L1P,,,,
+3d06e7,D-EAWD,Fieseler,Fi 156C-3 Storch,F156,5440,L1P,,,,
+3d15f9,D-EGON,Fieseler,Fi 156C-3 Storch,F156,5987,L1P,,,,
+3d1686,D-EGTY,Morane-Saulnier,MS.505 Criquet,F156,73,L1P,,,,
+3d22bf,D-ELKH,Morane-Saulnier,MS.500 Criquet,F156,699,L1P,,,,
+3d287e,D-ENOW,Fieseler,Fi 156C-3 Storch,F156,1049,L1P,,,,
+3d3c2e,D-EVAS,Fieseler,Fi 156D-2 Storch,F156,2299,L1P,,,,
+3d3c6b,D-EVDB,Fieseler,Fi 156C-7 Storch,F156,2042,L1P,,,,
+3d436d,D-EXUB,Fieseler,Fi 156C-7 Storch,F156,2466,L1P,,,,
+3d46b6,D-EZAK,Morane-Saulnier,MS.505 Criquet,F156,700,L1P,,,,
+3d494f,D-EZZZ,Fieseler,Fi 156C-3 Storch,F156,4370,L1P,,,,
+402e4b,G-BPHZ,Morane-Saulnier,MS.505 Criquet,F156,53,L1P,,2004-05-10,,1960-01-01
+40491e,G-STCH,Fieseler,Fi 156A-1 Storch,F156,2088,L1P,GAF,2007-01-26,,1944-01-01
+4402fb,OE-AKA,Fieseler,Fi 156C-3 Storch,F156,3814,L1P,,,,
+44ce8f,OO-STO,Morane-Saulnier,MS.505 Criquet,F156,269/6,L1P,,,,
+4b0b69,HB-EIJ,Morane-Saulnier,MS 505 Criquet,F156,263,L1P,,2016-11-18,,1945-01-01
+a0e20f,N156SF,Fieseler,Fi 156C-7 Storch,F156,3452,L1P,,,2023-04-30,1944-01-01
+a539f6,N436FS,Fieseler,Fi 156C-2 Storch,F156,4362,L1P,,,2023-02-28,

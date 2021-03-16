@@ -1,5 +1,13 @@
 # Changelog for version 2.x
 
+**Version 2.0.20**
+
+- Add 287 Dornier aircraft.
+- Add 1929 Pilatus aircraft.
+- Add 38 aircraft pictures.
+- Add 16 aircraft types.
+- Add 16 aircraft types pictures.
+
 **Version 2.0.19**
 
 - Add 5 English Electric aircraft.

@@ -117,7 +117,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3e3865,D-IMOB,Dornier,Do 28 G92 Turbo Skyservant,D28T,4199,L2T,,,,
 3e386e,D-IMOK,Dornier,Do 28 G92 Turbo Skyservant,D28T,4320,L2T,,,,
 3e44a6,D-IRES,Dornier,Do 28D-2 Skyservant,D28D,4186,L2P,,,,
-3e45a3,D-IROL,Dornier,Do 228-100,D228,7003,L2T,,,,
+3e45a3,D-IROL,RUAG,Do 228-100 NG,D228,7003,L2T,,,,
 3f9ae8,57+05,RUAG,Do 228-212 NG,D228,8302,L2T,,,,
 3f9c84,57+04,Dornier,Do 228-212,D228,8214,L2T,GNY,,,
 4007d4,G-BYHG,Dornier,Do 328-100,D328,3098,L2T,,2013-05-16,,1998-01-01

@@ -1,5 +1,10 @@
 # Changelog for version 2.x
 
+**Version 2.0.21**
+
+- Add 549 aircraft pictures.
+- Fix aircraft `3e45a3` manufacturer & model.
+
 **Version 2.0.20**
 
 - Add 287 Dornier aircraft.

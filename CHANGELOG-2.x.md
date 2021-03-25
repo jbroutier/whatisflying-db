@@ -1,5 +1,14 @@
 # Changelog for version 2.x
 
+**Version 2.0.22**
+
+- Add 26 Boeing aircraft.
+- Add 1418 Boeing-Stearman aircraft.
+- Add 364 De Havilland aircraft.
+- Add 2424 De Havilland Canada aircraft.
+- Add 43 aircraft types.
+- Add 42 aircraft types pictures.
+
 **Version 2.0.21**
 
 - Add 549 aircraft pictures.

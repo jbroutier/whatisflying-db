@@ -159,6 +159,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 080050,5H-AAH,Cessna,208B Grand Caravan EX,C208,208B-5184,L1T,,,,
 08cb9d,9Q-CMZ,Cessna,208B Grand Caravan,C208,208B-0844,L1T,,,,
 09006d,D2-GES,Cessna,550B Citation Bravo,C55B,550-1135,L2J,COO,,,
+09009a,D2-EZR,Cessna,750 Citation X,C750,750-0173,L2J,,,,
 09009f,D2-EPI,Cessna,550B Citation Bravo,C55B,550-0958,L2J,,,,
 0910c2,HP-3010,Cessna,560 Citation V,C560,560-0378,L2J,,,,
 0a005e,7T-VNF,Cessna,525A CitationJet CJ2+,C25A,525A-0436,L2J,COO,,,
@@ -211,7 +212,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0c4144,HI955,Cessna,560XL Citation XLS,C56X,560-5521,L2J,,,,
 0c4145,HI949,Cessna,510 Citation Mustang,C510,510-0326,L2J,,,,
 0c4146,HI985,Cessna,680 Citation Sovereign,C680,680-0001,L2J,COO,2015-07-28,,2003-01-01
+0c414a,HI1001,Cessna,750 Citation X,C750,750-0099,L2J,COO,,,
 0c414b,HI1005,Cessna,525A CitationJet CJ2,C25A,525A-0098,L2J,,,,
+0c414c,HI1010,Cessna,750 Citation X,C750,750-0002,L2J,,,,
 0d0088,XA-RTS,Cessna,680 Citation Sovereign,C680,680-0016,L2J,,,,
 0d0092,XB-GBN,Cessna,441 Conquest II,C441,441-0021,L2T,,,,
 0d00a6,XA-UHQ,Cessna,560XL Citation XLS,C56X,560-5709,L2J,,,,
@@ -235,6 +238,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d02fe,XA-HVB,Cessna,208B Grand Caravan,C208,208B-1104,L1T,,,,
 0d0327,XC-LNN,Cessna,560 Citation Encore,C560,560-0687,L2J,,,,
 0d0334,XC-GDT,Cessna,560 Citation Encore,C560,560-0689,L2J,,,,
+0d033d,XA-BAE,Cessna,750 Citation X,C750,750-0136,L2J,,,,
 0d0373,XC-GDC,Cessna,525B CitationJet CJ3,C25B,525B-0062,L2J,,,,
 0d03d0,XA-UGI,Cessna,208B Grand Caravan,C208,208B-1211,L1T,,,,
 0d03db,XB-IXT,Cessna,501 Citation I/SP,C501,501-0685,L2J,COO,,,
@@ -257,6 +261,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d0551,XA-GAN,Cessna,680 Citation Sovereign,C680,680-0043,L2J,,,,
 0d0555,XA-UMS,Cessna,510 Citation Mustang,C510,510-0166,L2J,,,,
 0d057c,XA-CDF,Cessna,680 Citation Sovereign,C680,680-0206,L2J,,2010-03-01,,2008-01-01
+0d05a1,XA-RSA,Cessna,750 Citation X,C750,750-0287,L2J,COO,,,
 0d05ac,XA-SID,Cessna,560XL Citation Excel,C56X,560-5083,L2J,,,,
 0d05df,XB-RUA,Cessna,650 Citation VII,C650,650-7019,L2J,,,,
 0d05e0,XA-LOS,Cessna,560XL Citation XLS+,C56X,560-6065,L2J,,,,
@@ -274,6 +279,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d06c0,XA-UQO,Cessna,550B Citation Bravo,C55B,550-0947,L2J,,,,
 0d0700,XA-AEA,Cessna,560XL Citation XLS,C56X,560-5503,L2J,,,,
 0d0711,XB-MNV,Cessna,550B Citation Bravo,C55B,550-1071,L2J,,,,
+0d0734,XA-MIL,Cessna,750 Citation X,C750,750-0124,L2J,,,,
+0d074a,XA-GMG,Cessna,750 Citation X,C750,750-0001,L2J,,,,
 0d0759,XB-IML,Cessna,560 Citation V,C560,560-0084,L2J,,,,
 0d075e,XA-EMY,Cessna,650 Citation VII,C650,650-7014,L2J,,,,
 0d0780,XB-MTR,Cessna,525 CitationJet CJ1+,C525,525-0653,L2J,,,,
@@ -292,7 +299,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d082a,XA-VGR,Cessna,560XL Citation XLS+,C56X,560-6169,L2J,,,,
 0d0830,XA-GME,Cessna,680 Citation Sovereign+,C680,680-0522,L2J,,2014-09-01,,2014-01-01
 0d0857,XA-GZZ,Cessna,525C CitationJet CJ4,C25C,525C-0003,L2J,,,,
+0d0868,XA-FJM,Cessna,750 Citation X,C750,750-0221,L2J,,,,
 0d088b,3930,Cessna,680 Citation Sovereign,C680,680-0284,L2J,,,,
+0d0891,XA-KYE,Cessna,750 Citation X,C750,750-0204,L2J,,,,
 0d0897,3931,Cessna,501 Citation I/SP,C501,501-0141,L2J,,,,
 0d08f2,XA-LAP,Cessna,560XL Citation XLS,C56X,560-5618,L2J,,,,
 0d08f8,XA-TTQ,Cessna,525A CitationJet CJ2+,C25A,525A-0491,L2J,,,,
@@ -304,7 +313,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d09ca,XA-MKA,Cessna,525C CitationJet CJ4,C25C,525C-0002,L2J,,,,
 0d09df,XA-GGS,Cessna,680A Citation Latitude,C68A,680A-0032,L2J,,,,
 0d0a17,XB-OGJ,Cessna,550 Citation II,C550,550-0716,L2J,,,,
+0d0a43,XA-TVA,Cessna,750 Citation X,C750,750-0064,L2J,,,,
 0d0a44,XB-CSI,Cessna,500 Citation I,C500,500-0345,L2J,,,,
+0d0a75,XA-STG,Cessna,750 Citation X,C750,750-0050,L2J,,,,
 0d8078,YV1192,Cessna,550 Citation II,C550,550-0683,L2J,,,,
 0d807d,YV1813,Cessna,550 Citation II,C550,550-0405,L2J,,,,
 0d807f,YV1563,Cessna,551 Citation II/SP,C551,551-0463,L2J,,,,
@@ -374,6 +385,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 0d82cf,YV3333,Cessna,525C CitationJet CJ4,C25C,525C-0142,L2J,,,,
 0d82df,YV631T,Cessna,525A CitationJet CJ2+,C25A,525A-0374,L2J,COO,,,
 0d82e0,YV3342,Cessna,500 Citation I,C500,500-0311,L2J,COO,,,
+0d83a2,YV3310,Cessna,550 Citation S/II,C550,S550-0097,L2J,COO,,,
 111111,D-EMOB,Cessna,172RG Cutlass,C72R,172RG0523,L1P,,,,1980-01-01
 140926,RA-02342,Cessna,310R,C310,310R-0589,L2P,,,,
 150664,RA-67172,Cessna,525 CitationJet CJ1,C525,525-0303,L2J,,,,
@@ -613,6 +625,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383905,F-BOIF,Cessna,310N,C310,310N-0042,L2P,,,,
 383912,F-BOIS,Reims Aviation,F172E Skyhawk,C172,0082,L1P,,,,
 38392b,F-BOJL,Cessna,337B Super Skymaster,C337,337-0617,L2P,,,,
+383933,F-BOJT,Cessna,TU206B Turbo Super Skywagon,T206,TU206-0739,L1P,,,,
 383a03,F-BOQD,Reims Aviation,F172H Skyhawk,C172,0369,L1P,,,,
 383a05,F-BOQF,Reims Aviation,F150G,C150,0208,L1P,,,,
 383a07,F-BOQH,Reims Aviation,F150G,C150,0210,L1P,,,,
@@ -621,6 +634,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383a0b,F-BOQL,Reims Aviation,F150G,C150,0214,L1P,,,,
 383a0f,F-BOQP,Reims Aviation,F172H Skyhawk,C172,0402,L1P,,,,
 383a18,F-BOQY,Reims Aviation,F172H Skyhawk,C172,0483,L1P,,,,
+383a47,F-BOSH,Cessna,TU206B Turbo Super Skywagon,T206,TU206-0754,L1P,,,,
 383af1,F-BOXR,Cessna,T210G Turbo Centurion,T210,T210-0248,L1P,,,,
 383c88,F-BPEI,Reims Aviation,F172H Skyhawk,C172,0501,L1P,,,,
 383c89,F-BPEJ,Reims Aviation,F150H,C150,0282,L1P,,,,
@@ -633,6 +647,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383c99,F-BPEZ,Reims Aviation,F172H Skyhawk,C172,0561,L1P,,,,
 383d14,F-BPIU,Cessna,182L Skylane,C182,18258690,L1P,,,,
 383d17,F-BPIX,Cessna,310N,C310,310N-0140,L2P,,,,
+384408,F-BRAI,Cessna,P206C Super Skylane,C206,P206-0516,L1P,,,,
 384421,F-BRBB,Reims Aviation,F172H Skyhawk,C172,0567,L1P,,,,
 384423,F-BRBD,Reims Aviation,F172H Skyhawk,C172,0542,L1P,,,,
 384428,F-BRBI,Reims Aviation,FR172F Reims Rocket,C172,0099,L1P,,,,
@@ -1499,6 +1514,11 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3b7b89,F-ZBGD,Reims Aviation,F406 Caravan II,F406,F406-0090,L2T,,,,
 3b7b8a,F-ZBCJ,Reims Aviation,F406 Caravan II,F406,F406-0074,L2T,,,,
 3b7bf9,F-ZBGA,Reims Aviation,F406 Caravan II,F406,F406-0086,L2T,,,,
+3c2fd8,D-BUZZ,Cessna,750 Citation X,C750,750-0256,L2J,,,,
+3c86c7,D-BAVG,Cessna,750 Citation X,C750,750-0227,L2J,,,,
+3c9432,D-BEAR,Cessna,750 Citation X,C750,750-0085,L2J,,,,
+3c94b0,D-BEEP,Cessna,750 Citation X,C750,750-0107,L2J,,,,
+3cbde3,D-BOOC,Cessna,750 Citation X,C750,750-0259,L2J,,,,
 3cc000,D-CAAA,Cessna,560XL Citation XLS+,C56X,560-6123,L2J,DCS,,,
 3cc0c4,D-CAHO,Cessna,560XL Citation XLS+,C56X,560-6165,L2J,AHO,,,
 3cc0e1,D-CAIR,Cessna,560XL Citation XLS,C56X,560-5620,L2J,,,,
@@ -1646,6 +1666,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d05d8,D-EALS,Reims Aviation,FR172J Reims Rocket,C172,0577,L1P,,,,
 3d05d9,D-EALT,Cessna,172S Skyhawk SP,C172,172S11046,L1P,,,,
 3d05dd,D-EALX,Reims Aviation,F150L,C150,0766,L1P,,,,
+3d05df,D-EALZ,Cessna,P206D Super Skylane,C206,P206-0603,L1P,,,,
 3d05ea,D-EAMK,Cessna,T210F Turbo Centurion,T210,T210-0059,L1P,,,,
 3d05eb,D-EAML,Cessna,T206H Turbo Stationair,T206,T206-8348,L1P,,,,
 3d05ef,D-EAMP,Reims Aviation,F150J,C150,0491,L1P,,,,
@@ -2016,6 +2037,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0cd9,D-EDCR,Cessna,TR182 Turbo Skylane RG,C82T,R18201099,L1P,,,,
 3d0cde,D-EDCW,Reims Aviation,F172 Skyhawk,C172,1776,L1P,,,,
 3d0ce3,D-EDDB,Cessna,172P Skyhawk,C172,17274499,L1P,,,,
+3d0ce9,D-EDDH,Cessna,172S Skyhawk SP,C172,172S10393,L1P,,2020-08-22,2020-08-22,
 3d0ced,D-EDDL,Cessna,R182 Skylane RG,C82R,R18201887,L1P,,,,
 3d0cf1,D-EDDP,Cessna,182L Skylane,C182,18258765,L1P,,,,
 3d0cf7,D-EDDV,Cessna,172S Skyhawk SP,C172,172S8165,L1P,,,,
@@ -2789,6 +2811,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d202a,D-EKKW,Cessna,T182T Turbo Skylane,C82S,T18208402,L1T,,,,
 3d203a,D-EKLM,Cessna,T210M Centurion,C210,210-61592,L1P,,,,
 3d2040,D-EKLS,Cessna,150F,C150,15062405,L1P,,,,
+3d204a,D-EKMC,Cessna,TP206E Turbo Super Skylane,T206,TP206-0611,L1P,,,,
 3d204e,D-EKMG,Cessna,172N Skyhawk,C172,17270868,L1P,,,,
 3d205a,D-EKMS,Cessna,TR182 Turbo Skylane RG,C82T,R18200623,L1P,,,,
 3d205c,D-EKMU,Reims Aviation,FR182 Skylane RG,C82R,0028,L1P,,,,
@@ -3481,6 +3504,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d46bb,D-EZAP,Cessna,152,C152,15283078,L1P,,,,
 3d46c6,D-EZBA,Reims Aviation,F150G,C150,0143,L1P,,,,
 3d46e2,D-EZCC,Cessna,150F,C150,15062147,L1P,,,,
+3d46fe,D-EZDE,Cessna,P206A Super Skylane,C206,P206-0183,L1P,,,,
 3d477f,D-EZID,Cessna,T182T Turbo Skylane,C82S,T18208686,L1T,,,,
 3d47d5,D-EZLL,Cessna,172S Skyhawk SP,C172,172S9147,L1P,,,,
 3d47f0,D-EZMM,Cessna,182H Skylane,C182,18256597,L1P,,,,
@@ -4735,6 +4759,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 404981,G-GEHL,Cessna,172S Skyhawk,C172,172S8324,L1P,,2003-06-18,,1999-01-01
 4049c1,G-UFCG,Cessna,172S Skyhawk,C172,172S9450,L1P,,2003-08-28,,2003-01-01
 4049e3,G-ORDM,Cessna,182T Skylane,C182,18281206,L1P,,2012-10-08,,2003-01-01
+404a5b,G-OSSA,Cessna,TU206B Turbo Stationair,T206,U206-0824,L1P,,2003-11-17,,1967-01-01
 404a64,G-GBUN,Cessna,182T Skylane,C182,18281280,L1P,,2003-12-11,,2003-01-01
 404aa7,G-CCRC,Cessna,TU206G Turbo Stationair,T206,U206-7001,L1P,,2004-02-24,,1986-01-01
 404ac0,G-OSFS,Reims Aviation,F177 Cardinal RG,C77R,0082,L1P,,2011-01-19,,1973-01-01
@@ -4902,6 +4927,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406bcd,G-FFFC,Cessna,510 Citation Mustang,C510,510-0451,L2J,,2016-11-08,,2014-01-01
 406bf7,G-IHAR,Cessna,172P Skyhawk,C172,17274314,L1P,,2014-11-05,,1981-01-01
 406bfd,G-GXLS,Cessna,560XL Citation XLS,C56X,560-5608,L2J,LNX,2014-06-25,,2006-01-01
+406c00,G-CIGP,Reims Aviation,F172N Skyhawk II,C172,F17201743,L1P,,2014-06-18,,1978-01-01
 406c19,G-EFOO,Cessna,210N Centurion,C210,210-64296,L1P,,,,
 406c1f,G-MSES,Cessna,150L,C150,15072747,L1P,,2015-06-30,,1972-01-01
 406c20,G-EGSL,Reims Aviation,F152,C152,1446,L1P,,2014-08-20,,1977-01-01
@@ -5030,16 +5056,19 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 43e76c,M-AXIM,Cessna,T206H Turbo Stationair,T206,T206-8513,L1P,,,,
 43e76d,M-MIKH,Cessna,525B CitationJet CJ3,C25B,525B-0280,L2J,,,,
 43e775,M-BONO,Cessna,172N Skyhawk,C172,17270299,L1P,,,,
+43e783,M-PRVT,Cessna,750 Citation X,C750,750-0291,L2J,,,,
 43e7e4,M-SVGN,Cessna,680 Citation Sovereign,C680,680-0198,L2J,,,,
 43e7e7,M-USTG,Cessna,510 Citation Mustang,C510,510-0089,L2J,,,,
 43e7f0,M-USTG,Cessna,510 Citation Mustang,C510,510-0089,L2J,,,,
 43e816,M-COOL,Cessna,510 Citation Mustang,C510,510-0285,L2J,,,,
 43e834,M-ISKY,Cessna,550B Citation Bravo,C55B,550-0870,L2J,,,,
+43e851,M-BEST,Cessna,750 Citation X,C750,750-0277,L2J,,,,
 43e86d,M-OUSE,Cessna,510 Citation Mustang,C510,510-0340,L2J,LNX,,,
 43e8bf,M-ICRO,Cessna,525A CitationJet CJ2+,C25A,525A-0479,L2J,,,,
 43e8c4,M-ZELL,Cessna,208 Caravan,C208,208-0526,L1T,COO,,,
 43e941,M-IWPS,Cessna,525A CitationJet CJ2+,C25A,525A-0496,L2J,,,,
 43e949,M-OLLY,Cessna,525 CitationJet CJ1,C525,525-0544,L2J,,,,
+43e966,M-MOON,Cessna,750 Citation X,C750,750-0242,L2J,,,,
 43e999,M-CARA,Cessna,525 Citation M2,C25M,525-0859,L2J,,,,
 43e9b3,M-FLYI,Cessna,525C CitationJet CJ4,C25C,525C-0106,L2J,,,,
 43e9d1,M-OBIL,Cessna,525C CitationJet CJ4,C25C,525C-0132,L2J,,,,
@@ -5113,7 +5142,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440296,OE-DHG,Cessna,172S Skyhawk,C172,172S8540,L1P,,,,
 44029a,OE-KHF,Cessna,T182T Turbo Skylane,C82S,T18208751,L1T,,,,
 44029b,OE-KFI,Cessna,182T Skylane,C182,18281950,L1P,,,,
+4402ad,OE-KPC,Cessna,TU206F Turbo Stationair,T206,TU206-2898,L1P,,,,
 4402b0,OE-DDW,Cessna,182K Skylane,C182,18258365,L1P,,,,
+4402c4,OE-HUB,Cessna,750 Citation X,C750,750-0273,L2J,,,,
 4402cf,OE-DLY,Reims Aviation,F172L Skyhawk,C172,0821,L1P,,,,
 4402d3,OE-FIX,Cessna,525 CitationJet CJ1,C525,525-0480,L2J,,,,
 4402d4,OE-KAA,Reims Aviation,F172P Skyhawk,C172,2145,L1P,,,,
@@ -5126,6 +5157,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440325,OE-GBR,Cessna,560XL Citation Excel,C56X,560-5749,L2J,,,,
 440333,OE-FHA,Cessna,510 Citation Mustang,C510,510-0081,L2J,,,,
 440334,OE-DGB,Cessna,182P Skylane,C182,18261104,L1P,,,,
+440339,OE-KSI,Cessna,182R Skylane,C182,18268368,L1P,,,,
 44033b,OE-GRU,Cessna,525B CitationJet CJ3,C25B,525B-0222,L2J,,,,
 44033d,OE-FFB,Cessna,510 Citation Mustang,C510,510-0065,L2J,,,,
 440346,OE-FKO,Cessna,525A CitationJet CJ2,C25A,525A-0390,L2J,,,,
@@ -5159,6 +5191,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44049d,OE-GEM,Cessna,680 Citation Sovereign,C680,680-0033,L2J,,,,
 44049f,OE-GES,Cessna,560XL Citation Excel,C56X,560-6036,L2J,,,,
 4404a6,OE-GWH,Cessna,560XL Citation Excel,C56X,560-6029,L2J,,,,
+4404b9,OE-CMF,Reims Aviation,F150M,C150,1225,L1P,,,,
 4404c4,OE-ATF,Reims Aviation,FRA150L Aerobat,C150,0197,L1P,,,,
 4404c6,OE-DJW,Cessna,172R Skyhawk,C172,17281517,L1P,,,,
 4404f2,OE-FAN,Cessna,441 Conquest II,C441,441-0242,L2T,,,,
@@ -5186,6 +5219,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4405da,OE-FWF,Cessna,510 Citation Mustang,C510,510-0048,L2J,,,,
 4405e3,OE-DSW,Cessna,182T Skylane,C182,18282028,L1P,,,,
 4405e7,OE-DTB,Reims Aviation,F172M Skyhawk,C172,0939,L1P,,,,
+440634,OE-DUM,Cessna,U206F Stationair,C206,U206-1806,L1P,,,,
 440639,OE-DSD,Cessna,210B Centurion,C210,210-57947,L1P,,,,
 440641,OE-GUN,Cessna,560XL Citation Excel,C56X,560-5061,L2J,,,,
 440658,OE-GTI,Cessna,525C CitationJet CJ4,C25C,525C-0100,L2J,,,,
@@ -5236,6 +5270,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440870,OE-DYU,Reims Aviation,F172N Skyhawk,C172,1883,L1P,,,,
 440871,OE-FRS,Cessna,525A CitationJet CJ2,C25A,525A-0029,L2J,,,,
 4408a3,OE-CFE,Reims Aviation,F152,C152,1639,L1P,,,,
+4408a4,OE-FBW,Cessna,320 Skyknight,C320,320-0085,L2P,,,,
 4408a6,OE-FPM,Cessna,525A CitationJet CJ2,C25A,525A-0433,L2J,,,,
 4408a9,OE-GBC,Cessna,525B CitationJet CJ3,C25B,525B-0219,L2J,,,,
 4408b3,OE-DLS,Reims Aviation,FR172H Reims Rocket,C172,0236,L1P,,,,
@@ -5247,6 +5282,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44091f,OE-CLA,Cessna,152,C152,15284007,L1P,,,,
 440924,OE-DAW,Reims Aviation,F182Q Skylane,C182,0065,L1P,,,,
 440928,OE-GTE,Cessna,560XL Citation Excel,C56X,560-6229,L2J,,,,
+44098d,OE-FSP,Cessna,525A CitationJet CJ2,C25A,525A-0151,L2J,,,,
 4409a9,OE-FIT,Cessna,510 Citation Mustang,C510,510-0319,L2J,,,,
 4409aa,OE-FAT,Cessna,510 Citation Mustang,C510,510-0312,L2J,,,,
 440a05,OE-GDS,Cessna,560XL Citation XLS+,C56X,560-6284,L2J,,,,
@@ -5376,6 +5412,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44c0e7,OO-PGG,Cessna,560XL Citation Excel,C56X,560-5230,L2J,,,,
 44c109,OO-PHI,Cessna,525 CitationJet CJ1,C525,525-0115,L2J,,,,
 44c173,OO-PKS,Cessna,TU206G Turbo Stationair,T206,U206-5455,L1P,,,,
+44c178,OO-PKX,Cessna,750 Citation X,C750,750-0313,L2J,,,,
 44c1e1,G-01,Cessna,182Q Skylane,C182,18267696,L1P,,,,
 44c205,OO-PPE,Reims Aviation,F172H Skyhawk,C172,0557,L1P,,,,
 44c246,OO-PRF,Reims Aviation,F150L,C150,0840,L1P,,,,
@@ -5898,6 +5935,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 468437,SX-AAW,Cessna,172N Skyhawk,C172,17271024,L1P,,,,
 468449,SX-ABI,Reims Aviation,F182Q Skylane,C182,0028,L1P,,,,
 468452,SX-ABR,Cessna,320E Executive Skynight,C320,320E-0004,L2P,,,,
+46846b,SX-ACK,Cessna,TP206D Turbo Super Skylane,T206,TP206-0522,L1P,,,,
 46846c,SX-ACL,Cessna,150H,C150,15068330,L1P,,,,
 46846f,SX-ACO,Cessna,172M Skyhawk,C172,17264713,L1P,,,,
 468472,SX-ACR,Cessna,150L,C150,15074918,L1P,,,,
@@ -5972,6 +6010,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4689ab,SX-BMK,Cessna,550B Citation Bravo,C55B,550-0907,L2J,,,,
 4689d0,SX-BNP,Cessna,421C Golden Eagle,C421,421C-0156,L2P,,,,
 468c61,SX-CCA,Cessna,172R Skyhawk,C172,17280126,L1P,,,,
+469469,SX-ECI,Cessna,750 Citation X,C750,750-0262,L2J,,,,
 469881,SX-FDA,Cessna,550 Citation II,C550,550-0707,L2J,,,,
 46988b,SX-FDK,Cessna,650 Citation III,C650,650-0192,L2J,,,,
 46ad30,SX-KIP,Cessna,182S Skylane,C182,18280827,L1P,,,,
@@ -6000,6 +6039,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 47308f,HA-SKD,Cessna,172N Skyhawk,C172,17270586,L1P,,,,
 473092,HA-SKG,Cessna,182A Skylane,C182,18234371,L1P,,,,
 473097,HA-SKL,Cessna,172M Skyhawk,C172,17264904,L1P,,,,
+4731aa,HA-SVA,Cessna,TU206E Turbo Skywagon,T206,TU206-1615,L1P,,,,
 4731ac,HA-SVC,Cessna,182N Skylane,C182,18260200,L1P,,,,
 4731bc,HA-SVS,Reims Aviation,F172M Skyhawk,C172,1017,L1P,,,,
 4733a2,HA-TOK,Reims Aviation,F172M Skyhawk,C172,1157,L1P,,,,
@@ -6186,6 +6226,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484189,PH-RSA,Cessna,560XL Citation Excel,C56X,560-5110,L2J,,,,
 4841a2,PH-DKH,Cessna,172P Skyhawk,C172,17275655,L1P,,,,
 4841c1,PH-HBW,Cessna,172S Skyhawk SP,C172,172S8113,L1P,,,,
+484351,P4-AND,Cessna,750 Citation X,C750,750-0075,L2J,,,,
 484390,PH-FIS,Cessna,525 CitationJet CJ1,C525,525-0514,L2J,,,,
 484391,PH-MFX,Cessna,650 Citation VI,C650,650-0240,L2J,,,,
 4843a5,PH-RPH,Cessna,182R Skylane,C182,18267808,L1P,,,,
@@ -6349,6 +6390,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 484f00,PH-AMC,Cessna,T206H Turbo Stationair,T206,T206-8954,L1P,,,,
 484f3f,PH-HRM,Cessna,560XL Citation XLS+,C56X,560-6097,L2J,,,,
 484f4d,PH-TTC,Cessna,172R Skyhawk,C172,17281584,L1P,,,,
+4850c4,P4-TEN,Cessna,750 Citation X,C750,750-0291,L2J,,,,
 4850d9,PH-CTR,Cessna,680 Citation Sovereign+,C680,680-0525,L2J,,,,
 4850da,PH-RLG,Cessna,680 Citation Sovereign+,C680,680-0531,L2J,,,,
 4850ed,PH-HGT,Cessna,680 Citation Sovereign+,C680,680-0530,L2J,,,,
@@ -6366,6 +6408,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4855e6,PH-FST,Cessna,208B Grand Caravan,C208,208B-0823,L1T,,,,
 48563d,PH-VTB,Cessna,172S Skyhawk SP,C172,172S10597,L1P,,,,
 48568f,PH-WAM,Cessna,T206H Turbo Stationair,T206,T206-8107,L1P,,,,
+485b6a,PH-MAF,Reims Aviation,F172N Skyhawk II,C172,F17201724,L1P,,,,
 485ce3,PH-BBJ,Cessna,560XL Citation XLS+,C56X,560-6266,L2J,PHB,,,
 488138,SP-AKV,Cessna,152,C152,15283550,L1P,,,,
 488194,SP-AMW,Cessna,414A Chancellor,C414,414A-0810,L2P,,,,
@@ -6697,6 +6740,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d0f8,OK-FCB,Cessna,172S Skyhawk SP,C172,172S10166,L1P,,,,
 49d0fb,OK-DSF,Cessna,172S Skyhawk SP,C172,172S9744,L1P,,,,
 49d0fc,OK-EKD,Reims Aviation,F172M Skyhawk,C172,1125,L1P,,,,
+49d0fd,OK-TSK,Cessna,TU206G Turbo Stationair,T206,U206-3601,L1P,,,,
 49d100,OK-OKJ,Cessna,T182T Turbo Skylane,C82S,T18208850,L1T,,,,
 49d101,OK-POH,Cessna,T182T Turbo Skylane,C82S,T18208801,L1T,,,,
 49d103,OK-VOM,Cessna,402B,C402,402B1243,L2P,,,,
@@ -6920,6 +6964,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aacc6,SE-KFF,Cessna,U206F Stationair,C206,U206-1942,L1P,,,,
 4aacd9,SE-KFY,Cessna,172N Skyhawk,C172,17273654,L1P,,,,
 4aadc2,SE-KNB,Cessna,172P Skyhawk,C172,17274112,L1P,,,,
+4aae10,SE-KPR,Cessna,TU206D Turbo Super Skywagon,T206,U206-1287,L1P,,,,
 4aae44,SE-KRD,Cessna,U206G Stationair,C206,U206-5771,L1P,,,,
 4aae88,SE-KTH,Cessna,208 Caravan,C208,208-0245,L1T,,,,
 4aaea4,SE-KUD,Cessna,172P Skyhawk,C172,17274397,L1P,,,,
@@ -7473,6 +7518,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4c4aab,YU-SVL,Cessna,560XL Citation XLS,C56X,560-5772,L2J,,,,
 4c4de2,YU-TPC,Cessna,500 Citation I,C500,500-0392,L2J,,,,
 4c8047,5B-CEM,Reims Aviation,F172M Skyhawk,C172,1445,L1P,,,,
+4ca176,EI-LEO,Cessna,750 Citation X,C750,750-0232,L2J,,2014-11-12,,2004-01-01
 4ca21c,EI-DMG,Cessna,441 Conquest II,C441,441-0165,L2T,,2001-07-04,,1980-01-01
 4ca2b8,EI-CGH,Cessna,210N Centurion,C210,210-63524,L1P,,1992-11-16,,1979-01-01
 4ca2ef,EI-BJO,Cessna,R172K Hawk XP,C172,R1723340,L1P,,1981-10-18,,1980-01-01
@@ -7534,11 +7580,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4d2159,9H-GGF,Cessna,560XL Citation XLS,C56X,560-5723,L2J,,,,
 4d216a,9H-GPS,Cessna,560XL Citation Excel,C56X,560-5249,L2J,,,,
 4d216f,9H-GIO,Cessna,525 CitationJet CJ1,C525,525-0121,L2J,,,,
+4d2171,9H-ELI,Cessna,750 Citation X,C750,750-0115,L2J,LWG,,,
 4d21b5,9H-GKM,Cessna,560XL Citation XLS,C56X,560-5811,L2J,VCJ,,,
 4d4038,3A-MSR,Cessna,525 CitationJet CJ1+,C525,525-0612,L2J,,,,
 500019,T7-BTM,Cessna,TU206G Turbo Stationair,T206,U206-3740,L1P,,,,
 500042,T7-JET,Cessna,551 Citation II/SP,C551,551-0355,L2J,COO,,,
 500044,T7-SSB,Cessna,208B Grand Caravan,C208,208B-2290,L1T,COO,,,
+50004c,T7-TAN,Cessna,750 Citation X,C750,750-0261,L2J,,,,
 500056,T7-TLM,Cessna,501 Citation I/SP,C501,501-0086,L2J,,,,
 50006b,T7-FOZ,Cessna,525 Citation M2,C25M,525-0851,L2J,OSA,,,
 500077,T7-MND,Cessna,525 CitationJet CJ1,C525,525-0089,L2J,,,,
@@ -7574,6 +7622,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 503ccc,LY-LMM,Cessna,172S Skyhawk SP,C172,172S11018,L1P,,,,
 503d13,LY-ATG,Cessna,182J Skylane,C182,18257172,L1P,,,,
 503df6,LY-BAY,Cessna,182Q Skylane,C182,18266285,L1P,,,,
+503dfd,LY-IGN,Cessna,TP206C Turbo Super Skylane,T206,TP206-0451,L1P,,,,
 505c23,OM-PAC,Reims Aviation,F182Q Skylane,C182,0102,L1P,,,,
 505c42,OM-BAA,Cessna,414A Chancellor,C414,414A-0473,L2P,,,,
 505c49,OM-SBI,Cessna,T182T Turbo Skylane,C82S,T18208993,L1T,,,,
@@ -7630,6 +7679,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 51103c,ES-MAA,Cessna,208B Grand Caravan,C208,208B-1279,L1T,COO,,,
 511044,ES-ECF,Cessna,172R Skyhawk,C172,17281519,L1P,,,,
 51105a,ES-FCC,Cessna,172M Skyhawk,C172,17262412,L1P,,,,
+5110c6,ES-ELI,Cessna,750 Citation X,C750,750-0115,L2J,,,,
 513007,E7-SBA,Cessna,500 Citation I,C500,500-0399,L2J,,,,
 51300b,E7-SMS,Cessna,525 CitationJet CJ1+,C525,525-0666,L2J,,,,
 514077,4L-MPX,Cessna,501 Citation I/SP,C501,501-0679,L2J,GRG,,,
@@ -7705,6 +7755,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 739433,4X-CWI,Cessna,172S Skyhawk SP,C172,172S8786,L1P,,,,
 739434,4X-CWH,Cessna,172S Skyhawk SP,C172,172S8366,L1P,,,,
 739435,4X-CZL,Cessna,208B Grand Caravan,C208,208B-0810,L1T,,,,
+739436,4X-CWJ,Cessna,P206 Super Skylane,C206,P206-0120,L1P,,,,
 739437,4X-CWR,Cessna,172R Skyhawk,C172,17280251,L1P,,,,
 739438,4X-CWV,Cessna,T207A Turbo Skywagon,C207,207-0657,L1P,,,,
 739439,4X-CHD,Cessna,R172K Hawk XP,C172,R1723140,L1P,,,,
@@ -7768,6 +7819,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 760904,AP-BHD,Cessna,550B Citation Bravo,C55B,550-1102,L2J,,,,
 760905,AP-BHE,Cessna,550B Citation Bravo,C55B,550-0843,L2J,SAI,,,
 76166c,AP-ESL,Cessna,525B CitationJet CJ3,C25B,525B-0131,L2J,,,,
+780004,B-7021,Cessna,750 Citation X,C750,750-0157,L2J,,,,
 78034e,B-3666,Cessna,560XL Citation XLS,C56X,560-5761,L2J,,,,
 78034f,B-3667,Cessna,560XL Citation XLS,C56X,560-5766,L2J,,,,
 7803d0,B-3642,Cessna,560XL Citation XLS,C56X,560-5539,L2J,,,,
@@ -7785,8 +7837,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c039a,VH-AZW,Cessna,441 Conquest II,C441,441-0026,L2T,,,,1978-01-01
 7c051c,VH-BAM,Cessna,208B Grand Caravan,C208,208B-1220,L1T,,,,2006-01-01
 7c0569,VH-BCR,Cessna,208 Caravan,C208,208-0372,L1T,,,,2004-01-01
+7c0570,VH-BCY,Cessna,210A Centurion,C210,21057628,L1P,,2014-07-03,,1960-01-01
 7c05f5,VH-BGN,Cessna,172N Skyhawk,C172,17270356,L1P,,,,1978-01-01
 7c07a4,VH-BSM,Cessna,425 Conquest I,C425,425-0234,L2T,,,,1985-01-01
+7c07ad,VH-BSV,Cessna,172S Skyhawk SP,C172,172S10015,L1P,,2019-01-23,,2005-01-01
 7c07cd,VH-BTR,Cessna,172S Skyhawk,C172,172S8622,L1P,,2015-09-04,,2000-01-01
 7c080a,VH-BVG,Cessna,210N Centurion,C210,210-64019,L1P,,2006-02-01,,1980-01-01
 7c0a71,VH-CCJ,Cessna,550B Citation Bravo,C55B,550-0953,L2J,,,,2001-01-01
@@ -7827,6 +7881,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c195c,VH-FAM,Cessna,152,C152,15285400,L1P,,2016-11-28,,1981-01-01
 7c1968,VH-FAY,Cessna,208B Grand Caravan,C208,208B-0884,L1T,,,,
 7c19aa,VH-FCS,Cessna,501 Citation I/SP,C501,501-0102,L2J,,,,1979-01-01
+7c19e0,VH-FEA,Cessna,172P Skyhawk,C172,17274763,L1P,,,,1981-01-01
 7c1a38,VH-FGQ,Cessna,208 Caravan,C208,208-0251,L1T,,,,1996-01-01
 7c1ae7,VH-FLL,Cessna,208 Caravan,C208,208-0359,L1T,,,,2002-01-01
 7c1b10,VH-FMQ,Cessna,441 Conquest II,C441,441-0109,L2T,,,,1979-01-01
@@ -7837,6 +7892,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c1cb2,VH-FYC,Cessna,208 Caravan,C208,208-0260,L1T,,,,1996-01-01
 7c1cbf,VH-FYP,Cessna,550 Citation II,C550,550-0152,L2J,,,,1980-01-01
 7c237c,VH-HAM,Cessna,208 Caravan,C208,208-0296,L1T,,,,1999-01-01
+7c23be,VH-HCG,Cessna,152,C152,15284568,L1P,,2016-05-17,,1980-01-01
 7c2507,VH-HLL,Cessna,208B Grand Caravan,C208,208B-0615,L1T,,,,1997-01-01
 7c2539,VH-HMZ,Cessna,441 Conquest II,C441,441-0017,L2T,,,,1978-01-01
 7c2670,VH-HVM,Cessna,550B Citation Bravo,C55B,550-0984,L2J,,,,2001-01-01
@@ -7860,6 +7916,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c308f,VH-JVL,Cessna,441 Conquest II,C441,441-0352,L2T,,,,1985-01-01
 7c3091,VH-JVN,Cessna,441 Conquest II,C441,441-0247,L2T,,,,1982-01-01
 7c30cd,VH-JXB,Cessna,208B Grand Caravan,C208,208B-2009,L1T,,,,2008-01-01
+7c3344,VH-KEU,Cessna,172S Skyhawk SP,C172,172S12055,L1P,,,,2017-01-01
 7c3484,VH-KNQ,Cessna,208B Grand Caravan,C208,208B-2193,L1T,,,,2010-01-01
 7c3528,VH-KSA,Cessna,208B Grand Caravan,C208,208B-0516,L1T,,,,1996-01-01
 7c355d,VH-KTR,Cessna,172S Skyhawk,C172,172S10132,L1P,,,,2006-01-01
@@ -8004,6 +8061,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c72fc,VH-WZY,Cessna,208B Grand Caravan,C208,208B-1035,L1T,,,,
 7c7496,VH-XBC,Cessna,441 Conquest II,C441,441-0297,L2T,,,,
 7c74a3,VH-XBP,Cessna,550B Citation Bravo,C55B,550-0810,L2J,,,,
+7c74c1,VH-XCJ,Cessna,750 Citation X,C750,750-0015,L2J,,,,
 7c74cc,VH-XCU,Cessna,560XL Citation XLS,C56X,560-5673,L2J,,,,
 7c74f0,VH-XDU,Cessna,208B Grand Caravan,C208,208B-2113,L1T,,,,
 7c7601,VH-XLF,Cessna,208B Grand Caravan,C208,208B-0264,L1T,COO,,,
@@ -8118,7 +8176,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 86ec26,JA889L,Cessna,208B Grand Caravan,C208,208B-2385,L1T,,,,
 86ec27,JA889M,Cessna,208B Grand Caravan,C208,208B-2078,L1T,,,,
 8800a4,HS-MED,Cessna,550B Citation Bravo,C55B,550-0976,L2J,,,,
+880c99,HS-CDY,Cessna,750 Citation X,C750,750-0184,L2J,,,,
 8815b4,HS-EMT,Cessna,550B Citation Bravo,C55B,550-0935,L2J,,,,
+882c73,HS-KCS,Cessna,750 Citation X,C750,750-0298,L2J,,,,
 8831c7,HS-LNG,Cessna,650 Citation VII,C650,650-7071,L2J,TFT,,,
 88346c,HS-MCL,Cessna,525B CitationJet CJ3,C25B,525B-0083,L2J,,,,
 88426c,HS-PSL,Cessna,550B Citation Bravo,C55B,550-1103,L2J,TFT,,,
@@ -8137,10 +8197,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 8a035b,PK-BVQ,Cessna,208B Grand Caravan,C208,208B-2225,L1T,,,,
 8a0467,PK-VVH,Cessna,208B Grand Caravan,C208,208B-1078,L1T,,,,
 901007,E5-TCM,Cessna,550 Citation II,C550,550-0057,L2J,RAR,,,
+a00010,N1AP,Cessna,750 Citation X,C750,750-0176,L2J,,,2022-12-31,2002-01-01
 a00026,N1BL,Cessna,525C CitationJet CJ4,C25C,525C-0102,L2J,,,2021-09-30,2012-01-01
+a0002c,N1BS,Cessna,750 Citation X,C750,750-0081,L2J,,,2023-04-30,1999-01-01
 a0004e,N1DA,Cessna,500 Citation I,C500,500-0288,L2J,,,2023-08-31,
 a000a0,N1GH,Cessna,550 Citation II,C550,550-0201,L2J,,,,
 a000b2,N1HA,Cessna,551 Citation II/SP,C551,551-0021,L2J,,,,
+a000d6,N1JM,Cessna,750 Citation X,C750,750-0005,L2J,COO,,,
 a00102,N1LF,Cessna,525B CitationJet CJ3,C25B,525B-0359,L2J,,,2022-07-31,2011-01-01
 a0011b,N1MF,Cessna,525B CitationJet CJ3+,C25B,525B-0453,L2J,,,,
 a0011c,N1MG,Cessna,525C CitationJet CJ4,C25C,525C-0246,L2J,,,2023-04-30,2017-01-01
@@ -8155,6 +8218,7 @@ a001a6,N1SV,Cessna,550 Citation II,C550,550-0150,L2J,,,2022-02-28,1980-01-01
 a001c2,N1TY,Cessna,550 Citation II,C550,550-0171,L2J,,,2021-08-31,1980-01-01
 a001d0,N1UM,Cessna,560 Citation V,C560,560-0543,L2J,,,2023-07-31,2000-01-01
 a001f1,N1VV,Cessna,510 Citation Mustang,C510,510-0013,L2J,,,2024-04-30,2007-01-01
+a0020c,N1WX,Cessna,525C CitationJet CJ4,C25C,525C-0101,L2J,,,,
 a00244,N1ZC,Cessna,680 Citation Sovereign,C680,680-0085,L2J,,,2023-08-31,2006-01-01
 a0026e,N10AU,Cessna,525C CitationJet CJ4,C25C,525C-0210,L2J,,,2022-04-30,2016-01-01
 a002c6,N10EG,Cessna,550 Citation II,C550,550-0055,L2J,,,2023-08-31,1979-01-01
@@ -8170,6 +8234,7 @@ a00414,N10TR,Cessna,525B CitationJet CJ3,C25B,525B-0354,L2J,,,,
 a00415,N10TS,Cessna,680 Citation Sovereign,C680,680-0055,L2J,,,2023-03-31,2005-01-01
 a00425,N10UH,Cessna,550B Citation Bravo,C55B,550-0925,L2J,,,2022-01-31,
 a00467,N10WZ,Cessna,525A CitationJet CJ2,C25A,525A-0432,L2J,,,2022-03-31,2008-01-01
+a0047a,N10XT,Cessna,750 Citation X,C750,750-0230,L2J,,,2024-05-31,2004-01-01
 a004c4,N100AR,Cessna,560XL Citation Excel,C56X,560-5241,L2J,,,2024-01-31,2002-01-01
 a004e9,N100CC,Cessna,425 Conquest I,C245,425-0170,L2T,,,2024-01-31,1982-01-01
 a004ef,N100CJ,Cessna,560XL Citation Excel,C56X,560-5100,L2J,,,2022-04-30,2000-01-01
@@ -8177,6 +8242,7 @@ a00551,N100GG,Cessna,501 Citation I/SP,C501,501-0020,L2J,,,2022-08-31,1977-01-01
 a00565,N100HB,Cessna,550 Citation II,C550,550-0058,L2J,,,,
 a005ae,N100L,Cessna,421C Golden Eagle,C421,421C-0313,L2P,,,2022-11-30,1977-01-01
 a005c4,N100LX,Cessna,501 Citation I/SP,C501,501-0220,L2J,,,,
+a005c8,N100MA,Cessna,750 Citation X,C750,750-0087,L2J,,,2022-04-30,1999-01-01
 a005ff,N100PF,Cessna,525 CitationJet CJ1,C525,525-0390,L2J,,,2023-10-31,2000-01-01
 a0062e,N100RC,Cessna,525C CitationJet CJ4,C25C,525C-0147,L2J,,,2023-04-30,2014-01-01
 a00634,N100RJ,Cessna,550B Citation Bravo,C55B,550-0806,L2J,,,2023-04-30,1997-01-01
@@ -8231,6 +8297,8 @@ a0145e,N104JF,Cessna,208 Caravan,C208,208-0004,L1T,,,2022-09-30,1985-01-01
 a01466,N104JP,Cessna,208B Grand Caravan,C208,208B-0311,L1T,,,2022-05-31,
 a0149e,N104LV,Cessna,560XL Citation Excel,C56X,560-5190,L2J,,,2022-02-28,
 a0149f,N104LW,Cessna,525 Citation M2,C25M,525-0806,L2J,,,2023-04-30,2013-01-01
+a014d8,N104PC,Cessna,750 Citation X,C750,750-0503,L2J,,,2022-04-30,2016-01-01
+a01515,N104RP,Cessna,750 Citation X,C750,750-0095,L2J,,,,
 a01598,N104WV,Cessna,550 Citation II,C550,550-0196,L2J,,,,
 a0159b,N104WY,Cessna,208 Caravan,C208,208-0377,L1T,,,2024-01-31,2004-01-01
 a01616,N1041L,Cessna,208B Grand Caravan,C208,208B-0337,L1T,,,2022-03-31,1993-01-01
@@ -8290,10 +8358,12 @@ a02af9,N11MM,Cessna,441 Conquest II,C441,441-0105,L2T,,,2022-01-31,1979-01-01
 a02afa,N11MN,Cessna,500 Citation I,C500,500-0266,L2J,,,2021-08-31,1976-01-01
 a02b8b,N11TH,Cessna,525B CitationJet CJ3,C25B,525B-0056,L2J,,,2024-01-31,2006-01-01
 a02b93,N11TR,Cessna,680A Citation Latitude,C68A,680A-0014,L2J,,,,
+a02c7b,N110CX,Cessna,750 Citation X,C750,750-0077,L2J,,,2023-08-31,1999-01-01
 a02cb4,N110FD,Cessna,525A CitationJet CJ2,C25A,525A-0308,L2J,,,2024-04-30,2006-01-01
 a02cfd,N110JB,Cessna,501 Citation I/SP,C501,501-0172,L2J,,,,
 a02d31,N110LD,Cessna,550 Citation II,C550,550-0366,L2J,,,,
 a02d32,N110LE,Cessna,680 Citation Sovereign,C680,680-0022,L2J,,,2023-06-30,2005-01-01
+a02d61,N110NB,Cessna,750 Citation X,C750,750-0306,L2J,,,2023-11-30,2010-01-01
 a02dea,N110TP,Cessna,550B Citation Bravo,C55B,550-1131,L2J,,,2023-02-28,2006-01-01
 a02e1e,N110VR,Cessna,550B Citation Bravo,C55B,550-1100,L2J,,,,
 a02ff0,N111AF,Cessna,550 Citation II,C550,550-0256,L2J,,,2022-08-31,1981-01-01
@@ -8343,6 +8413,7 @@ a03d03,N114W,Cessna,525A CitationJet CJ2,C25A,525A-0350,L2J,,,2023-11-30,2007-01
 a03d8d,N1141C,Cessna,525B CitationJet CJ3,C25B,525B-0492,L2J,,,,
 a03ee1,N115BB,Cessna,525 CitationJet CJ1,C525,525-0325,L2J,,,2024-01-31,1999-01-01
 a03f01,N115CJ,Cessna,525A CitationJet CJ2,C25A,525A-0115,L2J,,,2022-06-30,
+a03f86,N115HS,Cessna,750 Citation X,C750,750-0275,L2J,,,,
 a03fa7,N115K,Cessna,560 Citation V,C560,560-0148,L2J,,,,
 a04014,N115PJ,Cessna,208B Grand Caravan,C208,208B-5361,L1T,,,2023-02-28,2017-01-01
 a04062,N115SM,Cessna,525B CitationJet CJ3,C25B,525B-0201,L2J,,,2023-02-28,2007-01-01
@@ -8373,6 +8444,7 @@ a04e17,N119ES,Cessna,650 Citation VI,C650,650-0206,L2J,,,,
 a04e9f,N119LC,Cessna,550B Citation Bravo,C55B,550-0969,L2J,,,2023-05-31,2001-01-01
 a04ea4,N119LH,Cessna,L-19E/O-1E Bird Dog,O1,62-12281,L1P,,,2022-02-28,
 a04ef5,N119PP,Cessna,L-19A/O-1A Bird Dog,O1,22787,L1P,,,2021-08-31,
+a04f25,N119RM,Cessna,750 Citation X,C750,750-0051,L2J,,,2022-08-31,1998-01-01
 a0503e,N11918,Cessna,OA-37B Dragonfly,A37,43531,L2J,,,,
 a0519f,N12CV,Cessna,501 Citation I/SP,C501,501-0081,L2J,,,2023-03-31,
 a051d6,N12F,Cessna,680 Citation Sovereign,C680,680-0236,L2J,,,2023-08-31,2008-01-01
@@ -8426,6 +8498,7 @@ a05f21,N123CZ,Cessna,525B CitationJet CJ3,C25B,525B-0313,L2J,,,2023-02-28,2009-0
 a05f5a,N123FF,Cessna,550 Citation S/II,C550,S550-0005,L2J,,,2022-07-31,
 a05fbc,N123KD,Cessna,501 Citation I/SP,C501,501-0195,L2J,,,2022-12-31,1981-01-01
 a06027,N123PL,Cessna,501 Citation I/SP,C501,501-0234,L2J,,,2022-11-30,1982-01-01
+a06072,N123SL,Cessna,750 Citation X,C750,750-0168,L2J,EJM,,,
 a06086,N123TF,Cessna,525 Citation M2,C25M,525-0801,L2J,,,2023-05-31,2013-01-01
 a0608b,N123TL,Cessna,550 Citation S/II,C550,S550-0124,L2J,,,2022-04-30,1987-01-01
 a0618c,N1232Y,Cessna,208B Grand Caravan,C208,208B-0566,L1T,ERR,,2023-10-31,1996-01-01
@@ -8442,12 +8515,15 @@ a06667,N125BJ,Cessna,525A CitationJet CJ2,C25A,525A-0101,L2J,,,2022-11-30,
 a06690,N125D,Cessna,425 Conquest I,C425,425-0231,L2T,,,,
 a06697,N125DG,Cessna,525B CitationJet CJ3,C25B,525B-0060,L2J,,,2021-11-30,2006-01-01
 a066a1,N125DS,Cessna,500 Citation I,C500,500-0258,L2J,,,,
+a066a8,N125DZ,Cessna,750 Citation X,C750,750-0079,L2J,,,,
 a066aa,N125EA,Cessna,501 Citation I/SP,C501,501-0125,L2J,,,2022-08-31,1979-01-01
 a06716,N125JJ,Cessna,560XL Citation Excel,C56X,560-5012,L2J,,,2021-10-31,1998-01-01
 a06791,N125PG,Cessna,425 Conquest I,C425,425-0125,L2T,,,,1981-01-01
 a06794,N125PK,Cessna,550B Citation Bravo,C55B,550-0850,L2J,,,2023-03-31,1998-01-01
 a06795,N125PL,Cessna,525B CitationJet CJ3,C25B,525B-0290,L2J,,,2022-04-30,2008-01-01
 a067c3,N125RG,Cessna,550 Citation II,C550,550-0248,L2J,,,2022-06-30,1981-01-01
+a067c4,N125RH,Cessna,750 Citation X,C750,750-0194,L2J,,,2022-05-31,2002-01-01
+a067f6,N125TH,Cessna,750 Citation X,C750,750-0177,L2J,,,2021-12-31,2002-01-01
 a067fb,N125TN,Cessna,650 Citation VII,C650,650-7025,L2J,,,2022-03-31,1993-01-01
 a068b1,N1250V,Cessna,550 Citation II,C550,550-0439,L2J,,,2021-09-30,
 a068e7,N1252D,Cessna,551 Citation II/SP,C551,551-0476,L2J,,,2021-09-30,1983-01-01
@@ -8505,6 +8581,7 @@ a07961,N13FM,Cessna,L-19E/O-1E Bird Dog,O1,24590,L1P,,,2023-07-31,1957-01-01
 a079bd,N13KD,Cessna,501 Citation I/SP,C501,501-0119,L2J,,,2024-03-31,1979-01-01
 a07a19,N13NW,Cessna,441 Conquest II,C441,441-0090,L2T,,,2024-03-31,1979-01-01
 a07a7a,N13ST,Cessna,501 Citation I/SP,C501,501-0285,L2J,,,2022-12-31,1978-01-01
+a07a7f,N13SY,Cessna,750 Citation X,C750,750-0143,L2J,,,,
 a07bc8,N130GA,Cessna,208B Grand Caravan,C208,208B-2090,L1T,,,2023-06-30,2011-01-01
 a07c37,N130LM,Cessna,525 CitationJet CJ1,C525,525-0214,L2J,,,,
 a07d2a,N130WE,Cessna,560XL Citation Excel,C56X,560-6196,L2J,,,2021-10-31,2015-01-01
@@ -8554,6 +8631,7 @@ a099ad,N138HW,Cessna,560XL Citation Excel,C56X,560-5138,L2J,,,2021-07-31,2001-01
 a099de,N138KV,Cessna,680 Citation Sovereign,C680,680-0266,L2J,,,2022-05-31,2009-01-01
 a09a61,N138RA,Cessna,A-37A Dragonfly,A37,40060,L2J,,,,
 a09a7a,N138SA,Cessna,500 Citation I,C500,500-0138,L2J,,,2022-07-31,1973-01-01
+a09a87,N138SP,Cessna,750 Citation X,C750,750-0138,L2J,,,2021-12-31,2000-01-01
 a09cdb,N139CJ,Cessna,525B CitationJet CJ3,C25B,525B-0139,L2J,,,2022-10-31,2007-01-01
 a09dca,N139MY,Cessna,650 Citation III,C650,650-0072,L2J,,,,
 a09e24,N139RN,Cessna,550B Citation Bravo,C55B,550-0886,L2J,,,2022-11-30,1999-01-01
@@ -8623,9 +8701,11 @@ a0c885,N15H,Cessna,550 Citation II,C550,550-0021,L2J,,,,
 a0c8a6,N15JH,Cessna,500 Citation I,C500,500-0174,L2J,,,2022-07-31,1974-01-01
 a0c8c0,N15KJ,Cessna,700 Citation Longitude,C700,700-0017,L2J,,,2023-01-31,2019-01-01
 a0c922,N15PG,Cessna,525B CitationJet CJ3,C25B,525B-0140,L2J,,,2022-07-31,2007-01-01
+a0c958,N15RL,Cessna,750 Citation X,C750,750-0165,L2J,,,2022-01-31,2001-01-01
 a0c971,N15SL,Cessna,560 Citation V,C560,560-0272,L2J,,,2022-03-31,1994-01-01
 a0c978,N15ST,Cessna,425 Conquest I,C245,425-0140,L2T,,,2023-02-28,1981-01-01
 a0c985,N15TF,Cessna,680 Citation Sovereign,C680,680-0547,L2J,,,2023-07-31,2015-01-01
+a0c997,N15TZ,Cessna,750 Citation X,C750,750-0127,L2J,,,2023-07-31,
 a0c9dc,N15WT,Cessna,550 Citation II,C550,550-0423,L2J,,,2022-12-31,1982-01-01
 a0c9ef,N15XM,Cessna,550 Citation II,C550,550-0308,L2J,,,,
 a0ca00,N15YD,Cessna,525A CitationJet CJ2+,C25A,525A-0336,L2J,,,,
@@ -8658,6 +8738,7 @@ a0df41,N1551D,Cessna,190,C190,7773,L1P,,,2023-09-30,1952-01-01
 a0e124,N156GW,Cessna,550B Citation Bravo,C55B,550-0982,L2J,,,2022-08-31,2001-01-01
 a0e197,N156ML,Cessna,525 CitationJet CJ1,C525,525-0156,L2J,,,2022-08-31,1996-01-01
 a0e1f8,N156RH,Cessna,680 Citation Sovereign,C680,680-0031,L2J,,,,
+a0e262,N156VP,Cessna,750 Citation X,C750,750-0056,L2J,,,2023-12-31,1998-01-01
 a0e291,N156XL,Cessna,560XL Citation Excel,C56X,560-6056,L2J,,,2023-06-30,2010-01-01
 a0e3ca,N1567D,Cessna,195A Businessliner,C195,7789,L1P,,,2023-08-31,1952-01-01
 a0e503,N157JL,Cessna,525B CitationJet CJ3,C25B,525B-0157,L2J,,,2022-09-30,2007-01-01
@@ -8726,6 +8807,7 @@ a11835,N17QC,Cessna,525B CitationJet CJ3,C25B,525B-0509,L2J,,,2023-11-30,2016-01
 a11859,N17RP,Cessna,510 Citation Mustang,C510,510-0133,L2J,,,2021-10-31,2008-01-01
 a11893,N17TX,Cessna,560 Citation V,C560,560-0166,L2J,,,2021-09-30,1992-01-01
 a118b1,N17VB,Cessna,525 CitationJet CJ1,C525,525-0206,L2J,,,2021-08-31,1997-01-01
+a118f1,N17XR,Cessna,750 Citation X,C750,750-0251,L2J,,,2024-02-29,2006-01-01
 a11945,N170AZ,Cessna,170A,C170,19674,L1P,,,2021-12-31,1950-01-01
 a119df,N170HC,Cessna,208 Caravan,C208,208-0587,L1T,,,2022-09-30,
 a11a50,N170MR,Cessna,525A CitationJet CJ2,C25A,525A-0170,L2J,,,2023-07-31,
@@ -8832,6 +8914,7 @@ a15a07,N1865K,Cessna,560XL Citation Excel,C56X,560-6172,L2J,,,2023-10-31,2014-01
 a15a16,N18650,Cessna,525B CitationJet CJ3,C25B,525B-0343,L2J,,,2023-09-30,2011-01-01
 a15a4f,N1867M,Cessna,560XL Citation Excel,C56X,560-5303,L2J,,,2022-10-31,2003-01-01
 a15a59,N1867X,Cessna,182H Skylane,C182,18255967,L1P,,2016-11-14,2023-07-31,1964-01-01
+a15aef,N187CR,Cessna,750 Citation X,C750,750-0119,L2J,,,2022-05-31,2000-01-01
 a15bc3,N187MC,Cessna,525 CitationJet CJ1,C525,525-0276,L2J,,,2023-09-30,1998-01-01
 a15d5f,N1872V,Cessna,140,C140,14052,L1P,,,2023-05-31,1947-01-01
 a15db7,N1875C,Cessna,525A CitationJet CJ2,C25A,525A-0488,L2J,,,2023-12-31,2011-01-01
@@ -8887,6 +8970,7 @@ a174a3,N193PP,Cessna,525A CitationJet CJ2,C25A,525A-0192,L2J,,,2023-06-30,2003-0
 a174e5,N193SE,Cessna,560 Citation V,C560,560-0229,L2J,,,2023-10-31,
 a17821,N194MG,Cessna,525 CitationJet CJ1,C525,525-0357,L2J,,,2022-02-28,1999-01-01
 a17898,N194SA,Cessna,560 Citation V,C560,560-0238,L2J,,,,
+a178a7,N194SR,Cessna,750 Citation X,C750,750-0112,L2J,COO,,,
 a17b57,N195GC,Cessna,208B Grand Caravan,C208,208B-2036,L1T,,,2023-11-30,2008-01-01
 a17bd6,N195ME,Cessna,525C CitationJet CJ4,C25C,525C-0259,L2J,,,2023-12-31,2017-01-01
 a17c46,N195RS,Cessna,195A Businessliner,C195,7594,L1P,,,2023-03-31,1950-01-01
@@ -8895,6 +8979,7 @@ a17de9,N1956A,Cessna,510 Citation Mustang,C510,510-0305,L2J,,,2022-05-31,2010-01
 a17f45,N196JH,Cessna,525B CitationJet CJ3,C25B,525B-0395,L2J,,,2022-05-31,2012-01-01
 a18007,N196SB,Cessna,560XL Citation Excel,C56X,560-5513,L2J,,,2022-11-30,2004-01-01
 a18113,N1962,Cessna,525A CitationJet CJ2,C25A,525A-0130,L2J,,,2022-10-31,2002-01-01
+a1811c,N1962J,Cessna,750 Citation X,C750,750-0240,L2J,,,2024-05-31,2005-01-01
 a181a6,N1966G,Cessna,208B Grand Caravan,C208,208B-0927,L1T,,,2023-04-30,2001-01-01
 a181c9,N1967G,Cessna,560 Citation V,C560,560-0641,L2J,,,2021-10-31,2003-01-01
 a18205,N19687,Cessna,172L Skyhawk,C172,17260670,L1P,,,2021-11-30,1972-01-01
@@ -8905,9 +8990,11 @@ a18775,N198SB,Cessna,680 Citation Sovereign,C680,680-0020,L2J,,,2022-05-31,2004-
 a18847,N1980M,Cessna,560XL Citation Excel,C56X,560-5289,L2J,,,2022-03-31,2003-01-01
 a188ba,N1983X,Cessna,208B Grand Caravan,C208,208B-1013,L1T,,,2023-06-30,2003-01-01
 a18985,N1989Q,Cessna,177 Cardinal RG,C77R,177RG0389,L1P,,,2021-09-30,1973-01-01
+a189d2,N199CF,Cessna,750 Citation X,C750,750-0004,L2J,,,2023-08-31,1996-01-01
 a189ee,N199DJ,Cessna,501 Citation I/SP,C501,501-0193,L2J,,,,
 a18a6c,N199JK,Cessna,500 Citation I,C500,500-0199,L2J,,,2023-08-31,1974-01-01
 a18ab8,N199ML,Cessna,510 Citation Mustang,C510,510-0002,L2J,,,2022-10-31,2007-01-01
+a18bb5,N199XP,Cessna,750 Citation X,C750,750-0019,L2J,,,2023-11-30,1997-01-01
 a18d32,N1999E,Cessna,525 CitationJet CJ1,C525,525-0077,L2J,,,,
 a18d50,N2,Cessna,560XL Citation Excel,C56X,560-5333,L2J,,,2024-01-31,
 a18d65,N2AV,Cessna,208 Caravan,C208,208-0057,L1T,,,2023-09-30,1985-01-01
@@ -8933,6 +9020,7 @@ a19190,N20VL,Cessna,525 CitationJet CJ1,C525,525-0069,L2J,,,2022-06-30,1994-01-0
 a19214,N200AS,Cessna,550B Citation Bravo,C55B,550-0934,L2J,,,,
 a19222,N200BF,Cessna,680A Citation Latitude,C68A,680A-0066,L2J,,,,
 a1923c,N200CG,Cessna,500 Citation I,C500,500-0230,L2J,,,2021-08-31,
+a19249,N200CV,Cessna,750 Citation X,C750,750-0245,L2J,,,2023-11-30,2005-01-01
 a19292,N200FT,Cessna,525A CitationJet CJ2,C25A,525A-0200,L2J,,,2023-01-31,2014-01-01
 a19303,N200LF,Cessna,208 Caravan,C208,208-0149,L1T,,,2022-10-31,1989-01-01
 a19305,N200LH,Cessna,650 Citation VII,C650,650-7005,L2J,,,2023-09-30,1992-01-01
@@ -8943,14 +9031,17 @@ a19429,N200Y,Cessna,680 Citation Sovereign,C680,680-0030,L2J,,,2023-07-31,2005-0
 a1944c,N200ZK,Cessna,172H Skyhawk,C172,17255678,L1P,,,2022-10-31,1966-01-01
 a19471,N2000X,Cessna,560 Citation V,C560,560-0249,L2J,,,2023-03-31,1994-01-01
 a19643,N201FM,Cessna,L-19A/O-1A Bird Dog,O1,22488,L1P,,,,
+a19679,N201HR,Cessna,750 Citation X,C750,750-0024,L2J,,,2022-01-31,1997-01-01
 a19734,N201RC,Cessna,680 Citation Sovereign,C680,680-0256,L2J,FAW,,,
 a1975b,N201SS,Cessna,L-19A/O-1A Bird Dog,O1,21756,L1P,,,2021-12-31,
 a1975d,N201SU,Cessna,560 Citation V,C560,560-0586,L2J,,,2022-04-30,2001-01-01
+a1995e,N2019S,Cessna,T210L Turbo Centurion,T210,21060987,L1P,,,2024-01-31,1975-01-01
 a19972,N202AA,Cessna,421C Golden Eagle,C421,421C-1015,L2P,,,2022-05-31,1980-01-01
 a19985,N202AV,Cessna,650 Citation VII,C650,650-7108,L2J,,,,
 a199b8,N202CW,Cessna,560XL Citation Excel,C56X,560-5067,L2J,,,2023-07-31,1999-01-01
 a19a2c,N202HM,Cessna,500 Citation I,C500,500-0260,L2J,,,2022-11-30,1975-01-01
 a19a43,N202JK,Cessna,650 Citation III,C650,650-0100,L2J,,,,
+a19a55,N202KC,Cessna,750 Citation X,C750,750-0202,L2J,,,,
 a19acd,N202PY,Cessna,172N Skyhawk,C172,17271126,L1P,,,2024-04-30,1978-01-01
 a19af3,N202RL,Cessna,560XL Citation Excel,C56X,560-5117,L2J,,,2022-12-31,2000-01-01
 a19bc9,N2020,Cessna,525C CitationJet CJ4,C25C,525C-0295,L2J,,,2022-04-30,2019-01-01
@@ -9121,6 +9212,7 @@ a1c64c,N213SW,Cessna,560 Citation V,C560,560-0363,L2J,,,2023-06-30,1996-01-01
 a1c78e,N2134C,Cessna,195 Businessliner,C195,16119,L1P,,,2023-08-31,1955-01-01
 a1c938,N214JT,Cessna,550 Citation II,C550,550-0418,L2J,,,2021-10-31,1982-01-01
 a1c96c,N214LV,Cessna,680 Citation Sovereign,C680,680-0096,L2J,,,2022-12-31,2006-01-01
+a1ca64,N214WT,Cessna,750 Citation X,C750,750-0032,L2J,,,2023-12-31,1997-01-01
 a1cc0d,N21493,Cessna,T206H Turbo Stationair,T206,T206-8423,L1P,,,2022-03-31,2003-01-01
 a1cc2f,N215BA,Cessna,208B Grand Caravan,C208,208B-5232,L1T,BRG,,2021-10-31,2015-01-01
 a1cc40,N215BT,Cessna,208 Caravan,C208,208-0517,L1T,,,2023-09-30,2009-01-01
@@ -9168,6 +9260,7 @@ a1df9e,N22KW,Cessna,208B Grand Caravan EX,C208,208B-5210,L1T,COO,,,
 a1dfb8,N22LX,Cessna,525A CitationJet CJ2,C25A,525A-0477,L2J,,,2023-11-30,2011-01-01
 a1dfe1,N22NN,Cessna,182P Skylane,C182,18263497,L1P,,,2022-11-30,1975-01-01
 a1dff0,N22PC,Cessna,550 Citation II,C550,550-0583,L2J,,,2023-11-30,1988-01-01
+a1e026,N22RG,Cessna,750 Citation X,C750,750-0031,L2J,,,,
 a1e038,N22S,Cessna,525 Citation M2,C25M,525-0842,L2J,,,2023-08-31,2014-01-01
 a1e056,N22TE,Cessna,208B Grand Caravan,C208,208B-1266,L1T,,,2023-11-30,2007-01-01
 a1e06c,N22UB,Cessna,525C CitationJet CJ4,C25C,525C-0182,L2J,,,2024-03-31,2015-01-01
@@ -9214,14 +9307,17 @@ a1fc18,N227MC,Cessna,560XL Citation Excel,C56X,560-6138,L2J,,,2023-09-30,2013-01
 a1fc1f,N227MK,Cessna,500 Citation I,C500,500-0070,L2J,,,,
 a1fc53,N227PM,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41750,L1P,,,2021-12-31,
 a1ff05,N228DA,Cessna,208B Grand Caravan,C208,208B-2052,L1T,,,2022-11-30,2008-01-01
+a1ff06,N228DB,Cessna,750 Citation X,C750,750-0228,L2J,,,,
 a1ffd4,N228MH,Cessna,551 Citation II/SP,C551,551-0050,L2J,,,2021-08-31,1980-01-01
 a1ffe1,N228MW,Cessna,208B Grand Caravan,C208,208B-5231,L1T,,,2021-10-31,2015-01-01
 a1ffe9,N228ND,Cessna,208 Caravan,C208,208-0520,L1T,,,2023-04-30,2010-01-01
 a20001,N228PC,Cessna,560XL Citation Excel,C56X,560-5600,L2J,,,2023-12-31,2006-01-01
 a20005,N228PG,Cessna,560 Citation V,C560,560-0310,L2J,,,2023-04-30,1995-01-01
 a20038,N228RH,Cessna,680 Citation Sovereign,C680,680-0128,L2J,,,,
+a200b5,N228WH,Cessna,750 Citation X,C750,750-0233,L2J,,,2022-09-30,2004-01-01
 a201e5,N2286B,Cessna,525C CitationJet CJ4,C25C,525C-0214,L2J,,,2022-05-31,2016-01-01
 a20295,N229BM,Cessna,550 Citation II,C550,550-0207,L2J,,,2023-04-30,
+a202a7,N229CE,Cessna,750 Citation X,C750,750-0229,L2J,,,2024-03-31,2004-01-01
 a202af,N229CN,Cessna,525B CitationJet CJ3,C25B,525B-0223,L2J,,,,
 a20349,N229JS,Cessna,560 Citation V,C560,560-0255,L2J,,,2022-07-31,1994-01-01
 a20386,N229MC,Cessna,550 Citation II,C550,550-0229,L2J,,,,
@@ -9238,6 +9334,7 @@ a20952,N230JK,Cessna,560 Citation V,C560,560-0647,L2J,,,2023-01-31,2003-01-01
 a20956,N230JP,Cessna,208B Grand Caravan,C208,208B-2430,L1T,COO,,,
 a20eab,N23103,Cessna,150H,C150,15068726,L1P,,,2021-10-31,
 a21025,N232CE,Cessna,650 Citation III,C650,650-0067,L2J,,,2023-10-31,1984-01-01
+a21026,N232CF,Cessna,750 Citation X,C750,750-0161,L2J,,,2023-09-30,2001-01-01
 a21035,N232CW,Cessna,550 Citation II,C550,550-0032,L2J,,,2022-05-31,1978-01-01
 a210c7,N232JS,Cessna,525C CitationJet CJ4,C25C,525C-0212,L2J,,,2022-01-31,2016-01-01
 a210e0,N232KS,Cessna,550 Citation II,C550,550-0732,L2J,,,,
@@ -9298,6 +9395,7 @@ a23847,N242JT,Cessna,560XL Citation Excel,C56X,560-6131,L2J,,,2023-07-31,2013-01
 a23862,N242KV,Cessna,525B CitationJet CJ3,C25B,525B-0242,L2J,,,2023-07-31,2008-01-01
 a2388b,N242ML,Cessna,525 CitationJet CJ1,C525,525-0506,L2J,,,2023-01-31,2003-01-01
 a23912,N242SW,Cessna,550B Citation Bravo,C55B,550-0908,L2J,,,,
+a23a85,N2425S,Cessna,T210L Turbo Centurion,T210,21061276,L1P,,,2022-01-31,1976-01-01
 a23b8d,N243EE,Cessna,501 Citation I/SP,C501,501-0212,L2J,,,2022-07-31,1981-01-01
 a23cbc,N243SH,Cessna,500 Citation I,C500,500-0243,L2J,,,,
 a23cbf,N243SL,Cessna,560 Citation V,C560,560-0593,L2J,,,2022-04-30,2002-01-01
@@ -9361,11 +9459,13 @@ a25fbe,N252JK,Cessna,525 CitationJet CJ1,C525,525-0166,L2J,,,2022-01-31,1996-01-
 a26077,N252RV,Cessna,525 CitationJet CJ1,C525,525-0252,L2J,,,2023-11-30,1998-01-01
 a26251,N2527Z,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41502,L1P,,,2023-01-31,2005-01-01
 a262ea,N253CW,Cessna,525 CitationJet CJ1,C525,525-0253,L2J,,,2022-03-31,1998-01-01
+a262eb,N253CX,Cessna,750 Citation X,C750,750-0253,L2J,,,2023-01-31,2006-01-01
 a2644d,N253TA,Cessna,208 Caravan,C208,208-0222,L1T,,,2021-10-31,1992-01-01
 a2665c,N254AB,Cessna,525C CitationJet CJ4,C25C,525C-0212,L2J,,,,
 a2665e,N254AD,Cessna,560 Citation Encore,C560,560-0688,L2J,,,,
 a266b5,N254DR,Cessna,560 Citation V,C560,560-0607,L2J,,,2021-07-31,2002-01-01
 a26805,N254TB,Cessna,510 Citation Mustang,C510,510-0449,L2J,,,2023-05-31,2014-01-01
+a26a9c,N255FP,Cessna,750 Citation X,C750,750-0527,L2J,,,2023-07-31,2017-01-01
 a26b38,N255MV,Cessna,525C CitationJet CJ4,C25C,525C-0126,L2J,,,2022-10-31,2013-01-01
 a26b89,N255RA,Cessna,525B CitationJet CJ3,C25B,525B-0065,L2J,,,2023-05-31,2006-01-01
 a26b8b,N255RC,Cessna,560XL Citation Excel,C56X,560-5554,L2J,,,2024-02-29,
@@ -9386,11 +9486,13 @@ a27920,N259CA,Cessna,680 Citation Sovereign,C680,680-0505,L2J,,,2023-01-31,2014-
 a27929,N259CK,Cessna,680 Citation Sovereign,C680,680-0278,L2J,,,2024-01-31,2009-01-01
 a27a7e,N259SA,Reims Aviation,F172G Skyhawk,C172,0278,L1P,,,2022-12-31,
 a27cb2,N26AP,Cessna,550B Citation Bravo,C55B,550-0824,L2J,,,2023-10-31,1997-01-01
+a27ccf,N26BT,Cessna,750 Citation X,C750,750-0039,L2J,,,,
 a27cd8,N26CB,Cessna,550B Citation Bravo,C55B,550-1001,L2J,,,2022-01-31,2001-01-01
 a27d03,N26DV,Cessna,525 Citation M2,C25M,525-0898,L2J,BSM,,,
 a27d58,N26HE,Cessna,421C Golden Eagle,C421,421C-0687,L2P,,,2023-03-31,1979-01-01
 a27d5a,N26HG,Cessna,551 Citation II/SP,C551,551-0614,L2J,,,2024-01-31,1989-01-01
 a27d5b,N26HH,Cessna,550 Citation II,C550,550-0316,L2J,,,2021-09-30,1981-01-01
+a27dc0,N26MJ,Cessna,750 Citation X,C750,750-0139,L2J,NRG,,2021-11-30,2001-01-01
 a27e04,N26QB,Cessna,525 CitationJet CJ1,C525,525-0117,L2J,,,,
 a27e0d,N26QL,Cessna,560 Citation V,C560,560-0498,L2J,,,2022-02-28,1998-01-01
 a27e26,N26RL,Cessna,525 CitationJet CJ1,C525,525-0207,L2J,,,,
@@ -9416,6 +9518,7 @@ a2915f,N2648X,Cessna,501 Citation I/SP,C501,501-0105,L2J,,,2023-12-31,1979-01-01
 a291af,N265BF,Cessna,525 CitationJet CJ1,C525,525-0339,L2J,,,2023-01-31,1999-01-01
 a291ce,N265CM,Cessna,560 Citation V,C560,560-0521,L2J,,,2022-07-31,1999-01-01
 a291da,N265CZ,Cessna,208B Grand Caravan EX,C208,208B-5265,L1T,,,,
+a2931d,N265RX,Cessna,750 Citation X,C750,750-0249,L2J,,,,
 a294f4,N2657Y,Cessna,180E Skywagon,C180,18051157,L1P,,,2024-02-29,1962-01-01
 a29579,N266C,Cessna,T-50,T50,6582,L2J,,,2022-07-31,1943-01-01
 a29582,N266CJ,Cessna,525 CitationJet CJ1,C525,525-0266,L2J,,,2024-04-30,1998-01-01
@@ -9509,6 +9612,8 @@ a2e596,N286PM,Cessna,208B Grand Caravan,C208,208B-0631,L1T,,,2022-01-31,1997-01-
 a2e830,N287CB,Cessna,525 Citation M2,C25M,525-0942,L2J,,,2023-04-30,2017-01-01
 a2e832,N287CD,Cessna,650 Citation III,C650,650-0179,L2J,,,2021-08-31,1990-01-01
 a2e8f7,N287LA,Cessna,510 Citation Mustang,C510,510-0287,L2J,,,2021-09-30,2010-01-01
+a2e997,N287SL,Cessna,750 Citation X,C750,750-0502,L2J,,,2023-08-31,2015-01-01
+a2e9ac,N287TG,Cessna,750 Citation X,C750,750-0018,L2J,,,,
 a2ec49,N288G,Cessna,525A CitationJet CJ2,C25A,525A-0035,L2J,,,2022-06-30,2001-01-01
 a2ec6c,N288HK,Cessna,680 Citation Sovereign,C680,680-0313,L2J,,,2023-10-31,2011-01-01
 a2ec6d,N288HL,Cessna,560 Citation V,C560,560-0599,L2J,,,2023-12-31,2002-01-01
@@ -9542,12 +9647,14 @@ a30f7c,N297AA,Cessna,525B CitationJet CJ3,C25B,525B-0524,L2J,,,,
 a31064,N297KH,Cessna,525B CitationJet CJ3,C25B,525B-0297,L2J,,,2023-06-30,
 a3136d,N298CJ,Cessna,525B CitationJet CJ3,C25B,525B-0298,L2J,,,2022-06-30,2008-01-01
 a31730,N299CW,Cessna,525 CitationJet CJ1,C525,525-0199,L2J,,,2022-10-31,1997-01-01
+a31731,N299CX,Cessna,750 Citation X,C750,750-0299,L2J,,,2023-01-31,2009-01-01
 a31736,N299DB,Cessna,560XL Citation Excel,C56X,560-6019,L2J,,,2023-04-30,2009-01-01
 a317ca,N299K,Cessna,501 Citation I/SP,C501,501-0068,L2J,,,2023-08-31,1978-01-01
 a3186a,N299RK,Cessna,550B Citation Bravo,C55B,550-1027,L2J,,,2023-11-30,2002-01-01
 a31941,N2990,Cessna,L-19E/O-1E Bird Dog,O1,0038,L1P,,,2023-05-31,1963-01-01
 a319a0,N29920,Cessna,L-19E/O-1E Bird Dog,O1,24503,L1P,,,2023-12-31,
 a31a9f,N3,Cessna,560XL Citation Excel,C56X,560-5341,L2J,,,2024-01-31,2003-01-01
+a31ab9,N3B,Cessna,750 Citation X,C750,750-0521,L2J,,,2021-10-31,2015-01-01
 a31adb,N3CJ,Cessna,525B CitationJet CJ3,C25B,711,L2J,,,,2003-01-01
 a31ae4,N3CT,Cessna,525B CitationJet CJ3,C25B,525B-0041,L2J,,,2022-03-31,2005-01-01
 a31b1e,N3FA,Cessna,560 Citation V,C560,560-0023,L2J,,,,
@@ -9579,6 +9686,7 @@ a31f9e,N300DA,Cessna,560XL Citation Excel,C56X,560-5270,L2J,,,2024-05-31,
 a31fd2,N300FC,Cessna,525 CitationJet CJ1,C525,525-0248,L2J,,,2022-04-30,1998-01-01
 a31feb,N300GC,Cessna,550 Citation II,C550,550-0311,L2J,,,2024-01-31,1981-01-01
 a31fec,N300GD,Cessna,425 Conquest I,C425,425-0074,L2T,,,,
+a3201e,N300JD,Cessna,750 Citation X+,C750,750-0515,L2J,,,,
 a3203d,N300KK,Cessna,525C CitationJet CJ4,C25C,525C-0076,L2J,,,2021-10-31,2012-01-01
 a32079,N300MV,Cessna,525B CitationJet CJ3,C25B,525B-0148,L2J,,,2024-01-31,2007-01-01
 a32135,N300VH,Cessna,L-19A/O-1A Bird Dog,O1,21789,L1P,,,2023-04-30,1951-01-01
@@ -9587,6 +9695,7 @@ a32312,N301AJ,Cessna,510 Citation Mustang,C510,510-0233,L2J,,,2022-10-31,2009-01
 a32364,N301DR,Cessna,501 Citation I/SP,C501,501-0273,L2J,,,2023-05-31,1977-01-01
 a323a0,N301GA,Cessna,180K Skywagon,C180,18052490,L1P,,,2023-09-30,1979-01-01
 a323b1,N301GT,Cessna,510 Citation Mustang,C510,510-0076,L2J,,,2021-08-31,2008-01-01
+a323c8,N301HR,Cessna,750 Citation X,C750,750-0062,L2J,,,2024-04-30,1998-01-01
 a32403,N301L,Cessna,560XL Citation Excel,C56X,560-6101,L2J,,,2024-04-30,2012-01-01
 a32463,N301PW,Cessna,208B Grand Caravan,C208,208B-0983,L1T,,,,
 a32478,N301QS,Cessna,680 Citation Sovereign,C680,680-0010,L2J,EJA,,,
@@ -9883,7 +9992,9 @@ a3d56b,N346US,Cessna,525A CitationJet CJ2,C25A,525A-0077,L2J,,,,
 a3d5b0,N346XL,Cessna,560XL Citation Excel,C56X,560-5346,L2J,,,2022-06-30,2003-01-01
 a3d76b,N347BC,Cessna,525 CitationJet CJ1,C525,525-0431,L2J,,,2023-08-31,2001-01-01
 a3d86a,N347MH,Cessna,501 Citation I/SP,C501,501-0155,L2J,,,2023-04-30,
+a3d8d1,N347RL,Cessna,750 Citation X,C750,750-0276,L2J,,,2024-05-31,2007-01-01
 a3d90e,N347TX,Cessna,680 Citation Sovereign,C680,680-0013,L2J,,,2023-06-30,2004-01-01
+a3d954,N347WS,Cessna,750 Citation X,C750,750-0017,L2J,,,2021-12-31,1997-01-01
 a3db44,N348CM,Cessna,550B Citation Bravo,C55B,550-0915,L2J,,,2022-03-31,2000-01-01
 a3dfde,N349MP,Cessna,441 Conquest II,C441,441-0302,L2T,,,2023-05-31,
 a3e2b8,N35CT,Cessna,525A CitationJet CJ2,C25A,525A-0120,L2J,,,,
@@ -9908,9 +10019,12 @@ a3f108,N353MC,Cessna,550B Citation Bravo,C55B,550-1023,L2J,,,2022-07-31,2002-01-
 a3f140,N353PJ,Cessna,500 Citation I,C500,500-0104,L2J,,,2022-11-30,
 a3f1ac,N353TS,Cessna,425 Conquest I,C245,425-0221,L2T,,,2024-01-31,1984-01-01
 a3f1b0,N353TW,Cessna,560XL Citation XLS,C56X,560-5669,L2J,,,,
+a3f1e9,N353WC,Cessna,750 Citation X,C750,750-0180,L2J,,,2024-07-31,2002-01-01
 a3f481,N354JR,Cessna,680 Citation Sovereign,C680,680-0502,L2J,,,2021-12-31,2014-01-01
+a3f5a0,N354WC,Cessna,750 Citation X,C750,750-0191,L2J,,,2024-07-31,2002-01-01
 a3f5b6,N354X,Cessna,L-19E/O-1E Bird Dog,O1,24512,L1P,,,2021-12-31,
 a3f80b,N355GW,Cessna,172S Skyhawk SP,C172,172S9355,L1P,,,,
+a3f8bb,N355PX,Cessna,750 Citation X,C750,750-0266,L2J,,,2023-03-31,2007-01-01
 a3fb65,N356DC,Cessna,525B CitationJet CJ3,C25B,525B-0372,L2J,,,2022-03-31,2011-01-01
 a3fca8,N356SA,Cessna,560 Citation V,C560,560-0256,L2J,,,2022-10-31,1994-01-01
 a3fd0c,N356WA,Cessna,680 Citation Sovereign,C680,680-0512,L2J,,,2023-02-28,2013-01-01
@@ -9988,6 +10102,7 @@ a4396b,N371VP,Cessna,510 Citation Mustang,C510,510-0371,L2J,,,2022-01-31,2011-01
 a43c51,N372ME,Cessna,206H Stationair,C206,206-8130,L1P,,,2023-05-31,2000-01-01
 a43ca8,N372QS,Cessna,680 Citation Sovereign,C680,680-0201,L2J,EJA,,2023-09-30,2008-01-01
 a43dab,N37201,Cessna,550 Citation II,C550,550-0655,L2J,,,2023-07-31,1991-01-01
+a43ef2,N373AB,Cessna,750 Citation X,C750,750-0243,L2J,,,,
 a43ef6,N373AF,Cessna,525 CitationJet CJ1,C525,525-0308,L2J,,,2023-07-31,1999-01-01
 a43ff8,N373LP,Cessna,425 Conquest I,C425,425-0141,L2T,,,,
 a4425f,N37379,Cessna,421C Golden Eagle,C421,421C-0654,L2P,,,2022-12-31,1979-01-01
@@ -9996,6 +10111,7 @@ a447fc,N375SP,Cessna,208B Grand Caravan,C208,208B-2079,L1T,,,2023-10-31,2009-01-
 a448c3,N3750N,Cessna,560XL Citation XLS,C56X,560-5534,L2J,,,,
 a449be,N3757U,Cessna,A-37A Dragonfly,A37,40056,L2J,,,,
 a44b84,N376QS,Cessna,680 Citation Sovereign,C680,680-0180,L2J,EJA,,2023-08-31,2007-01-01
+a44d27,N3765L,Cessna,680A Citation Latitude,C68A,E68A-719001,L2J,,,,2014-01-01
 a44dff,N377CA,Cessna,441 Conquest II,C441,441-0289,L2T,,,,
 a44f3b,N377QS,Cessna,680 Citation Sovereign,C680,680-0187,L2J,EJA,,2022-12-31,2008-01-01
 a44f57,N377RV,Cessna,510 Citation Mustang,C510,510-0227,L2J,,,,
@@ -10049,6 +10165,7 @@ a4754b,N387A,Cessna,560 Citation V,C560,560-0240,L2J,,,2023-08-31,1993-01-01
 a4766a,N387MM,Cessna,560 Citation V,C560,560-0109,L2J,,,2022-12-31,1991-01-01
 a476ba,N387QS,Cessna,680 Citation Sovereign,C680,680-0119,L2J,EJA,,2023-11-30,2007-01-01
 a476c7,N387RE,Cessna,550 Citation II,C550,550-0575,L2J,,,2023-11-30,
+a476e6,N387SL,Cessna,750 Citation X,C750,750-0524,L2J,,,2024-02-29,2017-01-01
 a47994,N388FW,Cessna,525 CitationJet CJ1,C525,525-0656,L2J,,,2022-01-31,2007-01-01
 a479f5,N388KT,Cessna,525A CitationJet CJ2,C25A,525A-0172,L2J,,,2023-05-31,2003-01-01
 a47a71,N388QS,Cessna,680 Citation Sovereign,C680,680-0113,L2J,EJA,,2023-03-31,2006-01-01
@@ -10091,10 +10208,13 @@ a4a209,N398RS,Cessna,560XL Citation Excel,C56X,560-5009,L2J,,,2023-01-31,
 a4a43e,N399AF,Cessna,560 Citation V,C560,560-0346,L2J,,,,
 a4a48b,N399DH,Cessna,680A Citation Latitude,C68A,680A-0031,L2J,,,2023-11-30,2016-01-01
 a4a4ce,N399G,Cessna,525 CitationJet CJ1,C525,525-0183,L2J,,,2022-10-31,1997-01-01
+a4a538,N399LF,Cessna,750 Citation X,C750,750-0213,L2J,,,2023-05-31,2003-01-01
 a4a591,N399PV,Cessna,560XL Citation Excel,C56X,560-5211,L2J,,,,
 a4a5a7,N399QS,Cessna,680 Citation Sovereign,C680,680-0114,L2J,EJA,,,
 a4a5f3,N399TT,Cessna,208 Caravan,C208,208-0099,L1T,,,2022-03-31,1986-01-01
+a4a62c,N399W,Cessna,750 Citation X,C750,750-0171,L2J,,,2023-08-31,2001-01-01
 a4a801,N4AT,Cessna,550B Citation Bravo,C55B,550-0805,L2J,,,2023-01-31,1997-01-01
+a4a82a,N4CJ,Cessna,525C CitationJet CJ4,C25C,525C-714001,L2J,,,,2008-01-01
 a4a852,N4DZ,Cessna,P337H Pressurized Skymaster,P337,P337-0313,L2P,,,2023-03-31,1978-01-01
 a4a872,N4FF,Cessna,510 Citation Mustang,C510,510-0007,L2J,,,2022-02-28,2007-01-01
 a4a8a8,N4HK,Cessna,525 CitationJet CJ1,C525,525-0049,L2J,,,2022-07-31,1994-01-01
@@ -10158,7 +10278,9 @@ a4bd13,N404SF,Cessna,208 Caravan,C208,208-0404,L1T,,,2022-12-31,2007-01-01
 a4bd1e,N404SS,Reims Aviation,F172H Skyhawk,C172,0702,L1P,,,2023-01-31,1970-01-01
 a4be23,N4042H,Cessna,525 Citation M2,C25M,525-0964,L2J,,,,
 a4bfde,N405GV,Cessna,208B Grand Caravan,C208,208B-0892,L1T,ERR,,2023-09-30,2001-01-01
+a4c03f,N405LS,Cessna,750 Citation X,C750,750-0013,L2J,,,,
 a4c2a5,N4058A,Cessna,525 Citation M2,C25M,525-0965,L2J,,,,
+a4c326,N406CJ,Cessna,650 Citation VII,C650,650-7010,L2J,,,,
 a4c329,N406CM,Cessna,510 Citation Mustang,C510,510-0015,L2J,,,2023-08-31,2007-01-01
 a4c32d,N406CR,Cessna,208B Grand Caravan,C208,208B-2170,L1T,,,2022-01-31,2010-01-01
 a4c32f,N406CT,Cessna,550 Citation S/II,C550,S550-0038,L2J,,,2022-11-30,1985-01-01
@@ -10209,6 +10331,7 @@ a4d812,N411CJ,Cessna,525A CitationJet CJ2,C25A,525A-0411,L2J,,,2023-10-31,2008-0
 a4d83e,N411EC,Cessna,560XL Citation Excel,C56X,560-5734,L2J,,,2024-01-31,2007-01-01
 a4d881,N411GV,Cessna,208B Grand Caravan,C208,208B-0672,L1T,,,2023-10-31,1998-01-01
 a4d8c7,N411KQ,Cessna,560XL Citation Excel,C56X,560-5226,L2J,,,2024-02-29,2002-01-01
+a4d905,N411NB,Cessna,750 Citation X,C750,750-0309,L2J,,,2024-01-31,2011-01-01
 a4d989,N411TJ,Cessna,680 Citation Sovereign,C680,680-0017,L2J,,,2023-10-31,2005-01-01
 a4d98d,N411TN,Cessna,500 Citation I,C500,500-0275,L2J,,,2023-01-31,1975-01-01
 a4d9c2,N411VR,Cessna,525 CitationJet CJ1,C525,525-0411,L2J,,,2021-09-30,2001-01-01
@@ -10363,6 +10486,7 @@ a5104d,N425XP,Cessna,425 Conquest I,C245,425-0064,L2T,,,2022-05-31,1981-01-01
 a51058,N425Y,Cessna,425 Conquest I,C245,425-0209,L2T,,,2022-07-31,1984-01-01
 a51071,N425Z,Cessna,425 Conquest I,C425,425-0186,L2T,,,2022-04-30,1983-01-01
 a51223,N426CH,Cessna,560XL Citation Excel,C56X,560-5222,L2J,,,2023-06-30,2002-01-01
+a51227,N426CM,Cessna,750 Citation X,C750,750-0117,L2J,,,2023-10-31,2000-01-01
 a51251,N426ED,Cessna,525 CitationJet CJ1,C525,525-0426,L2J,,,2022-05-31,2001-01-01
 a512be,N426JN,Cessna,560XL Citation Excel,C56X,560-5275,L2J,,,2023-05-31,2002-01-01
 a512d6,N426KM,Cessna,208 Caravan,C208,208-0306,L1T,KEN,,2023-04-30,1999-01-01
@@ -10434,6 +10558,7 @@ a54952,N44LV,Cessna,560 Citation V,C560,560-0397,L2J,,,2021-07-31,1996-01-01
 a54961,N44MK,Cessna,501 Citation I/SP,C501,501-0272,L2J,URY,,2023-04-30,
 a54966,N44MQ,Cessna,650 Citation VII,C650,650-7043,L2J,,,2024-03-31,1994-01-01
 a54975,N44NE,Cessna,414,C414,414-0070,L2P,,,2023-09-30,
+a54999,N44PR,Cessna,750 Citation X,C750,750-0214,L2J,,,2024-04-30,2004-01-01
 a549dc,N44SH,Cessna,680 Citation Sovereign,C680,680-0023,L2J,,,2023-03-31,2005-01-01
 a549e9,N44SW,Cessna,550B Citation Bravo,C55B,550-1067,L2J,,,2023-05-31,2003-01-01
 a54a30,N44VS,Cessna,525 CitationJet CJ1,C525,525-0500,L2J,,,2023-06-30,2002-01-01
@@ -10522,6 +10647,7 @@ a552d5,N442JB,Cessna,500 Citation I,C500,500-0117,L2J,,,2023-04-30,1973-01-01
 a552f8,N442KM,Cessna,550 Citation S/II,C550,S550-0060,L2J,,,2023-07-31,1985-01-01
 a55319,N442LV,Cessna,510 Citation Mustang,C510,510-0153,L2J,,,2023-02-28,2009-01-01
 a5531a,N442LW,Cessna,680 Citation Sovereign,C680,680-0539,L2J,,,2024-01-31,2014-01-01
+a55411,N442WT,Cessna,750 Citation X,C750,750-0514,L2J,,,2024-01-31,2015-01-01
 a55469,N4420F,Cessna,425 Conquest I,C425,425-0053,L2T,,,,
 a55627,N443EA,Cessna,560 Citation V,C560,560-0400,L2J,,,2021-07-31,1996-01-01
 a55671,N443H,Cessna,425 Conquest I,C425,425-0002,L2T,,,2023-09-30,1980-01-01
@@ -10534,6 +10660,7 @@ a55843,N4431F,Cessna,L-19E/O-1E Bird Dog,O1,24562,L1P,,,2022-01-31,
 a5584a,N4431N,Cessna,L-19E/O-1E Bird Dog,O1,24734,L1P,,,2023-02-28,
 a55979,N444A,Cessna,680A Citation Latitude,C68A,680A-0003,L2J,,,2022-01-31,2014-01-01
 a55983,N444AK,Cessna,441 Conquest II,C441,441-0334,L2T,,,2021-11-30,1984-01-01
+a55995,N444BC,Cessna,750 Citation X,C750,750-0025,L2J,,,2024-06-30,1997-01-01
 a559c0,N444CW,Cessna,650 Citation III,C650,650-0064,L2J,,,2022-11-30,1984-01-01
 a559d1,N444DN,Cessna,680A Citation Latitude,C68A,680A-0085,L2J,,,2022-10-31,2017-01-01
 a55a0f,N444G,Cessna,550 Citation II,C550,550-0209,L2J,,,2023-02-28,1980-01-01
@@ -10556,6 +10683,7 @@ a56634,N447SF,Cessna,550B Citation Bravo,C55B,550-1020,L2J,,,2023-12-31,2002-01-
 a5680a,N44776,Cessna,441 Conquest II,C441,441-0121,L2T,,,2021-07-31,1978-01-01
 a5684f,N44795,Cessna,T-50,T50,6516,L2J,,,2021-10-31,1943-01-01
 a56890,N448CJ,Cessna,525C CitationJet CJ4,C25C,525C-0163,L2J,,,2023-10-31,2014-01-01
+a5689d,N448CX,Cessna,750 Citation X,C750,750-0252,L2J,,,2023-08-31,2006-01-01
 a5695a,N448LL,Cessna,525 CitationJet CJ1,C525,525-0651,L2J,,,2022-08-31,2007-01-01
 a569d7,N448RL,Cessna,550B Citation Bravo,C55B,550-0990,L2J,,,2023-10-31,2001-01-01
 a56c3d,N449BZ,Cessna,525C CitationJet CJ4,C25C,525C-0198,L2J,,,2021-10-31,2015-01-01
@@ -10696,6 +10824,7 @@ a5dca4,N477RT,Cessna,680 Citation Sovereign,C680,680-0138,L2J,,,2023-07-31,2007-
 a5dd36,N477XP,Cessna,208B Grand Caravan,C208,208B-0833,L1T,,,2021-08-31,2000-01-01
 a5df46,N478ER,Cessna,172R Skyhawk,C172,17280623,L1P,,,2023-12-31,1998-01-01
 a5e018,N478PA,Cessna,650 Citation VII,C650,650-7069,L2J,,,2022-10-31,1996-01-01
+a5e023,N478PM,Cessna,750 Citation X,C750,750-0518,L2J,,,2023-03-31,
 a5e064,N478SB,Cessna,560 Citation V,C560,560-0375,L2J,,,2023-09-30,1996-01-01
 a5e2d7,N479DC,Cessna,510 Citation Mustang,C510,510-0302,L2J,,,2023-11-30,2010-01-01
 a5e5ba,N4796G,Cessna,L-19/O-1 Bird Dog,O1,23311,L1P,,,2024-03-31,1956-01-01
@@ -10703,6 +10832,7 @@ a5e64c,N48AM,Cessna,425 Conquest I,C425,425-0104,L2T,,,,
 a5e66d,N48BV,Cessna,550 Citation S/II,C550,S550-0032,L2J,,,2023-03-31,1985-01-01
 a5e695,N48DK,Cessna,551 Citation II/SP,C551,551-0095,L2J,,,2022-04-30,1978-01-01
 a5e6d2,N48FW,Cessna,550B Citation Bravo,C55B,550-0948,L2J,,,2021-08-31,2000-01-01
+a5e6f5,N48HF,Cessna,750 Citation X,C750,750-0220,L2J,,,2024-04-30,2003-01-01
 a5e714,N48JM,Cessna,525A CitationJet CJ2,C25A,525A-0316,L2J,,,2023-03-31,2006-01-01
 a5e729,N48KH,Cessna,550 Citation II,C550,550-0295,L2J,BAJ,,2021-07-31,1981-01-01
 a5e77d,N48NS,Cessna,550B Citation Bravo,C55B,550-0939,L2J,,,,
@@ -10711,6 +10841,7 @@ a5e78e,N48PJ,Cessna,550 Citation II,C550,550-0668,L2J,,,2023-12-31,1991-01-01
 a5e839,N48WE,Cessna,182P Skylane,C182,18262161,L1P,,,2023-08-31,1973-01-01
 a5e8ce,N480CC,Cessna,525B CitationJet CJ3,C25B,525B-0326,L2J,,,2024-05-31,2009-01-01
 a5e8eb,N480DG,Cessna,560 Citation V,C560,560-0015,L2J,,,2024-01-31,
+a5e965,N480JD,Cessna,750 Citation X,C750,750-0235,L2J,,,2022-03-31,2004-01-01
 a5ea1b,N480RL,Cessna,560 Citation V,C560,560-0109,L2J,,,2023-11-30,1991-01-01
 a5ea8f,N480WB,Cessna,525 Citation M2,C25M,525-0807,L2J,,,,
 a5ec5c,N481AM,Cessna,525C CitationJet CJ4,C25C,525C-0029,L2J,,,2022-04-30,2011-01-01
@@ -10723,6 +10854,7 @@ a5f826,N484HB,Cessna,510 Citation Mustang,C510,510-0426,L2J,,,2024-05-31,2012-01
 a5f83d,N484J,Cessna,525 CitationJet CJ1,C525,525-0048,L2J,,,2021-07-31,1994-01-01
 a5f894,N484MM,Cessna,560 Citation V,C560,560-0491,L2J,,,2022-09-30,1998-01-01
 a5f90a,N484SE,Cessna,525 CitationJet CJ1,C525,525-0657,L2J,,,2022-08-31,2007-01-01
+a5f91e,N484T,Cessna,750 Citation X,C750,750-0199,L2J,,,,
 a5f952,N484VB,Cessna,510 Citation Mustang,C510,510-0329,L2J,,,2023-02-28,2010-01-01
 a5fa5a,N4844A,Cessna,L-19/O-1 Bird Dog,O1,24721,L1P,,,,
 a5fa88,N4845M,Cessna,L-19E/O-1E Bird Dog,O1,24569,L1P,,,2022-10-31,1959-01-01
@@ -10739,6 +10871,7 @@ a6009e,N486TT,Cessna,560XL Citation Excel,C56X,560-5635,L2J,,,2024-04-30,2006-01
 a602ae,N487AV,Cessna,560XL Citation Excel,C56X,560-6076,L2J,,,2021-12-31,2010-01-01
 a602ce,N487CB,Cessna,525 Citation M2,C25M,525-0878,L2J,,,2022-05-31,2015-01-01
 a602d5,N487CJ,Cessna,525 CitationJet CJ1,C525,525-0487,L2J,,,,
+a60435,N487SL,Cessna,750 Citation X,C750,750-0525,L2J,,,2024-03-31,2016-01-01
 a60455,N487TT,Cessna,525B CitationJet CJ3,C25B,525B-0022,L2J,,,2023-04-30,2005-01-01
 a6071d,N488JD,Cessna,560XL Citation XLS+,C56X,560-6015,L2J,,,,
 a607e3,N488SB,Cessna,550B Citation Bravo,C55B,550-1026,L2J,,,2023-08-31,
@@ -10750,6 +10883,7 @@ a60aba,N489HC,Cessna,525 CitationJet CJ1,C525,525-0437,L2J,,,2023-04-30,2001-01-
 a60e61,N49GM,Cessna,425 Conquest I,C425,425-0165,L2T,,,2023-11-30,1982-01-01
 a60eb5,N49KW,Cessna,550B Citation Bravo,C55B,550-1021,L2J,,,2022-12-31,2002-01-01
 a60ebd,N49LD,Cessna,560 Citation V,C560,560-0803,L2J,,,2021-07-31,2008-01-01
+a60f19,N49PW,Cessna,750 Citation X,C750,750-0207,L2J,,,2024-01-31,2003-01-01
 a60f81,N49U,Cessna,550 Citation II,C550,550-0082,L2J,,,2022-04-30,1979-01-01
 a6104b,N490CA,Cessna,550B Citation Bravo,C55B,550-1043,L2J,,,,
 a61066,N490DC,Cessna,550 Citation II,C550,550-0117,L2J,,,,
@@ -10788,6 +10922,7 @@ a63301,N499RC,Cessna,550 Citation S/II,C550,S550-0090,L2J,,,,
 a63387,N499WM,Cessna,550B Citation Bravo,C55B,550-0869,L2J,,,,
 a634d4,N4997,Cessna,525 Citation M2,C25M,525-0880,L2J,,,2021-10-31,2015-01-01
 a63575,N5CE,Cessna,425 Conquest I,C245,425-0135,L2T,,,2022-01-31,1981-01-01
+a635c1,N5FF,Cessna,750 Citation X,C750,750-0236,L2J,,,,
 a635e7,N5GU,Cessna,525B CitationJet CJ3,C25B,525B-0009,L2J,,,2023-08-31,2005-01-01
 a63642,N5LK,Cessna,500 Citation I,C500,500-0274,L2J,,,,
 a63660,N5MQ,Cessna,525B CitationJet CJ3,C25B,525B-0347,L2J,,,2023-01-31,2010-01-01
@@ -10796,6 +10931,7 @@ a636f7,N5TR,Cessna,551 Citation II/SP,C551,551-0351,L2J,,,2023-10-31,1981-01-01
 a63704,N5UD,Cessna,525 CitationJet CJ1+,C525,525-0620,L2J,,,,
 a63713,N5UU,Cessna,560 Citation V,C560,560-0457,L2J,,,2022-05-31,1998-01-01
 a6372c,N5VU,Cessna,525A CitationJet CJ2,C25A,525A-0480,L2J,,,2024-01-31,2011-01-01
+a6373f,N5WN,Cessna,525B CitationJet CJ3,C25B,525B-0204,L2J,,,,
 a63744,N5WT,Cessna,560 Citation V,C560,560-0635,L2J,,,2024-01-31,2003-01-01
 a63768,N5YD,Cessna,525A CitationJet CJ2,C25A,525A-0019,L2J,,,2023-06-30,2001-01-01
 a6378a,N5ZN,Cessna,501 Citation I/SP,C501,501-0115,L2J,,,,
@@ -10809,6 +10945,7 @@ a6396a,N50US,Cessna,560 Citation V,C560,560-0145,L2J,,,2021-12-31,1991-01-01
 a63983,N50VS,Cessna,550 Citation II,C550,550-0181,L2J,,,,
 a6398b,N50W,Cessna,550B Citation Bravo,C55B,550-0884,L2J,,,2023-08-31,
 a63999,N50WP,Cessna,L-19E/O-1E Bird Dog,O1,61-2970,L1P,,,2023-06-30,
+a63a29,N500CG,Cessna,750 Citation X+,C750,750-0519,L2J,,,,
 a63a3d,N500DB,Cessna,500 Citation I,C500,500-0148,L2J,,,2023-07-31,1974-01-01
 a63a64,N500ER,Cessna,441 Conquest II,C441,441-0084,L2T,,,,
 a63a7d,N500FR,Cessna,650 Citation VI,C650,650-0208,L2J,,,2023-03-31,1992-01-01
@@ -10904,6 +11041,7 @@ a64406,N5022K,Cessna,L-19A/O-1A Bird Dog,O1,21198,L1P,,,2021-10-31,1951-01-01
 a644e9,N50282,Cessna,208B Grand Caravan EX,C208,208B-5317,L1T,,,,
 a64526,N503AS,Cessna,525A CitationJet CJ2+,C25A,525A-0445,L2J,XSR,,,
 a6454a,N503CC,Cessna,500 Citation I,C500,500-0003,L2J,,,,
+a6455d,N503CX,Cessna,750 Citation X+,C750,750-0503,L2J,,,,
 a64600,N503KK,Cessna,525B CitationJet CJ3,C25B,525B-0503,L2J,,,2024-01-31,2016-01-01
 a64632,N503MK,Cessna,208B Grand Caravan,C208,208B-5342,L1T,,,2023-03-31,2016-01-01
 a64679,N503QF,Cessna,560XL Citation Excel,C56X,560-5205,L2J,,,,
@@ -10935,6 +11073,7 @@ a64e03,N505RJ,Cessna,501 Citation I/SP,C501,501-0009,L2J,,,2022-05-31,1977-01-01
 a64e06,N505RM,Cessna,525A CitationJet CJ2,C25A,525A-0041,L2J,,,2021-08-31,2001-01-01
 a64e88,N505WS,Cessna,525 Citation M2,C25M,525-0947,L2J,,,,
 a64f3c,N50522,Cessna,208B Grand Caravan EX,C208,208B-5286,L1T,,,,
+a64f83,N50543,Cessna,750 Citation X+,C750,750-0531,L2J,,,,
 a64f89,N50549,Cessna,560XL Citation XLS+,C56X,560-6234,L2J,,,,
 a651a9,N506QS,Cessna,680A Citation Latitude,C68A,680A-0043,L2J,EJA,,2022-10-31,2016-01-01
 a651bc,N506RL,Cessna,560 Citation V,C560,560-0114,L2J,,,,
@@ -10962,6 +11101,7 @@ a657c9,N508BH,Cessna,208B Grand Caravan,C208,208B-2380,L1T,,,2023-04-30,2012-01-
 a6588d,N508KD,Cessna,560 Citation V,C560,560-0147,L2J,,,2022-04-30,1991-01-01
 a65921,N508RB,Cessna,208B Grand Caravan,C208,208B-5008,L1T,,,2022-04-30,2013-01-01
 a65978,N508UP,Cessna,560XL Citation Excel,C56X,560-5546,L2J,,,2023-09-30,2005-01-01
+a65ba7,N509CX,Cessna,750 Citation X,C750,750-0509,L2J,,,2023-07-31,2014-01-01
 a65bc4,N509EA,Cessna,L-19A/O-1A Bird Dog,O1,23090,L1P,,,,
 a65c2c,N509JE,Cessna,208 Caravan,C208,208-0509,L1T,,,2021-09-30,2009-01-01
 a65ce4,N509RP,Cessna,550 Citation S/II,C550,S550-0030,L2J,,,2022-10-31,
@@ -10991,6 +11131,7 @@ a6619a,N510BT,Cessna,510 Citation Mustang,C510,510-0336,L2J,,,2022-11-30,2010-01
 a6619d,N510BW,Cessna,510 Citation Mustang,C510,510-0098,L2J,,,2022-12-31,2008-01-01
 a661a7,N510CF,Cessna,510 Citation Mustang,C510,510-0045,L2J,,,2021-07-31,2007-01-01
 a661aa,N510CJ,Cessna,510 Citation Mustang,C510,510-0173,L2J,,,2022-05-31,2009-01-01
+a661b7,N510CX,Cessna,750 Citation X,C750,750-0510,L2J,,,2022-12-31,2014-01-01
 a661b9,N510CZ,Cessna,525B CitationJet CJ3,C25B,525B-0510,L2J,,,,
 a661c1,N510DG,Cessna,510 Citation Mustang,C510,510-0012,L2J,,,,
 a661c2,N510DH,Cessna,510 Citation Mustang,C510,510-0208,L2J,,,,
@@ -11037,6 +11178,7 @@ a66366,N510WC,Cessna,510 Citation Mustang,C510,510-0017,L2J,,,2022-05-31,2007-01
 a6636a,N510WG,Cessna,510 Citation Mustang,C510,510-0317,L2J,,,2023-10-31,2010-01-01
 a6646e,N51042,Cessna,208B Grand Caravan EX,C208,208B-5313,L1T,,,,
 a664d7,N51072,Cessna,525B CitationJet CJ3,C25B,525B-0521,L2J,,,,
+a664e6,N5108G,Cessna,750 Citation X+,C750,750-0528,L2J,,,,
 a66528,N511AB,Cessna,550 Citation II,C550,550-0299,L2J,,,2023-02-28,1981-01-01
 a66529,N511AC,Cessna,525C CitationJet CJ4,C25C,525C-0081,L2J,,,,
 a6654d,N511BP,Cessna,525 CitationJet CJ1,C525,525-0332,L2J,,,,
@@ -11050,8 +11192,10 @@ a666dd,N511TP,Cessna,510 Citation Mustang,C510,510-0407,L2J,,,2021-12-31,2012-01
 a666f6,N511UP,Cessna,560XL Citation Excel,C56X,560-5637,L2J,,,2022-10-31,2006-01-01
 a66869,N51160,Cessna,560XL Citation XLS+,C56X,560-6233,L2J,,,,
 a668df,N512AB,Cessna,560XL Citation Excel,C56X,560-6142,L2J,,,2023-05-31,2013-01-01
+a66925,N512CX,Cessna,750 Citation X,C750,750-0512,L2J,,,2024-03-31,2014-01-01
 a66a4c,N512QS,Cessna,680A Citation Latitude,C68A,680A-0045,L2J,EJA,,2023-06-30,2016-01-01
 a66aad,N512UP,Cessna,560XL Citation Excel,C56X,560-5680,L2J,,,2022-09-30,2007-01-01
+a66be0,N51246,Cessna,750 Citation X+,C750,750-0529,L2J,,,,
 a66cc9,N513CC,Cessna,560XL Citation Excel,C56X,560-5678,L2J,,,2021-09-30,2007-01-01
 a66e03,N513QS,Cessna,680A Citation Latitude,C68A,680A-0046,L2J,EJA,,2023-12-31,2016-01-01
 a66e1f,N513RV,Cessna,525 CitationJet CJ1,C525,525-0513,L2J,,,2023-07-31,2003-01-01
@@ -11065,6 +11209,8 @@ a6709a,N514DD,Cessna,510 Citation Mustang,C510,510-0313,L2J,,,2023-10-31,2011-01
 a670a7,N514DS,Cessna,525 CitationJet CJ1,C525,525-0255,L2J,,,,1998-01-01
 a671ba,N514QS,Cessna,680A Citation Latitude,C68A,680A-0052,L2J,EJA,,2023-02-28,2016-01-01
 a6721b,N514UP,Cessna,560XL Citation Excel,C56X,560-5705,L2J,,,2022-09-30,2007-01-01
+a67258,N514X,Cessna,750 Citation X,C750,750-0065,L2J,,,2022-03-31,1998-01-01
+a67366,N5145V,Cessna,750 Citation X+,C750,750-0532,L2J,,,,
 a6743f,N515CL,Cessna,182G Skylane,C182,18255135,L1P,,,2023-04-30,
 a67442,N515CP,Cessna,560XL Citation Excel,C56X,560-5626,L2J,,,2021-07-31,2006-01-01
 a6747a,N515EV,Cessna,525A CitationJet CJ2,C25A,525A-0211,L2J,,,2024-03-31,2004-01-01
@@ -11083,6 +11229,7 @@ a67b0d,N5167G,Cessna,L-19A/O-1A Bird Dog,O1,22302,L1P,,,2024-01-31,1951-01-01
 a67b30,N5168G,Cessna,L-19A/O-1A Bird Dog,O1,21186,L1P,,,2022-12-31,1950-01-01
 a67b53,N5169G,Cessna,L-19A/O-1A Bird Dog,O1,22760,L1P,,,2023-05-31,1951-01-01
 a67b76,N517AF,Cessna,550B Citation Bravo,C55B,550-0846,L2J,COO,,,
+a67ba8,N517CF,Cessna,750 Citation X,C750,750-0049,L2J,,,2021-12-31,1998-01-01
 a67bab,N517CJ,Cessna,525 CitationJet CJ1,C525,525-0517,L2J,,,2023-09-30,2003-01-01
 a67bc1,N517DF,Cessna,L-19E/O-1E Bird Dog,O1,24517,L1P,,,2021-11-30,1957-01-01
 a67ca8,N517NM,Cessna,208B Grand Caravan,C208,208B-0728,L1T,,,,
@@ -11140,6 +11287,7 @@ a68c42,N5207G,Cessna,L-19A/O-1A Bird Dog,O1,21645,L1P,,,,
 a68c65,N5208G,Cessna,L-19A/O-1A Bird Dog,O1,21936,L1P,,,2024-01-31,1951-01-01
 a68cd1,N521BU,Cessna,680 Citation Sovereign,C680,680-0330,L2J,,,2022-01-31,2012-01-01
 a68cf0,N521D,Cessna,UC-78B Bobcat,T50,4157,L2J,,,,
+a68d30,N521FP,Cessna,750 Citation X,C750,750-0016,L2J,,,,
 a68da5,N521LF,Cessna,560 Citation V,C560,560-0132,L2J,,,2023-10-31,1991-01-01
 a68df0,N521PF,Cessna,525 CitationJet CJ1,C525,525-0005,L2J,,,2023-11-30,1993-01-01
 a68e22,N521RF,Cessna,650 Citation VII,C650,650-7039,L2J,,,,
@@ -11346,6 +11494,7 @@ a6a34e,N527DV,Cessna,525B CitationJet CJ3,C25B,525B-0327,L2J,,,,
 a6a358,N527EE,Cessna,560XL Citation Excel,C56X,560-5549,L2J,,,2021-07-31,2005-01-01
 a6a368,N527EW,Cessna,501 Citation I/SP,C501,501-0322,L2J,,,,
 a6a3b2,N527HV,Cessna,525B CitationJet CJ3,C25B,525B-0213,L2J,,,2022-12-31,2008-01-01
+a6a429,N527NP,Cessna,750 Citation X,C750,750-0231,L2J,,,2022-07-31,2004-01-01
 a6a45e,N527QS,Cessna,680A Citation Latitude,C68A,680A-0069,L2J,EJA,,,
 a6a551,N5270K,Cessna,525C CitationJet CJ4,C25C,525C-0253,L2J,,,,
 a6a571,N5271G,Cessna,L-19A/O-1A Bird Dog,O1,23181,L1P,,,,
@@ -11458,6 +11607,7 @@ a6d7fd,N540AS,Cessna,525A CitationJet CJ2+,C25A,525A-0467,L2J,XSR,,,
 a6d885,N540GC,Cessna,425 Conquest I,C425,425-0026,L2T,JPR,,2022-08-31,1981-01-01
 a6d95b,N540QS,Cessna,680A Citation Latitude,C68A,680A-0083,L2J,EJA,,2023-11-30,2017-01-01
 a6db63,N5408G,Cessna,550 Citation II,C550,550-0666,L2J,,,2021-10-31,1991-01-01
+a6dbeb,N541CX,Cessna,750 Citation X,C750,750-0036,L2J,,,2024-03-31,1997-01-01
 a6dd12,N541QS,Cessna,680A Citation Latitude,C68A,680A-0084,L2J,EJA,,2023-10-31,2017-01-01
 a6dd1c,N541RB,Cessna,441 Conquest II,C441,441-0039,L2T,,,,
 a6dd33,N541S,Cessna,650 Citation III,C650,650-0115,L2J,,,2021-11-30,1986-01-01
@@ -11488,6 +11638,7 @@ a6ec2f,N545TG,Cessna,525 CitationJet CJ1,C525,525-0545,L2J,,,2023-05-31,2004-01-
 a6ed52,N5453T,Cessna,TR182 Turbo Skylane RG,C82T,R18201870,L1P,,,2022-05-31,1982-01-01
 a6ed9f,N54550,Cessna,L-19A/O-1A Bird Dog,O1,JV5,L1P,,,2022-05-31,1978-01-01
 a6ee79,N546CS,Cessna,560XL Citation Excel,C56X,560-5524,L2J,,,2024-03-31,
+a6ef4d,N546MD,Cessna,750 Citation X,C750,750-0215,L2J,,,2024-02-29,2003-01-01
 a6f0f3,N54626,Cessna,182N Skylane,C182,18260199,L1P,,,2021-09-30,1970-01-01
 a6f35c,N547QS,Cessna,680A Citation Latitude,C68A,680A-0094,L2J,EJA,,2023-09-30,2017-01-01
 a6f3ab,N547TW,Cessna,525 CitationJet CJ1,C525,525-0547,L2J,,,2023-04-30,2004-01-01
@@ -11612,6 +11763,7 @@ a712f1,N555KT,Cessna,560 Citation V,C560,560-0368,L2J,,,,
 a712f4,N555KW,Cessna,501 Citation I/SP,C501,501-0063,L2J,,,,
 a712ff,N555LG,Cessna,560 Citation V,C560,560-0421,L2J,,,,
 a7134a,N555PG,Cessna,560 Citation V,C560,560-0102,L2J,,,2021-12-31,1991-01-01
+a7135e,N555QB,Cessna,750 Citation X+,C750,750-0516,L2J,,,,
 a7136d,N555QS,Cessna,560XL Citation Excel,C56X,560-5543,L2J,EJA,,2023-04-30,2005-01-01
 a71387,N555RT,Cessna,551 Citation II/SP,C551,551-0323,L2J,,,2021-10-31,1981-01-01
 a713fd,N555WL,Cessna,560 Citation V,C560,560-0488,L2J,,,2021-12-31,1998-01-01
@@ -11774,6 +11926,7 @@ a72fc7,N562QS,Cessna,680A Citation Latitude,C68A,680A-0112,L2J,EJA,,2021-11-30,2
 a72fdb,N562RM,Cessna,550 Citation II,C550,550-0646,L2J,,,,
 a73012,N562TS,Cessna,560XL Citation Excel,C56X,560-5178,L2J,,,2023-08-31,2001-01-01
 a73041,N562VP,Cessna,560XL Citation Excel,C56X,560-5623,L2J,,,2021-12-31,2006-01-01
+a73229,N563BA,Cessna,750 Citation X,C750,750-0169,L2J,,,2022-06-30,2001-01-01
 a73252,N563CS,Cessna,560XL Citation Excel,C56X,560-5563,L2J,,,2021-12-31,2005-01-01
 a73322,N563M,Cessna,560 Citation V,C560,560-0550,L2J,,,2024-05-31,2001-01-01
 a7337e,N563QS,Cessna,680A Citation Latitude,C68A,680A-0113,L2J,EJA,,2023-11-30,2017-01-01
@@ -11851,6 +12004,7 @@ a762b3,N575TP,Cessna,510 Citation Mustang,C510,510-0022,L2J,,,2023-01-31,2007-01
 a76622,N576QS,Cessna,560XL Citation Excel,C56X,560-5708,L2J,EJA,,2023-06-30,2007-01-01
 a76644,N576SA,Cessna,560XL Citation Excel,C56X,560-6037,L2J,,,2023-04-30,2009-01-01
 a76646,N576SC,Cessna,525A CitationJet CJ2,C25A,525A-0224,L2J,,,2022-07-31,2005-01-01
+a76935,N577JC,Cessna,750 Citation X,C750,750-0122,L2J,JAS,,2021-12-31,2000-01-01
 a76980,N577MC,Cessna,550B Citation Bravo,C55B,550-0861,L2J,,,,
 a769b0,N577PA,Cessna,425 Conquest I,C245,425-0194,L2T,,,2022-01-31,1984-01-01
 a769c0,N577PS,Cessna,560XL Citation Excel,C56X,560-5581,L2J,,,2022-10-31,2005-01-01
@@ -11903,18 +12057,22 @@ a788d2,N585DM,Cessna,525 CitationJet CJ1,C525,525-0697,L2J,,,2023-11-30,2010-01-
 a788ed,N585EP,Cessna,525A CitationJet CJ2,C25A,525A-0346,L2J,,,2024-01-31,2007-01-01
 a7896d,N585KS,Cessna,550B Citation Bravo,C55B,550-0945,L2J,,,2023-03-31,2000-01-01
 a7896e,N585KT,Cessna,550 Citation II,C550,550-0420,L2J,,,,
+a7898e,N585M,Cessna,750 Citation X,C750,750-0096,L2J,,,2022-06-30,1999-01-01
 a78991,N585MC,Cessna,525 CitationJet CJ1,C525,525-0452,L2J,,,2023-08-31,
 a78999,N585ML,Cessna,525 CitationJet CJ1,C525,525-0402,L2J,,,2024-04-30,2000-01-01
 a789c1,N585PA,Cessna,425 Conquest I,C245,425-0047,L2T,,,2023-03-31,1981-01-01
 a789f3,N585RA,Cessna,550 Citation II,C550,550-0585,L2J,,,2023-12-31,1988-01-01
+a78a24,N585T,Cessna,750 Citation X,C750,750-0197,L2J,,,2022-05-31,2002-01-01
 a78a84,N585WW,Cessna,L-19E/O-1E Bird Dog,O1,24537,L1P,,,2022-05-31,
 a78b23,N5852K,Cessna,550B Citation Bravo,C55B,550-1056,L2J,,,2022-06-30,2003-01-01
 a78b7a,N58542,Cessna,T-50,T50,4203,L2J,,,2022-01-31,1943-01-01
 a78c9a,N586ED,Cessna,525C CitationJet CJ4,C25C,525C-0087,L2J,,,2021-08-31,2012-01-01
 a78cb3,N586FD,Cessna,525A CitationJet CJ2,C25A,525A-0324,L2J,,,2022-05-31,2006-01-01
+a78d45,N586M,Cessna,750 Citation X,C750,750-0506,L2J,,,2023-07-31,2014-01-01
 a78dc8,N586SF,Cessna,560XL Citation XLS,C56X,560-5592,L2J,,,,
 a78ff0,N587AG,Cessna,510 Citation Mustang,C510,510-0113,L2J,,,,
 a79158,N587QS,Cessna,560XL Citation Excel,C56X,560-5805,L2J,EJA,,2023-03-31,2008-01-01
+a79184,N587SL,Cessna,750 Citation X,C750,750-0526,L2J,,,2023-08-31,2017-01-01
 a793a3,N588AC,Cessna,550B Citation Bravo,C55B,550-0912,L2J,,,2024-03-31,2000-01-01
 a793d5,N588CC,Cessna,560XL Citation Excel,C56X,560-5687,L2J,,,2023-11-30,2007-01-01
 a794f6,N588PS,Cessna,208B Grand Caravan,C208,208B-0588,L1T,,,2022-10-31,1996-01-01
@@ -11978,6 +12136,7 @@ a7c442,N6TM,Cessna,560XL Citation Excel,C56X,560-6071,L2J,,,2023-10-31,2010-01-0
 a7c451,N6UB,Cessna,525 CitationJet CJ1,C525,525-0127,L2J,,,2021-07-31,1996-01-01
 a7c48f,N6WP,Cessna,L-19A/O-1A Bird Dog,O1,23325,L1P,,,2022-11-30,1951-01-01
 a7c4d1,N6ZE,Cessna,525A CitationJet CJ2,C25A,525A-0141,L2J,,,2024-05-31,2003-01-01
+a7c55b,N60ES,Cessna,750 Citation X,C750,7500035,L2J,,,2023-07-31,1998-01-01
 a7c55f,N60EW,Cessna,501 Citation I/SP,C501,501-0319,L2J,,,2023-10-31,1999-01-01
 a7c575,N60FT,Cessna,550 Citation II,C550,550-0470,L2J,,,2022-09-30,1983-01-01
 a7c588,N60GM,Cessna,421C Golden Eagle,C421,421C-0828,L2P,,,2022-10-31,0001-01-01
@@ -11987,6 +12146,7 @@ a7c646,N60QB,Cessna,560 Citation V,C560,560-0087,L2J,,,2022-08-31,
 a7c676,N60S,Cessna,560XL Citation Excel,C56X,560-6110,L2J,,,2023-11-30,2012-01-01
 a7c74a,N600AL,Cessna,525 CitationJet CJ1,C525,525-0383,L2J,,,2023-01-31,2000-01-01
 a7c751,N600AT,Cessna,550 Citation II,C550,550-0551,L2J,,,2024-04-30,1987-01-01
+a7c754,N600AW,Cessna,750 Citation X,C750,7500181,L2J,,,2024-03-31,2001-01-01
 a7c769,N600BS,Cessna,560XL Citation Excel,C56X,560-5162,L2J,,,,
 a7c76d,N600BW,Cessna,560 Citation V,C560,560-0671,L2J,,,2023-10-31,2004-01-01
 a7c773,N600CB,Cessna,560XL Citation Excel,C56X,560-6129,L2J,,,2022-01-31,2012-01-01
@@ -12004,6 +12164,7 @@ a7c926,N600VM,Cessna,525 Citation M2,C25M,525-0804,L2J,,,2023-02-28,2013-01-01
 a7c95e,N600XT,Cessna,525 CitationJet CJ1,C525,525-0375,L2J,,,2023-11-30,2009-01-01
 a7cb08,N601AT,Cessna,550 Citation II,C550,550-0340,L2J,,,,
 a7cb12,N601BC,Cessna,550 Citation II,C550,550-0091,L2J,,,2023-04-30,1979-01-01
+a7cb4c,N601DL,Cessna,750 Citation X,C750,750-0140,L2J,,,2023-11-30,2001-01-01
 a7cbc9,N601JL,Cessna,525C CitationJet CJ4,C25C,525C-0208,L2J,,,2022-02-28,2016-01-01
 a7cc65,N601QS,Cessna,680A Citation Latitude,C68A,680A-0231,L2J,EJA,,2023-12-31,2019-01-01
 a7cebf,N602AT,Cessna,550 Citation II,C550,550-0606,L2J,,,2022-06-30,
@@ -12066,12 +12227,15 @@ a7eedb,N610BD,Cessna,501 Citation I/SP,C501,501-0026,L2J,,,2022-04-30,1977-01-01
 a7eef2,N610CB,Cessna,550B Citation Bravo,C55B,550-1014,L2J,,,2023-07-31,2002-01-01
 a7ef58,N610GD,Cessna,560 Citation V,C560,560-0547,L2J,,,2024-03-31,2000-01-01
 a7ef5b,N610GG,Cessna,501 Citation I/SP,C501,501-0170,L2J,,,,
+a7ef70,N610HC,Cessna,750 Citation X,C750,7500054,L2J,,,2024-06-30,1998-01-01
 a7ef89,N610JC,Cessna,550 Citation II,C550,550-0264,L2J,,,,
 a7ef91,N610JL,Cessna,510 Citation Mustang,C510,510-0379,L2J,,,2023-09-30,2011-01-01
 a7efb9,N610LA,Cessna,208B Grand Caravan,C208,208B-1060,L1T,,,2023-03-31,2004-01-01
 a7f015,N610PT,Cessna,510 Citation Mustang,C510,510-0172,L2J,,,2023-06-30,2009-01-01
 a7f02d,N610QS,Cessna,680A Citation Latitude,C68A,680A-0161,L2J,EJA,,2021-11-30,2018-01-01
 a7f046,N610RS,Cessna,560 Citation V,C560,560-0610,L2J,,,2023-02-28,2002-01-01
+a7f047,N610RT,Cessna,750 Citation X,C750,750-0283,L2J,,,,
+a7f04a,N610RW,Cessna,750 Citation X,C750,750-0167,L2J,,,2023-09-30,2001-01-01
 a7f054,N610SF,Cessna,525A CitationJet CJ2,C25A,525A-0015,L2J,,,,
 a7f2a9,N611CB,Cessna,208B Grand Caravan,C208,208B-1092,L1T,COO,,,
 a7f396,N611MP,Cessna,560 Citation V,C560,560-0611,L2J,,,2021-07-31,2002-01-01
@@ -12081,6 +12245,7 @@ a7f3aa,N611NJ,Cessna,680 Citation Sovereign,C680,680-0156,L2J,,,2021-11-30,2007-
 a7f3e4,N611QS,Cessna,560XL Citation Excel,C56X,560-5548,L2J,EJA,,2022-09-30,2005-01-01
 a7f428,N611TK,Cessna,525C CitationJet CJ4,C25C,525C-0098,L2J,,,2021-09-30,2012-01-01
 a7f62f,N612AC,Cessna,680A Citation Latitude,C68A,680A-0128,L2J,,,2023-03-31,2018-01-01
+a7f69c,N612EM,Cessna,750 Citation X,C750,750-0100,L2J,,,2023-12-31,1999-01-01
 a7f6f8,N612JD,Cessna,680 Citation Sovereign,C680,680-0585,L2J,,,2022-04-30,2019-01-01
 a7f79b,N612QS,Cessna,680A Citation Latitude,C68A,680A-0256,L2J,EJA,,2023-12-31,
 a7f817,N612VR,Cessna,551 Citation II/SP,C551,551-0026,L2J,,,2021-07-31,1979-01-01
@@ -12141,6 +12306,7 @@ a81833,N620WB,Cessna,510 Citation Mustang,C510,510-0162,L2J,,,2023-03-31,2009-01
 a81942,N62048,Cessna,T206H Turbo Stationair,T206,T206-8887,L1T,,,2021-12-31,2008-01-01
 a819f8,N621AD,Cessna,525 CitationJet CJ1,C525,525-0621,L2J,,,2022-04-30,2006-01-01
 a81a37,N621CS,Cessna,680 Citation Sovereign,C680,680-0120,L2J,,,,
+a81a7f,N621FP,Cessna,750 Citation X,C750,750-0045,L2J,,,2024-04-30,1998-01-01
 a81abd,N621JA,Cessna,525 Citation M2,C25M,525-0857,L2J,,,2022-08-31,2014-01-01
 a81ae1,N621KM,Cessna,550B Citation Bravo,C55B,550-0842,L2J,,,2021-11-30,1998-01-01
 a81dbd,N622AT,Cessna,500 Citation I,C500,500-0252,L2J,,,2023-07-31,1975-01-01
@@ -12425,6 +12591,7 @@ a8e9f3,N6735Q,Cessna,L-19A/O-1A Bird Dog,O1,22658,L1P,,,2023-11-30,
 a8eb2a,N674G,Cessna,550 Citation II,C550,550-0435,L2J,,,2023-11-30,
 a8ebe7,N674PP,Cessna,680A Citation Latitude,C68A,680A-0076,L2J,,,2023-04-30,2017-01-01
 a8ee4d,N675AB,Cessna,525A CitationJet CJ2,C25A,525A-0522,L2J,,,2021-12-31,2013-01-01
+a8ee8e,N675CS,Cessna,750 Citation X,C750,750-0163,L2J,,,2024-07-31,2001-01-01
 a8ef6f,N675MS,Cessna,208 Caravan,C208,208-0370,L1T,,,2021-08-31,2003-01-01
 a8efec,N675SS,Cessna,550B Citation Bravo,C55B,550-1123,L2J,,,2023-07-31,2006-01-01
 a8f0bb,N6750Z,Cessna,208B Grand Caravan,C208,208B-2340,L1T,,,2022-01-31,2012-01-01
@@ -12473,6 +12640,7 @@ a903cd,N680G,Cessna,680 Citation Sovereign,C680,680-0280,L2J,,,2023-12-31,2009-0
 a903dd,N680GR,Cessna,680 Citation Sovereign,C680,680-0210,L2J,,,2023-12-31,2008-01-01
 a903e7,N680HA,Cessna,680 Citation Sovereign,C680,680-0504,L2J,,,2023-06-30,2014-01-01
 a9040a,N680JL,Cessna,680 Citation Sovereign,C680,680-0054,L2J,,,2023-07-31,2005-01-01
+a9041f,N680KG,Cessna,750 Citation X,C750,750-0513,L2J,,,2024-03-31,2014-01-01
 a90420,N680KH,Cessna,525 CitationJet CJ1,C525,525-0680,L2J,,,2022-03-31,2008-01-01
 a90421,N680KJ,Cessna,680 Citation Sovereign,C680,680-0521,L2J,,,2023-01-31,2014-01-01
 a9044d,N680MC,Cessna,680 Citation Sovereign,C680,680-0515,L2J,,,2023-02-28,2013-01-01
@@ -12517,6 +12685,7 @@ a91857,N6851T,Cessna,441 Conquest II,C441,441-0211,L2T,,,,
 a9185b,N6851X,Cessna,441 Conquest II,C441,441-0212,L2T,,,2021-08-31,1981-01-01
 a91af0,N686QS,Cessna,560XL Citation Excel,C56X,560-5661,L2J,EJA,,2022-06-30,2006-01-01
 a91afb,N686RC,Cessna,550 Citation II,C550,550-0438,L2J,,,2021-12-31,1982-01-01
+a91b2a,N686T,Cessna,750 Citation X,C750,750-0211,L2J,,,2023-09-30,2003-01-01
 a91bdc,N6860C,Cessna,441 Conquest II,C441,441-0304,L2T,,,2022-01-31,1982-01-01
 a91ef7,N687TX,Cessna,680A Citation Latitude,C68A,680A-0070,L2J,,,,
 a9216d,N688FA,Cessna,208B Grand Caravan,C208,208B-1103,L1T,,,2023-12-31,2004-01-01
@@ -12551,6 +12720,7 @@ a942e9,N696VP,Cessna,550 Citation II,C550,550-0696,L2J,,,2023-07-31,1991-01-01
 a9464b,N697SD,Cessna,560XL Citation Excel,C56X,560-5197,L2J,,,2022-03-31,2001-01-01
 a949dd,N698QS,Cessna,560XL Citation Excel,C56X,560-5653,L2J,EJA,,2023-11-30,2006-01-01
 a94c60,N699CJ,Cessna,525 CitationJet CJ1,C525,525-0699,L2J,,,2023-01-31,2010-01-01
+a94d3f,N699MG,Cessna,750 Citation X,C750,750-0174,L2J,,,2022-06-30,2002-01-01
 a94d44,N699MM,Cessna,550 Citation S/II,C550,S550-0066,L2J,,,2022-05-31,1985-01-01
 a94fde,N7AB,Cessna,650 Citation VII,C650,650-7068,L2J,,,,
 a95011,N7CC,Cessna,525B CitationJet CJ3,C25B,525B-0007,L2J,,,2022-07-31,2004-01-01
@@ -12561,6 +12731,7 @@ a9508a,N7GZ,Cessna,525A CitationJet CJ2,C25A,525A-0145,L2J,,,2021-12-31,2003-01-
 a95107,N7MZ,Cessna,501 Citation I/SP,C501,501-0217,L2J,,,2022-11-30,1981-01-01
 a9510d,N7NE,Cessna,525C CitationJet CJ4,C25C,525C-0068,L2J,,,2024-01-31,2011-01-01
 a95140,N7QF,Cessna,510 Citation Mustang,C510,510-0456,L2J,,,2024-01-31,2015-01-01
+a9516e,N7SB,Cessna,750 Citation X,C750,750-0209,L2J,,,2023-02-28,2003-01-01
 a9518f,N7TK,Cessna,501 Citation I/SP,C501,501-0116,L2J,,,2023-07-31,1979-01-01
 a95191,N7TM,Cessna,560XL Citation Excel,C56X,560-6028,L2J,,,2024-03-31,2009-01-01
 a951d6,N7WF,Cessna,650 Citation VII,C650,650-7106,L2J,,,2021-08-31,1999-01-01
@@ -12585,10 +12756,13 @@ a9541c,N70VM,Cessna,525B CitationJet CJ3,C25B,525B-0526,L2J,,,2023-10-31,2017-01
 a954c9,N700CJ,Cessna,525 CitationJet CJ1,C525,525-0027,L2J,,,2024-03-31,1993-01-01
 a95521,N700FX,Cessna,208B Grand Caravan,C208,208B-0419,L1T,,,2023-02-28,1994-01-01
 a95528,N700GD,Cessna,525B CitationJet CJ3,C25B,525B-0363,L2J,,,,
+a95590,N700LH,Cessna,750 Citation X,C750,750-0148,L2J,,,2023-09-30,2001-01-01
 a95596,N700LP,Cessna,560 Citation V,C560,560-0194,L2J,,,2022-03-31,1992-01-01
 a955a9,N700MH,Cessna,650 Citation III,C650,650-0127,L2J,,,,
 a955c4,N700NK,Cessna,560 Citation V,C560,560-0700,L2J,,,2022-08-31,2006-01-01
+a9560d,N700RH,Cessna,750 Citation X,C750,750-0205,L2J,,,2021-11-30,2002-01-01
 a95616,N700RS,Cessna,P210N Pressurized Centurion,P210,P21000716,L1P,,,2022-11-30,1981-01-01
+a95633,N700SW,Cessna,750 Citation X,C750,750-0142,L2J,,,2024-03-31,2001-01-01
 a9566c,N700VC,Cessna,500 Citation I,C500,500-0011,L2J,,,,
 a9568b,N700WJ,Cessna,425 Conquest I,C425,425-0036,L2T,,,2022-08-31,1981-01-01
 a95850,N701AL,Cessna,525C CitationJet CJ4,C25C,525C-0169,L2J,,,,
@@ -12603,11 +12777,13 @@ a959db,N701SF,Cessna,525A CitationJet CJ2,C25A,525A-0071,L2J,,,2022-08-31,2002-0
 a95a34,N701VV,Cessna,550B Citation Bravo,C55B,550-1033,L2J,,,2022-08-31,
 a95bfe,N702AB,Cessna,680 Citation Sovereign,C680,680-0258,L2J,,,2024-02-29,2008-01-01
 a95c43,N702CW,Cessna,525B CitationJet CJ3,C25B,525B-0501,L2J,,,2022-02-28,2016-01-01
+a95c84,N702FL,Cessna,750 Citation X,C750,750-0076,L2J,,,2023-04-30,1999-01-01
 a95c85,N702FM,Cessna,525A CitationJet CJ2,C25A,525A-0212,L2J,,,2022-12-31,2004-01-01
 a95c8f,N702FX,Cessna,208B Grand Caravan,C208,208B-0422,L1T,,,2023-05-31,1994-01-01
 a95c9d,N702GL,Cessna,700 Citation Longitude,C700,700-0002,L2J,,,,2017-01-01
 a95d9d,N702SS,Cessna,650 Citation III,C650,650-0135,L2J,,,2022-03-31,1987-01-01
 a96009,N703DL,Cessna,700 Citation Longitude,C700,700-0003,L2J,,,,
+a9600a,N703DM,Cessna,750 Citation X,C750,750-0080,L2J,,,2022-01-31,1999-01-01
 a96046,N703FX,Cessna,208B Grand Caravan,C208,208B-0423,L1T,,,2023-05-31,1995-01-01
 a9613c,N703RT,Cessna,500 Citation I,C500,500-0114,L2J,,,,
 a963a7,N704CL,Cessna,700 Citation Longitude,C700,700-0034,L2J,,,2023-10-31,2020-01-01
@@ -12621,6 +12797,7 @@ a96b6b,N706FX,Cessna,208B Grand Caravan,C208,208B-0426,L1T,,,,
 a96b89,N706HB,Cessna,650 Citation III,C650,650-0047,L2J,,,,
 a96bd4,N706LB,Cessna,425 Conquest I,C425,425-0033,L2T,,,2023-11-30,1981-01-01
 a96c61,N706RT,Cessna,525C CitationJet CJ4,C25C,525C-0291,L2J,,,2022-04-30,2019-01-01
+a96cee,N706XJ,Cessna,750 Citation X,C750,750-0006,L2J,XOJ,,,
 a96ec3,N707CB,Cessna,425 Conquest I,C425,425-0023,L2T,,,2022-12-31,1980-01-01
 a96efe,N707EL,Cessna,525A CitationJet CJ2,C25A,525A-0109,L2J,,,2023-05-31,2002-01-01
 a96f22,N707FX,Cessna,208B Grand Caravan,C208,208B-0427,L1T,,,2023-08-31,1995-01-01
@@ -12634,10 +12811,12 @@ a970e8,N7070A,Cessna,550 Citation S/II,C550,S550-0068,L2J,,,2023-08-31,1985-01-0
 a97128,N70715,Cessna,208 Caravan,C208,208-0182,L1T,,,2022-11-30,1990-01-01
 a9724e,N708AH,Cessna,L-19A/O-1A Bird Dog,O1,AH1001,L1P,,,,
 a97266,N708BG,Cessna,680 Citation Sovereign,C680,680-0325,L2J,,,,
+a972ce,N708FL,Cessna,750 Citation X,C750,750-0109,L2J,,,2022-08-31,1999-01-01
 a972ea,N708GP,Cessna,525A CitationJet CJ2,C25A,525A-0154,L2J,,,,
 a9731e,N708JR,Cessna,560 Citation V,C560,560-0666,L2J,,,2021-09-30,2004-01-01
 a97359,N708M,Cessna,560XL Citation Excel,C56X,560-5194,L2J,,,2022-02-28,2001-01-01
 a97631,N709CB,Cessna,525C CitationJet CJ4,C25C,525C-0186,L2J,,,2023-09-30,2015-01-01
+a97685,N709FL,Cessna,750 Citation X,C750,750-0145,L2J,,,,
 a97690,N709FX,Cessna,208B Grand Caravan,C208,208B-0430,L1T,,,2023-08-31,1995-01-01
 a979fb,N71CW,Cessna,180E Skywagon,C180,18051093,L1P,,,2022-06-30,
 a97a31,N71F,Cessna,525B CitationJet CJ3,C25B,525B-0037,L2J,,,2021-11-30,2005-01-01
@@ -12652,6 +12831,7 @@ a97bb0,N71WH,Cessna,550 Citation S/II,C550,S550-0059,L2J,,,2023-07-31,1985-01-01
 a97c28,N710BB,Cessna,650 Citation VII,C650,650-7016,L2J,,,2023-07-31,1992-01-01
 a97c29,N710BC,Cessna,L-19E/O-1E Bird Dog,O1,24548,L1P,,,2022-06-30,1959-01-01
 a97c4f,N710CR,Cessna,680A Citation Latitude,C68A,680A-0086,L2J,,,2023-06-30,2017-01-01
+a97c95,N710FL,Cessna,750 Citation X,C750,750-0038,L2J,OPT,,2022-09-30,1998-01-01
 a97ca0,N710FX,Cessna,208B Grand Caravan,C208,208B-0431,L1T,,,2023-08-31,1995-01-01
 a97d0a,N710LC,Cessna,560 Citation V,C560,560-0058,L2J,,,2023-08-31,1990-01-01
 a97d2b,N710ML,Cessna,560 Citation V,C560,560-0254,L2J,,,2023-03-31,1994-01-01
@@ -12664,23 +12844,29 @@ a97ff6,N711C,Cessna,525 CitationJet CJ1,C525,525-0630,L2J,,,2022-06-30,2006-01-0
 a98052,N711FS,Cessna,680 Citation Sovereign,C680,680-0548,L2J,,,2021-11-30,2015-01-01
 a98057,N711FX,Cessna,208B Grand Caravan,C208,208B-0433,L1T,,,2024-02-29,1995-01-01
 a98060,N711GF,Cessna,650 Citation VII,C650,650-7075,L2J,,,2022-04-30,1996-01-01
+a98074,N711HA,Cessna,560 Citation XLS,C56X,560-5648,L2J,,,,
 a9808e,N711JB,Cessna,525 Citation M2,C25M,525-0976,L2J,,,2023-12-31,2017-01-01
 a980b7,N711KT,Cessna,550B Citation Bravo,C55B,550-0851,L2J,,,2021-10-31,1998-01-01
 a980d0,N711LT,Cessna,650 Citation VI,C650,650-0232,L2J,,,2022-10-31,1993-01-01
 a980d9,N711MB,Cessna,441 Conquest II,C441,441-0116,L2T,,,2022-11-30,1979-01-01
 a98104,N711NV,Cessna,550 Citation II,C550,550-0557,L2J,,,2021-07-31,1987-01-01
 a9818a,N711UD,Cessna,L-19E/O-1E Bird Dog,O1,24580,L1P,,,2023-04-30,
+a981a8,N711VJ,Cessna,750 Citation X,C750,750-0101,L2J,,,2024-04-30,1999-01-01
 a981bf,N711WG,Cessna,525 CitationJet CJ1,C525,525-0424,L2J,,,2022-11-30,2001-01-01
 a98278,N7112X,Cessna,150A,C150,15059212,L1P,,,,
 a98398,N712BD,Cessna,550B Citation Bravo,C55B,550-1025,L2J,,,2023-09-30,2002-01-01
 a983b4,N712CG,Cessna,560XL Citation Excel,C56X,560-5182,L2J,,,2023-06-30,2001-01-01
+a98403,N712FL,Cessna,750 Citation X,C750,750-0082,L2J,,,,
 a9840e,N712FX,Cessna,208B Grand Caravan,C208,208B-0435,L1T,,,2023-11-30,1995-01-01
 a98414,N712GC,Cessna,680 Citation Sovereign,C680,680-0218,L2J,,,2023-01-31,2008-01-01
 a9841b,N712GK,Cessna,560XL Citation Excel,C56X,560-5106,L2J,,,2023-11-30,2000-01-01
+a9845f,N712KC,Cessna,750 Citation X,C750,750-0255,L2J,,,2023-08-31,2006-01-01
 a98468,N712KM,Cessna,500 Citation I,C500,500-0348,L2J,,,2022-02-28,1977-01-01
 a98490,N712MB,Cessna,500 Citation I,C500,500-0120,L2J,,,,
 a98495,N712MG,Cessna,550 Citation S/II,C550,S550-0080,L2J,,,2024-02-29,1986-01-01
+a98571,N712WB,Cessna,750 Citation X,C750,750-0088,L2J,,,2022-09-30,1999-01-01
 a98766,N713CB,Cessna,208B Grand Caravan,C208,208B-1106,L1T,LTD,,2021-10-31,2005-01-01
+a987ba,N713FL,Cessna,750 Citation X,C750,750-0074,L2J,,,2023-12-31,1999-01-01
 a987c5,N713FX,Cessna,208B Grand Caravan,C208,208B-0438,L1T,,,2023-11-30,1995-01-01
 a988c6,N713SD,Cessna,525 CitationJet CJ1,C525,525-0218,L2J,,,2023-09-30,1997-01-01
 a9898c,N7130B,Cessna,208B Grand Caravan EX,C208,208B-5295,L1T,COO,,,
@@ -12707,6 +12893,7 @@ a99282,N716BT,Cessna,208B Grand Caravan,C208,208B-0843,L1T,PRY,,2023-10-31,2000-
 a9928c,N716CC,Cessna,441 Conquest II,C441,441-0213,L2T,,,2023-01-31,1981-01-01
 a992a6,N716DD,Cessna,550 Citation S/II,C550,S550-0120,L2J,,,2022-04-30,1986-01-01
 a992b6,N716DV,Cessna,525C CitationJet CJ4,C25C,525C-0049,L2J,,,,
+a992df,N716FL,Cessna,750 Citation X,C750,750-0073,L2J,,,,
 a992ea,N716FX,Cessna,208B Grand Caravan,C208,208B-0442,L1T,,,2024-02-29,1995-01-01
 a99330,N716JS,Cessna,525A CitationJet CJ2,C25A,525A-0083,L2J,,,,
 a99355,N716LD,Cessna,560XL Citation Excel,C56X,560-5255,L2J,,,2021-11-30,2002-01-01
@@ -12732,6 +12919,7 @@ a99754,N717PA,Cessna,208B Grand Caravan,C208,208B-0804,L1T,ERR,,2023-10-31,2000-
 a99789,N717RD,Cessna,208B Grand Caravan,C208,208B-2067,L1T,,,2022-02-28,2008-01-01
 a997c7,N717TR,Cessna,550 Citation II,C550,550-0436,L2J,,,2023-03-31,1982-01-01
 a997f4,N717VL,Cessna,560 Citation V,C560,560-0788,L2J,,,2023-07-31,2008-01-01
+a99824,N717XJ,Cessna,750 Citation X,C750,750-0217,L2J,XOJ,,2021-12-31,2003-01-01
 a999d0,N718AL,Cessna,525A CitationJet CJ2,C25A,525A-0118,L2J,,,2022-01-31,2002-01-01
 a99a01,N718CK,Cessna,550 Citation II,C550,550-0368,L2J,,,2021-07-31,1982-01-01
 a99a58,N718FX,Cessna,208B Grand Caravan,C208,208B-0448,L1T,,,,
@@ -12741,6 +12929,7 @@ a99e0f,N719FX,Cessna,208B Grand Caravan,C208,208B-0450,L1T,,,,
 a99e76,N719L,Cessna,525C CitationJet CJ4,C25C,525C-0084,L2J,,,2023-07-31,2012-01-01
 a99eff,N719RM,Cessna,560 Citation V,C560,560-0092,L2J,,,2023-02-28,1991-01-01
 a99f37,N719TT,Cessna,560XL Citation Excel,C56X,560-5516,L2J,,,2022-10-31,2004-01-01
+a99f92,N719XJ,Cessna,750 Citation X,C750,750-0179,L2J,XOJ,,2021-12-31,2002-01-01
 a9a136,N72AC,Cessna,525 CitationJet CJ1,C525,525-0643,L2J,,,2024-03-31,2007-01-01
 a9a13a,N72AG,Cessna,510 Citation Mustang,C510,510-0309,L2J,,,2023-11-30,2010-01-01
 a9a150,N72BD,Cessna,L-19A/O-1A Bird Dog,O1,21655,L1P,,,,
@@ -12756,6 +12945,7 @@ a9a2ff,N72UK,Cessna,680 Citation Sovereign,C680,680-0275,L2J,,,2024-05-31,2009-0
 a9a318,N72VK,Cessna,510 Citation Mustang,C510,510-0384,L2J,,,,
 a9a34b,N72XL,Cessna,560XL Citation Excel,C56X,560-6072,L2J,,,2024-04-30,2011-01-01
 a9a3a8,N720BC,Cessna,L-19/O-1 Bird Dog,O1,24726,L1P,,,,
+a9a3c1,N720CC,Cessna,750 Citation X,C750,750-0279,L2J,,,,
 a9a41f,N720FX,Cessna,208B Grand Caravan,C208,208B-0452,L1T,,,,
 a9a450,N720HW,Cessna,680 Citation Sovereign,C680,680-0069,L2J,,,,
 a9a4ec,N720QB,Cessna,208 Caravan,C208,208-0521,L1T,,,2022-04-30,2010-01-01
@@ -12771,6 +12961,7 @@ a9ab35,N722CJ,Cessna,550 Citation II,C550,550-0722,L2J,,,,
 a9ab8d,N722FX,Cessna,208B Grand Caravan,C208,208B-0454,L1T,,,2021-07-31,1995-01-01
 a9ac91,N722SG,Cessna,525 CitationJet CJ1,C525,525-0088,L2J,,,2022-07-31,1995-01-01
 a9acb4,N722TS,Cessna,525A CitationJet CJ2,C25A,525A-0138,L2J,,,2022-02-28,2003-01-01
+a9ad10,N722XJ,Cessna,750 Citation X,C750,750-0222,L2J,,,,
 a9af44,N723FX,Cessna,208B Grand Caravan,C208,208B-0456,L1T,,,2021-07-31,1995-01-01
 a9af89,N723JR,Cessna,501 Citation I/SP,C501,501-0190,L2J,,,2023-02-28,1981-01-01
 a9b048,N723SG,Cessna,525B CitationJet CJ3,C25B,525B-0368,L2J,,,2023-10-31,2011-01-01
@@ -12784,6 +12975,7 @@ a9b631,N725AT,Cessna,525B CitationJet CJ3,C25B,525B-0404,L2J,,,2022-12-31,2013-0
 a9b654,N725CC,Cessna,550 Citation II,C550,550-0725,L2J,,,2021-09-30,1993-01-01
 a9b658,N725CG,Cessna,525 Citation M2,C25M,525-0869,L2J,,,2024-04-30,2015-01-01
 a9b67b,N725DS,Cessna,550B Citation Bravo,C55B,550-0822,L2J,,,2023-07-31,1997-01-01
+a9b67c,N725DT,Cessna,750 Citation X,C750,750-0023,L2J,,,2022-04-30,1997-01-01
 a9b6b2,N725FX,Cessna,208B Grand Caravan,C208,208B-0460,L1T,WIG,,2021-11-30,1995-01-01
 a9b6e8,N725JA,Cessna,560 Citation V,C560,560-0205,L2J,,,2023-05-31,1993-01-01
 a9b6e9,N725JB,Cessna,510 Citation Mustang,C510,510-0030,L2J,,,2021-10-31,2007-01-01
@@ -12798,6 +12990,7 @@ a9ba86,N726HA,Cessna,550 Citation II,C550,550-0206,L2J,,,2023-10-31,1980-01-01
 a9bb5b,N726RP,Cessna,525A CitationJet CJ2,C25A,525A-0114,L2J,,,2022-07-31,2002-01-01
 a9bb69,N726SC,Cessna,525 CitationJet CJ1,C525,525-0051,L2J,,,,
 a9bb8b,N726TM,Cessna,525 CitationJet CJ1,C525,525-0414,L2J,,,2022-08-31,2001-01-01
+a9bbec,N726XJ,Cessna,750 Citation X,C750,750-0226,L2J,XOJ,,2021-12-31,2004-01-01
 a9bd22,N72669,Cessna,182S Skylane,C182,18280496,L1P,,,2023-08-31,1999-01-01
 a9bdf7,N727EF,Cessna,550 Citation S/II,C550,S550-0043,L2J,,,2023-11-30,1985-01-01
 a9be01,N727ER,Cessna,TL-19D/TO-1D Bird Dog,O1,23568,L1P,,,2022-05-31,1955-01-01
@@ -12810,14 +13003,18 @@ a9c135,N7279W,Cessna,182S Skylane,C182,18280544,L1P,,,2023-03-31,1999-01-01
 a9c1aa,N728EB,Cessna,208 Caravan,C208,208-0553,L1T,,,2023-02-28,2013-01-01
 a9c1d7,N728FX,Cessna,208B Grand Caravan,C208,208B-0471,L1T,,,2022-02-28,1995-01-01
 a9c58e,N729FX,Cessna,208B Grand Caravan,C208,208B-0474,L1T,,,2022-05-31,1995-01-01
+a9c6e4,N729VP,Cessna,750 Citation X,C750,750-0029,L2J,COO,,,
 a9c8b6,N73AD,Cessna,525B CitationJet CJ3,C25B,525B-0402,L2J,,,2022-07-31,2013-01-01
 a9c8ba,N73AH,Cessna,510 Citation Mustang,C510,510-0226,L2J,,,,
 a9c912,N73DW,Cessna,425 Conquest I,C425,425-0089,L2T,,,2022-10-31,1981-01-01
 a9c922,N73EM,Cessna,525B CitationJet CJ3,C25B,525B-0382,L2J,,,,
 a9c969,N73HH,Cessna,550 Citation II,C550,550-0682,L2J,,,,
 a9c99b,N73KH,Cessna,525C CitationJet CJ4,C25C,525C-0080,L2J,,,2023-07-31,2012-01-01
+a9c9ca,N73ME,Cessna,750 Citation X,C750,750-0155,L2J,,,2023-06-30,2001-01-01
 a9c9d3,N73MP,Cessna,500 Citation I,C500,500-0164,L2J,,,,
+a9ca54,N73ST,Cessna,550 Citation II,C550,550-0376,L2J,,,,
 a9ca77,N73UC,Cessna,680 Citation Sovereign,C680,680-0086,L2J,,,2023-02-28,2006-01-01
+a9cb93,N730FL,Cessna,750 Citation X,C750,750-0078,L2J,OPT,,,
 a9cb9e,N730FX,Cessna,208B Grand Caravan,C208,208B-0477,L1T,,,2022-05-31,1995-01-01
 a9cee3,N731BH,Cessna,441 Conquest II,C441,441-0360,L2T,,,2022-07-31,1986-01-01
 a9cee9,N731BP,Cessna,560XL Citation Excel,C56X,560-5802,L2J,,,2022-08-31,2008-01-01
@@ -12827,12 +13024,14 @@ a9cfe7,N731MT,Cessna,P210N Pressurized Centurion,P210,P21000497,L1P,,,2023-01-31
 a9d07b,N731TR,Cessna,560 Citation V,C560,560-0411,L2J,,,2023-10-31,1997-01-01
 a9d0be,N731WH,Cessna,525B CitationJet CJ3,C25B,525B-0112,L2J,,,2021-07-31,2006-01-01
 a9d0d1,N731XB,Cessna,P210N Pressurized Centurion,P210,P21000553,L1P,,,,
+a9d301,N732FL,Cessna,750 Citation X,C750,750-0114,L2J,,,,
 a9d351,N732JR,Cessna,560XL Citation Excel,C56X,560-6099,L2J,,,2024-03-31,2012-01-01
 a9d38c,N732M,Cessna,525 CitationJet CJ1,C525,525-0685,L2J,,,2023-07-31,2008-01-01
 a9d390,N732MD,Cessna,208B Grand Caravan,C208,208B-1083,L1T,,,2023-06-30,2004-01-01
 a9d62f,N733,Cessna,T-50,T50,4832,L2J,,,2023-01-31,1943-01-01
 a9d668,N733CF,Cessna,510 Citation Mustang,C510,510-0458,L2J,,,2024-04-30,2015-01-01
 a9d66b,N733CJ,Cessna,525B CitationJet CJ3,C25B,525B-0057,L2J,,,2023-12-31,2005-01-01
+a9d6b8,N733FL,Cessna,750 Citation X,C750,750-0027,L2J,,,2023-04-30,1997-01-01
 a9d759,N733MX,Cessna,172N Skyhawk,C172,17268406,L1P,,,2022-01-31,1976-01-01
 a9d886,N733ZY,Cessna,172N Skyhawk,C172,17268690,L1P,,,2023-11-30,
 a9d901,N7333R,Cessna,TR182 Turbo Skylane RG,C82T,R18200645,L1P,,,,
@@ -12844,6 +13043,7 @@ a9dde6,N735CX,Cessna,182Q Skylane,C182,18265329,L1P,,,2022-07-31,1977-01-01
 a9dfb6,N735XL,Cessna,560XL Citation Excel,C56X,560-5733,L2J,,,2022-08-31,2007-01-01
 a9e34d,N736WD,Cessna,208 Caravan,C208,208-0392,L1T,,,2021-11-30,2005-01-01
 a9e557,N737D,Cessna,560XL Citation Excel,C56X,560-5638,L2J,,,2023-11-30,2006-01-01
+a9e594,N737FL,Cessna,750 Citation X,C750,750-0103,L2J,OPT,,,
 a9e62b,N737MM,Cessna,650 Citation VII,C650,650-7113,L2J,,,2022-11-30,2000-01-01
 a9e68c,N737RJ,Cessna,501 Citation I/SP,C501,501-0238,L2J,,,2022-06-30,1981-01-01
 a9e7f1,N7374A,Cessna,A150M Aerobat,C150,A1500726,L1P,,,2022-08-31,
@@ -12855,6 +13055,7 @@ a9f0f0,N74HR,Cessna,501 Citation I/SP,C501,501-0677,L2J,,,2023-07-31,1984-01-01
 a9f0fe,N74JE,Cessna,525A CitationJet CJ2,C25A,525A-0474,L2J,,,2023-01-31,2010-01-01
 a9f136,N74LL,Cessna,500 Citation I,C500,500-0212,L2J,,,2022-04-30,1974-01-01
 a9f1ae,N74RF,Cessna,425 Conquest I,C425,425-0153,L2T,,,2023-05-31,1983-01-01
+a9f212,N74VF,Cessna,750 Citation X,C750,750-0057,L2J,,,,
 a9f294,N740AK,Cessna,525C CitationJet CJ4,C25C,525C-0032,L2J,,,2023-06-30,2011-01-01
 a9f2a6,N740BC,Cessna,L-19/O-1 Bird Dog,O1,24724,L1P,,,,
 a9f31d,N740FX,Cessna,208B Grand Caravan,C208,208B-0484,L1T,FDX,,2022-09-30,1995-01-01
@@ -12877,6 +13078,7 @@ aa01f9,N744FX,Cessna,208B Grand Caravan,C208,208B-0492,L1T,,,2022-11-30,1995-01-
 aa035e,N744WD,Cessna,441 Conquest II,C441,441-0133,L2T,,,,
 aa05a3,N745FJ,Cessna,525B CitationJet CJ3,C25B,525B-0138,L2J,,,2022-02-28,2007-01-01
 aa05b0,N745FX,Cessna,208B Grand Caravan,C208,208B-0495,L1T,,,2022-11-30,1995-01-01
+aa06a2,N745RP,Cessna,750 Citation X,C750,750-0517,L2J,,,2024-04-30,2015-01-01
 aa0967,N746FX,Cessna,208B Grand Caravan,C208,208B-0498,L1T,,,2022-11-30,1995-01-01
 aa09ad,N746JS,Cessna,525A CitationJet CJ2,C25A,525A-0080,L2J,,,,
 aa0a1c,N746PC,Cessna,560XL Citation Excel,C56X,560-6192,L2J,,,2021-09-30,2015-01-01
@@ -12888,6 +13090,8 @@ aa0d55,N747JB,Cessna,425 Conquest I,C245,425-0214,L2T,,,2022-05-31,1985-01-01
 aa0d5c,N747JJ,Cessna,525A CitationJet CJ2+,C25A,525A-0314,L2J,LKP,,,
 aa0d71,N747KE,Cessna,525B CitationJet CJ3,C25B,525B-0015,L2J,,,2024-05-31,2005-01-01
 aa0d7d,N747KS,Cessna,510 Citation Mustang,C510,510-0280,L2J,,,2022-03-31,2010-01-01
+aa0e18,N747RX,Cessna,750 Citation X,C750,750-0508,L2J,,,2024-03-31,2014-01-01
+aa0ea1,N747XJ,Cessna,750 Citation X,C750,750-0247,L2J,XOJ,,2021-12-31,2005-01-01
 aa0ebb,N747YK,Cessna,310R,C310,310R-0138,L2P,,,2023-02-28,1975-01-01
 aa0fe7,N7477Q,Cessna,182P Skylane,C182,18261117,L1P,,,2023-07-31,1972-01-01
 aa108a,N748CX,Cessna,525B CitationJet CJ3,C25B,525B-0005,L2J,,,2023-08-31,2004-01-01
@@ -12895,6 +13099,7 @@ aa10c4,N748FE,Cessna,208B Grand Caravan,C208,208B-0241,L1T,,,2022-05-31,1990-01-
 aa10d5,N748FX,Cessna,208B Grand Caravan,C208,208B-0503,L1T,,,2023-02-28,1996-01-01
 aa1236,N748W,Cessna,560XL Citation Excel,C56X,560-5531,L2J,,,2023-04-30,2004-01-01
 aa147b,N749FE,Cessna,208B Grand Caravan,C208,208B-0242,L1T,FDX,,2022-05-31,1990-01-01
+aa153e,N749P,Cessna,750 Citation X,C750,750-0046,L2J,,,,
 aa15b4,N749TT,Cessna,560 Citation V,C560,560-0248,L2J,,,2022-12-31,1994-01-01
 aa17be,N75AP,Cessna,510 Citation Mustang,C510,510-0023,L2J,,,2023-07-31,2007-01-01
 aa17c9,N75B,Cessna,560 Citation V,C560,560-0156,L2J,,,2021-10-31,1992-01-01
@@ -12903,6 +13108,7 @@ aa1816,N75EB,Cessna,560XL Citation Excel,C56X,560-5214,L2J,,,,
 aa1825,N75ES,Cessna,510 Citation Mustang,C510,510-0024,L2J,,,2023-06-30,2007-01-01
 aa1852,N75GM,Cessna,208 Caravan,C208,208-0518,L1T,,,2023-01-31,2010-01-01
 aa1865,N75HF,Cessna,525C CitationJet CJ4,C25C,525C-0148,L2J,,,2022-09-30,2014-01-01
+aa1870,N75HS,Cessna,750 Citation X,C750,750-0037,L2J,ISG,,2023-01-31,1998-01-01
 aa1872,N75HU,Cessna,560XL Citation Excel,C56X,560-5119,L2J,,,2021-10-31,2000-01-01
 aa1906,N75PS,Cessna,560XL Citation Excel,C56X,560-5719,L2J,,,2023-02-28,2007-01-01
 aa1934,N75RN,Cessna,510 Citation Mustang,C510,510-0439,L2J,COO,,,
@@ -12910,34 +13116,65 @@ aa1949,N75SJ,Cessna,680 Citation Sovereign,C680,680-0166,L2J,,,,
 aa195c,N75TC,Cessna,172N Skyhawk,C172,17268913,L1P,,,2023-08-31,1977-01-01
 aa195f,N75TF,Cessna,560XL Citation XLS+,C56X,560-6138,L2J,,,,
 aa1967,N75TP,Cessna,560XL Citation Excel,C56X,560-6216,L2J,,,2022-08-31,
+aa196f,N75TX,Cessna,750 Citation X,C750,750-0132,L2J,,,2022-05-31,2000-01-01
 aa19b2,N75WP,Cessna,560 Citation V,C560,560-0449,L2J,,,2023-08-31,1997-01-01
 aa1a23,N750BA,Cessna,560XL Citation Excel,C56X,560-5002,L2J,,,2021-12-31,1998-01-01
 aa1a25,N750BC,Cessna,L-19E/O-1E Bird Dog,O1,24502,L1P,,,2023-08-31,1959-01-01
+aa1a2d,N750BL,Cessna,750 Citation X,C750,750-0178,L2J,,,2023-06-30,2002-01-01
 aa1a45,N750CK,Cessna,650 Citation VII,C650,650-7015,L2J,,,2022-04-30,1992-01-01
+aa1a4d,N750CT,Cessna,750 Citation X,C750,E750-716001,L2J,,,,2011-01-01
+aa1a51,N750CX,Cessna,750 Citation X,C750,703,L2J,,,,1993-01-01
+aa1a6a,N750DX,Cessna,750 Citation X,C750,750-0263,L2J,,,2023-05-31,2006-01-01
+aa1a6e,N750EA,Cessna,750 Citation X,C750,750-0188,L2J,,,2022-02-28,2002-01-01
+aa1a70,N750EC,Cessna,750 Citation X,C750,750-0007,L2J,,,2022-07-31,1996-01-01
 aa1a91,N750FL,Cessna,560 Citation V,C560,560-0268,L2J,,,2023-12-31,1994-01-01
 aa1a9c,N750FX,Cessna,208B Grand Caravan,C208,208B-0511,L1T,,,2023-02-28,1996-01-01
+aa1aa1,N750GB,Cessna,750 Citation X,C750,750-0504,L2J,,,2023-07-31,2014-01-01
+aa1aa5,N750GF,Cessna,750 Citation X,C750,750-0244,L2J,,,2024-03-31,2005-01-01
+aa1aab,N750GM,Cessna,750 Citation X,C750,750-0066,L2J,,,2022-10-31,1998-01-01
+aa1ab0,N750GS,Cessna,750 Citation X,C750,750-0152,L2J,,,,
+aa1abb,N750HC,Cessna,750 Citation X,C750,750-0185,L2J,,,2022-03-31,2002-01-01
+aa1ac0,N750HH,Cessna,750 Citation X,C750,750-0284,L2J,,,,
 aa1add,N750JM,Cessna,550 Citation S/II,C550,S550-0045,L2J,,,2023-08-31,1985-01-01
+aa1ae3,N750JT,Cessna,750 Citation X,C750,750-0302,L2J,,,2023-05-31,2009-01-01
 aa1af8,N750KP,Cessna,208B Grand Caravan,C208,208B-0628,L1T,,,2021-10-31,1997-01-01
+aa1b21,N750ME,Cessna,750 Citation X,C750,750-0248,L2J,,,2023-11-30,2005-01-01
 aa1b27,N750ML,Cessna,560 Citation V,C560,560-0247,L2J,,,2023-09-30,1994-01-01
+aa1b36,N750NA,Cessna,750 Citation X,C750,750-0104,L2J,,,2022-02-28,2000-01-01
+aa1b60,N750PT,Cessna,750 Citation X,C750,750-0505,L2J,,,2023-04-30,2014-01-01
+aa1b82,N750RB,Cessna,750 Citation X,C750,750-0059,L2J,,,2024-02-29,1998-01-01
 aa1b94,N750RV,Cessna,208B Grand Caravan,C208,208B-5194,L1T,,,2022-02-28,2015-01-01
 aa1ba4,N750SL,Cessna,525A CitationJet CJ2,C25A,525A-0150,L2J,,,2022-09-30,2003-01-01
 aa1bb4,N750TB,Cessna,550 Citation II,C550,550-0579,L2J,,,2021-10-31,1988-01-01
+aa1bf2,N750VP,Cessna,750 Citation X,C750,750-0022,L2J,,,,
+aa1c0d,N750WR,Cessna,750 Citation X,C750,750-0172,L2J,,,2024-06-30,2001-01-01
+aa1c0e,N750WS,Cessna,750 Citation X,C750,750-0234,L2J,,,,
+aa1c1f,N750XJ,Cessna,750 Citation X,C750,750-0250,L2J,XOJ,,2024-06-30,2005-01-01
+aa1c2c,N750XX,Cessna,750 Citation X,C750,750-0192,L2J,,,2021-10-31,2002-01-01
 aa1c48,N750Z,Cessna,208B Grand Caravan,C208,208B-1054,L1T,,,2023-08-31,2004-01-01
 aa1d24,N7505V,Cessna,177 Cardinal RG,C77R,177RG0804,L1P,,,2022-06-30,1975-01-01
+aa1dc1,N751AA,Cessna,750 Citation X,C750,750-0068,L2J,,,2023-04-30,1999-01-01
 aa1de0,N751BG,Cessna,680 Citation Sovereign,C680,680-0181,L2J,,,2023-04-30,2007-01-01
+aa1e04,N751CT,Cessna,750 Citation X+,C750,750-0501,L2J,,,,
+aa1e30,N751EM,Cessna,750 Citation X,C750,750-0254,L2J,,,2021-12-31,2006-01-01
 aa1e42,N751FE,Cessna,208B Grand Caravan,C208,208B-0245,L1T,,,2022-09-30,1990-01-01
 aa1e53,N751FX,Cessna,208B Grand Caravan,C208,208B-0514,L1T,,,2023-05-31,1996-01-01
+aa1edf,N751MM,Cessna,750 Citation X,C750,750-0146,L2J,,,2023-04-30,2001-01-01
 aa1f10,N751PL,Cessna,680A Citation Latitude,C68A,680A-0039,L2J,,,,
+aa1fbd,N751WJ,Cessna,750 Citation X,C750,750-0008,L2J,,,2022-05-31,1996-01-01
 aa21ac,N752CC,Cessna,550 Citation II,C550,550-0018,L2J,,,2021-10-31,1978-01-01
 aa21ae,N752CE,Cessna,560 Citation Encore+,C560,560-0752,L2J,,,,
 aa21b3,N752CK,Cessna,500 Citation I,C500,500-0255,L2J,,,2023-01-31,
 aa21f9,N752FE,Cessna,208B Grand Caravan,C208,208B-0247,L1T,,,2022-09-30,1990-01-01
 aa220a,N752FX,Cessna,208B Grand Caravan,C208,208B-0517,L1T,,,2023-05-31,1996-01-01
+aa2336,N752TX,Cessna,750 Citation X,C750,750-0511,L2J,,,2024-03-31,2014-01-01
+aa2374,N752WJ,Cessna,750 Citation X,C750,750-0034,L2J,,,2023-03-31,1997-01-01
 aa25c1,N753FX,Cessna,208B Grand Caravan,C208,208B-0520,L1T,,,2023-08-31,1996-01-01
 aa25cd,N753GJ,Cessna,560 Citation V,C560,560-0306,L2J,,,2022-12-31,1995-01-01
 aa2601,N753JL,Cessna,560XL Citation Excel,C56X,560-5274,L2J,,,2021-10-31,2002-01-01
 aa2643,N753MB,Cessna,560 Citation V,C560,560-0028,L2J,,,2023-08-31,1989-01-01
 aa2652,N753MS,Cessna,680 Citation Sovereign,C680,680-0267,L2J,,,,
+aa2744,N753XJ,Cessna,750 Citation X,C750,750-0053,L2J,XOJ,,2021-12-31,1998-01-01
 aa2978,N754FX,Cessna,208B Grand Caravan,C208,208B-0526,L1T,,,2023-08-31,1996-01-01
 aa29d4,N754KP,Cessna,208B Grand Caravan,C208,208B-1264,L1T,,,2022-10-31,2007-01-01
 aa2a67,N754RL,Cessna,525C CitationJet CJ4,C25C,525C-0173,L2J,,,,
@@ -12951,8 +13188,11 @@ aa31c5,N756QV,Cessna,TU206G Turbo Stationair,T206,U206-4280,L1P,,,2024-03-31,197
 aa344a,N757CP,Cessna,525A CitationJet CJ2,C25A,525A-0069,L2J,,,2023-10-31,2002-01-01
 aa3552,N757PC,Cessna,525B CitationJet CJ3,C25B,525B-0188,L2J,,,2023-10-31,2007-01-01
 aa35c3,N757TR,Cessna,560 Citation V,C560,560-0598,L2J,,,2021-08-31,2003-01-01
+aa3620,N757XJ,Cessna,750 Citation X,C750,750-0257,L2J,XOJ,,2024-06-30,2006-01-01
 aa37e4,N758BK,Cessna,R172K Hawk XP,C172,R1722963,L1P,,,2022-03-31,1978-01-01
 aa3801,N758CP,Cessna,560XL Citation XLS,C56X,560-5577,L2J,,,,
+aa3809,N758CX,Cessna,750 Citation X,C750,750-0058,L2J,,,,
+aa39d7,N758XJ,Cessna,750 Citation X,C750,750-0258,L2J,,,,
 aa3a1b,N7580B,Cessna,208B Grand Caravan,C208,208B-0051,L1T,,,,
 aa3a42,N7581F,Cessna,208B Grand Caravan,C208,208B-0389,L1T,,,2021-07-31,1994-01-01
 aa3a7a,N75822,Cessna,172N Skyhawk,C172,17267979,L1P,,,2022-05-31,1976-01-01
@@ -12974,6 +13214,7 @@ aa41b6,N760BW,Cessna,172R Skyhawk,C172,17280775,L1P,,,2021-11-30,1999-01-01
 aa41f0,N760ED,Cessna,560XL Citation Excel,C56X,560-5201,L2J,,,2023-04-30,2001-01-01
 aa420a,N760FE,Cessna,208B Grand Caravan,C208,208B-0252,L1T,,,,
 aa429b,N760M,Cessna,550 Citation II,C550,550-0635,L2J,,,2023-07-31,1990-01-01
+aa439e,N760XJ,Cessna,750 Citation X,C750,750-0260,L2J,XOJ,,2021-12-31,2006-01-01
 aa45c1,N761FE,Cessna,208B Grand Caravan,C208,208B-0254,L1T,,,2022-11-30,1991-01-01
 aa461a,N761JU,Cessna,T210M Centurion,C210,210-62300,L1P,,,2022-03-31,1977-01-01
 aa4685,N761PA,Cessna,510 Citation Mustang,C510,510-0374,L2J,,,2023-07-31,2011-01-01
@@ -12984,12 +13225,14 @@ aa4d2f,N763FE,Cessna,208B Grand Caravan,C208,208B-0256,L1T,,,2023-05-31,1991-01-
 aa4d76,N763JA,Cessna,700 Citation Longitude,C700,700-0015,L2J,,,2023-01-31,2019-01-01
 aa50a7,N764CS,Cessna,T240 Corvalis TTx,C240,T240-2065,L1P,,,,
 aa50e6,N764FE,Cessna,208B Grand Caravan,C208,208B-0258,L1T,,,2023-05-31,1991-01-01
+aa527a,N764XJ,Cessna,750 Citation X,C750,750-0264,L2J,XOJ,,2021-12-31,2006-01-01
 aa546c,N765DF,Cessna,525C CitationJet CJ4,C25C,525C-0075,L2J,,,,
 aa5498,N765F,Cessna,560 Citation V,C560,560-0771,L2J,,,2023-05-31,2007-01-01
 aa549d,N765FE,Cessna,208B Grand Caravan,C208,208B-0259,L1T,,,2023-05-31,1991-01-01
 aa54f8,N765JW,Cessna,525B CitationJet CJ3,C25B,525B-0502,L2J,,,2022-10-31,2016-01-01
 aa5596,N765RD,Cessna,550 Citation II,C550,550-0399,L2J,,,2023-05-31,1981-01-01
 aa5616,N765WG,Cessna,560 Citation V,C560,560-0461,L2J,,,,
+aa5631,N765XJ,Cessna,750 Citation X,C750,750-0265,L2J,XOJ,,2021-12-31,2006-01-01
 aa5854,N766FE,Cessna,208B Grand Caravan,C208,208B-0260,L1T,,,,
 aa58d2,N766LF,Cessna,525B CitationJet CJ3,C25B,525B-0461,L2J,,,2024-01-31,2015-01-01
 aa5bb3,N767BS,Cessna,560XL Citation Excel,C56X,560-5191,L2J,,,2023-02-28,2001-01-01
@@ -12997,6 +13240,7 @@ aa5c0b,N767FE,Cessna,208B Grand Caravan,C208,208B-0262,L1T,FDX,,2023-08-31,1991-
 aa5c1f,N767G,Cessna,550 Citation S/II,C550,S550-0041,L2J,,,,
 aa5c6d,N767KC,Cessna,560 Citation V,C560,560-0517,L2J,,,2023-09-30,1999-01-01
 aa5c87,N767LD,Cessna,560 Citation V,C560,560-0222,L2J,,,,
+aa5d9f,N767XJ,Cessna,750 Citation X,C750,750-0067,L2J,XOJ,,2023-10-31,1998-01-01
 aa5da8,N767XT,Cessna,525B CitationJet CJ3,C25B,525B-0268,L2J,,,2022-12-31,2008-01-01
 aa5dc8,N767Z,Cessna,441 Conquest II,C441,441-0064,L2T,,,,
 aa5e96,N7675F,Cessna,337C Super Skymaster,C337,337-0899,L2P,,,,
@@ -13004,6 +13248,7 @@ aa5fc2,N768FE,Cessna,208B Grand Caravan,C208,208B-0263,L1T,FDX,,2023-08-31,1991-
 aa6048,N768LP,Cessna,560XL Citation Excel,C56X,560-6124,L2J,,,2024-01-31,2012-01-01
 aa60ff,N768TX,Cessna,560XL Citation Excel,C56X,560-5768,L2J,,,2021-09-30,2008-01-01
 aa633a,N769CS,Cessna,560 Citation V,C560,560-0769,L2J,,,2023-11-30,2007-01-01
+aa650d,N769XJ,Cessna,750 Citation X,C750,750-0269,L2J,XOJ,,2021-12-31,2007-01-01
 aa66fb,N77DB,Cessna,525 CitationJet CJ1,C525,525-0443,L2J,,,2023-10-31,2001-01-01
 aa6711,N77DZ,Cessna,560XL Citation Excel,C56X,560-5168,L2J,,,2022-10-31,2001-01-01
 aa672f,N77FD,Cessna,501 Citation I/SP,C501,501-0250,L2J,,,2021-10-31,1982-01-01
@@ -13029,6 +13274,7 @@ aa690d,N770AF,Cessna,500 Citation I,C500,500-0208,L2J,,,2023-10-31,1974-01-01
 aa6943,N770CK,Cessna,560XL Citation Excel,C56X,560-5257,L2J,COO,,,
 aa6989,N770FE,Cessna,208B Grand Caravan,C208,208B-0265,L1T,,,2023-11-30,1991-01-01
 aa6a06,N770LE,Cessna,525C CitationJet CJ4,C25C,525C-0095,L2J,,,2021-10-31,2012-01-01
+aa6b1d,N770XJ,Cessna,750 Citation X,C750,750-0270,L2J,,,2022-12-31,2007-01-01
 aa6d0e,N771DE,Cessna,560XL Citation Excel,C56X,560-5591,L2J,,,2023-10-31,2005-01-01
 aa6d15,N771DM,Cessna,525B CitationJet CJ3,C25B,525B-0210,L2J,,,,
 aa6d33,N771ES,Cessna,510 Citation Mustang,C510,510-0344,L2J,,,2023-02-28,2011-01-01
@@ -13041,6 +13287,7 @@ aa700d,N7717B,Cessna,650 Citation VI,C650,650-0214,L2J,,,2023-08-31,1992-01-01
 aa70b8,N772CS,Cessna,560 Citation V,C560,560-0772,L2J,,,2023-11-30,2007-01-01
 aa70f7,N772FE,Cessna,208B Grand Caravan,C208,208B-0268,L1T,FDX,,2023-11-30,1991-01-01
 aa7207,N772SB,Cessna,550 Citation II,C550,550-0498,L2J,,,,1984-01-01
+aa728b,N772XJ,Cessna,750 Citation X,C750,750-0272,L2J,XOJ,,2021-12-31,2007-01-01
 aa74ae,N773FE,Cessna,208B Grand Caravan,C208,208B-0269,L1T,,,2024-02-29,1991-01-01
 aa74dc,N773HA,Cessna,650 Citation VII,C650,650-7082,L2J,,,2023-01-31,1997-01-01
 aa77f3,N774AR,Cessna,510 Citation Mustang,C510,510-0077,L2J,,,2021-07-31,2008-01-01
@@ -13050,6 +13297,7 @@ aa787e,N774GE,Cessna,525 CitationJet CJ1,C525,525-0457,L2J,,,,
 aa7975,N774SB,Cessna,560 Citation V,C560,560-0684,L2J,,,2022-06-30,2005-01-01
 aa7981,N774SP,Cessna,560 Citation V,C560,560-0287,L2J,,,2023-04-30,1995-01-01
 aa7985,N774ST,Cessna,510 Citation Mustang,C510,510-0245,L2J,,,2021-07-31,2009-01-01
+aa79f9,N774XJ,Cessna,750 Citation X,C750,750-0274,L2J,XOJ,,2021-12-31,2007-01-01
 aa7c1c,N775FE,Cessna,208B Grand Caravan,C208,208B-0272,L1T,,,,
 aa7cad,N775M,Cessna,650 Citation VII,C650,650-7017,L2J,,,,
 aa7d45,N775TB,Cessna,525 CitationJet CJ1,C525,525-0075,L2J,,,,
@@ -13059,6 +13307,7 @@ aa8100,N776TF,Cessna,208 Caravan,C208,208-0500,L1T,,,2023-08-31,2008-01-01
 aa8155,N776WR,Cessna,560 Citation V,C560,560-0459,L2J,,,2022-12-31,1998-01-01
 aa8313,N777AL,Cessna,650 Citation III,C650,650-0201,L2J,,,2022-02-28,1991-01-01
 aa831e,N777AX,Cessna,550 Citation S/II,C550,S550-0149,L2J,,,2022-12-31,1988-01-01
+aa8350,N777CX,Cessna,750 Citation X,C750,750-0072,L2J,,,,
 aa836a,N777DY,Cessna,680 Citation Sovereign,C680,680-0247,L2J,,,,
 aa83c4,N777HN,Cessna,560XL Citation Excel,C56X,560-6204,L2J,,,2022-03-31,2016-01-01
 aa83d9,N777JJ,Cessna,500 Citation I,C500,500-0056,L2J,,,2022-07-31,
@@ -13080,6 +13329,7 @@ aa878c,N778JE,Cessna,510 Citation Mustang,C510,510-0236,L2J,,,2023-06-30,
 aa87bc,N778LC,Cessna,525C CitationJet CJ4,C25C,525C-0152,L2J,,,2023-02-28,2014-01-01
 aa8852,N778SC,Cessna,680A Citation Latitude,C68A,680A-0029,L2J,,,2022-05-31,2016-01-01
 aa886a,N778TB,Cessna,550B Citation Bravo,C55B,550-1083,L2J,,,2022-08-31,2004-01-01
+aa88d5,N778XJ,Cessna,750 Citation X,C750,750-0278,L2J,,,2022-12-31,2007-01-01
 aa8aab,N779CC,Cessna,441 Conquest II,C441,441-0155,L2T,,,2023-03-31,1980-01-01
 aa8af8,N779FE,Cessna,208B Grand Caravan,C208,208B-0276,L1T,,,,
 aa8b4f,N779JS,Cessna,525B CitationJet CJ3,C25B,525B-0036,L2J,RSP,,,
@@ -13089,6 +13339,7 @@ aa8e69,N78CK,Cessna,550 Citation II,C550,550-0319,L2J,,,,
 aa8f44,N78MD,Cessna,550B Citation Bravo,C55B,550-0970,L2J,,,2023-03-31,2001-01-01
 aa8fae,N78RK,Cessna,525A CitationJet CJ2,C25A,525A-0507,L2J,,,2022-02-28,2013-01-01
 aa8fbe,N78SA,Cessna,208B Grand Caravan,C208,208B-0467,L1T,,,2021-10-31,1995-01-01
+aa8fc8,N78SL,Cessna,750 Citation X,C750,750-0238,L2J,,,,
 aa8ff2,N78UC,Cessna,AT-17 Bobcat,T50,6185,L2J,,,,
 aa9045,N78XL,Cessna,560XL Citation Excel,C56X,560-5578,L2J,,,2022-09-30,2005-01-01
 aa9048,N78XP,Reims Aviation,FR172K Hawk XP,C172,0603,L1P,,,2021-08-31,1977-01-01
@@ -13100,20 +13351,24 @@ aa9108,N780FE,Cessna,208B Grand Caravan,C208,208B-0277,L1T,FDX,,2021-07-31,1991-
 aa9146,N780HS,Cessna,525 CitationJet CJ1,C525,525-0327,L2J,,,,
 aa915f,N780JS,Cessna,525B CitationJet CJ3,C25B,525B-0043,L2J,RSP,,2023-07-31,2005-01-01
 aa9217,N780SA,Cessna,172S Skyhawk,C172,172S8600,L1P,,,2022-12-31,2000-01-01
+aa929c,N780XJ,Cessna,750 Citation X,C750,750-0280,L2J,XOJ,2018-12-10,2021-12-31,2007-01-01
 aa94bf,N781FE,Cessna,208B Grand Caravan,C208,208B-0278,L1T,FDX,,2021-07-31,1991-01-01
 aa9721,N7814,Cessna,525B CitationJet CJ3,C25B,525B-0166,L2J,,,2023-06-30,2007-01-01
 aa9829,N782CC,Cessna,650 Citation VII,C650,650-7030,L2J,,,,
 aa9876,N782FE,Cessna,208B Grand Caravan,C208,208B-0280,L1T,FDX,,2021-11-30,1991-01-01
 aa98cd,N782JS,Cessna,525B CitationJet CJ3,C25B,525B-0059,L2J,RSP,,,
 aa9996,N782ST,Cessna,550 Citation II,C550,550-0679,L2J,,,2023-04-30,1991-01-01
+aa9a0a,N782XJ,Cessna,750 Citation X,C750,750-0282,L2J,XOJ,,2021-12-31,2008-01-01
 aa9a25,N782YL,Cessna,441 Conquest II,C441,441-0339,L2T,,,2021-09-30,
 aa9c2d,N783FE,Cessna,208B Grand Caravan,C208,208B-0281,L1T,FDX,,2021-11-30,1991-01-01
 aa9c84,N783JS,Cessna,525B CitationJet CJ3,C25B,525B-0033,L2J,RSP,,2022-02-28,2005-01-01
 aa9d33,N783RS,Cessna,441 Conquest II,C441,441-0170,L2T,,,,
+aa9dc1,N783XJ,Cessna,750 Citation X,C750,750-0083,L2J,XOJ,,2021-12-31,1999-01-01
 aa9fe4,N784FE,Cessna,208B Grand Caravan,C208,208B-0282,L1T,FDX,,2021-11-30,1991-01-01
 aaa03b,N784JS,Cessna,525B CitationJet CJ3,C25B,525B-0050,L2J,RSP,,,
 aaa0ad,N784PF,Cessna,425 Conquest I,C245,425-0018,L2T,,,2022-08-31,
 aaa0e9,N784RR,Cessna,441 Conquest II,C441,441-0078,L2T,,,2023-11-30,1979-01-01
+aaa178,N784XJ,Cessna,750 Citation X,C750,750-0084,L2J,XOJ,,2021-12-31,1999-01-01
 aaa322,N785AJ,Cessna,650 Citation VII,C650,650-7046,L2J,,,,
 aaa379,N785DW,Cessna,560XL Citation Excel,C56X,560-5137,L2J,,,,
 aaa39b,N785FE,Cessna,208B Grand Caravan,C208,208B-0283,L1T,FDX,,2022-02-28,1991-01-01
@@ -13127,6 +13382,7 @@ aaa752,N786FE,Cessna,208B Grand Caravan,C208,208B-0284,L1T,FDX,,2022-02-28,1991-
 aaa7a9,N786JS,Cessna,525B CitationJet CJ3,C25B,525B-0030,L2J,RSP,,,
 aaa88b,N786TT,Cessna,560XL Citation XLS,C56X,560-5786,L2J,,,,
 aaa8d9,N786WW,Cessna,208B Grand Caravan,C208,208B-1099,L1T,,,2022-07-31,2004-01-01
+aaa8e6,N786XJ,Cessna,750 Citation X,C750,750-0286,L2J,,,2023-06-30,2008-01-01
 aaaa2f,N7867T,Cessna,560 Citation V,C560,560-0020,L2J,,,2023-04-30,1989-01-01
 aaaacd,N787CV,Cessna,650 Citation VII,C650,650-7037,L2J,,,2021-11-30,1994-01-01
 aaaaf9,N787EP,Cessna,525C CitationJet CJ4,C25C,525C-0239,L2J,,,2023-03-31,2016-01-01
@@ -13147,6 +13403,7 @@ aab30b,N789MC,Cessna,T310Q Turbo,C310,310Q-0914,L2P,,,,
 aab30c,N789MD,Cessna,340A,C340,340A-1021,L2P,,,2024-01-31,1980-01-01
 aab3af,N789TS,Cessna,510 Citation Mustang,C510,510-0395,L2J,,,2022-12-31,2012-01-01
 aab3b0,N789TT,Cessna,550 Citation II,C550,550-0343,L2J,,,2023-10-31,1982-01-01
+aab40b,N789XJ,Cessna,750 Citation X,C750,750-0289,L2J,XOJ,,2024-05-31,2008-01-01
 aab50b,N7895Q,Cessna,525 CitationJet CJ1,C525,525-0405,L2J,,,2024-03-31,2000-01-01
 aab5b5,N79AJ,Cessna,525 CitationJet CJ1,C525,525-0321,L2J,,,2022-11-30,1999-01-01
 aab667,N79HM,Cessna,525C CitationJet CJ4,C25C,525C-0079,L2J,,,,
@@ -13157,25 +13414,33 @@ aab78f,N79VH,Cessna,208 Caravan,C208,208-0570,L1T,,,2022-07-31,2015-01-01
 aab810,N790AL,Cessna,550 Citation S/II,C550,S550-0024,L2J,,,2023-01-31,1985-01-01
 aab887,N790FE,Cessna,208B Grand Caravan,C208,208B-0288,L1T,,,2022-05-31,1991-01-01
 aab9c4,N790TX,Cessna,560XL Citation Excel,C56X,560-5790,L2J,EJM,,2021-08-31,2008-01-01
+aaba1b,N790XJ,Cessna,750 Citation X,C750,750-0070,L2J,XOJ,,2021-12-31,1998-01-01
 aaba4e,N790ZK,Cessna,560XL Citation XLS+,C56X,560-6111,L2J,,,,
 aabc8a,N791JF,Cessna,501 Citation I/SP,C501,501-0079,L2J,,,2022-09-30,1978-01-01
 aabc8e,N791JK,Cessna,525A CitationJet CJ2,C25A,525A-0152,L2J,,,2024-02-29,2003-01-01
 aabc92,N791JP,Cessna,680 Citation Sovereign,C680,680-0175,L2J,,,,
 aabfa7,N792CB,Cessna,525A CitationJet CJ2+,C25A,525A-0461,L2J,,,,
 aabff5,N792FE,Cessna,208B Grand Caravan,C208,208B-0290,L1T,FDX,,2022-09-30,1991-01-01
+aac189,N792XJ,Cessna,750 Citation X,C750,750-0292,L2J,XOJ,,2021-12-31,2008-01-01
 aac32b,N793AA,Cessna,501 Citation I/SP,C501,501-0106,L2J,,,2023-01-31,1979-01-01
 aac346,N793BC,Cessna,560 Citation V,C560,560-0758,L2J,,,2022-04-30,2007-01-01
 aac365,N793CJ,Cessna,525 CitationJet CJ1,C525,525-0021,L2J,,,2023-12-31,2000-01-01
+aac415,N793KK,Cessna,680 Citation Sovereign,C680,680-0159,L2J,PWA,,,
+aac540,N793XJ,Cessna,750 Citation X,C750,750-0093,L2J,XOJ,,2021-12-31,1999-01-01
 aac763,N794FE,Cessna,208B Grand Caravan,C208,208B-0292,L1T,FDX,,2022-11-30,1991-01-01
 aac82c,N794PF,Cessna,525 CitationJet CJ1,C525,525-0649,L2J,,,2021-07-31,2007-01-01
 aac88b,N794TA,Cessna,208B Grand Caravan EX,C208,208B-5362,L1T,,,,
+aac8f7,N794XJ,Cessna,750 Citation X,C750,750-0294,L2J,XOJ,,2021-12-31,2008-01-01
 aacb1a,N795FE,Cessna,208B Grand Caravan,C208,208B-0293,L1T,FDX,,2022-11-30,1991-01-01
 aacb4a,N795HC,Cessna,525C CitationJet CJ4,C25C,525C-0074,L2J,,,2023-11-30,2012-01-01
+aacb4e,N795HG,Cessna,750 Citation X,C750,750-0308,L2J,,,2023-11-30,2011-01-01
 aacb6a,N795JK,Cessna,550 Citation II,C550,550-0027,L2J,,,,
 aacc41,N795T,Cessna,510 Citation Mustang,C510,510-0357,L2J,,,2023-02-28,2010-01-01
+aaccae,N795XJ,Cessna,750 Citation X,C750,750-0295,L2J,,,,
 aaced1,N796FE,Cessna,208B Grand Caravan,C208,208B-0212,L1T,,,2022-02-28,1990-01-01
 aacf63,N796MA,Cessna,550B Citation Bravo,C55B,550-0941,L2J,,,2021-07-31,2000-01-01
 aad23b,N797CC,Cessna,650 Citation VII,C650,650-7097,L2J,,,2022-06-30,1999-01-01
+aad24e,N797CX,Cessna,750 Citation X,C750,750-0297,L2J,,,2023-01-31,2009-01-01
 aad27c,N797ET,Cessna,208B Grand Caravan EX,C208,208B-5230,L1T,,,,
 aad288,N797FE,Cessna,208B Grand Caravan,C208,208B-0042,L1T,,,2022-02-28,1987-01-01
 aad295,N797FT,Cessna,208B Grand Caravan EX,C208,208B-5247,L1T,,,,
@@ -13192,6 +13457,7 @@ aada90,N799MJ,Cessna,680 Citation Sovereign,C680,680-0511,L2J,,,2022-12-31,2013-
 aadd5e,N8CA,Cessna,208B Grand Caravan,C208,208B-2329,L1T,,,2022-05-31,
 aaddd0,N8GQ,Cessna,525C CitationJet CJ4,C25C,525C-0045,L2J,,,2023-06-30,2011-01-01
 aaddea,N8HR,Cessna,L-19A/O-1A Bird Dog,O1,22818,L1P,,,2021-07-31,1953-01-01
+aaddf6,N8JC,Cessna,750 Citation X,C750,750-0154,L2J,,,2023-08-31,2001-01-01
 aade03,N8JR,Cessna,680A Citation Latitude,C68A,680A-0010,L2J,,,,
 aade1c,N8KR,Cessna,P210N Pressurized Centurion,P210,P21000709,L1P,,,2023-09-30,1981-01-01
 aade55,N8MY,Cessna,510 Citation Mustang,C510,510-0322,L2J,,,,
@@ -13279,6 +13545,7 @@ aafc60,N807FE,Cessna,208B Grand Caravan,C208,208B-0041,L1T,,,2023-08-31,1987-01-
 aafca7,N807JA,Cessna,208 Caravan,C208,208-0075,L1T,,,2024-04-30,1985-01-01
 aafcf3,N807MB,Cessna,550 Citation II,C550,550-0694,L2J,,,2022-06-30,1992-01-01
 aaff98,N808AC,Cessna,560 Citation V,C560,560-0323,L2J,,,2021-08-31,1995-01-01
+ab0032,N808GG,Cessna,750 Citation X,C750,750-0033,L2J,,,2021-10-31,1997-01-01
 ab006a,N808JN,Cessna,525B CitationJet CJ3,C25B,525B-0072,L2J,,,2022-04-30,2006-01-01
 ab00a0,N808LS,Cessna,510 Citation Mustang,C510,510-0263,L2J,,,2022-12-31,2009-01-01
 ab00a9,N808MA,Cessna,208B Grand Caravan,C208,208B-2427,L1T,,,2022-07-31,2013-01-01
@@ -13413,6 +13680,7 @@ ab4a09,N8264,Cessna,208B Grand Caravan,C208,208B-5264,L1T,WRF,,2022-02-28,2016-0
 ab4b35,N827DP,Cessna,560XL Citation Excel,C56X,560-6210,L2J,,,2022-08-31,2016-01-01
 ab4bb5,N827JS,Cessna,560XL Citation Excel,C56X,560-5116,L2J,,,2023-07-31,2000-01-01
 ab4c4b,N827QS,Cessna,560 Citation Encore+,C560,560-0801,L2J,EJA,,,
+ab4c77,N827SL,Cessna,750 Citation X,C750,750-0225,L2J,,,2024-03-31,2004-01-01
 ab4def,N8275M,Cessna,210K Centurion,C210,210-59275,L1P,,,2022-07-31,1970-01-01
 ab4eac,N828B,Cessna,208 Caravan,C208,208-0514,L1T,,,2023-11-30,2010-01-01
 ab4ee1,N828DC,Cessna,208B Grand Caravan,C208,208B-2074,L1T,,,2023-08-31,2009-01-01
@@ -13439,6 +13707,7 @@ ab5685,N83FG,Cessna,510 Citation Mustang,C510,510-0376,L2J,,,2022-02-28,2011-01-
 ab5795,N83SD,Cessna,680 Citation Sovereign,C680,680-0106,L2J,,,2022-11-30,2006-01-01
 ab57b0,N83TF,Cessna,525B CitationJet CJ3,C25B,525B-0094,L2J,,,2021-12-31,2006-01-01
 ab5841,N83ZA,Cessna,560 Citation V,C560,560-0176,L2J,,,2023-09-30,1992-01-01
+ab5901,N830GS,Cessna,680 Citation Sovereign,C680,680-0200,L2J,,,,
 ab5924,N830JB,Cessna,560 Citation V,C560,560-0164,L2J,,,2023-12-31,1992-01-01
 ab5974,N830MG,Cessna,650 Citation VI,C650,650-0209,L2J,,,2021-12-31,1991-01-01
 ab59c9,N830QS,Cessna,560 Citation Encore+,C560,560-0784,L2J,EJA,,,
@@ -13474,6 +13743,7 @@ ab7aa2,N839JS,Cessna,560XL Citation Excel,C56X,560-5356,L2J,,,2023-02-28,2004-01
 ab7add,N839MA,Cessna,208B Grand Caravan,C208,208B-2392,L1T,,,2022-08-31,2013-01-01
 ab7b38,N839QS,Cessna,560 Citation Encore,C560,560-0690,L2J,EJA,,,
 ab7d9d,N84BD,Cessna,208 Caravan,C208,208-0353,L1T,,,2022-09-30,2002-01-01
+ab7de5,N84EA,Cessna,750 Citation X,C750,750-0094,L2J,,,2023-12-31,1999-01-01
 ab7de7,N84EC,Cessna,550 Citation S/II,C550,S550-0014,L2J,,,2022-07-31,1984-01-01
 ab7e04,N84FG,Cessna,525 CitationJet CJ1,C525,525-0192,L2J,,,,
 ab7e19,N84GC,Cessna,550 Citation II,C550,550-0493,L2J,,,2022-03-31,1984-01-01
@@ -13509,6 +13779,7 @@ ab9024,N844QS,Cessna,560 Citation Encore,C560,560-0629,L2J,EJA,,,
 ab926b,N845,Cessna,208B Grand Caravan,C208,208B-5256,L1T,,,2022-01-31,2015-01-01
 ab9287,N845BB,Cessna,650 Citation VII,C650,650-7115,L2J,,,2022-06-30,2000-01-01
 ab92ee,N845FE,Cessna,208B Grand Caravan,C208,208B-0152,L1T,,,2023-02-28,1989-01-01
+ab92f7,N845FP,Cessna,750 Citation X,C750,750-0303,L2J,,,2021-11-30,2009-01-01
 ab9345,N845JS,Cessna,560XL Citation Excel,C56X,560-5180,L2J,,,2021-10-31,2001-01-01
 ab9381,N845MB,Cessna,560XL Citation Excel,C56X,560-5609,L2J,,,2023-03-31,2005-01-01
 ab96a5,N846FE,Cessna,208B Grand Caravan,C208,208B-0154,L1T,,,2023-02-28,1989-01-01
@@ -13578,6 +13849,7 @@ abc628,N858ME,Cessna,560 Citation V,C560,560-0253,L2J,,,2021-10-31,1994-01-01
 abc62a,N858MG,Cessna,680A Citation Latitude,C68A,680A-0002,L2J,,,2023-10-31,2014-01-01
 abc640,N858ND,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41652,L1P,,,2022-05-31,
 abc693,N858RM,Cessna,550B Citation Bravo,C55B,550-0914,L2J,,,2023-05-31,2000-01-01
+abc6c1,N858TH,Cessna,750 Citation X,C750,750-0312,L2J,,,2021-10-31,2012-01-01
 abc949,N859FE,Cessna,208B Grand Caravan,C208,208B-0181,L1T,,,,
 abc9db,N859MA,Cessna,208B Grand Caravan,C208,208B-2424,L1T,,,2022-07-31,2013-01-01
 abcc98,N86BA,Cessna,550 Citation S/II,C550,S550-0001,L2J,,,,
@@ -13608,6 +13880,7 @@ abda7e,N863FE,Cessna,208B Grand Caravan,C208,208B-0186,L1T,FDX,,2021-07-31,1989-
 abdac6,N863JB,Cessna,560 Citation V,C560,560-0260,L2J,,,2024-03-31,1994-01-01
 abde35,N864FE,Cessna,208B Grand Caravan,C208,208B-0187,L1T,FDX,,2021-07-31,1989-01-01
 abdec7,N864MA,Cessna,208B Grand Caravan,C208,208B-1275,L1T,,,,
+abded2,N864MM,Cessna,750 Citation X,C750,750-0071,L2J,,,2022-06-30,1999-01-01
 abdf49,N864SF,Cessna,208B Grand Caravan,C208,208B-0864,L1T,,,2023-08-31,2000-01-01
 abe1d1,N865EC,Cessna,680 Citation Sovereign,C680,680-0028,L2J,,,2023-11-30,2005-01-01
 abe1ec,N865FE,Cessna,208B Grand Caravan,C208,208B-0188,L1T,WIG,,2021-07-31,1989-01-01
@@ -13705,6 +13978,7 @@ ac220e,N881FE,Cessna,208B Grand Caravan,C208,208B-0204,L1T,FDX,,2022-09-30,1990-
 ac2262,N881JP,Cessna,425 Conquest I,C425,425-0139,L2T,,,2022-08-31,1981-01-01
 ac2375,N881VP,Cessna,560XL Citation Excel,C56X,560-6018,L2J,,,2022-10-31,2009-01-01
 ac25c5,N882FE,Cessna,208B Grand Caravan,C208,208B-0208,L1T,,,2022-11-30,1990-01-01
+ac2626,N882KB,Cessna,750 Citation X,C750,750-0216,L2J,,,2023-10-31,2003-01-01
 ac266e,N882MZ,Cessna,525 Citation M2,C25M,525-0882,L2J,,,2023-09-30,2015-01-01
 ac26bc,N882RB,Cessna,550 Citation S/II,C550,S550-0075,L2J,,,2023-02-28,
 ac273d,N882WF,Cessna,550B Citation Bravo,C55B,550-0882,L2J,,,2023-11-30,1999-01-01
@@ -13800,6 +14074,7 @@ ac5bd7,N896CG,Cessna,550B Citation Bravo,C55B,550-1055,L2J,,,2023-08-31,2003-01-
 ac5c20,N896FE,Cessna,208B Grand Caravan,C208,208B-0226,L1T,FDX,,2023-06-30,1990-01-01
 ac5cb2,N896MA,Cessna,550B Citation Bravo,C55B,550-1065,L2J,,,2023-04-30,2003-01-01
 ac5ce3,N896P,Cessna,525A CitationJet CJ2,C25A,525A-0379,L2J,,,2021-07-31,2007-01-01
+ac5d1e,N896RJ,Cessna,750 Citation X,C750,750-0271,L2J,,,2024-02-29,2007-01-01
 ac5fd7,N897FE,Cessna,208B Grand Caravan,C208,208B-0227,L1T,,,2021-07-31,1990-01-01
 ac61ba,N8970N,Cessna,441 Conquest II,C441,441-0092,L2T,,,2023-09-30,1979-01-01
 ac6326,N898BA,Cessna,550B Citation Bravo,C55B,550-0902,L2J,,,2023-04-30,2000-01-01
@@ -13827,6 +14102,7 @@ ac6d74,N90GL,Cessna,208B Grand Caravan,C208,208B-0229,L1T,BXR,,2021-10-31,1990-0
 ac6da4,N90JJ,Cessna,550 Citation II,C550,550-0571,L2J,,,2021-12-31,1988-01-01
 ac6df8,N90MT,Cessna,525 CitationJet CJ1,C525,525-0539,L2J,,,2022-01-31,
 ac6e01,N90NB,Cessna,560 Citation Encore,C560,560-0634,L2J,,,,
+ac6e05,N90NF,Cessna,750 Citation X,C750,750-0170,L2J,,,,
 ac6e2a,N90PT,Cessna,550 Citation II,C550,550-0465,L2J,,,2022-04-30,
 ac6e2c,N90PV,Cessna,310N,C310,310N-0054,L2P,,,2023-01-31,1968-01-01
 ac6efa,N90YA,Cessna,425 Conquest I,C425,425-0090,L2T,,,2022-08-31,
@@ -13841,7 +14117,9 @@ ac6fc8,N900GF,Cessna,550B Citation Bravo,C55B,550-1046,L2J,,,2022-12-31,2003-01-
 ac6fd7,N900GW,Cessna,525 CitationJet CJ1,C525,525-0323,L2J,,,,
 ac6fdc,N900HA,Cessna,525A CitationJet CJ2,C25A,525A-0039,L2J,,,2021-11-30,2001-01-01
 ac6ff5,N900JA,Cessna,208B Grand Caravan,C208,208B-0935,L1T,,,2023-06-30,2002-01-01
+ac6ff8,N900JD,Cessna,750 Citation X+,C750,750-0507,L2J,,,,
 ac7011,N900KD,Cessna,560XL Citation Excel,C56X,560-5523,L2J,,,2023-02-28,2004-01-01
+ac7019,N900KM,Cessna,750 Citation X,C750,750-0089,L2J,,,2022-03-31,1999-01-01
 ac7032,N900LM,Cessna,550 Citation S/II,C550,S550-0145,L2J,,,2022-10-31,
 ac7050,N900MS,Cessna,425 Conquest I,C425,425-0079,L2T,,,,
 ac7073,N900PB,Cessna,550 Citation II,C550,550-0566,L2J,,,2021-10-31,1988-01-01
@@ -13878,6 +14156,7 @@ ac7ad3,N903FE,Cessna,208B Grand Caravan,C208,208B-0003,L1T,,,2022-05-31,1986-01-
 ac7afc,N903GW,Cessna,525 CitationJet CJ1,C525,525-0676,L2J,,,2024-05-31,2008-01-01
 ac7b27,N903JP,Cessna,510 Citation Mustang,C510,510-0102,L2J,,,2024-01-31,2008-01-01
 ac7b67,N903MC,Cessna,525B CitationJet CJ3,C25B,525B-0272,L2J,,,2023-11-30,2008-01-01
+ac7bc0,N903QS,Cessna,750 Citation X,C750,750-0162,L2J,EJA,,2023-12-31,2001-01-01
 ac7e23,N904BB,Cessna,550B Citation Bravo,C55B,550-0904,L2J,,,2024-01-31,2000-01-01
 ac7e8a,N904FE,Cessna,208B Grand Caravan,C208,208B-0004,L1T,,,2022-05-31,
 ac7eb3,N904GW,Cessna,525 CitationJet CJ1,C525,525-0681,L2J,,,2022-02-28,2008-01-01
@@ -13890,6 +14169,7 @@ ac826a,N905GW,Cessna,525 CitationJet CJ1,C525,525-0682,L2J,,,2022-02-28,2008-01-
 ac82bc,N905LC,Cessna,560 Citation V,C560,560-0334,L2J,,,,
 ac82ea,N905MZ,Cessna,525 Citation M2,C25M,525-0905,L2J,,,2022-03-31,2016-01-01
 ac8341,N905RL,Cessna,525B CitationJet CJ3,C25B,525B-0507,L2J,,,2023-01-31,2016-01-01
+ac83aa,N905VR,Cessna,750 Citation X,C750,750-0105,L2J,,,2023-01-31,2000-01-01
 ac83c4,N905WS,Cessna,680 Citation Sovereign,C680,680-0141,L2J,,,,
 ac8579,N906AC,Cessna,560XL Citation XLS,C56X,560-5596,L2J,GLT,,,
 ac85cb,N906DK,Cessna,560XL Citation Excel,C56X,560-6016,L2J,,,2021-08-31,2009-01-01
@@ -13897,11 +14177,13 @@ ac85f8,N906FE,Cessna,208B Grand Caravan,C208,208B-0006,L1T,,,2022-09-30,1986-01-
 ac8621,N906GW,Cessna,525B CitationJet CJ3,C25B,525B-0408,L2J,,,2023-02-28,2013-01-01
 ac868c,N906MC,Cessna,525B CitationJet CJ3,C25B,525B-0352,L2J,,,2023-01-31,2010-01-01
 ac869a,N906MS,Cessna,550B Citation Bravo,C55B,550-0906,L2J,,,2022-01-31,2000-01-01
+ac86e5,N906QS,Cessna,750 Citation X,C750,750-0206,L2J,EJA,,,
 ac86fd,N906RR,Cessna,525 Citation M2,C25M,525-0906,L2J,,,2023-01-31,2016-01-01
 ac897e,N907DF,Cessna,650 Citation III,C650,650-0120,L2J,,,2021-09-30,1987-01-01
 ac8982,N907DK,Cessna,525 CitationJet CJ1,C525,525-0338,L2J,,,2022-09-30,1999-01-01
 ac89af,N907FE,Cessna,208B Grand Caravan,C208,208B-0007,L1T,,,2022-09-30,1986-01-01
 ac8a3c,N907LW,Cessna,525 Citation M2,C25M,525-0868,L2J,,,,
+ac8a9c,N907QS,Cessna,750 Citation X,C750,750-0201,L2J,EJA,,,
 ac8ac3,N907SF,Cessna,525C CitationJet CJ4,C25C,525C-0028,L2J,,,2023-07-31,2011-01-01
 ac8b2c,N907WL,Cessna,525 CitationJet CJ1,C525,525-0658,L2J,,,2022-09-30,2007-01-01
 ac8b33,N907WT,Cessna,560XL Citation Excel,C56X,560-5049,L2J,,,2022-10-31,1999-01-01
@@ -13934,6 +14216,8 @@ ac9600,N91TE,Cessna,501 Citation I/SP,C501,501-0173,L2J,,,2022-07-31,1981-01-01
 ac962f,N91VB,Cessna,550 Citation II,C550,550-0068,L2J,,,,
 ac96ae,N910AC,Cessna,680 Citation Sovereign,C680,680-0174,L2J,,,2022-10-31,2007-01-01
 ac96fc,N910DF,Cessna,650 Citation III,C650,650-0081,L2J,,,2022-04-30,
+ac9704,N910DP,Cessna,750 Citation X,C750,750-0239,L2J,,,2024-03-31,2005-01-01
+ac970f,N910E,Cessna,750 Citation X,C750,750-0121,L2J,,,2023-05-31,2000-01-01
 ac9712,N910EC,Cessna,208B Grand Caravan,C208,208B-1090,L1T,,,2022-01-31,2004-01-01
 ac972d,N910FE,Cessna,208B Grand Caravan,C208,208B-0010,L1T,,,2022-09-30,1986-01-01
 ac9741,N910G,Cessna,501 Citation I/SP,C501,501-0083,L2J,,,2021-07-31,1978-01-01
@@ -13944,6 +14228,7 @@ ac984c,N910SS,Cessna,680A Citation Latitude,C68A,680A-0236,L2J,,,2023-01-31,2019
 ac9852,N910SY,Cessna,510 Citation Mustang,C510,510-0009,L2J,,,2023-06-30,2007-01-01
 ac985e,N910TK,Cessna,560 Citation V,C560,560-0288,L2J,,,2023-02-28,1995-01-01
 ac9864,N910TR,Cessna,560 Citation V,C560,560-0440,L2J,,,2023-06-30,1997-01-01
+ac9894,N910VP,Cessna,750 Citation X,C750,750-0110,L2J,XSR,,2021-10-31,2000-01-01
 ac99ba,N9105H,Cessna,AT-17 Bobcat,T50,3531,L2J,,,,
 ac9a3c,N91088,Cessna,UC-78B Bobcat,T50,2688,L2J,,,,
 ac9ae4,N911FE,Cessna,208B Grand Caravan,C208,208B-0011,L1T,WIG,,2022-11-30,1987-01-01
@@ -13969,6 +14254,7 @@ aca609,N914FE,Cessna,208B Grand Caravan,C208,208B-0014,L1T,,,2023-02-28,1987-01-
 aca61d,N914G,Cessna,510 Citation Mustang,C510,510-0239,L2J,,,2021-10-31,2009-01-01
 aca632,N914GW,Cessna,510 Citation Mustang,C510,510-0146,L2J,,,2022-09-30,2008-01-01
 aca669,N914KA,Cessna,T206H Turbo Stationair,T206,T206-9145,L1P,,,2023-08-31,2014-01-01
+aca6f6,N914QS,Cessna,750 Citation X,C750,750-0296,L2J,EJA,,,
 aca976,N915CF,Cessna,510 Citation Mustang,C510,510-0014,L2J,,,2023-05-31,2007-01-01
 aca991,N915DH,Cessna,525 Citation M2,C25M,525-0881,L2J,,,2021-10-31,2015-01-01
 aca9c2,N915FG,Cessna,680 Citation Sovereign,C680,680-0056,L2J,,,2024-01-31,2006-01-01
@@ -13980,6 +14266,7 @@ acad38,N916CS,Cessna,560XL Citation Excel,C56X,560-6062,L2J,,,2022-10-31,2010-01
 acad49,N916DJ,Cessna,500 Citation I,C500,500-0227,L2J,,,2023-08-31,1975-01-01
 acad4a,N916DK,Cessna,560XL Citation XLS,C56X,560-5700,L2J,,,2022-10-31,2007-01-01
 acad77,N916FE,Cessna,208B Grand Caravan,C208,208B-0016,L1T,,,2023-02-28,1987-01-01
+acae64,N916QS,Cessna,750 Citation X,C750,750-0116,L2J,,,,
 acae8e,N916SJ,Cessna,441 Conquest II,C441,441-0243,L2T,,,2023-10-31,1981-01-01
 acb0ba,N917AP,Cessna,525 Citation M2,C25M,525-0917,L2J,,,2024-05-31,2016-01-01
 acb0c7,N917BB,Cessna,550 Citation II,C550,550-0483,L2J,,,2022-11-30,1983-01-01
@@ -13990,6 +14277,7 @@ acb260,N917TL,Cessna,560 Citation V,C560,560-0812,L2J,,,2023-11-30,2010-01-01
 acb46f,N918AM,Cessna,525 CitationJet CJ1,C525,525-0508,L2J,,,2023-05-31,2003-01-01
 acb4aa,N918CW,Cessna,525C CitationJet CJ4,C25C,525C-0228,L2J,,,,
 acb4e5,N918FE,Cessna,208B Grand Caravan,C208,208B-0018,L1T,FDX,,2023-05-31,1987-01-01
+acb5d2,N918QS,Cessna,750 Citation X,C750,750-0223,L2J,EJA,,,
 acb5f2,N918RZ,Cessna,560XL Citation Excel,C56X,560-6130,L2J,,,2022-03-31,2012-01-01
 acb605,N918ST,Cessna,510 Citation Mustang,C510,510-0135,L2J,,,2024-02-29,2008-01-01
 acb658,N918WA,Cessna,510 Citation Mustang,C510,510-0237,L2J,,,2024-05-31,2009-01-01
@@ -13997,17 +14285,22 @@ acb7b0,N9187,Cessna,208B Grand Caravan,C208,208B-0948,L1T,,,2023-05-31,2002-01-0
 acb837,N919BD,Cessna,L-19E/O-1E Bird Dog,O1,24551,L1P,,,2022-01-31,1957-01-01
 acb89c,N919FE,Cessna,208B Grand Caravan,C208,208B-0019,L1T,,,2023-05-31,1987-01-01
 acb930,N919MC,Cessna,525 CitationJet CJ1,C525,525-0600,L2J,,,2023-08-31,2006-01-01
+acb989,N919QS,Cessna,750 Citation X,C750,750-0224,L2J,EJA,,,
 acb9be,N919SV,Cessna,525B CitationJet CJ3,C25B,525B-0384,L2J,,,2021-07-31,2012-01-01
+acbacd,N9192W,Cessna,750 Citation X,C750,750-0281,L2J,EJM,,,
 acbbef,N92BE,Cessna,501 Citation I/SP,C501,501-0098,L2J,,,2023-09-30,1980-01-01
 acbca2,N92JJ,Cessna,208B Grand Caravan,C208,208B-1074,L1T,ERR,,2023-10-31,2004-01-01
 acbca8,N92JQ,Cessna,441 Conquest II,C441,441-0223,L2T,,,2022-07-31,
 acbce9,N92ME,Cessna,550 Citation S/II,C550,S550-0044,L2J,,,2022-05-31,1985-01-01
+acbcee,N92MK,Cessna,750 Citation X,C750,750-0267,L2J,,,2023-09-30,2007-01-01
 acbcfe,N92NA,Cessna,207 Skywagon,C207,207-0093,L1P,,,,
 acbd01,N92ND,Cessna,525 CitationJet CJ1,C525,525-0186,L2J,,,,
 acbd56,N92RP,Cessna,650 Citation III,C650,650-0148,L2J,,,,
+acbd5e,N92RX,Cessna,750 Citation X,C750,750-0301,L2J,,,2023-06-30,2009-01-01
 acbd6d,N92SM,Cessna,500 Citation I,C500,500-0124,L2J,,,2024-02-29,
 acbd72,N92SS,Cessna,560 Citation V,C560,560-0388,L2J,,,2022-08-31,1996-01-01
 acbd7f,N92TE,Cessna,560 Citation V,C560,560-0123,L2J,,,2022-12-31,1991-01-01
+acbd82,N92TH,Cessna,750 Citation X,C750,750-0097,L2J,,,2023-12-31,1999-01-01
 acbdbc,N92VR,Cessna,550B Citation Bravo,C55B,550-1092,L2J,,,,
 acbe67,N920CL,Cessna,680A Citation Latitude,C68A,680A-0020,L2J,,,,
 acbeac,N920FE,Cessna,208B Grand Caravan,C208,208B-0020,L1T,FDX,,2023-08-31,
@@ -14019,6 +14312,7 @@ acc21a,N921CG,Cessna,560XL Citation Excel,C56X,560-6174,L2J,,,2023-09-30,2014-01
 acc25d,N921EZ,Cessna,172S Skyhawk,C172,172S8499,L1P,,,2022-05-31,2000-01-01
 acc263,N921FE,Cessna,208B Grand Caravan,C208,208B-0021,L1T,,,2023-08-31,1987-01-01
 acc309,N921MW,Cessna,560XL Citation XLS,C56X,560-5646,L2J,,,,
+acc350,N921QS,Cessna,750 Citation X,C750,750-0241,L2J,EJA,,,
 acc3a0,N921TX,Cessna,510 Citation Mustang,C510,510-0071,L2J,,,2021-12-31,2008-01-01
 acc400,N921XT,Cessna,525 Citation M2,C25M,525-0877,L2J,,,2022-04-30,2015-01-01
 acc59b,N922AC,Cessna,560 Citation V,C560,560-0187,L2J,,,2023-02-28,1992-01-01
@@ -14027,6 +14321,7 @@ acc61a,N922FE,Cessna,208B Grand Caravan,C208,208B-0022,L1T,,,2023-08-31,
 acc655,N922HP,Cessna,441 Conquest II,C441,441-0027,L2T,,,2023-06-30,1978-01-01
 acc680,N922KG,Cessna,560 Citation V,C560,560-0167,L2J,,,2023-08-31,1992-01-01
 acc68d,N922KV,Cessna,425 Conquest I,C245,425-0052,L2T,,,2021-10-31,1981-01-01
+acc707,N922QS,Cessna,750 Citation X,C750,750-0293,L2J,EJA,,,
 acc723,N922RV,Cessna,550 Citation II,C550,550-0231,L2J,,,2022-10-31,1981-01-01
 acc9d1,N923FE,Cessna,208B Grand Caravan,C208,208B-0023,L1T,,,2023-11-30,1987-01-01
 acc9f6,N923GS,Cessna,525A CitationJet CJ2,C25A,525A-0439,L2J,,,2024-04-30,2008-01-01
@@ -14046,15 +14341,19 @@ acd545,N926JJ,Cessna,525C CitationJet CJ4,C25C,525C-0272,L2J,,,2021-08-31,2018-0
 acd5a3,N926NC,Cessna,560 Citation V,C560,560-0328,L2J,,,2023-07-31,1995-01-01
 acd5d0,N926PY,Cessna,525A CitationJet CJ2,C25A,525A-0450,L2J,,,2023-05-31,2009-01-01
 acd623,N926TF,Cessna,525C CitationJet CJ4,C25C,525C-0301,L2J,,,2022-06-30,2019-01-01
+acd65f,N926VR,Cessna,750 Citation X,C750,750-0026,L2J,,,2022-01-31,1997-01-01
+acd82c,N927AA,Cessna,525 Citation M2,C25M,525-0895,L2J,,,,
 acd82e,N927AC,Cessna,680 Citation Sovereign,C680,680-0202,L2J,,,2022-09-30,2008-01-01
 acd8ad,N927FE,Cessna,208B Grand Caravan,C208,208B-0027,L1T,,,2023-11-30,1987-01-01
 acd94a,N927MM,Cessna,550B Citation Bravo,C55B,550-1060,L2J,,,2023-11-30,2003-01-01
 acd97a,N927PK,Cessna,560 Citation V,C560,560-0551,L2J,,,2022-03-31,2001-01-01
+acd99a,N927QS,Cessna,750 Citation X,C750,750-0290,L2J,EJA,,,
 acdc16,N928CB,Cessna,560XL Citation Excel,C56X,560-5213,L2J,,,,
 acdc64,N928FE,Cessna,208B Grand Caravan,C208,208B-0028,L1T,,,2024-02-29,1987-01-01
 acdcb4,N928JK,Cessna,680 Citation Sovereign,C680,680-0104,L2J,,,2022-02-28,2006-01-01
 acdcb8,N928JP,Cessna,208B Grand Caravan,C208,208B-2428,L1T,,,2023-07-31,2013-01-01
 acdd38,N928PS,Cessna,650 Citation III,C650,650-0116,L2J,,,2021-12-31,
+acdd51,N928QS,Cessna,750 Citation X,C750,750-0288,L2J,EJA,,,
 acdfb5,N929BC,Cessna,525C CitationJet CJ4,C25C,525C-0070,L2J,,,2024-01-31,2011-01-01
 ace01b,N929FE,Cessna,208B Grand Caravan,C208,208B-0029,L1T,FDX,,2024-02-29,1987-01-01
 ace073,N929JT,Cessna,525 CitationJet CJ1,C525,525-0011,L2J,,,2022-02-28,1993-01-01
@@ -14072,6 +14371,7 @@ ace42d,N93JW,Cessna,525B CitationJet CJ3,C25B,525B-0035,L2J,,,2023-08-31,2005-01
 ace45b,N93LS,Cessna,525 CitationJet CJ1,C525,525-0556,L2J,,,,
 ace478,N93MW,Cessna,525B CitationJet CJ3,C25B,525B-0487,L2J,,,2022-04-30,2016-01-01
 ace49a,N93PE,Cessna,525B CitationJet CJ3,C25B,525B-0093,L2J,,,2023-10-31,2006-01-01
+ace4e0,N93S,Cessna,750 Citation X,C750,750-0189,L2J,,,2023-12-31,2002-01-01
 ace53b,N93VR,Cessna,550B Citation Bravo,C55B,550-1093,L2J,,,2021-08-31,2004-01-01
 ace5b7,N930AP,Cessna,525 Citation M2,C25M,525-0828,L2J,,,2023-03-31,2014-01-01
 ace62b,N930FE,Cessna,208B Grand Caravan,C208,208B-0030,L1T,,,2024-02-29,1987-01-01
@@ -14102,8 +14402,11 @@ acfc75,N936FE,Cessna,208B Grand Caravan,C208,208B-0036,L1T,,,,
 acffe6,N937CK,Cessna,208B Grand Caravan,C208,208B-1118,L1T,,,2022-05-31,2005-01-01
 ad0005,N937DR,Cessna,172R Skyhawk,C172,17280217,L1P,,,2023-09-30,1997-01-01
 ad002c,N937FE,Cessna,208B Grand Caravan,C208,208B-0037,L1T,,,,
+ad0195,N937VR,Cessna,750 Citation X,C750,750-0137,L2J,,,,
 ad036d,N938AM,Cessna,550B Citation Bravo,C55B,550-0938,L2J,,,2023-03-31,2000-01-01
+ad04d0,N938QS,Cessna,750 Citation X,C750,750-0183,L2J,EJA,,,
 ad079a,N939FE,Cessna,208B Grand Caravan,C208,208B-0180,L1T,,,2024-02-29,1989-01-01
+ad0887,N939QS,Cessna,750 Citation X,C750,750-0193,L2J,EJA,,,
 ad08a1,N939RT,Cessna,650 Citation III,C650,650-0061,L2J,,,2023-07-31,1984-01-01
 ad08a9,N939SA,Cessna,550 Citation II,C550,550-0329,L2J,,,,
 ad08d6,N939TW,Cessna,560 Citation V,C560,560-0185,L2J,,,2022-05-31,1992-01-01
@@ -14121,6 +14424,7 @@ ad0cb8,N94VP,Cessna,560 Citation V,C560,560-0094,L2J,,,,
 ad0daa,N940FE,Cessna,208B Grand Caravan,C208,208B-0040,L1T,FDX,,2021-11-30,1987-01-01
 ad0de2,N940HL,Cessna,208B Grand Caravan,C208,208B-2355,L1T,,,,
 ad0df6,N940JF,Cessna,680A Citation Latitude,C68A,680A-0038,L2J,,,2022-07-31,2016-01-01
+ad0e97,N940QS,Cessna,750 Citation X,C750,750-0285,L2J,EJA,,,
 ad0ecd,N940SW,Cessna,525 CitationJet CJ1,C525,525-0071,L2J,,,2023-10-31,1994-01-01
 ad10fa,N941BB,Cessna,550 Citation II,C550,550-0192,L2J,,,,
 ad11b3,N941JM,Cessna,550 Citation II,C550,550-0146,L2J,,,,
@@ -14134,6 +14438,7 @@ ad14fc,N942EB,Cessna,550B Citation Bravo,C55B,550-1090,L2J,,,,
 ad1717,N9421F,Cessna,208 Caravan,C208,208-0049,L1T,,,2022-05-31,
 ad17a0,N9425C,Cessna,180 Skywagon,C180,18031823,L1P,,,2023-11-30,1955-01-01
 ad1850,N943AC,Cessna,208B Grand Caravan,C208,208B-5239,L1T,,,2022-06-30,2015-01-01
+ad18bc,N943EL,Cessna,750 Citation X,C750,750-0043,L2J,,,2022-03-31,1998-01-01
 ad18cf,N943FE,Cessna,208B Grand Caravan,C208,208B-0043,L1T,,,2021-11-30,
 ad1c0c,N944AH,Cessna,560XL Citation Excel,C56X,560-5008,L2J,,,,
 ad1cef,N944KK,Cessna,525 Citation M2,C25M,525-0944,L2J,,,2023-04-30,2017-01-01
@@ -14144,12 +14449,15 @@ ad225b,N9452B,Cessna,208B Grand Caravan,C208,208B-0123,L1T,SPD,,2023-03-31,1988-
 ad22a1,N9454B,Cessna,208B Grand Caravan,C208,208B-0072,L1T,SPD,,2023-06-30,1988-01-01
 ad22a5,N9454F,Cessna,208 Caravan,C208,208-0028,L1T,,,2021-10-31,1985-01-01
 ad23f4,N946FE,Cessna,208B Grand Caravan,C208,208B-0048,L1T,FDX,,2022-02-28,1987-01-01
+ad24e1,N946QS,Cessna,750 Citation X,C750,750-0195,L2J,EJA,,,
 ad252c,N946TS,Cessna,560 Citation V,C560,560-0765,L2J,,,2022-01-31,2007-01-01
 ad262c,N94623,Cessna,182Q Skylane,C182,18266464,L1P,,,2021-10-31,1978-01-01
 ad2707,N9469B,Cessna,208B Grand Caravan,C208,208B-0079,L1T,,,2021-10-31,1988-01-01
+ad2798,N947EL,Cessna,750 Citation X,C750,750-0047,L2J,,,2024-01-31,1998-01-01
 ad27ab,N947FE,Cessna,208B Grand Caravan,C208,208B-0050,L1T,FDX,,2022-02-28,1987-01-01
 ad29a6,N9471B,Cessna,208B Grand Caravan,C208,208B-0081,L1T,,,2021-10-31,1988-01-01
 ad2abe,N9479B,Cessna,208B Grand Caravan,C208,208B-0082,L1T,,,2023-12-31,1988-01-01
+ad2c4f,N948QS,Cessna,750 Citation X,C750,750-0149,L2J,EJA,,,
 ad2d61,N9481F,Cessna,208 Caravan,C208,208-0070,L1T,SQH,,2023-04-30,1985-01-01
 ad2d6d,N9481T,Cessna,T206H Turbo Stationair,T206,T206-9080,L1P,,,2023-07-31,2012-01-01
 ad2f14,N949F,Cessna,208 Caravan,C208,208-0602,L1T,,,2023-08-31,
@@ -14167,12 +14475,14 @@ ad33fc,N95TE,Cessna,680 Citation Sovereign,C680,680-0021,L2J,,,2023-05-31,2004-0
 ad340d,N95TX,Cessna,525B CitationJet CJ3,C25B,525B-0317,L2J,,,2022-02-28,2010-01-01
 ad3435,N95VM,Cessna,525B CitationJet CJ3,C25B,525B-0506,L2J,,,2023-01-31,2016-01-01
 ad3561,N950HL,Cessna,208B Grand Caravan EX,C208,208B-5227,L1T,,,,
+ad35ba,N950M,Cessna,750 Citation X,C750,750-0311,L2J,,,2022-07-31,2012-01-01
 ad35bb,N950MA,Cessna,560XL Citation Excel,C56X,560-5199,L2J,,,2022-09-30,2001-01-01
 ad35ec,N950P,Cessna,525 CitationJet CJ1,C525,525-0234,L2J,,,2022-05-31,1998-01-01
 ad35ed,N950PA,Cessna,208B Grand Caravan,C208,208B-1063,L1T,SQH,,2024-05-31,2004-01-01
 ad3625,N950RG,Cessna,525C CitationJet CJ4,C25C,525C-0146,L2J,COO,,,
 ad37b0,N9505B,Cessna,208B Grand Caravan,C208,208B-0085,L1T,,,2021-10-31,1988-01-01
 ad389c,N951CM,Cessna,510 Citation Mustang,C510,510-0327,L2J,,,2023-12-31,2010-01-01
+ad39cd,N951QS,Cessna,750 Citation X,C750,750-0151,L2J,EJA,,,
 ad3c2f,N952BA,Cessna,208B Grand Caravan,C208,208B-5201,L1T,BRG,,2024-05-31,2015-01-01
 ad3c97,N952FE,Cessna,208B Grand Caravan,C208,208B-0060,L1T,,,2022-05-31,1987-01-01
 ad3d8e,N952RB,Cessna,560XL Citation XLS+,C56X,560-6006,L2J,,,,
@@ -14183,6 +14493,7 @@ ad404e,N953FE,Cessna,208B Grand Caravan,C208,208B-0062,L1T,,,2022-05-31,1987-01-
 ad404f,N953FF,Cessna,525C CitationJet CJ4,C25C,525C-0141,L2J,,,2023-01-31,2013-01-01
 ad407e,N953HC,Cessna,501 Citation I/SP,C501,501-0201,L2J,,,,
 ad409a,N953JF,Cessna,650 Citation III,C650,650-0043,L2J,,,2023-09-30,1984-01-01
+ad417e,N953TJ,Cessna,750 Citation X,C750,750-0310,L2J,,,2024-02-29,2011-01-01
 ad41eb,N953XT,Cessna,525B CitationJet CJ3,C25B,525B-0495,L2J,,,2022-10-31,2016-01-01
 ad4304,N9536P,Cessna,208 Caravan,C208,208-0090,L1T,,,2024-05-31,1986-01-01
 ad4365,N9539F,Cessna,208 Caravan,C208,208-0092,L1T,,,2023-11-30,
@@ -14191,15 +14502,18 @@ ad4405,N954FE,Cessna,208B Grand Caravan,C208,208B-0064,L1T,,,2022-09-30,1987-01-
 ad44ae,N954MZ,Cessna,525 Citation M2,C25M,525-0954,L2J,,,,
 ad46af,N9546B,Cessna,208B Grand Caravan,C208,208B-0126,L1T,,,2021-10-31,1988-01-01
 ad47bc,N955FE,Cessna,208B Grand Caravan,C208,208B-0066,L1T,FDX,,2022-09-30,1987-01-01
+ad47d8,N955GH,Cessna,750 Citation X,C750,750-0106,L2J,,,2021-11-30,2000-01-01
 ad47f0,N955HG,Cessna,650 Citation III,C650,650-0057,L2J,,,,
 ad4b3c,N956D,Cessna,208B Grand Caravan,C208,208B-1056,L1T,,,2021-07-31,2004-01-01
 ad4b73,N956FE,Cessna,208B Grand Caravan,C208,208B-0068,L1T,,,2022-09-30,1987-01-01
 ad4b88,N956GA,Cessna,525B CitationJet CJ3,C25B,525B-0233,L2J,,,,
 ad4ba3,N956HC,Cessna,525A CitationJet CJ2,C25A,525A-0187,L2J,,,2023-10-31,
 ad4c06,N956MB,Cessna,680 Citation Sovereign,C680,680-0538,L2J,,,2024-01-31,2014-01-01
+ad4c60,N956QS,Cessna,750 Citation X,C750,750-0156,L2J,,,,
 ad4cb0,N956TX,Cessna,208 Caravan,C208,208-0563,L1T,,,2024-04-30,2014-01-01
 ad4eca,N957BJ,Cessna,560XL Citation Excel,C56X,560-5086,L2J,,,2022-12-31,2000-01-01
 ad4f2a,N957FE,Cessna,208B Grand Caravan,C208,208B-0070,L1T,,,2022-09-30,1988-01-01
+ad4f81,N957JS,Cessna,750 Citation X,C750,750-0128,L2J,,2019-10-25,2022-10-31,2000-01-01
 ad514e,N9572H,Cessna,172M Skyhawk,C172,17266237,L1P,GNZ,,2023-04-30,1975-01-01
 ad5262,N958AC,Cessna,208B Grand Caravan,C208,208B-5356,L1T,,,2022-06-30,2017-01-01
 ad526d,N958AP,Cessna,560XL Citation Excel,C56X,560-5074,L2J,,,2023-11-30,2000-01-01
@@ -14208,6 +14522,7 @@ ad52f7,N958GB,Cessna,560 Citation V,C560,560-0680,L2J,,,2023-11-30,2004-01-01
 ad52f8,N958GC,Cessna,550B Citation Bravo,C55B,550-1016,L2J,,,2024-01-31,2002-01-01
 ad5376,N958MD,Cessna,340A,C340,340A-0734,L2P,,,2022-04-30,
 ad5379,N958MG,Cessna,525 Citation M2,C25M,525-0805,L2J,,,2023-02-28,2013-01-01
+ad53ce,N958QS,Cessna,750 Citation X,C750,750-0158,L2J,EJA,,,
 ad53fd,N958SP,Cessna,208B Grand Caravan,C208,208B-5132,L1T,SQH,,2023-12-31,2014-01-01
 ad5410,N958TH,Cessna,525 Citation M2,C25M,525-0958,L2J,COO,,,
 ad55b4,N9587H,Cessna,AT-17 Bobcat,T50,2514,L2J,,,,
@@ -14219,9 +14534,11 @@ ad5aa0,N96JL,Cessna,421C Golden Eagle,C421,421C-0627,L2P,,,,
 ad5afa,N96NA,Cessna,525A CitationJet CJ2,C25A,525A-0096,L2J,,,,
 ad5afb,N96NB,Cessna,560XL Citation Excel,C56X,560-6074,L2J,,,2022-11-30,2010-01-01
 ad5b14,N96PB,Cessna,525B CitationJet CJ3,C25B,525B-0111,L2J,,,2022-11-30,2006-01-01
+ad5b5a,N96RX,Cessna,750 Citation X,C750,750-0044,L2J,,,2022-12-31,1998-01-01
 ad5b6a,N96SN,Cessna,650 Citation III,C650,650-0079,L2J,,,,
 ad5b72,N96SW,Cessna,525A CitationJet CJ2,C25A,525A-0425,L2J,,,2022-12-31,2008-01-01
 ad5b7b,N96TE,Cessna,560XL Citation Excel,C56X,560-5029,L2J,,,2023-11-30,1999-01-01
+ad5b8c,N96TX,Cessna,750 Citation X,C750,750-0069,L2J,,,2022-07-31,1998-01-01
 ad5ca8,N960FE,Cessna,208B Grand Caravan,C208,208B-0075,L1T,,,2023-02-28,1988-01-01
 ad5cd9,N960HD,Cessna,560XL Citation Excel,C56X,560-5077,L2J,GOW,,2022-03-31,2000-01-01
 ad5ce0,N960HL,Cessna,208B Grand Caravan,C208,208B-0251,L1T,,,2022-03-31,1991-01-01
@@ -14242,6 +14559,7 @@ ad6805,N963HL,Cessna,208B Grand Caravan,C208,208B-0101,L1T,,,2022-12-31,1988-01-
 ad6a31,N9634B,Cessna,208B Grand Caravan,C208,208B-0141,L1T,,,2022-12-31,1988-01-01
 ad6ae4,N9639F,Cessna,208 Caravan,C208,208-0121,L1T,,,2021-08-31,1987-01-01
 ad6b84,N964FE,Cessna,208B Grand Caravan,C208,208B-0083,L1T,FDX,,2023-05-31,1988-01-01
+ad6ced,N964VR,Cessna,750 Citation X,C750,750-0164,L2J,,,2022-11-30,2001-01-01
 ad6d83,N9641F,Cessna,208 Caravan,C208,208-0122,L1T,,,2023-04-30,1987-01-01
 ad6da6,N9642F,Cessna,208 Caravan,C208,208-0110,L1T,,,2023-04-30,1987-01-01
 ad6f3b,N965FE,Cessna,208B Grand Caravan,C208,208B-0084,L1T,FDX,,2023-05-31,1988-01-01
@@ -14252,6 +14570,7 @@ ad71c2,N9655B,Cessna,208B Grand Caravan,C208,208B-0145,L1T,,,2024-01-31,1989-01-
 ad728b,N966BB,Cessna,525 Citation M2,C25M,525-0966,L2J,,,2023-10-31,2017-01-01
 ad72f2,N966FE,Cessna,208B Grand Caravan,C208,208B-0086,L1T,,,2023-08-31,1988-01-01
 ad7344,N966JM,Cessna,680 Citation Sovereign,C680,680-0027,L2J,,,2024-04-30,2005-01-01
+ad73df,N966QS,Cessna,750 Citation X,C750,750-0166,L2J,EJA,,,
 ad7415,N966SW,Cessna,560 Citation V,C560,560-0284,L2J,,,,
 ad7640,N967B,Cessna,501 Citation I/SP,C501,501-0161,L2J,,,2024-04-30,1980-01-01
 ad76a9,N967FE,Cessna,208B Grand Caravan,C208,208B-0088,L1T,,,2023-08-31,1988-01-01
@@ -14283,6 +14602,7 @@ ad83fc,N970DM,Cessna,525B CitationJet CJ3,C25B,525B-0168,L2J,,,2022-11-30,2007-0
 ad8427,N970FE,Cessna,208B Grand Caravan,C208,208B-0093,L1T,,,2023-11-30,1988-01-01
 ad8450,N970GW,Cessna,650 Citation III,C650,650-0019,L2J,,,2022-11-30,1983-01-01
 ad84c4,N970MM,Cessna,525 Citation M2,C25M,525-0867,L2J,,,2021-08-31,2015-01-01
+ad853f,N970SK,Cessna,750 Citation X,C750,750-0186,L2J,,,2023-11-30,2002-01-01
 ad85eb,N970ZG,Cessna,525A CitationJet CJ2,C25A,525A-0086,L2J,,,,
 ad860f,N9700T,Cessna,560 Citation V,C560,560-0203,L2J,,,,
 ad87de,N971FE,Cessna,208B Grand Caravan,C208,208B-0094,L1T,,,2023-11-30,1988-01-01
@@ -14295,12 +14615,14 @@ ad8b13,N972A,Cessna,L-19A/O-1A Bird Dog,O1,22286,L1P,,,,
 ad8b15,N972AB,Cessna,500 Citation I,C500,500-0140,L2J,,,,
 ad8b95,N972FE,Cessna,208B Grand Caravan,C208,208B-0096,L1T,,,2024-02-29,1988-01-01
 ad8daa,N97213,Cessna,UC-78B Bobcat,T50,4662,L2J,,,,
+ad8dbc,N9722L,Cessna,700 Citation Longitude,C700,E700-741001,L2J,,,,2016-01-01
 ad8e67,N9727G,Cessna,180H Skywagon,C180,18052227,L1P,,,2022-04-30,1971-01-01
 ad8f03,N973CG,Cessna,525B CitationJet CJ3,C25B,525B-0391,L2J,,,,
 ad8f4c,N973FE,Cessna,208B Grand Caravan,C208,208B-0098,L1T,,,2024-02-29,1988-01-01
 ad923c,N9738B,Cessna,208B Grand Caravan,C208,208B-0097,L1T,,,2022-09-30,1988-01-01
 ad942b,N974TA,Cessna,172S Skyhawk,C172,172S9074,L1P,,,2023-02-28,2002-01-01
 ad96f3,5Y-MSR,Cessna,550B Citation Bravo,C55B,550-0975,L2J,PHG,,,
+ad97a7,N975QS,Cessna,750 Citation X,C750,750-0175,L2J,EJA,,,
 ad9a53,N976E,Cessna,208B Grand Caravan,C208,208B-0976,L1T,WRF,,2023-04-30,2002-01-01
 ad9a71,N976FE,Cessna,208B Grand Caravan,C208,208B-0103,L1T,,,,
 ad9a86,N976GA,Cessna,550 Citation II,C550,550-0165,L2J,,,2022-01-31,1980-01-01
@@ -14308,6 +14630,7 @@ ad9c49,N9760B,Cessna,208B Grand Caravan,C208,208B-0102,L1T,,,2021-10-31,1988-01-
 ad9c6c,N9761B,Cessna,208B Grand Caravan,C208,208B-0107,L1T,,,2021-10-31,1988-01-01
 ad9c8f,N9762B,Cessna,208B Grand Caravan,C208,208B-0109,L1T,,,2021-10-31,1988-01-01
 ad9d1b,N9766B,Cessna,208B Grand Caravan,C208,208B-0112,L1T,BXR,,2022-03-31,1988-01-01
+ad9dac,N977AF,Cessna,750 Citation X,C750,750-0125,L2J,,,2023-08-31,2000-01-01
 ad9dfd,N977DM,Cessna,560 Citation V,C560,560-0494,L2J,,,2021-12-31,1998-01-01
 ad9e03,N977DT,Cessna,560 Citation V,C560,560-0579,L2J,,,2022-04-30,2001-01-01
 ad9e28,N977FE,Cessna,208B Grand Caravan,C208,208B-0104,L1T,,,,
@@ -14315,6 +14638,8 @@ ad9ec7,N977MP,Cessna,441 Conquest II,C441,441-0310,L2T,,,2023-07-31,1983-01-01
 ad9ec9,N977MR,Cessna,560 Citation V,C560,560-0623,L2J,,,2023-08-31,2002-01-01
 ad9f3a,N977SD,Cessna,560XL Citation Excel,C56X,560-5013,L2J,SRY,,,
 ada17b,N978BE,Cessna,680 Citation Sovereign,C680,680-0070,L2J,,,2024-04-30,2006-01-01
+ada1aa,N978DB,Cessna,750 Citation X,C750,750-0009,L2J,,,2023-12-31,1996-01-01
+ada2cc,N978QS,Cessna,750 Citation X,C750,750-0187,L2J,EJA,,,
 ada41a,N97826,Cessna,208B Grand Caravan,C208,208B-1223,L1T,,,2024-01-31,2006-01-01
 ada65c,N979PC,Cessna,510 Citation Mustang,C510,510-0199,L2J,,,2022-06-30,2009-01-01
 ada6af,N979SL,Cessna,425 Conquest I,C425,425-0143,L2T,,,,
@@ -14324,6 +14649,7 @@ ada774,N9790H,Cessna,AT-17 Bobcat,T50,3341,L2J,,,,
 ada8df,N98AV,Cessna,501 Citation I/SP,C501,501-0177,L2J,,,,
 ada905,N98CH,Cessna,525C CitationJet CJ4,C25C,525C-0097,L2J,,,2022-01-31,2012-01-01
 ada93d,N98EP,Cessna,425 Conquest I,C245,425-0230,L2T,,,2022-08-31,
+ada94f,N98FG,Cessna,750 Citation X,C750,750-0307,L2J,COO,,,
 adaa29,N98Q,Cessna,500 Citation I,C500,500-0040,L2J,,,2022-02-28,
 adaae9,N98XS,Cessna,650 Citation VII,C650,650-7058,L2J,,,2022-02-28,1995-01-01
 adab2b,N980AG,Cessna,560 Citation V,C560,560-0348,L2J,,,,
@@ -14336,6 +14662,7 @@ adaf5d,N981FE,Cessna,208B Grand Caravan,C208,208B-0110,L1T,,,,
 adb0d0,N981WA,Cessna,525A CitationJet CJ2+,C25A,525A-0473,L2J,,,,
 adb2c3,N982BZ,Cessna,525B CitationJet CJ3,C25B,525B-0364,L2J,,,2023-09-30,2011-01-01
 adb3bf,N982NA,Cessna,550 Citation II,C550,550-0345,L2J,,,2022-02-28,1982-01-01
+adb401,N982QS,Cessna,750 Citation X,C750,750-0182,L2J,EJA,,,
 adb4f0,N9820F,Cessna,208B Grand Caravan,C208,208B-0410,L1T,PEN,,2022-09-30,1994-01-01
 adb57b,N9824E,Cessna,182R Skylane,C182,18268451,L1P,,,,
 adb627,N9829B,Cessna,208B Grand Caravan,C208,208B-0116,L1T,,,2024-04-30,1988-01-01
@@ -14389,6 +14716,7 @@ add373,N990JH,Cessna,560 Citation V,C560,560-0754,L2J,,,2023-09-30,2007-01-01
 add3b6,N990M,Cessna,550 Citation II,C550,550-0608,L2J,,,2023-10-31,1989-01-01
 add3bc,N990MF,Cessna,560XL Citation Excel,C56X,560-5052,L2J,,,2023-04-30,1999-01-01
 add3c6,N990MR,Cessna,550 Citation II,C550,550-0488,L2J,,,,
+add412,N990QS,Cessna,750 Citation X,C750,750-0190,L2J,EJA,,,
 add44f,N990TC,Cessna,550B Citation Bravo,C55B,550-0963,L2J,JEA,,2023-05-31,2001-01-01
 add675,N991BB,Cessna,510 Citation Mustang,C510,510-0256,L2J,,,2022-01-31,2009-01-01
 add6dc,N991FE,Cessna,208B Grand Caravan,C208,208B-0127,L1T,,,2022-05-31,1988-01-01
@@ -14416,6 +14744,7 @@ ade907,N996BA,Cessna,208B Grand Caravan EX,C208,208B-5242,L1T,BRG,,,
 ade96f,N996FE,Cessna,208B Grand Caravan,C208,208B-0135,L1T,,,,
 ade9c5,N996JR,Cessna,525 CitationJet CJ1,C525,525-0147,L2J,,,,
 adea37,N996PE,Cessna,525B CitationJet CJ3,C25B,525B-0170,L2J,,,,
+adea5c,N996QS,Cessna,750 Citation X,C750,750-0196,L2J,EJA,,,
 adeaac,N996TX,Cessna,680A Citation Latitude,C68A,680A-0096,L2J,,,,
 adeab0,N996UA,Cessna,680A Citation Latitude,C68A,680A-0023,L2J,,,,
 adec88,N9969H,Cessna,AT-17 Bobcat,T50,3530,L2J,,,,
@@ -14423,13 +14752,16 @@ adecd6,N997C,Cessna,680 Citation Sovereign,C680,680-0216,L2J,,,,
 adecfb,N997DM,Cessna,525B CitationJet CJ3,C25B,525B-0499,L2J,,,,
 aded09,N997EA,Cessna,560 Citation V,C560,560-0178,L2J,,,,
 aded26,N997FE,Cessna,208B Grand Caravan,C208,208B-0197,L1T,,,,
+adee13,N997QS,Cessna,750 Citation X,C750,750-0208,L2J,EJA,,,
 adee45,N997SS,Cessna,560XL Citation XLS+,C56X,560-6154,L2J,,,,
 adee4d,N997T,Cessna,510 Citation Mustang,C510,510-0436,L2J,,,,
 adf077,N998BC,Cessna,550 Citation II,C550,550-0665,L2J,,,,
+adf0a3,N998CX,Cessna,750 Citation X,C750,750-0098,L2J,,,,
 adf0c0,N998EA,Cessna,501 Citation I/SP,C501,501-0104,L2J,,,,
 adf0dd,N998FE,Cessna,208B Grand Caravan,C208,208B-0139,L1T,,,,
 adf0f1,N998G,Cessna,680 Citation Sovereign,C680,680-0224,L2J,,,,
 adf12e,N998JL,Cessna,560 Citation Encore,C560,560-0604,L2J,,,,
+adf1ca,N998QS,Cessna,750 Citation X,C750,750-0198,L2J,EJA,,,
 adf1ec,N998SA,Cessna,560 Citation V,C560,560-0485,L2J,,,,
 adf215,N998TS,Cessna,550B Citation Bravo,C55B,550-0987,L2J,,,,
 adf219,N998TW,Cessna,560 Citation V,C560,560-0362,L2J,,,,
@@ -14446,6 +14778,7 @@ adf52d,N999MH,Cessna,195 Businessliner,C195,7168,L1P,,,,
 adf536,N999MS,Cessna,501 Citation I/SP,C501,501-0230,L2J,,,,
 adf56c,N999PW,Cessna,501 Citation I/SP,C501,501-0160,L2J,,,,
 adf578,N999QH,Cessna,550 Citation S/II,C550,S550-0077,L2J,,,,
+adf581,N999QS,Cessna,750 Citation X,C750,750-0203,L2J,EJA,,,
 adf5ae,N999SM,Cessna,525B CitationJet CJ3,C25B,525B-0052,L2J,,,,
 adf609,N999WC,Cessna,525C CitationJet CJ4,C25C,525C-0051,L2J,,,,
 adf617,N999WS,Cessna,501 Citation I/SP,C501,501-0186,L2J,,,,
@@ -14549,6 +14882,7 @@ c01711,C-FITC,Cessna,525A CitationJet CJ2,C25A,525A-0394,L2J,,2008-04-17,,
 c01789,C-FIXS,Cessna,208B Grand Caravan,C208,208B-1209,L1T,,2018-06-08,,
 c01812,C-FJCZ,Cessna,550 Citation II,C550,550-0700,L2J,,1992-05-12,,
 c01825,C-FJDS,Cessna,550B Citation Bravo,C55B,550-0807,L2J,,,,
+c01897,C-FJIC,Cessna,750 Citation X,C750,750-0020,L2J,,2013-04-11,,
 c01935,C-FJOE,Cessna,208 Caravan,C208,208-0390,L1T,,2005-04-27,,
 c01996,C-FJRX,Cessna,680 Citation Sovereign,C680,680-0345,L2J,,2012-12-21,,
 c019c3,C-FJTQ,Cessna.,208B Grand Caravan,C208,208B-5277,L1T,HRT,2018-02-06,,
@@ -14560,6 +14894,7 @@ c01a82,C-FKAZ,Cessna,208 Caravan,C208,208-0236,L1T,,1994-05-30,2018-10-24,
 c01a85,C-FKBC,Cessna,560 Citation Ultra,C560,560-0409,L2J,,2016-02-11,,
 c01a9d,C-FKCA,Cessna,208 Caravan,C208,208-0211,L1T,,2015-03-31,,
 c01aa1,C-FKCE,Cessna,550 Citation II,C550,550-0686,L2J,,1991-09-20,,
+c01aaf,CF-KCS,Cessna,195 Businessliner,C195,7034,L1P,,2011-04-13,,
 c01ace,C-FKDX,Cessna,550 Citation II,C550,550-0687,L2J,,1991-10-30,,
 c01ae9,C-FKEY,Cessna,208 Caravan,C208,208-0307,L1T,,2011-05-19,,
 c01b28,C-FKHJ,Cessna,560XL Citation Excel,C56X,560-5187,L2J,HRT,2016-01-27,,
@@ -14583,6 +14918,7 @@ c022e9,C-FNFS,Cessna,525B CitationJet CJ3,C25B,525B-0262,L2J,,2016-09-22,,
 c02324,C-FNHZ,Cessna,501 Citation I/SP,C501,501-0689,L2J,,2007-11-30,,
 c02391,C-FNME,Cessna,208 Caravan,C208,208-0318,L1T,,2018-05-24,,
 c023f6,C-FNQB,Cessna,208 Caravan,C208,208-0387,L1T,,2008-05-27,,
+c02415,C-FNRG,Cessna,750 Citation X,C750,750-0305,L2J,,2015-09-22,,
 c02493,C-FNWC,Cessna,441 Conquest II,C441,441-0216,L2T,,2012-06-07,,
 c027d3,C-FPCC,Cessna,208B Grand Caravan,C208,208B-0840,L1T,,2006-07-13,,
 c027d5,C-FPCE,Cessna,510 Citation Mustang,C510,510-0151,L2J,,2017-06-14,,
@@ -14597,6 +14933,7 @@ c02da7,C-FRHM,Cessna,208 Caravan,C208,208-0566,L1T,,2016-10-06,,
 c02e72,C-FRPH,Cessna,208B Grand Caravan,C208,208B-0377,L1T,,1994-03-29,,
 c02ea5,C-FRRG,Cessna,172F Skyhawk,C172,17252196,L1P,,2013-12-06,,
 c02fa5,C-FSBC,Cessna,650 Citation VII,C650,650-7092,L2J,HRT,,,
+c02fe9,C-FSDS,Cessna,750 Citation X,C750,750-0090,L2J,,2004-04-16,,
 c02ff1,C-FSEA,Cessna,425 Conquest I,C425,425-0192,L2T,,2018-06-28,,
 c03092,C-FSKF,Cessna,208B Grand Caravan,C208,208B-0673,L1T,AKN,2005-11-16,,
 c0309f,C-FSKS,Cessna,208B Grand Caravan,C208,208B-0722,L1T,,2015-02-26,,
@@ -14612,6 +14949,8 @@ c032dd,C-FTGU,Cessna,L-19E/O-1E Bird Dog,O1,23646,L1P,,1973-11-23,,
 c032e1,C-FTGY,Cessna,L-19E/O-1E Bird Dog,O1,23863,L1P,,1973-07-10,,
 c03319,C-FTJC,Cessna,560 Citation Encore,C560,560-0544,L2J,,2017-06-29,,
 c0331c,C-FTJF,Cessna,560 Citation Encore,C560,560-0643,L2J,,,,
+c03352,C-FTLH,Cessna,750 Citation X,C750,750-0118,L2J,,2014-04-25,,
+c0335d,C-FTLS,Cessna,750 Citation X,C750,750-0518,L2J,,2018-03-01,,
 c03373,C-FTMO,Cessna,208 Caravan,C208,208-0356,L1T,,2016-07-06,,
 c033aa,C-FTOR,Cessna,650 Citation VII,C650,650-7067,L2J,,2004-11-15,,
 c0342b,C-FTTQ,Cessna,L-19A/O-1A Bird Dog,O1,22705,L1P,,2010-06-08,,
@@ -14624,6 +14963,7 @@ c03a2f,C-FWAW,Cessna,208B Grand Caravan,C208,208B-0895,L1T,,2001-07-18,,
 c03a32,C-FWAZ,Cessna,172P Skyhawk,C172,17274272,L1P,,2016-08-26,,1980-01-01
 c03bc5,C-FWQM,Cessna,550B Citation Bravo,C55B,550-1097,L2J,,,,
 c03bde,C-FWRL,Cessna,441 Conquest II,C441,441-0079,L2T,,2004-11-09,,
+c03bea,C-FWRX,Cessna,750 Citation X,C750,750-0212,L2J,,2013-07-04,,
 c03c4c,C-FWVR,Cessna,208B Grand Caravan,C208,208B-0483,L1T,,2014-03-20,,
 c03cfc,C-FXCL,Cessna,208B Grand Caravan,C208,208B-5107,L1T,,2014-04-14,,
 c03ead,C-FXTC,Cessna,525C CitationJet CJ4,C25C,525C-0078,L2J,,2012-03-20,,
@@ -14646,16 +14986,19 @@ c04559,C-GAGU,Cessna,680 Citation Sovereign,C680,680-0100,L2J,,,,
 c04580,C-GAIH,Cessna,152,C152,15283796,L1P,,2017-08-15,,
 c045aa,C-GAJX,Cessna,182P Skylane,C182,18260966,L1P,,2016-04-21,,
 c04631,C-GAPC,Cessna,560 Citation V,C560,560-0033,L2J,,2013-09-04,,
+c04642,C-GAPT,Cessna,750 Citation X,C750,750-0131,L2J,,2013-11-06,,
 c0468e,C-GASR,Cessna,525A CitationJet CJ2,C25A,525A-0510,L2J,ASP,2012-12-27,,
 c0469e,C-GATH,Cessna,208B Grand Caravan,C208,208B-1244,L1T,,2007-03-30,,
 c046af,C-GATY,Cessna,208 Caravan,C208,208-0305,L1T,,2005-07-12,,
 c046f6,C-GAWR,Cessna,680 Citation Sovereign,C680,680-0337,L2J,,2014-11-07,,
+c04716,C-GAXX,Cessna,750 Citation X,C750,750-0246,L2J,,2010-07-20,,
 c0475d,C-GBAQ,Cessna,172N Skyhawk,C172,17273945,L1P,,1985-06-12,,
 c047e7,C-GBFY,Cessna,182T Skylane,C182,18281413,L1P,,2015-11-23,,
 c04830,C-GBIT,Cessna,208 Caravan,C208,208-0135,L1T,,2010-11-23,,
 c04864,C-GBKT,Cessna,510 Citation Mustang,C510,510-0446,L2J,,2017-06-06,,
 c048a3,C-GBNE,Cessna,560 Citation V,C560,560-0244,L2J,,2009-03-11,,
 c048b6,C-GBNX,Cessna,560 Citation V,C560,560-0074,L2J,,2003-03-06,,
+c04977,C-GBVI,Cessna,T210L Turbo Centurion,T210,21060060,L1P,,2010-10-28,,
 c049dc,C-GBZF,Cessna,550B Citation Bravo,C55B,550-1119,L2J,,2017-03-14,,
 c049f6,C-GCAF,Cessna,208 Caravan,C208,208-0371,L1T,,2017-05-30,,
 c04a18,C-GCBN,Cessna,172S Skyhawk,C172,172S9964,L1P,,2014-03-24,,
@@ -14696,6 +15039,7 @@ c05ac2,C-GIJP,Cessna,560 Citation Encore,C560,560-0648,L2J,,2014-09-24,,
 c05adc,C-GIKP,Cessna,208 Caravan,C208,208-0141,L1T,,2009-05-27,,
 c05b60,C-GIPR,Cessna,208 Caravan,C208,208-0343,L1T,,2003-07-25,,
 c05b8e,C-GIRL,Cessna,525 CitationJet CJ1,C525,525-0641,L2J,,2009-03-18,,
+c05c1e,C-GIWZ,Cessna,750 Citation X,C750,750-0041,L2J,,2013-04-24,,
 c05c71,C-GJAE,Cessna,680 Citation Sovereign,C680,680-0017,L2J,,,,
 c05c7f,C-GJAS,Cessna,208 Caravan,C208,208-0322,L1T,,2013-06-17,,
 c05ce1,C-GJEM,Cessna,208 Caravan,C208,208-0152,L1T,,,,
@@ -14707,6 +15051,7 @@ c05f25,C-GKAU,Cessna,550 Citation II,C550,550-0280,L2J,,,,
 c06011,C-GKJW,Cessna,208B Grand Caravan,C208,208B-2088,L1T,,2014-05-28,,
 c06089,C-GKOM,Cessna,208 Caravan,C208,208-0365,L1T,,2008-03-20,,
 c0612a,C-GKUR,Cessna,560 Citation Ultra,C560,560-0760,L2J,,2017-02-08,,
+c0614f,C-GKWC,Cessna,T310R Turbo,C310,310R1607,L2P,,2010-03-15,,
 c06179,C-GKXS,Cessna,560XL Citation Excel,C56X,560-5169,L2J,,2013-08-30,,
 c0619c,C-GKZB,Cessna,560 Citation Ultra,C560,560-0471,L2J,,2013-09-24,,
 c0619d,C-GKZC,Cessna,560 Citation Ultra,C560,560-0373,L2J,HRT,2017-08-02,,
@@ -14722,17 +15067,20 @@ c062f5,C-GLMI,Cessna,680 Citation Sovereign,C680,680-0533,L2J,,2015-02-03,,
 c062f7,C-GLMK,Cessna,550 Citation II,C550,550-0100,L2J,,2018-10-09,,
 c06382,C-GLRT,Cessna,208B Grand Caravan,C208,208B-0963,L1T,,2015-12-09,,
 c0641a,C-GLXP,Cessna,172S Skyhawk,C172,172S9511,L1P,,2017-09-11,,
+c06442,C-GLZD,Cessna,414A,C414,414A0818,L2P,,2013-01-08,,
 c06550,C-GMJN,Cessna,550 Citation II,C550,550-0433,L2J,,2017-03-03,,
 c06573,C-GMKW,Cessna,208B Grand Caravan,C208,208B-5017,L1T,,2013-05-06,,
 c06576,C-GMKZ,Cessna,560XL Citation Excel,C56X,560-5309,L2J,FEX,,,
 c065a5,C-GMMU,Cessna,510 Citation Mustang,C510,510-0042,L2J,,2009-07-21,,
 c065db,C-GMOW,Cessna,208 Caravan,C208,208-0528,L1T,,2011-06-10,,
 c065f0,C-GMPR,Cessna,208 Caravan,C208,208-0253,L1T,,2001-05-11,,
+c06617,C-GMRE,Cessna,180K Skywagon,C180,18052936,L1P,,2007-03-09,,
 c0664f,C-GMTI,Cessna,525A CitationJet CJ2+,C25A,525A-0490,L2J,,2018-03-28,,
 c0667c,C-GMVB,Cessna,208B Grand Caravan,C208,208B-0317,L1T,,1992-12-02,,
 c066b2,C-GMXD,Cessna,560 Citation Ultra,C560,560-0441,L2J,,2013-09-26,,
 c06731,C-GNCA,Cessna,208B Grand Caravan,C208,208B-0764,L1T,,,,
 c0678c,C-GNFN,Cessna,208 Caravan,C208,208-0502,L1T,,2016-06-08,,
+c06796,C-GNFX,Cessna,172M Skyhawk,C172,17264413,L1P,TOR,2014-12-31,,
 c06867,C-GNNY,Cessna,150M,C150,15076775,L1P,,2017-01-05,,
 c068f6,C-GNTL,Cessna,510 Citation Mustang,C510,510-0033,L2J,,2012-09-25,,
 c06904,C-GNTZ,Cessna,510 Citation Mustang,C510,510-0038,L2J,,2010-11-22,,
@@ -14793,6 +15141,7 @@ c075f1,C-GSRG,Cessna,525 CitationJet CJ1,C525,525-0268,L2J,,2016-09-26,,
 c0769e,C-GSXX,Cessna,525 CitationJet CJ1,C525,525-0109,L2J,,,,
 c076ad,C-GSYM,Cessna,525 CitationJet CJ1,C525,525-0302,L2J,,2013-02-14,,
 c07707,C-GTBY,Cessna,208 Caravan,C208,208-0261,L1T,,2016-05-03,,
+c07711,C-GTCI,Cessna,750 Citation X,C750,750-0108,L2J,,2013-12-17,,
 c07782,C-GTGR,Cessna,421C Golden Eagle,C421,421C-0061,L2P,,2009-04-28,,
 c077e1,C-GTKI,Cessna,650 Citation III,C650,650-0037,L2J,,,,
 c07847,C-GTOG,Cessna,680 Citation Sovereign,C680,680-0121,L2J,,2013-09-23,,
@@ -14829,6 +15178,7 @@ c086b9,C-GZAM,Cessna,525B CitationJet CJ3,C25B,525B-0160,L2J,,2011-02-28,,
 c086bf,C-GZAS,Cessna,525A CitationJet CJ2,C25A,525A-0508,L2J,ASP,2012-11-30,,
 c08737,C-GZFI,Cessna,208B Grand Caravan,C208,208B-1301,L1T,,2014-05-13,,
 c08796,C-GZIZ,Cessna,208B Grand Caravan,C208,208B-0546,L1T,NWL,1998-01-20,,
+c0888e,C-GZSN,Cessna,340A,C340,340A0504,L2P,,2017-06-07,,
 c80e37,ZK-FYA,Cessna,L-19A/O-1A Bird Dog,O1,22737,L1P,,,,
 c80eb1,ZK-JTL,Cessna,A-37B Dragonfly,A37,43392,L2J,,,,
 c81046,ZK-DOG,Cessna,L-19A/O-1A Bird Dog,O1,23452,L1P,,,,
@@ -14961,6 +15311,7 @@ e47d61,PT-MMV,Cessna,550B Citation Bravo,C55B,550-0811,L2J,,,,
 e47e05,PT-FNP,Cessna,525 CitationJet CJ1,C525,525-0319,L2J,,,,
 e47e0a,PP-RAA,Cessna,560XL Citation Excel,C56X,560-5034,L2J,,,,
 e47e13,PT-FJA,Cessna,525 CitationJet CJ1,C525,525-0337,L2J,,,,
+e47e14,PT-WUM,Cessna,750 Citation X,C750,750-0092,L2J,,,,
 e47e16,PP-JFM,Cessna,560XL Citation Excel,C56X,560-5045,L2J,,,,
 e47e18,PT-XIB,Cessna,560XL Citation Excel,C56X,560-5043,L2J,,,,
 e47e1a,PT-WYU,Cessna,560XL Citation Excel,C56X,560-5060,L2J,,,,
@@ -14979,6 +15330,7 @@ e47e9b,PR-FAS,Cessna,208B Grand Caravan,C208,208B-0462,L1T,,,,
 e47eac,PR-EMS,Cessna,560XL Citation Excel,C56X,560-5223,L2J,,,,
 e47eb0,PR-EOB,Cessna,525 CitationJet CJ1,C525,525-0483,L2J,,,,
 e47eb1,PR-GAM,Cessna,560XL Citation Excel,C56X,560-5256,L2J,,,,
+e47eb4,PR-JAQ,Cessna,750 Citation X,C750,750-0060,L2J,,,,
 e47ec3,PT-FTG,Cessna,525A CitationJet CJ2,C25A,525A-0117,L2J,,,,
 e47ed3,PP-BMG,Cessna,550B Citation Bravo,C55B,550-1045,L2J,,,,
 e47ef7,PR-SCR,Cessna,560 Citation Encore,C560,560-0653,L2J,,,,
@@ -15097,6 +15449,7 @@ e48689,PR-CLB,Cessna,525 CitationJet CJ1,C525,525-0191,L2J,,,,
 e48698,PP-KYK,Cessna,525A CitationJet CJ2+,C25A,525A-0463,L2J,,,,
 e4870f,PT-FPG,Cessna,560XL Citation XLS+,C56X,560-6043,L2J,,,,
 e48711,PP-LCE,Cessna,550B Citation Bravo,C55B,550-1061,L2J,,,,
+e48714,PP-JMJ,Cessna,750 Citation X,C750,750-0304,L2J,,,,
 e48757,PR-XLS,Cessna,560XL Citation XLS,C56X,560-5607,L2J,,,,
 e48772,PR-CRF,Cessna,208B Grand Caravan,C208,208B-2227,L1T,,,,
 e48780,PR-SHC,Cessna,525B CitationJet CJ3,C25B,525B-0253,L2J,,,,
@@ -15117,6 +15470,7 @@ e48869,PR-SBR,Cessna,208B Grand Caravan,C208,208B-2253,L1T,,,,
 e48889,PR-PLU,Cessna,525B CitationJet CJ3,C25B,525B-0218,L2J,,,,
 e48896,PR-LPG,Cessna,560XL Citation Excel,C56X,560-5095,L2J,,,,
 e488b6,PR-BUS,Cessna,208B Grand Caravan,C208,208B-2272,L1T,COO,,,
+e488f8,PP-LAR,Cessna,750 Citation X,C750,750-0010,L2J,,,,
 e4891f,2739,Cessna,C-98A,C208,208B-2271,L1T,BRS,,,
 e48920,2740,Cessna,C-98A,C208,208B-2277,L1T,BRS,,,
 e48921,2741,Cessna,C-98A,C208,208B-2285,L1T,BRS,,,
@@ -15145,6 +15499,7 @@ e48b33,PP-WBP,Cessna,525 CitationJet CJ1+,C525,525-0667,L2J,,,,
 e48b48,PP-BSP,Cessna,525 CitationJet CJ1,C525,525-0056,L2J,,,,
 e48b53,PR-BVO,Cessna,550B Citation Bravo,C55B,550-1108,L2J,,,,
 e48b7d,PR-TRT,Cessna,525 CitationJet CJ1,C525,525-0496,L2J,,,,
+e48b9c,PT-MMN,Cessna,750 Citation X,C750,750-0003,L2J,,,,
 e48bbe,PP-LDW,Cessna,510 Citation Mustang,C510,510-0060,L2J,,,,
 e48bca,PR-VIR,Cessna,550 Citation II,C550,550-0623,L2J,,,,
 e48be2,PR-HJH,Cessna,525 CitationJet CJ1,C525,525-0415,L2J,,,,
@@ -15222,6 +15577,7 @@ e8065e,E-304,Cessna,680 Citation Sovereign,C680,680-0045,L2J,,,,
 e80819,CC-ANR,Cessna,510 Citation Mustang,C510,510-0455,L2J,COO,,,
 e80824,C-53,Cessna,550B Citation Bravo,C55B,550-0996,L2J,,,,
 e8085b,CC-AQY,Cessna,680 Citation Sovereign,C680,680-0092,L2J,,,,
+e80907,CC-CPS,Cessna,750 Citation X,C750,750-0268,L2J,,,,
 e80908,CC-CHE,Cessna,525A CitationJet CJ2,C25A,525A-0171,L2J,COO,,,
 e80912,CC-CWZ,Cessna,550 Citation S/II,C550,S550-0143,L2J,CDA,,,
 e80916,CC-CLC,Cessna,550 Citation II,C550,550-0104,L2J,,,,
@@ -15233,6 +15589,7 @@ e80951,CC-AKU,Cessna,208B Grand Caravan,C208,208B-0001,L1T,,,,
 e80963,CC-ANT,Cessna,650 Citation III,C650,650-0131,L2J,,,,
 e8096a,CC-AOR,Cessna,525C CitationJet CJ4,C25C,525C-0191,L2J,,,,
 e8096c,CC-AOL,Cessna,208B Grand Caravan EX,C208,208B-5180,L1T,,,,
+e80975,CC-ARU,Cessna,750 Citation X+,C750,750-0523,L2J,,,,
 e80977,CC-ARA,Cessna,560XL Citation Excel,C56X,560-5075,L2J,COO,,,
 e80a00,CC-DAC,Cessna,650 Citation VI,C650,650-0233,L2J,,,,
 e80a01,CC-DGA,Cessna,550 Citation II,C550,550-0657,L2J,,,,

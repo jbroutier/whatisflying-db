@@ -362,6 +362,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 424a01,VQ-BNB,Bombardier,CRJ-100ER,CRJ1,7364,L2J,RLU,,,
 424a02,VQ-BNA,Bombardier,CRJ-200ER,CRJ2,7473,L2J,RLU,,,
 424a03,VQ-BND,Bombardier,CRJ-200LR,CRJ2,7483,L2J,RLU,,,
+424ba9,M-NSTR,Bombardier,Global 7500,GL7T,70047,L2J,,2021-03-05,,2019-01-01
 43c09b,ZJ690,Bombardier,Sentinel R1,GLEX,9107,L2J,SHF,,,
 43c09c,ZJ691,Bombardier,Sentinel R1,GLEX,9123,L2J,SHF,,,
 43c09d,ZJ692,Bombardier,Sentinel R1,GLEX,9131,L2J,SHF,,,
@@ -420,6 +421,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 43ea6e,M-SGJS,Bombardier,Challenger 350,CL35,20588,L2J,,,,
 43ea72,M-OCNY,Bombardier,Challenger 350,CL35,20581,L2J,,,,
 43ea7a,M-AABG,Bombardier,Global 5000,GL5T,9690,L2J,EJO,,,
+43ea8c,M-YOIL,Bombardier,Global 6000,GLEX,9637,L2J,OES,,,
 43ea8e,M-MICS,Bombardier,Global 5000,GL5T,9586,L2J,GMA,,,
 43ea96,M-TECH,Bombardier,Challenger 350,CL35,20621,L2J,,,,
 43ea9a,M-CVGL,Bombardier,Global 5000,GL5T,9687,L2J,,,,
@@ -518,14 +520,17 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 490d06,CS-CHF,Bombardier,Challenger 350,CL35,20671,L2J,,,,
 490d07,CS-CHG,Bombardier,Challenger 350,CL35,20699,L2J,NJE,,,
 490d0b,CS-CHK,Bombardier,Challenger 350,CL35,20839,L2J,NJE,,,
+491267,CS-DSG,Bombardier,Global Express,GLEX,9843,L2J,JME,2019-08-01,,2018-01-01
 4912c5,CS-DVE,Bombardier,Global Express,GLEX,9098,L2J,AJU,,,
 4912c9,CS-DVI,Bombardier,Global Express,GLEX,9145,L2J,,,,
 4912d6,CS-DVV,Bombardier,Global 6000,GLEX,9718,L2J,,,,
 491d99,CS-GLY,Bombardier,Global 5000,GL5T,9498,L2J,NJE,2019-11-01,,2013-07-01
 49302d,CS-LAM,Bombardier,Global 5000,GL5T,9602,L2J,,,,
 49484e,CS-RBN,Bombardier,Global Express,GLEX,9083,L2J,,,,
+4948b5,CS-REU,Bombardier,Global Express,GLEX,9823,L2J,JME,2020-09-01,,2018-01-01
 4950d6,CS-TFV,Bombardier,Challenger 300,CL30,20252,L2J,,,,
 49526c,CS-TSL,Bombardier,Global 5000,GL5T,9231,L2J,,,,
+49d4c9,OK-RPM,Bombardier,Challenger 300,CL30,20022,L2J,TIE,2020-11-25,,
 4a512b,YR-TIK,Bombardier,Global 5000,GL5T,9229,L2J,TIH,,,
 4a5243,YR-TRC,Bombardier,Challenger 300,CL30,20261,L2J,,,,
 4a92b9,SE-DUY,Bombardier,CRJ-200PF,CRJ2,7023,L2J,,,,

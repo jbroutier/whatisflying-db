@@ -21,7 +21,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 08400a,TT-DAO,Piper,PA-31T Cheyenne II,PAY2,31T-7820010,L2T,,,,
 088009,5V-TPT,Piper,PA-31T Cheyenne II,PAY2,31T-7820013,L2T,,,,
 0d82ac,YV2949,Piper,PA-31T Cheyenne I,PAY1,31T-8004002,L2T,COO,,,
+10271e,RA-0217G,Piper,PA-46-350P Malibu Mirage,PA46,4636040,L1P,,2009-01-01,,1996-01-01
 140719,RA-01817,Piper,PA-46-500TP Malibu Meridian,P46T,4697317,L1T,,,,
+140755,RA-01877,Piper,PA-46-350P Malibu Mirage,PA46,4636577,L1P,,,,
 1407a9,RA-01961,Piper,PA-46-500TP Malibu Meridian,P46T,4697439,L1T,COO,,,
 14165f,RA-05727,Piper,PA-46-500TP Malibu Meridian,P46T,4697224,L1T,COO,,,
 141663,RA-05731,Piper,PA-28-181 Archer III,P28A,2843701,L1P,,,,
@@ -88,6 +90,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 344148,EC-CSQ,Piper,PA-28R-200 Arrow II,P28R,28R-7535058,L1P,,,,
 344342,EC-LMI,Piper,PA-23-250 Aztec F,PA27,27-7854068,L2P,,,,
 344683,EC-DGJ,Piper,PA-28-181 Archer II,P28A,28-7990034,L1P,,,,
+34504e,EC-KNV,Piper,PA-46-350P Malibu Mirage,PA46,4622143,L1P,,,,
 345294,EC-MKG,Piper,PA-44-180 Seminole,PA44,44-7995072,L2P,,,,
 34555a,EC-IMM,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918242,L1P,,,,
 38030f,F-BAYP,Piper,PA-18-150 Super Cub,PA18,18-5486,L1P,,,,
@@ -441,6 +444,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391273,F-GETT,Piper,PA-18-95 Super Cub,PA18,18-3230,L1P,,,,
 391484,F-GFEE,Piper,PA-28R-180 Arrow,P28R,28R-30350,L1P,,,,
 391486,F-GFEG,Piper,PA-28-181 Archer II,P28A,28-8090363,L1P,,,,
+3914a5,F-GFFF,Piper,PA-46-310P Malibu,PA46,4608024,L1P,,,,
 3914cd,F-GFGN,Piper,PA-28-181 Archer II,P28A,2890056,L1P,,,,
 3914ce,F-GFGO,Piper,PA-28-181 Archer II,P28A,2890060,L1P,,,,
 3914d7,F-GFGX,Piper,PA-28-181 Archer II,P28A,28-7690275,L1P,,,,
@@ -494,6 +498,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391a38,F-GGRY,Piper,PA-28-161 Cadet,P28A,2841104,L1P,,,,
 391a4a,F-GGSK,Piper,PA-23-250 Aztec F,PA27,27-7854125,L2P,,,,
 391a6a,F-GGTK,Piper,PA-28R-201 Arrow III,P28R,28R-7737162,L1P,,,,
+391a6b,F-GGTL,Piper,PA-46-310P Malibu,PA46,46-8508077,L1P,,,,
 391b21,F-GGZB,Piper,PA-28-181 Archer II,P28A,28-7890105,L1P,,,,
 391b2d,F-GGZN,Piper,PA-32R-301 Saratoga SP,P32R,32R-8313030,L1P,,,,
 391b31,F-GGZR,Piper,PA-38-112 Tomahawk,PA38,38-79A0213,L1P,,,,
@@ -522,6 +527,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391db1,F-GHNR,Piper,PA-38-112 Tomahawk,PA38,38-78A0563,L1P,,,,
 391def,F-GHPP,Piper,PA-32R-301 Saratoga SP,P32R,3213022,L1P,,,,
 391df0,F-GHPQ,Piper,PA-28-161 Warrior II,P28A,28-7916492,L1P,,,,
+391e26,F-GHRG,Piper,PA-46-310P Malibu,PA46,46-8608067,L1P,,,,
 391e2b,F-GHRL,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8429011,L1P,,,,
 391e41,F-GHSB,Piper,PA-38-112 Tomahawk,PA38,38-79A0760,L1P,,,,
 391e50,F-GHSQ,Piper,PA-25-235 Pawnee,PA25,25-2754,L1P,,,,
@@ -585,6 +591,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3924e5,F-GJHF,Piper,PA-38-112 Tomahawk,PA38,38-78A0357,L1P,,,,
 3924f1,F-GJHR,Piper,PA-28-181 Archer II,P28A,28-8090071,L1P,,,,
 3924f3,F-GJHT,Piper,PA-38-112 Tomahawk,PA38,38-79A0278,L1P,,,,
+3924f9,F-GJHZ,Piper,PA-46-310P Malibu,PA46,46-8508090,L1P,,,,
 392522,F-GJJC,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8531004,L1P,,,,
 392531,F-GJJR,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8431016,L1P,,,,
 392571,F-GJLR,Piper,PA-28-161 Warrior II,P28A,28-7916231,L1P,,,,
@@ -633,6 +640,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 392e79,F-GLTZ,Piper,PA-18-150 Super Cub,PA18,18-5136,L1P,,,,
 392e81,F-GLUB,Piper,J-3C-65 Cub,J3,16395,L1P,,,,
 393001,F-GMAB,Piper,PA-28-140 Cherokee F,P28A,28-7625052,L1P,,,,
+393022,F-GMBC,Piper,PA-46-310P Malibu,PA46,46-8408039,L1P,,,,
 393023,F-GMBD,Piper,PA-28-181 Archer II,P28A,2890062,L1P,,,,
 39304c,F-GMCM,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8531010,L1P,,,,
 39304d,F-GMCN,Piper,PA-32R-301 Saratoga SP,P32R,3213049,L1P,,,,
@@ -660,6 +668,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 39398f,F-GOMP,Piper,PA-28R-201 Arrow III,P28R,2844001,L1P,,,,
 3939cc,F-GOOM,Piper,PA-28-151 Cherokee Warrior,P28A,28-7515020,L1P,,,,
 3939f1,F-GOPR,Piper,PA-23-250 Aztec E,PA27,27-4727,L2P,,,,
+393a43,F-GOSD,Piper,PA-46-310P Malibu,PA46,46-8508099,L1P,,,,
+393a44,F-GOSE,Piper,PA-46-310P Malibu,PA46,4608010,L1P,,,,
 393af3,F-GOXT,Piper,J-3C-90 Cub,J3,8927,L1P,,,,
 393c05,F-GPAF,Piper,PA-34-200T Seneca II,PA34,34-7670005,L2P,,,,
 393c21,F-GPBB,Piper,PA-28-181 Archer III,P28A,2843196,L1P,,,,
@@ -681,6 +691,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 394841,F-GSCB,Piper,PA-18-135 Super Cub,PA18,18-4006,L1P,,,,
 394861,F-GSDB,Piper,PA-28R-200 Arrow,P28R,28R-35039,L1P,,,,
 394895,F-GSEV,Piper,PA-28-181 Archer II,P28A,2890091,L1P,,,,
+3948d2,F-GSGS,Piper,PA-46-350P Malibu Mirage,PA46,4622154,L1P,,,,
 3948e2,F-GSHC,Piper,PA-34-220T Seneca III,PA34,3433156,L2P,,,,
 394917,F-GSIX,Piper,PA-32-260 Cherokee Six,PA32,32-59,L1P,,,,
 394922,F-GSJC,Piper,PA-34-220T Seneca III,PA34,3433159,L2P,,,,
@@ -725,6 +736,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 398098,F-HAEY,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031047,L1P,,,,
 3980ee,F-HAHO,Piper,PA-28-181 Archer III,P28A,2843039,L1P,,,,
 39812b,F-HAJL,Piper,PA-32-301FT 6X,PA32,3232055,L1P,,,,
+398144,F-HAKE,Piper,PA-46-350P Malibu Mirage,PA46,4636309,L1P,,,,
 3981ee,F-HAPO,Piper,PA-28-161 Cadet,P28A,2841105,L1P,,,,
 398415,F-HBAV,Piper,PA-28-161 Warrior II,P28A,28-8316050,L1P,,,,
 398447,F-HBCH,Piper,PA-28-180 Cherokee G,P28A,28-7205261,L1P,,,,
@@ -740,6 +752,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 398d82,F-HDMC,Piper,PA-28-181 Archer III,P28A,2843667,L1P,,,,
 398de4,F-HDPE,Piper,PA-28-181 Archer III,P28A,2843573,L1P,,,,
 398df1,F-HDPR,Piper,PA-18-95 Super Cub,PA18,18-3202,L1P,,,,
+398df5,F-HDPV,Piper,PA-46-350P Malibu Mirage,PA46,4636624,L1P,,,,
 398f0d,F-HDYN,Piper,PA-28-181 Archer II,P28A,28-8690048,L1P,,,,
 399066,F-HEDG,Piper,PA-46-500TP Malibu Meridian,P46T,4697501,L1T,,,,
 39908f,F-HEEP,Piper,PA-28-161 Cadet,P28A,2841300,L1P,,,,
@@ -757,14 +770,17 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 399a77,F-HGTX,Piper,PA-28R-201 Arrow III,P28R,2844143,L1P,,,,
 399c00,F-HHAA,Piper,PA-28R-200 Arrow II,P28R,28R-7335008,L1P,,,,
 399e29,F-HHRJ,Piper,PA-28-140 Cherokee B,P28A,28-26092,L1P,,,,
+39a039,F-HIBZ,Piper,PA-46-350P Malibu Mirage,PA46,4636452,L1P,,,,
 39a0a8,F-HIFI,Piper,PA-28-181 Archer II,P28A,2843494,L1P,,,,
 39a0b1,F-HIFR,Piper,PA-28-161 Warrior II,P28A,28-8116036,L1P,,,,
 39a122,F-HIJC,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8129098,L1P,,,,
+39a181,F-HIMB,Piper,PA-46-350P Malibu Mirage,PA46,4636305,L1P,,,,
 39a30f,F-HIYP,Piper,PA-20-125 Pacer,PA20,20-802,L1P,,,,
 39aa61,F-HKTB,Piper,PA-28-181 Archer II,P28A,2843496,L1P,,,,
 39ac22,F-HLBC,Piper,PA-18S-135 Super Cub,PA18,18-3986,L1P,,,,
 39ac8c,F-HLEM,Piper,PA-28-181 Archer III,P28A,2843588,L1P,,,,
 39ad2b,F-HLJL,Piper,PA-34-200 Seneca,PA34,34-7450159,L2P,,,,
+39ad82,F-HLMC,Piper,PA-46R-350T Matrix,PA46,4692093,L1P,,,,
 39b048,F-HMCI,Piper,PA-28-181 Archer II,P28A,2843426,L1P,,,,
 39b060,F-HMDA,Piper,PA-34-220T Seneca V,PA34,3449256,L2P,,,,
 39b18a,F-HMMK,Piper,PA-32R-300 Lance,P32R,32R-7680224,L1P,,,,
@@ -777,6 +793,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 39b861,F-HODB,Piper,PA-31-350 Chieftain,PA31,31-7752031,L2P,,,,
 39b9a1,F-HONB,Piper,J-3C-90 Cub,J3,12063,L1P,,,,
 39b9e2,F-HOPC,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8331031,L1P,,,,
+39b9e5,F-HOPF,Piper,PA-46-350P Malibu Mirage,PA46,4636630,L1P,,,,
+39ba45,F-HOSF,Piper,PA-46-350P Malibu Mirage,PA46,4636619,L1P,,,,
 39ba6e,F-HOTO,Piper,PA-28-140 Cherokee F,P28A,28-7425107,L1P,,,,
 39bd13,F-HPIT,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918059,L1P,,,,
 39bde6,F-HPPG,Piper,PA-28-161 Warrior II,P28A,28-8416075,L1P,,,,
@@ -871,6 +889,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0788,D-EBCI,Piper,PA-28-181 Archer II,P28A,28-7690247,L1P,,,,
 3d0791,D-EBCR,Piper,PA-18-150 Super Cub,PA18,18-2032,L1P,,,,
 3d079b,D-EBDB,Piper,PA-28-140 Cherokee B,P28A,28-26026,L1P,,,,
+3d07a5,D-EBDL,Piper,PA-46-310P Malibu,PA46,46-8608018,L1P,,,,
 3d07ba,D-EBEG,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703064,L1P,,,,
 3d07be,D-EBEK,Piper,PA-28R-200 Arrow II,P28R,28R-7335205,L1P,,,,
 3d07c0,D-EBEM,Piper,PA-28R-200 Arrow II,P28R,28R-7335235,L1P,,,,
@@ -938,6 +957,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d09f5,D-ECAF,Piper,PA-18-135 Super Cub,PA18,18-3862,L1P,,,,
 3d09f8,D-ECAI,Piper,PA-18-95 Super Cub,PA18,18-1550,L1P,,,,
 3d09ff,D-ECAP,Piper,PA-28-180 Cherokee,P28A,28-7305172,L1P,,,,
+3d0a01,D-ECAR,Piper,PA-46-350P Malibu Mirage,PA46,4636599,L1P,,,,
 3d0a02,D-ECAS,Piper,J-3C-65 Cub,J3,12989,L1P,,,,
 3d0a03,D-ECAT,Piper,PA-28-161 Cadet,P28A,2841112,L1P,,,,
 3d0a0a,D-ECBA,Piper,PA-28R-200 Arrow II,P28R,28R-7635398,L1P,,,,
@@ -988,6 +1008,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0ca8,D-EDAU,Piper,PA-28-181 Archer II,P28A,28-7890363,L1P,,,,
 3d0cb4,D-EDBG,Piper,PA-28-181 Archer II,P28A,2890150,L1P,,,,
 3d0cbc,D-EDBO,Piper,PA-32RT-300T Turbo Lance II,P32T,32R-7987061,L1P,,,,
+3d0cc2,D-EDBU,Piper,PA-46-310P Malibu,PA46,4608013,L1P,,,,
 3d0cc3,D-EDBV,Piper,PA-28-236 Dakota,P28B,28-8011131,L1P,,,,
 3d0cc9,D-EDCB,Piper,PA-22-108 Colt,PA22,22-8719,L1P,,,,
 3d0ccc,D-EDCE,Piper,PA-22-108 Colt,PA22,22-8665,L1P,,,,
@@ -1041,6 +1062,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0e73,D-EDSL,Piper,L-18C Super Cub,PA18,18-3438,L1P,,,,
 3d0e82,D-EDTA,Piper,PA-28-180 Cherokee C,P28A,28-3631,L1P,,,,
 3d0e86,D-EDTE,Piper,PA-18-150 Super Cub,PA18,18-7662,L1P,,,,
+3d0e87,D-EDTF,Piper,PA-46-350P Malibu Mirage,PA46,4636028,L1P,,,,
 3d0e94,D-EDTS,Piper,PA-28-181 Archer II,P28A,28-8090010,L1P,,,,
 3d0e9e,D-EDUC,Piper,PA-28-181 Archer II,P28A,2890170,L1P,,,,
 3d0e9f,D-EDUD,Piper,PA-28-181 Archer II,P28A,28-8090148,L1P,,,,
@@ -1067,6 +1089,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0f56,D-EEBE,Piper,PA-38-112 Tomahawk,PA38,38-80A0112,L1P,,,,
 3d0f5c,D-EEBK,Piper,PA-28R-200 Arrow II,P28R,28R-7435014,L1P,,,,
 3d0f66,D-EEBU,Piper,PA-28-235 Cherokee B,P28B,28-10848,L1P,,,,
+3d0f6d,D-EECB,Piper,PA-46-350P Malibu Mirage,PA46,4636549,L1P,,,,
+3d0f74,D-EECI,Piper,PA-46-350P Malibu Mirage,PA46,4622123,L1P,,,,
 3d0f7b,D-EECP,Piper,PA-28-161 Warrior II,P28A,28-8116242,L1P,,,,
 3d0fab,D-EEEL,Piper,PA-28RT-201 Arrow IV,P28T,28R-8018055,L1P,,,,
 3d0fae,D-EEEO,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4636425,L1T,,,,
@@ -1084,6 +1108,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0ffc,D-EEHO,Piper,PA-28-140 Cherokee,P28A,28-20779,L1P,,,,
 3d100e,D-EEIG,Piper,PA-28-140 Cherokee F,P28A,28-7525069,L1P,,,,
 3d1013,D-EEIL,Piper,PA-18-150 Super Cub,PA18,18-7909091,L1P,,,,
+3d1027,D-EEJF,Piper,PA-46-310P Malibu,PA46,4608135,L1P,,,,
 3d103f,D-EEKD,Piper,PA-28-180 Cherokee C,P28A,28-1999,L1P,,,,
 3d106e,D-EELY,Piper,PA-28-161 Warrior II,P28A,28-8216121,L1P,,,,
 3d1078,D-EEMI,Piper,PA-28-151 Cherokee Warrior,P28A,28-7415223,L1P,,,,
@@ -1091,6 +1116,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1088,D-EEMY,Piper,PA-32R-300 Lance,P32R,32R-7780248,L1P,,,,
 3d10a3,D-EENZ,Piper,PA-28-161 Warrior II,P28A,28-8016235,L1P,,,,
 3d10be,D-EEPA,Piper,PA-28-181 Archer II,P28A,28-8690045,L1P,,,,
+3d10c1,D-EEPD,Piper,PA-46R-350T Matrix,PA46,4692138,L1P,,,,
 3d10ca,D-EEPM,Piper,PA-28R-200 Arrow II,P28R,28R-7435283,L1P,,,,
 3d10cf,D-EEPR,Piper,PA-38-112 Tomahawk,PA38,38-78A0292,L1P,,,,
 3d10e0,D-EEQI,Piper,PA-38-112 Tomahawk,PA38,38-79A0747,L1P,,,,
@@ -1122,6 +1148,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1227,D-EFCX,Piper,PA-25-235 Pawnee C,PA25,25-5334,L1P,,,,
 3d122a,D-EFDA,Piper,PA-24-250 Comanche,PA24,24-2977,L1P,,,,
 3d122b,D-EFDB,Piper,PA-18-135 Super Cub,PA18,18-3923,L1P,,,,
+3d123b,D-EFDR,Piper,PA-46-310P Malibu,PA46,4608061,L1P,,,,
 3d1244,D-EFEA,Piper,PA-28-181 Archer II,P28A,28-8290163,L1P,,,,
 3d1255,D-EFER,Piper,PA-18-150 Super Cub,PA18,18-5347,L1P,,,,
 3d1256,D-EFES,Piper,PA-28-161 Warrior II,P28A,28-8316037,L1P,,,,
@@ -1200,6 +1227,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d153d,D-EGHH,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131003,L1P,,,,
 3d154b,D-EGHV,Piper,PA-28-181 Archer II,P28A,28-8090278,L1P,,,,
 3d154e,D-EGHY,Piper,PA-28-180 Cherokee D,P28A,28-5473,L1P,,,,
+3d1554,D-EGIE,Piper,PA-46-350P Malibu Mirage,PA46,4622128,L1P,,,,
 3d155b,D-EGIL,Piper,PA-28R-200 Arrow II,P28R,28R-7535218,L1P,,,,
 3d155c,D-EGIM,Piper,PA-28R-200 Arrow II,P28R,28R-7235304,L1P,,,,
 3d155d,D-EGIN,Piper,PA-18-95 Super Cub,PA18,18-5652,L1P,,,,
@@ -1299,8 +1327,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1878,D-EHNC,Piper,PA-28-140 Cherokee,P28A,28-22692,L1P,,,,
 3d1891,D-EHOB,Piper,PA-28-180 Cherokee C,P28A,28-2941,L1P,,,,
 3d189a,D-EHOK,Piper,PA-28-180 Cherokee C,P28A,28-2997,L1P,,,,
+3d18aa,D-EHPA,Piper,PA-46-350P Malibu Mirage,PA46,4622057,L1P,,,,
 3d18ab,D-EHPB,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131001,L1P,,,,
 3d18b2,D-EHPI,Piper,PA-28-140 Cherokee B,P28A,28-25752,L1P,,,,
+3d18b5,D-EHPL,Piper,PA-46-350P Malibu Mirage,PA46,4636471,L1P,,,,
 3d18bb,D-EHPR,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8129073,L1P,,,,
 3d18bc,D-EHPS,Piper,PA-28-180 Cherokee,P28A,28-7305424,L1P,,,,
 3d18c3,D-EHPZ,Piper,PA-32R-301 Saratoga SP,P32R,32R-8013078,L1P,,,,
@@ -1321,6 +1351,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d19a0,D-EHYM,Piper,J-3C-65 Cub,J3,10776,L1P,,,,
 3d19cd,D-EIAF,Piper,PA-28-161 Warrior II,P28A,28-7816424,L1P,,,,
 3d19ce,D-EIAG,Piper,PA-28-181 Archer II,P28A,28-7890545,L1P,,,,
+3d19cf,D-EIAH,Piper,PA-46-310P Malibu,PA46,46-8508060,L1P,,,,
 3d19d0,D-EIAI,Piper,PA-28-181 Archer II,P28A,28-8090365,L1P,,,,
 3d19d4,D-EIAM,Piper,PA-28-180 Cherokee F,P28A,28-7105141,L1P,,,,
 3d19db,D-EIAT,Piper,PA-28R-200 Arrow,P28R,28R-7135210,L1P,,,,
@@ -1351,6 +1382,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1a8a,D-EIHM,Piper,PA-28-181 Archer II,P28A,28-8290052,L1P,,,,
 3d1a96,D-EIHY,Piper,PA-28RT-201 Arrow IV,P28T,28R-8018068,L1P,,,,
 3d1a99,D-EIIB,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931275,L1P,,,,
+3d1a9a,D-EIIC,Piper,PA-46-350P Malibu Mirage,PA46,4636504,L1P,,,,
 3d1a9b,D-EIID,Piper,PA-28-181 Archer II,P28A,28-8090361,L1P,,,,
 3d1a9c,D-EIIE,Piper,PA-28-235 Cherokee,P28B,28-10224,L1P,,,,
 3d1aab,D-EIIT,Piper,PA-28-161 Warrior II,P28A,2816011,L1P,,,,
@@ -1363,6 +1395,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1afa,D-EILU,Piper,PA-38-112 Tomahawk,PA38,38-79A0673,L1P,,,,
 3d1b06,D-EIMG,Piper,PA-28-181 Archer II,P28A,28-8090040,L1P,,,,
 3d1b24,D-EINK,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8331034,L1P,,,,
+3d1b2c,D-EINS,Piper,PA-46-310P Malibu,PA46,46-8508106,L1P,,,,
 3d1b33,D-EINZ,Piper,PA-18-150 Super Cub,PA18,18-8310,L1P,,,,
 3d1b3a,D-EIOG,Piper,PA-16 Clipper,PA16,16-500,L1P,,,,
 3d1b48,D-EIOU,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931270,L1P,,,,
@@ -1395,14 +1428,18 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1cf8,D-EJFK,Piper,PA-28-181 Archer II,P28A,2890140,L1P,,,,
 3d1d10,D-EJGI,Piper,J-3C-65 Cub,J3,13204,L1P,,,,
 3d1d19,D-EJGR,Piper,L-18C Super Cub,PA18,18-3454,L1P,,,,
+3d1d27,D-EJHF,Piper,PA-46-310P Malibu,PA46,4608081,L1P,,,,
 3d1d33,D-EJHR,Piper,PA-28-181 Archer II,P28A,28-7890500,L1P,,,,
+3d1d3d,D-EJIB,Piper,PA-46-310P Malibu,PA46,4608095,L1P,,,,
 3d1d48,D-EJIM,Piper,PA-18-95 Super Cub,PA18,18-1531,L1P,,,,
 3d1d49,D-EJIN,Piper,J-3C-65 Cub,J3,12987,L1P,,,,
 3d1d53,D-EJIX,Piper,J-3C-65 Cub,J3,11714/11540,L1P,,,,
 3d1d55,D-EJIZ,Piper,J-3C-90 Cub,J3,3888,L1P,,,,
 3d1d7c,D-EJKM,Piper,PA-28-140 Cherokee E,P28A,28-7225449,L1P,,,,
+3d1d84,D-EJKU,Piper,PA-46-350P Malibu Mirage,PA46,4636319,L1P,,,,
 3d1d86,D-EJKW,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918049,L1P,,,,
 3d1d96,D-EJLM,Piper,PA-28-235 Cherokee C,P28B,28-7310117,L1P,,,,
+3d1db9,D-EJMV,Piper,PA-46-310P Malibu,PA46,4608085,L1P,,,,
 3d1dba,D-EJMW,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8329035,L1P,,,,
 3d1ddd,D-EJOF,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931257,L1P,,,,
 3d1de6,D-EJOO,Piper,PA-28-181 Archer II,P28A,2890072,L1P,,,,
@@ -1415,6 +1452,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1e58,D-EJSY,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703099,L1P,,,,
 3d1e60,D-EJTG,Piper,PA-28-161 Cadet,P28A,2841306,L1P,,,,
 3d1e62,D-EJTI,Piper,PA-28-161 Cadet,P28A,2841308,L1P,,,,
+3d1e63,D-EJTJ,Piper,PA-46-310P Malibu,PA46,4608105,L1P,,,,
 3d1e65,D-EJTL,Piper,PA-28-161 Cadet,P28A,2841313,L1P,,,,
 3d1e67,D-EJTN,Piper,PA-28-161 Cadet,P28A,2841312,L1P,,,,
 3d1e80,D-EJUM,Piper,J-3C-65 Cub,J3,1165,L1P,,,,
@@ -1435,12 +1473,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1f2f,D-EKBF,Piper,PA-28R-200 Arrow II,P28R,28R-7235310,L1P,,,,
 3d1f38,D-EKBO,Piper,L-18C Super Cub,PA18,18-3453,L1P,,,,
 3d1f3b,D-EKBR,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703241,L1P,,,,
+3d1f46,D-EKCC,Piper,PA-46-350P Malibu Mirage,PA46,4636590,L1P,,,,
 3d1f5a,D-EKCW,Piper,PA-28-181 Archer II,P28A,28-8190018,L1P,,,,
 3d1f62,D-EKDE,Piper,PA-28-235 Cherokee B,P28B,28-10961,L1P,,,,
 3d1f69,D-EKDL,Piper,PA-28-161 Warrior II,P28A,28-7916562,L1P,,,,
 3d1f7f,D-EKEH,Piper,PA-28-181 Archer II,P28A,2890080,L1P,,,,
 3d1f80,D-EKEI,Piper,PA-38-112 Tomahawk,PA38,38-80A0096,L1P,,,,
 3d1f87,D-EKEP,Piper,PA-28-181 Archer III,P28A,2843064,L1P,,,,
+3d1f8c,D-EKEU,Piper,PA-46-350P Malibu Mirage,PA46,4636110,L1P,,,,
 3d1f93,D-EKFB,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131062,L1P,,,,
 3d1f95,D-EKFD,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4622008,L1T,,,,
 3d1f97,D-EKFF,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131022,L1P,,,,
@@ -1448,6 +1488,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1f9d,D-EKFL,Piper,PA-28-181 Archer II,P28A,28-8190110,L1P,,,,
 3d1fa8,D-EKFW,Piper,PA-28-181 Archer II,P28A,28-7690339,L1P,,,,
 3d1faa,D-EKFY,Piper,PA-18-150 Super Cub,PA18,18-8123,L1P,,,,
+3d1fb6,D-EKGK,Piper,PA-46-350P Malibu Mirage,PA46,4636010,L1P,,,,
 3d1fb8,D-EKGM,Piper,PA-18-100 Super Cub,PA18,18-1527,L1P,,,,
 3d1fd4,D-EKHO,Piper,PA-18-95 Super Cub,PA18,18-1009,L1P,,,,
 3d1fd8,D-EKHS,Piper,PA-32RT-300T Turbo Lance II,P32T,32R-7887160,L1P,,,,
@@ -1487,6 +1528,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2128,D-EKUQ,Piper,PA-18-100 Super Cub,PA18,18-6413,L1P,,,,
 3d212a,D-EKUS,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031090,L1P,,,,
 3d212e,D-EKUW,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031167,L1P,,,,
+3d2139,D-EKVH,Piper,PA-46-310P Malibu,PA46,46-8408041,L1P,,,,
 3d2151,D-EKWF,Piper,PA-28-140 Cherokee E,P28A,28-7225456,L1P,,,,
 3d2153,D-EKWH,Piper,PA-38-112 Tomahawk,PA38,38-78A0173,L1P,,,,
 3d215f,D-EKWT,Piper,PA-24-260 Comanche C,PA24,24-4937,L1P,,,,
@@ -1592,6 +1634,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d23c8,D-ELUM,Piper,J-3C-65 Cub,J3,11005,L1P,,,,
 3d23d8,D-ELVC,Piper,PA-28-181 Archer III,P28A,2843324,L1P,,,,
 3d23da,D-ELVE,Piper,PA-28R-200 Arrow II,P28R,28R-7635327,L1P,,,,
+3d23e1,D-ELVL,Piper,PA-46-350P Malibu Mirage,PA46,4636545,L1P,,,,
 3d23e7,D-ELVR,Piper,PA-18-150 Super Cub,PA18,18-8083,L1P,,,,
 3d23f2,D-ELWC,Piper,PA-28-181 Archer III,P28A,2843345,L1P,,,,
 3d23f4,D-ELWE,Piper,J-3C-65 Cub,J3,15081,L1P,,,,
@@ -1641,6 +1684,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2516,D-EMHI,Piper,PA-18 180 Super Cub,PA18,18-8245,L1P,,,,
 3d2523,D-EMHV,Piper,PA-28-181 Archer II,P28A,28-7990253,L1P,,,,
 3d2524,D-EMHW,Piper,PA-28-161 Warrior III,P28A,2842176,L1P,,,,
+3d252c,D-EMIE,Piper,PA-46-310P Malibu,PA46,46-8508057,L1P,,,,
 3d253e,D-EMIW,Piper,PA-24-250 Comanche,PA24,24-1917,L1P,,,,
 3d2551,D-EMJP,Piper,L-18C Super Cub,PA18,18-3199,L1P,,,,
 3d255e,D-EMKC,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703427,L1P,,,,
@@ -1649,6 +1693,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2590,D-EMMA,Piper,PA-18-150 Super Cub,PA18,18-6466,L1P,,,,
 3d2591,D-EMMB,Piper,PA-28-181 Archer II,P28A,2890051,L1P,,,,
 3d2594,D-EMME,Piper,PA-18-150 Super Cub,PA18,18-5107,L1P,,,,
+3d2595,D-EMMF,Piper,PA-46-350P Malibu Mirage,PA46,4622103,L1P,,,,
 3d2599,D-EMMJ,Piper,PA-28R-180 Arrow,P28R,28R-30580,L1P,,,,
 3d25a4,D-EMMU,Piper,PA-28-180 Cherokee F,P28A,28-7105056,L1P,,,,
 3d25a5,D-EMMV,Piper,J-3C-90 Cub,J3,12837,L1P,,,,
@@ -1693,6 +1738,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2722,D-ENBM,Piper,PA-28R-180 Arrow,P28R,28R-30678,L1P,,,,
 3d2724,D-ENBO,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031048,L1P,,,,
 3d2732,D-ENCC,Piper,PA-18-150 Super Cub,PA18,18-1483,L1P,,,,
+3d2760,D-ENDW,Piper,PA-46R-350T Matrix,PA46,4692125,L1P,,,,
 3d2766,D-ENEC,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8129056,L1P,,,,
 3d2769,D-ENEF,Piper,J-3C-90 Cub,J3,6347,L1P,,,,
 3d2775,D-ENER,Piper,PA-28-160 Cherokee C,P28A,28-2392,L1P,,,,
@@ -1736,6 +1782,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d289a,D-ENPY,Piper,PA-28-180 Cherokee B,P28A,28-1088,L1P,,,,
 3d28aa,D-ENQO,Piper,PA-18-150 Super Cub,PA18,18-8202,L1P,,,,
 3d28b4,D-ENQY,Piper,PA-28R-180 Arrow,P28R,28R-30677,L1P,,,,
+3d28ba,D-ENRE,Piper,PA-46-310P Malibu,PA46,46-8608004,L1P,,,,
 3d28bc,D-ENRG,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8129088,L1P,,,,
 3d28bf,D-ENRJ,Piper,PA-18-150 Super Cub,PA18,18-7909080,L1P,,,,
 3d28c0,D-ENRK,Piper,PA-28-161 Warrior II,P28A,28-8016234,L1P,,,,
@@ -1763,6 +1810,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2a16,D-EOEO,Piper,PA-28R-201 Arrow III,P28R,28R-7837079,L1P,,,,
 3d2a24,D-EOFC,Piper,PA-28-180 Cherokee,P28A,28-7305332,L1P,,,,
 3d2a38,D-EOFW,Piper,PA-28-181 Archer II,P28A,2890096,L1P,,,,
+3d2a3d,D-EOGB,Piper,PA-46-310P Malibu,PA46,4608070,L1P,,,,
 3d2a59,D-EOHD,Piper,PA-28-181 Archer II,P28A,2890116,L1P,,,,
 3d2a72,D-EOIC,Piper,PA-28-181 Archer III,P28A,2843049,L1P,,,,
 3d2a82,D-EOIS,Piper,PA-38-112 Tomahawk,PA38,38-78A0264,L1P,,,,
@@ -1773,6 +1821,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2b26,D-EOPA,Piper,PA-18-95 Super Cub,PA18,18-1523,L1P,,,,
 3d2b2c,D-EOPG,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4622064,L1T,,,,
 3d2b32,D-EOPM,Piper,PA-28-181 Archer II,P28A,28-7790104,L1P,,,,
+3d2b3c,D-EOPW,Piper,PA-46-350P Malibu Mirage,PA46,4622192,L1P,,,,
 3d2b5c,D-EORC,Piper,PA-28-181 Archer II,P28A,2890132,L1P,,,,
 3d2b64,D-EORK,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131017,L1P,,,,
 3d2b68,D-EORO,Piper,PA-28R-200 Arrow II,P28R,28R-7335306,L1P,,,,
@@ -1781,12 +1830,14 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2bde,D-EOWC,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8231008,L1P,,,,
 3d2beb,D-EOWP,Piper,PA-38-112 Tomahawk,PA38,38-79A0336,L1P,,,,
 3d2bf8,D-EOXC,Piper,PA-28-181 Archer III,P28A,2843149,L1P,,,,
+3d2c0d,D-EOXX,Piper,PA-46-310P Malibu,PA46,46-8408027,L1P,,,,
 3d2c2f,D-EOZF,Piper,PA-28-140 Cherokee,P28A,28-23088,L1P,,,,
 3d2c31,D-EOZH,Piper,PA-28R-180 Arrow,P28R,28R-30695,L1P,,,,
 3d2c37,D-EOZN,Piper,PA-28-140 Cherokee B,P28A,28-25146,L1P,,,,
 3d2c44,D-EPAA,Piper,PA-28-181 Archer II,P28A,28-8490074,L1P,,,,
 3d2c46,D-EPAC,Piper,PA-20-135 Pacer,PA20,20-674,L1P,,,,
 3d2c49,D-EPAF,Piper,PA-18-150 Super Cub,PA18,18-8006,L1P,,,,
+3d2c4c,D-EPAI,Piper,PA-46-350P Malibu Mirage,PA46,4622122,L1P,,,,
 3d2c4d,D-EPAJ,Piper,PA-18-135 Super Cub,PA18,18-3996,L1P,,,,
 3d2c4f,D-EPAL,Piper,PA-28-181 Archer II,P28A,28-7890054,L1P,,,,
 3d2c52,D-EPAO,Piper,PA-28-151 Cherokee Warrior,P28A,28-7615121,L1P,,,,
@@ -1802,10 +1853,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2cbb,D-EPEP,Piper,PA-28-181 Archer III,P28A,2890217,L1P,,,,
 3d2cfa,D-EPHA,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031151,L1P,,,,
 3d2d01,D-EPHH,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4636245,L1T,,,,
+3d2d04,D-EPHK,Piper,PA-46-350P Malibu Mirage,PA46,4636163,L1P,,,,
 3d2d10,D-EPHW,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918005,L1P,,,,
 3d2d18,D-EPIE,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931119,L1P,,,,
 3d2d1e,D-EPIK,Piper,PA-32R-300 Lance,P32R,32R-7680107,L1P,,,,
 3d2d30,D-EPJC,Piper,PA-18-150 Super Cub,PA18,18-8286,L1P,,,,
+3d2d56,D-EPKO,Piper,PA-46-310P Malibu,PA46,4608017,L1P,,,,
+3d2d65,D-EPLD,Piper,PA-46-310P Malibu,PA46,46-8608047,L1P,,,,
 3d2d7d,D-EPMB,Piper,PA-18-150 Super Cub,PA18,18-1591,L1P,,,,
 3d2d88,D-EPMM,Piper,PA-24-260 Comanche B,PA24,24-4456,L1P,,,,
 3d2da0,D-EPNK,Piper,PA-28-236 Dakota,P28B,28-7911324,L1P,,,,
@@ -1828,6 +1882,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d31bc,D-ERBW,Piper,PA-28-180 Cherokee D,P28A,28-4761,L1P,,,,
 3d31c3,D-ERCD,Piper,PA-28-140 Cherokee D,P28A,28-7125245,L1P,,,,
 3d31c4,D-ERCE,Piper,PA-28-181 Archer II,P28A,28-8590066,L1P,,,,
+3d31d6,D-ERCW,Piper,PA-46-350P Malibu Mirage,PA46,4636298,L1P,,,,
 3d31db,D-ERDB,Piper,PA-28-180 Cherokee,P28A,28-7305284,L1P,,,,
 3d320f,D-ERFB,Piper,PA-28-181 Archer II,P28A,28-8490001,L1P,,,,
 3d3210,D-ERFC,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4636091,L1T,,,,
@@ -1851,8 +1906,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d3363,D-ERSD,Piper,PA-28-181 Archer III,P28A,2843075,L1P,,,,
 3d3372,D-ERSS,Piper,PA-28-181 Archer II,P28A,2890076,L1P,,,,
 3d33c8,D-ERWA,Piper,PA-28-181 Archer II,P28A,28-8590078,L1P,,,,
+3d33c9,D-ERWB,Piper,PA-46-350P Malibu Mirage,PA46,4622125,L1P,,,,
 3d3437,D-ESAH,Piper,PA-28-181 Archer II,P28A,2890120,L1P,,,,
 3d343d,D-ESAN,Piper,PA-28-181 Archer III,P28A,2843028,L1P,,,,
+3d343e,D-ESAO,Piper,PA-46-350P Malibu Mirage,PA46,4636282,L1P,,,,
 3d344a,D-ESBA,Piper,PA-46-500TP Malibu Meridian,P46T,4697291,L1T,COO,,,
 3d344c,D-ESBC,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7803362,L1P,,,,
 3d344d,D-ESBD,Piper,PA-38-112 Tomahawk,PA38,38-79A0446,L1P,,,,
@@ -1895,6 +1952,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d36dc,D-ETAI,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131147,L1P,,,,
 3d36dd,D-ETAJ,Piper,PA-28-181 Archer II,P28A,2890161,L1P,,,,
 3d36de,D-ETAK,Piper,PA-28-181 Archer II,P28A,2890162,L1P,,,,
+3d36e2,D-ETAO,Piper,PA-46-350P Malibu Mirage,PA46,4636554,L1P,,,,
 3d36e3,D-ETAP,Piper,PA-28-181 Archer III,P28A,2843254,L1P,,,,
 3d36e8,D-ETAU,Piper,PA-18-95 Super Cub,PA18,18-7363,L1P,,,,
 3d3709,D-ETCB,Piper,PA-28-181 Archer II,P28A,2890179,L1P,,,,
@@ -1915,9 +1973,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d37b9,D-ETIV,Piper,PA-28-181 Archer III,P28A,2843326,L1P,,,,
 3d37bb,D-ETIX,Piper,PA-28-161 Warrior III,P28A,2842001,L1P,,,,
 3d37be,D-ETJA,Piper,PA-28-181 Archer II,P28A,28-8690044,L1P,,,,
+3d37c4,D-ETJG,Piper,PA-46-350P Malibu Mirage,PA46,4622121,L1P,,,,
 3d37d8,D-ETKA,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031173,L1P,,,,
 3d37f2,D-ETLA,Piper,PA-28-181 Archer III,P28A,2843015,L1P,,,,
+3d3803,D-ETLR,Piper,PA-46-350P Malibu Mirage,PA46,4636258,L1P,,,,
 3d3828,D-ETNC,Piper,PA-28-161 Warrior II,P28A,28-8116312,L1P,,,,
+3d385d,D-ETPD,Piper,PA-46-350P Malibu Mirage,PA46,4636217,L1P,,,,
 3d385e,D-ETPE,Piper,PA-28-181 Archer III,P28A,2843003,L1P,,,,
 3d3861,D-ETPH,Piper,PA-18-95 Super Cub,PA18,18-2006,L1P,,,,
 3d3866,D-ETPM,Piper,PA-28-161 Cadet,P28A,2841363,L1P,,,,
@@ -1925,12 +1986,18 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d3872,D-ETPY,Piper,PA-28-161 Cadet,P28A,2841365,L1P,,,,
 3d38b4,D-ETSM,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931200,L1P,,,,
 3d38be,D-ETSW,Piper,PA-32R-301 Saratoga SP,P32R,3213077,L1P,,,,
+3d38c8,D-ETTG,Piper,PA-46-310P Malibu,PA46,46-8508079,L1P,,,,
 3d38e2,D-ETUG,Piper,PA-25-235 Pawnee,PA25,25-2235,L1P,,,,
+3d3910,D-ETWA,Piper,PA-46-310P Malibu,PA46,46-8408014,L1P,,,,
 3d391c,D-ETWM,Piper,PA-28-181 Archer III,P28A,2843325,L1P,,,,
 3d3987,D-EUAP,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131166,L1P,,,,
 3d399d,D-EUBL,Piper,PA-18-150 Super Cub,PA18,18-5664,L1P,,,,
 3d39ce,D-EUDI,Piper,PA-32-300 Cherokee Six,PA32,32-7540169,L1P,,,,
 3d39d4,D-EUDO,Piper,PA-28-236 Dakota,P28B,28-7911111,L1P,,,,
+3d39d7,D-EUDR,Piper,PA-46-310P Malibu,PA46,4608040,L1P,,,,
+3d3ad0,D-EUNG,Piper,PA-46-350P Malibu Mirage,PA46,4636393,L1P,,,,
+3d3b44,D-EURS,Piper,PA-46-310P Malibu,PA46,4608093,L1P,,,,
+3d3b77,D-EUTR,Piper,PA-46-310P Malibu,PA46,4608045,L1P,,,,
 3d3ba1,D-EUVH,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4636345,L1T,,,,
 3d3ba6,D-EUVM,Piper,PA-28-161 Warrior II,P28A,28-7916119,L1P,,,,
 3d3c1f,D-EVAD,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703231,L1P,,,,
@@ -1939,6 +2006,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d3c5b,D-EVCL,Piper,PA-28-181 Archer III,P28A,2843654,L1P,,,,
 3d3c67,D-EVCX,Piper,PA-18-125 Super Cub,PA18,18-851,L1P,,,,
 3d3c6c,D-EVDC,Piper,PA-28R-200 Arrow,P28R,28R-7135126,L1P,,,,
+3d3c86,D-EVEC,Piper,PA-46-350P Malibu Mirage,PA46,4636266,L1P,,,,
 3d3c95,D-EVER,Piper,PA-46-500TP Malibu Meridian,P46T,4697105,L1T,COO,,,
 3d3caa,D-EVFM,Piper,PA-28-181 Archer II,P28A,28-8290063,L1P,,,,
 3d3cbf,D-EVGH,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931002,L1P,,,,
@@ -1948,11 +2016,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d3cee,D-EVIC,Piper,PA-28-181 Archer III,P28A,2843071,L1P,,,,
 3d3cef,D-EVID,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8331045,L1P,,,,
 3d3d21,D-EVKB,Piper,PA-28-181 Archer II,P28A,28-8390054,L1P,,,,
+3d3d26,D-EVKG,Piper,PA-46-310P Malibu,PA46,4608022,L1P,,,,
 3d3d48,D-EVLO,Piper,PA-18-150 Super Cub,PA18,18-7809173,L1P,,,,
 3d3d54,D-EVMA,Piper,PA-46-310P Malibu JetPROP,P46T,4608034,L1T,,,,
 3d3d5c,D-EVMI,Piper,PA-28R-200 Arrow II,P28R,28R-7535099,L1P,,,,
 3d3d5e,D-EVMK,Piper,PA-28-181 Archer III,P28A,2843053,L1P,,,,
 3d3d8d,D-EVOF,Piper,PA-28-181 Archer III,P28A,2843671,L1P,,,,
+3d3da2,D-EVPA,Piper,PA-46-350P Malibu Mirage,PA46,4622138,L1P,,,,
 3d3dfc,D-EVSM,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4622072,L1T,,,,
 3d3e0a,D-EVTA,Piper,PA-28-181 Archer III,P28A,2843033,L1P,,,,
 3d3e19,D-EVTP,Piper,PA-46-500TP Malibu Meridian,P46T,4697325,L1T,COO,,,
@@ -1968,9 +2038,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d416c,D-EXAI,Piper,PA-18-95 Super Cub,PA18,18-3184,L1P,,,,
 3d416f,D-EXAL,Piper,PA-28-181 Archer III,P28A,2843628,L1P,,,,
 3d4176,D-EXAS,Piper,PA-38-112 Tomahawk,PA38,38-80A0071,L1P,,,,
+3d4177,D-EXAT,Piper,PA-46-350P Malibu Mirage,PA46,4636368,L1P,,,,
 3d41d2,D-EXEG,Piper,PA-28-181 Archer II,P28A,28-7990445,L1P,,,,
 3d4259,D-EXJL,Piper,PA-18-95 Super Cub,PA18,18-2083,L1P,,,,
 3d4268,D-EXKA,Piper,PA-28-161 Warrior II,P28A,28-7816601,L1P,,,,
+3d42e3,D-EXOT,Piper,PA-46-310P Malibu,PA46,46-8508010,L1P,,,,
+3d42ed,D-EXPD,Piper,PA-46-350P Malibu Mirage,PA46,4636100,L1P,,,,
 3d42f8,D-EXPO,Piper,PA-28-181 Archer III,P28A,2843083,L1P,,,,
 3d4322,D-EXRE,Piper,PA-46-350P Malibu Mirage JetPROP,P46T,4636211,L1T,,,,
 3d4325,D-EXRH,Piper,PA-28R-180 Arrow,P28R,28R-30225,L1P,,,,
@@ -1979,6 +2052,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d43bb,D-EXXB,Piper,PA-28R-201 Arrow III,P28R,2837036,L1P,,,,
 3d43bc,D-EXXC,Piper,PA-28R-201 Arrow III,P28R,2837037,L1P,,,,
 3d43bd,D-EXXD,Piper,PA-28R-201 Arrow III,P28R,2837054,L1P,,,,
+3d4417,D-EYAP,Piper,PA-46-350P Malibu Mirage,PA46,4636003,L1P,,,,
 3d4469,D-EYDT,Piper,PA-38-112 Tomahawk,PA38,38-82A0108,L1P,,,,
 3d4541,D-EYMB,Piper,PA-28-161 Cadet,P28A,2841081,L1P,,,,
 3d458e,D-EYPA,Piper,PA-28-181 Archer III,P28A,2843035,L1P,,,,
@@ -1994,6 +2068,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d478d,D-EZIR,Piper,PA-32R-301 Saratoga SP,P32R,32R-8013120,L1P,,,,
 3d47f5,D-EZMR,Piper,PA-28-180 Cherokee,P28A,28-7305309,L1P,,,,
 3d481d,D-EZOF,Piper,PA-28-181 Archer II,P28A,28-7990236,L1P,,,,
+3d4832,D-EZPA,Piper,PA-46-350P Malibu Mirage,PA46,4622184,L1P,,,,
 3d4d4c,D-FBNG,Piper,PA-46-500TP Malibu Meridian,P46T,4697152,L1T,COO,,,
 3d5095,D-FCTP,Piper,PA-46-500TP Malibu Meridian,P46T,4697070,L1T,COO,,,
 3d5c3c,D-FHEI,Piper,PA-46-500TP Malibu Meridian,P46T,4697215,L1T,COO,,,
@@ -2250,6 +2325,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400aeb,G-DJJA,Piper,PA-28-181 Archer II,P28A,28-8490014,L1P,,2007-08-25,,1984-01-01
 400aec,G-ARJT,Piper,PA-23-160 Apache,PA23,23-1981,L2P,,2013-04-10,,1962-01-01
 400aef,G-FAVS,Piper,PA-32-300 Cherokee Six,PA32,32-7540091,L1P,,2017-08-04,,1975-01-01
+400af4,G-DNOP,Piper,PA-46-350P Malibu Mirage,PA46,4636303,L1P,,2000-07-26,,2000-01-01
 400b06,G-GOTH,Piper,PA-28-161 Warrior III,P28A,2842208,L1P,,2013-01-09,,2004-01-01
 400b0e,G-DENI,Piper,PA-32-300 Cherokee Six,PA32,32-7340006,L1P,,1998-07-15,,1972-01-01
 400b0f,G-CSIX,Piper,PA-32-300 Cherokee Six,PA32,32-7840030,L1P,,2005-04-12,,1978-01-01
@@ -2303,6 +2379,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400c2c,G-CBAL,Piper,PA-28-161 Warrior II,P28A,28-8116087,L1P,,2014-05-01,,1981-01-01
 400c2d,G-BNMB,Piper,PA-28-151 Cherokee Warrior,P28A,28-7615369,L1P,,2016-08-16,,1976-01-01
 400c2e,G-UAVA,Piper,PA-30-160 Twin Comanche B,PA30,30-1413,L2P,,2003-10-08,,1967-01-01
+400c31,G-DIPM,Piper,PA-46-350P Malibu Mirage,PA46,4636325,L1P,,2012-01-12,,2002-01-01
 400c51,G-AVNU,Piper,PA-28-180 Cherokee,P28A,28-4153,L1P,,1991-11-11,,1967-01-01
 400c56,G-TERY,Piper,PA-28-181 Archer II,P28A,28-7990078,L1P,,2002-04-19,,1978-01-01
 400c5f,G-ECJM,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7803178,L1P,,1992-03-12,,1978-01-01
@@ -2334,6 +2411,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400cfb,G-JMMY,Piper,PA-28R-200 Arrow,P28R,28R-7135049,L1P,,2012-03-30,,1971-01-01
 400d0c,G-DHMM,Piper,PA-34-200T Seneca II,PA34,34-7770062,L2P,,2015-03-19,,1976-01-01
 400d0d,G-BCVY,Piper,PA-34-200T Seneca II,PA34,34-7570022,L2P,,2015-01-08,,1974-01-01
+400d14,G-GREY,Piper,PA-46-350P Malibu Mirage,PA46,4636155,L1P,,2006-12-22,,1998-01-01
 400d15,G-BDUN,Piper,PA-34-200T Seneca II,PA34,34-7570163,L2P,,2005-12-01,,1975-01-01
 400d29,G-BLFI,Piper,PA-28-181 Archer II,P28A,28-8490034,L1P,,2014-06-13,,1984-01-01
 400d2b,G-BBHF,Piper,PA-23-250 Aztec,PA27,27-7305166,L2P,,2016-07-01,,1973-01-01
@@ -3791,12 +3869,15 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 405a8c,G-JMOS,Piper,PA-34-220T Seneca V,PA34,3449378,L2P,,2010-11-02,,2008-01-01
 405b74,G-FCSL,Piper,PA-31-350 Chieftain,PA31,31-7852052,L2P,,2008-04-18,,1972-01-01
 405c09,G-SWAY,Piper,PA-18-95 Super Cub,PA18,18-6039,L1P,,2014-06-09,,1957-01-01
+405c61,G-PTEA,Piper,PA-46-350P Malibu Mirage,PA46,4636327,L1P,,2017-06-15,,2002-01-01
 405c80,G-MHAR,Piper,PA-42-720 Cheyenne Iiia,PAY3,42-5501020,L2T,,2008-07-29,,1984-01-01
 405d54,G-ECMK,Piper,PA-18-150 Super Cub,PA18,18-8209022,L1P,,2013-02-05,,1982-01-01
 405e25,G-RRED,Piper,PA-28-181 Archer III,P28A,2843673,L1P,,2008-09-04,,2008-01-01
 405e38,G-FINT,Piper,L-4B Grasshopper,J3,9444,L1P,,2008-12-05,,1942-01-01
 405eab,G-DTCP,Piper,PA-32R-300 Lance,P32R,32R-7780255,L1P,,2009-02-11,,1977-01-01
+405ed6,G-TFAM,Piper,PA-46R-350T Matrix,PA46,4692068,L1P,,2015-06-23,,2008-01-01
 405eeb,G-CFMX,Piper,PA-28-161 Warrior II,P28A,28-8316073,L1P,STL,2008-11-03,,1983-01-01
+405f7a,G-MXMX,Piper,PA-46R-350T Matrix,PA46,4692088,L1P,,2009-07-13,,2008-01-01
 405fab,G-COSF,Piper,PA-28-161 Warrior II,P28A,28-7716215,L1P,,2009-06-05,,1978-01-01
 406118,G-ZPPY,Piper,L-18C Super Cub,PA18,18-2065,L1P,,2016-09-12,,1953-01-01
 4061af,G-DKTA,Piper,PA-28-236 Dakota,P28B,28-8011089,L1P,,2009-10-16,,1980-01-01
@@ -3893,6 +3974,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 407419,G-GUAR,Piper,PA-28-161 Warrior II,P28A,28-7816576,L1P,,2017-09-07,,1978-01-01
 407425,G-KITO,Piper,PA-24-260 Comanche,PA24,24-4386,L1P,,2017-09-08,,1968-01-01
 40745c,G-UNAC,Piper,PA-32R-301T Saratoga II TC,P32R,3257422,L1P,,2017-09-28,,2006-01-01
+4075f9,G-JTBP,Piper,PA-46-350P Malibu Mirage,PA46,4636724,L1P,,2018-05-18,,2018-01-01
 43c5c8,ZF622,Piper,PA-31-350 Chieftain,PA31,31-8052033,L2P,,,,
 43e73c,M-OPED,Piper,PA-32-301XTC 6XT,PA32,3255029,L1P,,,,
 43e7f3,M-NLYY,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527010,L2T,,,,
@@ -3945,11 +4027,13 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44044b,OE-KSM,Piper,PA-28-161 Warrior II,P28A,28-41012,L1P,,,,
 440462,OE-KMM,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8531005,L1P,,,,
 44047c,OE-DRN,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918050,L1P,,,,
+44048f,OE-KGC,Piper,PA-46-350P Malibu Mirage,PA46,4636418,L1P,,,,
 440493,OE-FIS,Piper,PA-31T Cheyenne I,PAY1,31T-1104015,L2T,,,,
 4404c5,OE-KES,Piper,PA-28R-201T Turbo Arrow III,P28S,2803007,L1P,,,,
 4404e4,OE-DKT,Piper,PA-28-181 Archer II,P28A,28-7890244,L1P,,,,
 440517,OE-DSN,Piper,PA-28R-201 Arrow III,P28R,28R-7737118,L1P,,,,
 440537,OE-DNR,Piper,PA-28R-200 Arrow,P28R,28R-7435111,L1P,,,,
+440629,OE-APW,Piper,PA-18-150 Super Cub,PA18,18-8672,L1P,,,,
 44069e,OE-DIT,Piper,PA-32-260 Cherokee Six,PA32,32-582,L1P,,,,
 4406a5,OE-AIO,Piper,PA-18-180 Super Cub,PA18,18-8115,L1P,,,,
 4406b4,OE-DPF,Piper,PA-28-140 Cherokee,P28A,28-7125242,L1P,,,,
@@ -3996,6 +4080,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 449981,OO-FLA,Piper,PA-28-140 Cherokee F,P28A,28-7625105,L1P,,,,
 449993,OO-FLS,Piper,PA-32-300 Cherokee Six,PA32,32-7940074,L1P,,,,
 449997,OO-FLW,Piper,PA-18-95 Super Cub,PA18,18-1562,L1P,,,,
+4499f8,OO-FOX,Piper,PA-46-350P Malibu Mirage,PA46,4636570,L1P,,,,
 449c85,OO-GDE,Piper,PA-18-100 Super Cub,PA18,18-3106,L1P,,,,
 449cac,OO-GEL,Piper,J-3C-85 Cub,J3,12682,L1P,,,,
 449d0d,OO-GHM,Piper,PA-34-220T Seneca III,PA34,34-8133021,L2P,,,,
@@ -4012,6 +4097,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44a822,OO-JAB,Piper,PA-28-161 Warrior III,P28A,2842275,L1P,,,,
 44a82b,OO-JAK,Piper,PA-22-150 Tri-Pacer,PA22,22-7640,L1P,,,,
 44a86d,OO-JCM,Piper,PA-28-181 Archer II,P28A,28-7990499,L1P,,,,
+44a882,OO-JDB,Piper,PA-46R-350T Matrix,PA46,4692123,L1P,,,,
 44a8b4,OO-JET,Piper,PA-28-161 Warrior III,P28A,2842282,L1P,,,,
 44a8e1,OO-JGA,Piper,PA-28-181 Archer II,P28A,28-8090313,L1P,,,,
 44a9a3,OO-JMC,Piper,PA-28-181 Archer II,P28A,28-7990550,L1P,,,,
@@ -4278,6 +4364,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 45b674,OY-MST,Piper,PA-31-310 Navajo B,PA31,31-7300967,L2P,,,,
 45b906,OY-NHF,Piper,PA-28-161 Warrior II,P28A,28-8316072,L1P,,,,
 45b933,OY-NIS,Piper,PA-28-181 Archer II,P28A,2843442,L1P,,,,
+45bd94,OY-OLT,Piper,PA-46R-350T Matrix,PA46,4692202,L1P,,,,
 45bec4,OY-OVD,Piper,PA-34-220T Seneca IV,PA34,3447015,L2P,,,,
 45c081,OY-PDA,Piper,PA-28-181 Archer III,P28A,2843822,L1P,,,,
 45c089,OY-PDI,Piper,PA-28-181 Archer III,P28A,2843815,L1P,,,,
@@ -4302,6 +4389,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 45ce97,OY-STW,Piper,PA-28-235 Cherokee,P28B,28-10363,L1P,,,,
 45cec3,OY-SVC,Piper,PA-31-310 Navajo B,PA31,31-722,L2P,,,,
 45d049,OY-TBI,Piper,PA-28-161 Warrior II,P28A,28-8016014,L1P,,,,
+45d0a9,OY-TEI,Piper,PA-46-350P Malibu Mirage,PA46,4636660,L1P,,,,
 45d0cb,OY-TFK,Piper,PA-28-151 Cherokee Warrior,P28A,28-7415339,L1P,,,,
 45d10f,OY-THO,Piper,PA-32RT-300T Turbo Lance II,P32T,32R-7987019,L1P,,,,
 45d130,OY-TIP,Piper,PA-34-220T Seneca V,PA34,3449074,L2P,,,,
@@ -4437,6 +4525,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 463307,OH-TIL,Piper,PA-28-161 Warrior II,P28A,28-8216173,L1P,,,,
 46842c,SX-AAL,Piper,PA-32-301T Turbo Saratoga,PA32,32-8124004,L1P,,,,
 46844b,SX-ABK,Piper,PA-28R-180 Arrow,P28R,28R-30319,L1P,,,,
+46844c,SX-ABL,Piper,PA-46-350P Malibu Mirage,PA46,4636020,L1P,,,,
 46845a,SX-ABZ,Piper,PA-28-151 Cherokee Warrior,P28A,28-7615333,L1P,,,,
 46846e,SX-ACN,Piper,PA-28R-200 Arrow II,P28R,28R-7435266,L1P,,,,
 468474,SX-ACT,Piper,PA-28R-200 Arrow II,P28R,28R-7435103,L1P,,,,
@@ -4492,6 +4581,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 469883,SX-FDC,Piper,PA-31T Cheyenne,PAY1,31T-7720063,L2T,,,,
 46b8e1,SX-NGA,Piper,PA-34-200T Seneca II,PA34,34-8070213,L2P,,,,
 46d038,SX-TAX,Piper,PA-31-350 Chieftain,PA31,31-7852160,L2P,,,,
+470197,HA-APR,Piper,PA-46-310P Malibu,PA46,46-8408030,L1P,,,,
 470da7,HA-FEL,Piper,PA-34-200T Seneca II,PA34,34-7770047,L2P,,,,
 470e05,HA-FIB,Piper,PA-34-220T Seneca III,PA34,34-8133015,L2P,,,,
 47191e,HA-JNI,Piper,PA-38-112 Tomahawk,PA38,38-80A0036,L1P,,,,
@@ -4680,6 +4770,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48496c,PH-KNF,Piper,PA-18-135 Super Cub,PA18,18-3826,L1P,,,,
 48498a,PH-WDR,Piper,PA-18-135 Super Cub,PA18,18-3852,L1P,,,,
 4849ab,PH-ZVC,Piper,PA-18-135 Super Cub,PA18,18-3855,L1P,,,,
+4849bf,PH-ROD,Piper,PA-46-350P Malibu Mirage,PA46,4636443,L1P,,,,
 484a57,PH-TZC,Piper,PA-18-135 Super Cub,PA18,18-3839,L1P,,,,
 484aba,PH-JAC,Piper,PA-28-161 Warrior II,P28A,28-8416130,L1P,,,,
 484abb,PH-TYD,Piper,PA-28-140 Cherokee F,P28A,28-7325421,L1P,,,,
@@ -4721,6 +4812,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 485ac8,PH-CUB,Piper,PA-18-150 Super Cub,PA18,18-4264,L1P,,,,
 488000,SP-AAA,Piper,PA-46-500TP Malibu Meridian,P46T,4697349,L1T,,,,
 48810c,SP-AIM,Piper,PA-28R-200 Arrow II,P28R,28R-7435174,L1P,,,,
+488971,SP-CLS,Piper,PA-46-350P Malibu Mirage,PA46,4636452,L1P,,,,
 488d88,SP-DMI,Piper,PA-28R-200 Arrow II,P28R,28R-7535328,L1P,,,,
 488d94,SP-DMW,Piper,PA-34-220T Seneca V,PA34,3449129,L2P,,,,
 489300,SP-EVA,Piper,PA-46-500TP Malibu Meridian,P46T,4697621,L1T,COO,,,
@@ -4735,18 +4827,24 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48a528,SP-KKI,Piper,PA-31-310 Navajo,PA31,31-540,L2P,,,,
 48a52a,SP-KKK,Piper,PA-32-300 Cherokee Six,PA32,32-7940142,L1P,,,,
 48a591,SP-KMS,Piper,PA-34-200T Seneca II,PA34,34-7570245,L2P,,,,
+48a5b2,SP-KNT,Piper,PA-46-350P Malibu Mirage,PA46,4622099,L1P,,,,
 48a635,SP-KSZ,Piper,PA-34-220T Seneca V,PA34,3449327,L2P,,,,
 48a652,SP-KTT,Piper,PA-28-181 Archer III,P28A,2843597,L1P,,,,
 48b102,SP-MIC,Piper,PA-28R-200 Arrow II,P28R,28R-7335100,L1P,,,,
 48b111,SP-MIS,Piper,PA-44-180T Turbo Seminole,PA44,44-8107003,L2P,,,,
 48b194,SP-MMW,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8329022,L1P,,,,
 48b200,SP-MRA,PZL-Mielec,M-20 Mewa,PA34,1AH002-03,L2P,,,,
+48b415,SP-NAZ,Piper,PA-46-350P Malibu Mirage,PA46,4636483,L1P,,,,
 48b4c9,SP-NGK,Piper,PA-32R-301T Saratoga II TC,P32R,3257460,L1P,,,,
 48b525,SP-NKF,Piper,PA-34-220T Seneca V,PA34,3449360,L2P,,,,
+48b529,SP-NKK,Piper,PA-46-350P Malibu Mirage,PA46,4622051,L1P,,,,
 48b562,SP-NLC,Piper,PA-46-500TP Malibu Meridian,P46T,4697597,L1T,,,,
 48b5ad,SP-NNN,Piper,PA-32R-301T Saratoga II TC,P32R,3257484,L1P,,,,
+48b5e0,SP-NPA,Piper,PA-46-350P Malibu Mirage,PA46,4636499,L1P,,,,
 48b611,SP-NRS,Piper,PA-32R-301T Saratoga II TC,P32R,3257471,L1P,,,,
 48b632,SP-NST,Piper,PA-34-220T Seneca V,PA34,3449372,L2P,,,,
+48b652,SP-NTT,Piper,PA-46-350P Malibu Mirage,PA46,4636576,L1P,,,,
+48b658,SP-NTV,Piper,PA-46-350P Malibu Mirage,PA46,4636426,L1P,,,,
 48b9c8,SP-OOI,Piper,PA-31-350 Chieftain,PA31,31-8152010,L2P,,,,
 48ba40,SP-OTA,Piper,PA-34-220T Seneca V,PA34,3449325,L2P,,,,
 48c932,SP-TKT,Piper,PA-34-220T Seneca V,PA34,3449350,L2P,,,,
@@ -4827,6 +4925,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49b0c3,OK-LFC,Piper,PA-34-200 Seneca,PA34,34-7250312,L2P,,,,
 49c279,OK-PSY,Piper,PA-32R-300 Lance,P32R,32R-7680073,L1P,,,,
 49d01a,OK-POL,Piper,PA-28R-200 Arrow II,P28R,28R-7235230,L1P,,,,
+49d021,OK-KLM,Piper,PA-46R-350T Matrix,PA46,4692140,L1P,,,,
 49d022,OK-OKL,Piper,PA-42 Cheyenne III,PAY3,42-8001060,L2T,,,,
 49d029,OK-DSP,Piper,PA-34-220T Seneca IV,PA34,3447003,L2P,,,,
 49d031,OK-FCI,Piper,PA-32-301FT 6X,PA32,3232051,L1P,,,,
@@ -4839,6 +4938,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d0ab,OK-MMG,Piper,PA-34-220T Seneca III,PA34,34-8433025,L2P,,,,
 49d0b2,OK-IFR,Piper,PA-28-181 Archer II,P28A,28-8290131,L1P,,,,
 49d0b5,OK-MPM,Piper,PA-42-720 Cheyenne IIIA,PAY3,42-5501005,L2T,,,,
+49d0cd,OK-ALF,Piper,PA-46-350P Malibu Mirage,PA46,4622068,L1P,,,,
 49d0e6,OK-ALY,Piper,PA-34-200T Seneca II,PA34,34-7670017,L2P,,,,
 49d0f9,OK-FLT,Piper,PA-46-500TP Malibu Meridian,P46T,4697378,L1T,,,,
 49d10d,OK-MAN,Piper,PA-28RT-201 Arrow IV,P28T,28R-8018101,L1P,,,,
@@ -4851,6 +4951,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d192,OK-CNC,Piper,PA-28-180 Cherokee D,P28A,28-5029,L1P,,,,
 49d1a3,OK-CRO,Piper,PA-46-500TP Malibu Meridian,P46T,4697428,L1T,,,,
 49d1ab,OK-PWR,Piper,PA-28R-201T Turbo Arrow III,P28S,2803005,L1P,,,,
+49d1c3,OK-VSP,Piper,PA-46-350P Malibu Mirage,PA46,4636648,L1P,,,,
 49d23f,OK-PMD,Piper,PA-46-500TP Malibu Meridian,P46T,4697591,L1T,,,,
 49d248,OK-PMB,Piper,PA-46-500TP Malibu Meridian,P46T,4697533,L1T,,,,
 49d24a,OK-OKS,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527022,L2T,,,,
@@ -4864,6 +4965,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d275,OK-LTB,Piper,PA-34-200T Seneca II,PA34,34-8070053,L2P,,,,
 49d28c,OK-SDK,Piper,PA-28-180 Cherokee B,P28A,28-1710,L1P,,,,
 49d28e,OK-ALT,Piper,PA-46-500TP Malibu Meridian,P46T,4697466,L1T,,,,
+49d29a,OK-SMT,Piper,PA-46-350P Malibu Mirage,PA46,4622099,L1P,,,,
 49d2b6,OK-MRT,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8531015,L1P,,,,
 49d2d5,OK-ELL,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8031104,L1P,,,,
 49d2de,OK-GKO,Piper,PA-28R-200 Arrow II,P28R,28R-7635119,L1P,,,,
@@ -4871,6 +4973,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d2ee,OK-PMA,Piper,PA-46-500TP Malibu Meridian,P46T,4697504,L1T,,,,
 49d30b,OK-SAN,Piper,PA-34-220T Seneca III,PA34,34-8333060,L2P,,,,
 49d30c,OK-LLL,Piper,PA-46-500TP Malibu Meridian,P46T,4697483,L1T,,,,
+49d328,OK-PVN,Piper,PA-46-350P Malibu Mirage,PA46,4636655,L1P,,,,
 49d335,OK-OKV,Piper,PA-42 Cheyenne III,PAY3,42-8001011,L2T,,,,
 49d35f,OK-FAA,Piper,PA-44-180 Seminole,PA44,44-7995327,L2P,,,,
 49d36c,OK-CHT,Piper,PA-18-150 Super Cub,PA18,18-7809167,L1P,,,,
@@ -4878,6 +4981,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d383,OK-PMF,Piper,PA-46-500TP Malibu Meridian,P46T,4697604,L1T,,,,
 49d384,OK-LIA,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703294,L1P,,,,
 49d39c,OK-JUD,Piper,PA-28-181 Archer II,P28A,2890188,L1P,,,,
+49d3a5,OK-STN,Piper,PA-46-350P Malibu Mirage,PA46,4636698,L1P,,,,
+49d3b0,OK-EJS,Piper,PA-46-350P Malibu Mirage,PA46,4636460,L1P,,,,
 49d3df,OK-PMH,Piper,PA-46-600TP,M600,4698040,L1T,,,,
 49da4b,OK-VRK,Piper,PA-28-180 Cherokee,P28A,28-7305399,L1P,,,,
 4a0465,YR-ACE,Piper,PA-32-260 Cherokee Six,PA32,32-499,L1P,,,,
@@ -4979,6 +5084,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aa695,SE-ITU,Piper,PA-31-310 Navajo C,PA31,31-8012085,L2P,UNY,,,
 4aa699,SE-ITY,Piper,PA-25-235 Pawnee,PA25,25-2657,L1P,,,,
 4aa6a4,SE-IUD,Piper,PA-28-181 Archer II,P28A,2890065,L1P,,,,
+4aa6a5,SE-IUE,Piper,PA-46-310P Malibu,PA46,4608118,L1P,,,,
 4aa6a6,SE-IUF,Piper,PA-28-181 Archer II,P28A,2890069,L1P,,,,
 4aa6cd,SE-IVM,Piper,PA-25-235 Pawnee B,PA25,25-3577,L1P,,,,
 4aa6cf,SE-IVO,Piper,PA-18-150 Super Cub,PA18,18-2054,L1P,,,,
@@ -5020,6 +5126,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aaf54,SE-KZT,Piper,PA-32R-301 Saratoga SP,P32R,32R-8213012,L1P,,,,
 4ab029,SE-LAI,Piper,PA-28RT-201 Arrow IV,P28T,28R-7918021,L1P,,,,
 4ab061,SE-LCA,Piper,PA-34-220T Seneca IV,PA34,3448007,L2P,,,,
+4ab079,SE-LCY,Piper,PA-46-310P Malibu,PA46,4608016,L1P,,,,
 4ab095,SE-LDU,Piper,PA-28-181 Archer III,P28A,2843237,L1P,,,,
 4ab099,SE-LDY,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-7931198,L1P,,,,
 4ab0e7,SE-LGG,Piper,PA-34-200T Seneca II,PA34,34-8070021,L2P,,,,
@@ -5085,6 +5192,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b1f17,HB-LUD,Piper,PA-60-700P Aerostar,AEST,60-8423010,L2P,,2006-06-15,,1984-01-01
 4b1f19,HB-LUF,Piper,PA-31T Cheyenne II,PAY2,31T-8120015,L2T,,2007-07-31,,1981-01-01
 4b1f24,HB-LUQ,Piper,PA-31T Cheyenne II,PAY2,31T-8120056,L2T,,,,
+4b1f97,HB-LZB,Piper,PA-46-310P Malibu,PA46,46-8508091,L1P,,,,
 4b24fe,HB-OAG,Piper,J-3C-65 Cub,J3,12847,L1P,,1948-10-28,,1944-01-01
 4b2507,HB-OAP,Piper,PA-12 Super Cruiser,PA12,12-2245,L1P,,1947-07-09,,1947-01-01
 4b2513,HB-OBB,Piper,J-3C-65 Cub,J3,9945,L1P,,,,
@@ -5310,6 +5418,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b288a,HB-PJE,Piper,PA-32R-301 Saratoga II HP,P32R,3246223,L1P,,2015-10-19,,2004-01-01
 4b288b,HB-PJF,Piper,PA-32R-301T Saratoga II TC,P32R,3257050,L1P,,2017-07-10,,1998-01-01
 4b2895,HB-PJP,Piper,PA-28-181 Archer II,P28A,2890183,L1P,,2015-05-13,,1993-01-01
+4b289c,HB-PJW,Piper,PA-46-310P Malibu,PA46,4608128,L1P,,2010-06-15,,1988-01-01
+4b28a2,HB-PKC,Piper,PA-46-310P Malibu,PA46,46-8608033,L1P,,1986-07-21,,1986-01-01
+4b28a3,HB-PKD,Piper,PA-46-310P Malibu,PA46,46-8608028,L1P,,1986-08-11,,1986-01-01
 4b28a4,HB-PKE,Piper,PA-28-181 Archer II,P28A,28-90087,L1P,,1999-01-15,,1988-01-01
 4b28a5,HB-PKF,Piper,PA-28-236 Dakota,P28B,2811004,L1P,,1986-11-20,,1986-01-01
 4b28a6,HB-PKG,Piper,PA-28-181 Archer II,P28A,2890008,L1P,,1986-10-28,,1986-01-01
@@ -5323,6 +5434,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b28b5,HB-PKV,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8331039,L1P,,1987-05-18,,1983-01-01
 4b28b7,HB-PKX,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8331032,L1P,,1987-07-16,,1983-01-01
 4b28bc,HB-PLC,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8231056,L1P,,1987-10-16,,1982-01-01
+4b28bd,HB-PLD,Piper,PA-46-310P Malibu,PA46,4608123,L1P,,1988-06-17,,1988-01-01
+4b28be,HB-PLE,Piper,PA-46-310P Malibu,PA46,4608121,L1P,,1988-06-08,,1988-01-01
 4b28bf,HB-PLF,Piper,PA-28-236 Dakota,P28B,2811017,L1P,,,,
 4b28c0,HB-PLG,Piper,PA-18-150 Super Cub,PA18,18-7949,L1P,,1999-03-24,,1963-01-01
 4b28c2,HB-PLI,Piper,PA-28-181 Archer II,P28A,2890063,L1P,,,,
@@ -5365,6 +5478,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b2913,HB-POL,Piper,PA-28-181 Archer II,P28A,28-8490016,L1P,,1991-11-06,,1983-01-01
 4b2915,HB-PON,Piper,PA-24-260 Comanche,PA24,24-4868,L1P,,1991-07-24,,1969-01-01
 4b2916,HB-POO,Piper,PA-28-181 Archer II,P28A,2890020,L1P,,,,
+4b2917,HB-POP,Piper,PA-46-350P Malibu Mirage,PA46,4622077,L1P,,1994-12-15,,1989-01-01
 4b2918,HB-POQ,Piper,J-3C-65 Cub,J3,17650,L1P,,1993-04-06,,1946-01-01
 4b2919,HB-POR,Piper,PA-28-236 Dakota,P28B,28-8011056,L1P,,1991-10-28,,1980-01-01
 4b291c,HB-POU,Piper,PA-18-150 Super Cub,PA18,18-5731,L1P,,1992-04-24,,1957-01-01
@@ -5375,6 +5489,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b2925,HB-PPD,Piper,PA-24-260 Comanche,PA24,24-5016,L1P,,1995-03-28,,1972-01-01
 4b2927,HB-PPF,Piper,PA-28-161 Warrior II,P28A,2842011,L1P,,1996-03-15,,1996-01-01
 4b2928,HB-PPG,Piper,PA-28-161 Warrior II,P28A,2842012,L1P,,1996-04-19,,1996-01-01
+4b2929,HB-PPH,Piper,PA-46-350P Malibu Mirage,PA46,4636045,L1P,,,,
 4b292b,HB-PPJ,Piper,PA-18-150 Super Cub,PA18,18-5342,L1P,,1998-05-14,,1957-01-01
 4b292c,HB-PPK,Piper,PA-28-181 Archer II,P28A,2843084,L1P,,1997-06-03,,1997-01-01
 4b292d,HB-PPL,Piper,PA-18-150 Super Cub,PA18,18-7299,L1P,,1996-07-17,,1960-01-01
@@ -5404,6 +5519,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b2957,HB-PRB,Piper,PA-18-150 Super Cub,PA18,18-8063,L1P,,2012-06-15,,1963-01-01
 4b2959,HB-PRD,Piper,PA-32R-301T Saratoga II TC,P32R,3257364,L1P,,2009-05-25,,2004-01-01
 4b295e,HB-PRI,Piper,PA-28-181 Archer II,P28A,2843385,L1P,,2009-08-19,,2000-01-01
+4b2960,HB-PRK,Piper,PA-46-350P Malibu Mirage,PA46,4636205,L1P,,2017-05-12,,1999-01-01
 4b2961,HB-PRL,Piper,PA-28-161 Warrior II,P28A,2842292,L1P,,2011-09-09,,2007-01-01
 4b2962,HB-PRM,Piper,PA-28-181 Archer II,P28A,2890128,L1P,,2008-11-18,,1989-01-01
 4b2963,HB-PRN,Piper,PA-46-500TP Malibu Meridian,P46T,4697437,L1T,,2013-03-18,,2010-01-01
@@ -5415,10 +5531,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b2976,HB-PSG,Piper,PA-28-181 Archer II,P28A,2843454,L1P,,2016-08-31,,2001-01-01
 4b2977,HB-PSH,Piper,PA-46-500TP Malibu Meridian,P46T,4697143,L1T,,2013-04-19,,2002-01-01
 4b297a,HB-PSK,Piper,PA-46-350P Malibu Mirage,P46,4636429,L1P,,2014-02-12,,2007-01-01
+4b297c,HB-PSM,Piper,PA-46-350P Malibu Mirage,PA46,4636522,L1P,,,,
 4b2983,HB-PST,Piper,PA-46-350P Malibu Mirage,P46,4636142,L1P,,2013-04-16,,1998-01-01
 4b2995,HB-PTL,Piper,PA-28-161 Warrior II,P28A,2816101,L1P,,,,
 4b2996,HB-PTM,Piper,PA-32R-301T Turbo Saratoga SP,P32R,32R-8529007,L1P,,2013-02-19,,1985-01-01
 4b299c,HB-PTS,Piper,PA-46-500TP Malibu Meridian,P46T,4697469,L1T,,2015-07-01,,2011-01-01
+4b299e,HB-PTU,Piper,PA-46-350P Malibu Mirage,PA46,46-36094,L1P,,2015-05-15,,1997-01-01
 4b8423,TC-AAC,Piper,L-21B Super Cub,PA18,18-2598,L1P,,,,
 4b846f,TC-ACO,Piper,PA-28-180 Cherokee C,P28A,28-2553,L1P,,,,
 4b84e5,TC-AGE,Piper,PA-46-500TP Malibu Meridian,P46T,4697057,L1T,TOP,,,
@@ -5667,6 +5785,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 739414,4X-CBN,Piper,PA-31P-425 Pressurised Navajo,PA31,31P-7400189,L2P,,,,
 73941b,4X-CBE,Piper,PA-23-250 Aztec E,PA27,27-7554020,L2P,,,,
 73941e,4X-CIG,Piper,PA-31-325 Navajo C/R,PA31,31-7512034,L2P,,,,
+739422,4X-CYS,Piper,PA-46R-350T Matrix,PA46,4692100,L1P,,,,
 739424,4X-CIA,Piper,PA-23-250 Aztec F,PA27,27-7654119,L2P,,,,
 739427,4X-CXK,Piper,PA-32R-300 Lance,P32R,32R-7680151,L1P,,,,
 73942c,4X-AQM,Piper,PA-32R-300 Lance,P32R,32R-7780257,L1P,,,,
@@ -5680,6 +5799,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7394fe,4X-AKZ,Piper,PA-18-150 Super Cub,PA18,18-8309011,L1P,,,,
 73955c,4X-APX,Piper,PA-32RT-300T Turbo Lance II,P32T,32R-7987040,L1P,,,,
 748045,OD-AHS,Piper,PA-46-500TP Malibu Meridian,P46T,4697389,L1T,,,,
+7c0034,VH-ABQ,Piper,PA-28-236 Dakota,P28B,28-8611001,L1P,,,,1985-01-01
 7c00be,VH-AFK,Piper,PA-46-500TP Malibu Meridian,P46T,4697190,L1T,,,,
 7c02e1,VH-AUR,Piper,PA-28-161 Warrior II,P28A,28-7916344,L1P,,,,1979-01-01
 7c0616,VH-BHK,Piper,PA-28-181 Archer II,P28A,2843281,L1P,,,,1999-01-01
@@ -5692,15 +5812,21 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c07f6,VH-BUW,Piper,PA-42 Cheyenne III,PAY3,42-8001047,L2T,,,,1980-01-01
 7c0dac,VH-CZI,Piper,PA-44-180 Seminole,PA44,4496217,L2P,,2006-05-24,,2005-01-01
 7c0fd0,VH-DEQ,Piper,PA-31-310 Navajo C,PA31,31-8012091,L2P,,,,1980-01-01
+7c1c10,VH-FTU,Piper,PA-28-161 Warrior II,P28A,28-7916592,L1P,,,,1979-01-01
 7c24bb,VH-HJH,Piper,PA-31-350 Chieftain,PA31,31-7752127,L2P,,,,1977-01-01
+7c25b8,VH-HQI,Piper,PA-28-161 Warrior,P28A,28-7816319,L1P,,,,1978-01-01
 7c269c,VH-HWU,Piper,PA-34-200T Seneca II,PA34,34-7970500,L2P,,2016-05-12,,1979-01-01
+7c26fe,VH-HZK,Piper,PA-44-180 Seminole,PA44,44-7995044,L2P,,,,1979-01-01
 7c2da9,VH-JAZ,Piper,PA-28-161 Warrior II,P28A,28-8416131,L1P,,,,1984-01-01
 7c2e01,VH-JDF,Piper,PA-44-180 Seminole,PA44,44-7995304,L2P,,2020-10-27,,1979-01-01
+7c2e11,VH-JDV,Piper,PA-28-181 Archer II,P28A,28-7690111,L1P,,,,1976-01-01
 7c33d8,VH-KIY,Piper,PA-31-350 Chieftain,PA31,31-7952061,L2P,,1979-05-24,,1979-01-01
 7c3507,VH-KRD,Piper,PA-28-181 Archer II,P28A,2843050,L1P,,2012-09-20,,1996-01-01
 7c3f3b,VH-MRX,Piper,PA-28-181 Archer II,P28A,28-7990397,L1P,,1980-03-13,,1979-01-01
+7c400f,VH-MXT,Piper,PA-28R-200 Cherokee Arrow II,P28R,28R-7535197,L1P,,,,1975-01-01
 7c4050,VH-MZM,Piper,PA-31-350 Chieftain,PA31,31-8152187,L2P,,,,1981-01-01
 7c434e,VH-NKW,Piper,PA-46-500TP Malibu Meridian,P46T,4697335,L1T,,,,2007-01-01
+7c4434,VH-NRA,Piper,PA-28-161 Warrior II,P28A,28-42214,L1P,,,,2004-01-01
 7c4437,VH-NRD,Piper,PA-28-181 Archer II,P28A,2843111,L1P,,,,1997-01-01
 7c4443,VH-NRP,Piper,PA-28-181 Archer II,P28A,28-43365,L1P,,,,2000-01-01
 7c444d,VH-NRZ,Piper,PA-28-181 Archer II,P28A,2843051,L1P,,2011-06-08,,1996-01-01
@@ -5713,6 +5839,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c4b4b,VH-OKD,Piper,PA-32R-301 Saratoga SP,P32R,32R-8013026,L1P,,,,1979-01-01
 7c4c01,VH-PAR,Piper,PA-28R-201 Arrow III,P28R,2844142,L1P,,2010-07-16,,2010-01-01
 7c4d61,VH-PKJ,Piper,PA-31T Cheyenne II,PAY2,31T-7920002,L2T,,,,1979-01-01
+7c4e1d,VH-PPR,Piper,PA-28-181 Archer II,P28A,28-90206,L1P,,,,1994-01-01
 7c4f79,VH-PZF,Piper,PA-28-181 Archer II,P28A,28-7790489,L1P,,2018-02-28,,1977-01-01
 7c5b51,VH-SBN,Piper,PA-31-350 Chieftain,PA31,31-7305070,L2P,,2018-06-19,,1973-01-01
 7c6258,VH-TPM,Piper,PA-46-500TP Malibu Meridian,P46T,4697089,L1T,,,,
@@ -5736,6 +5863,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 8405c7,JA01KH,Piper,PA-46-500TP Malibu Meridian,P46T,4697607,L1T,,,,
 a00188,N1RQ,Piper,PA-46-500TP Malibu Meridian,P46T,4697112,L1T,,,2022-04-30,
 a0029e,N10CS,Piper,PA-31T Cheyenne I,PAY1,31T-8004001,L2T,,,2023-02-28,1980-01-01
+a002b0,N10DK,Piper,PA-46-350P Malibu Mirage,PA46,4636223,L1P,,,2023-07-31,1999-01-01
 a003fd,N10ST,Piper,PA-46-500TP Malibu Meridian,P46T,4697220,L1T,,,2023-05-31,2005-01-01
 a004f2,N100CM,Piper,PA-31T Cheyenne II,PAY2,31T-8020073,L2T,,,2023-05-31,1980-01-01
 a008cb,N101DW,Piper,PA-32R-300 Lance,P32R,32R-7680399,L1P,,,2022-08-31,1976-01-01
@@ -5758,6 +5886,8 @@ a02c17,N11YY,Piper,PA-30-160 Twin Comanche,PA30,30-1573,L2P,,,2022-03-31,1967-01
 a03047,N111DT,Piper,PA-24-180 Comanche,PA24,24-2260,L1P,,,2021-09-30,1960-01-01
 a03164,N111RC,Piper,PA-46-500TP Malibu Meridian,P46T,4697330,L1T,,,2021-12-31,2007-01-01
 a035a1,N112WM,Piper,PA-32-300 Cherokee Six,PA32,32-7140001,L1P,,,2023-09-30,1971-01-01
+a036bf,N1125Y,Piper,PA-46-310P Malibu,PA46,46-8408073,L1P,,,,
+a0377f,N113BP,Piper,PA-46-350P Malibu Mirage,PA46,4636363,L1P,,,2024-03-31,2004-01-01
 a037e7,N113FT,Piper,PA-46-500TP Malibu Meridian,P46T,4697280,L1T,,,2021-11-30,2006-01-01
 a038d2,N113RC,Piper,PA-31T Cheyenne,PAY1,31T-7520009,L2T,,,2022-01-31,1974-01-01
 a03901,N113T,Piper,PA-46-500TP Malibu Meridian,P46T,4697312,L1T,,,2022-12-31,2007-01-01
@@ -5809,6 +5939,7 @@ a0a86b,N141WR,Piper,PA-34-220T Seneca III,PA34,348333068,L2P,,,2023-04-30,1983-0
 a0aa87,N142EE,Piper,PA-46-500TP Malibu Meridian,P46T,4697217,L1T,,,2022-12-31,2005-01-01
 a0ab67,N142PD,Piper,J-3C-65 Cub,J3,17235,L1P,,,2023-01-31,1946-01-01
 a0aed0,N143LA,Piper,PA-46-350P Malibu Mirage,P46,4636459,L1P,,,2022-08-31,2009-01-01
+a0af28,N143PP,Piper,PA-46-350P Malibu Mirage,PA46,4636664,L1P,,,2024-02-29,2015-01-01
 a0b2dc,N144PL,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527014,L2T,,,2023-12-31,1984-01-01
 a0b59e,N145DR,Piper,PA-34-220T Seneca V,PA34,3449240,L2P,,,,
 a0c3f7,N14886,Piper,PA-31T Cheyenne I,PAY1,31T-7904036,L2T,,,2023-08-31,
@@ -5856,6 +5987,8 @@ a15aed,N187CP,Piper,PA-31T Cheyenne II,PAY2,31T-7920054,L2T,,,2022-11-30,1979-01
 a15b79,N187JD,Piper,PA-46-500TP Malibu Meridian,P46T,4697180,L1T,,,2021-10-31,2004-01-01
 a15c3e,N187SA,Piper,PA-28R-200 Arrow,P28R,28R-7235139,L1P,,,2022-02-28,1972-01-01
 a15e9b,N188CE,Piper,PA-46-500TP Malibu Meridian,P46T,4697239,L1T,,,2022-05-31,2005-01-01
+a15f65,N188LG,Piper,PA-46-350P Malibu Mirage,PA46,4622043,L1P,,,2021-12-31,1989-01-01
+a16336,N189MH,Piper,PA-46-350P Malibu Mirage,PA46,4636159,L1P,,,2023-08-31,1998-01-01
 a163ac,N189SA,Piper,PA-31-325 Navajo C/R,PA31,31-7512045,L2P,,,2022-02-28,1975-01-01
 a165ec,N19BA,Piper,PA-46-500TP Malibu Meridian,P46T,4697463,L1T,,,2022-12-31,2011-01-01
 a1661a,N19CX,Piper,PA-46-500TP Malibu Meridian,P46T,4697077,L1T,,,2022-11-30,2001-01-01
@@ -5866,6 +5999,7 @@ a16cf6,N191MA,Piper,PA-31T Cheyenne I,PAY1,31T-8104019,L2T,,,2022-12-31,
 a17144,N192TB,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166015,L2T,,,,
 a17985,N1941C,Piper,J-5A Cub Cruiser,J5,5-868,L1P,,,2024-02-29,
 a17abf,N195AA,Piper,PA-31T Cheyenne,PAY1,31T-7904001,L2T,,,2022-12-31,1978-01-01
+a17aca,N195AM,Piper,PA-46R-350T Matrix,PA46,4692146,L1P,,,2023-02-28,2010-01-01
 a1813e,N1963H,Piper,PA-28-235 Cherokee,P28B,28-7710010,L1P,,,2021-08-31,1977-01-01
 a181fa,N1968W,Piper,PA-46-500TP Malibu Meridian,P46T,4697115,L1T,,,2023-12-31,2001-01-01
 a183ce,N197ST,Piper,PA-46-500TP Malibu Meridian,P46T,4697555,L1T,,,,
@@ -5883,6 +6017,7 @@ a19331,N200NB,Piper,PA-31T Cheyenne,PAY1,31T-7720035,L2T,,,2023-09-30,1977-01-01
 a1934f,N200PG,Piper,PA-31T Cheyenne II,PAY2,31T-7920015,L2T,,,2023-05-31,1979-01-01
 a193bd,N200TS,Piper,PA-31T Cheyenne I,PAY1,31T-7804002,L2T,,,2022-04-30,1978-01-01
 a1941b,N200XL,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166010,L2T,,,2022-02-28,1981-01-01
+a19665,N201GW,Piper,PA-46-310P Malibu,PA46,468508055,L1P,,,2022-01-31,1985-01-01
 a19982,N202AS,Piper,PA-28-180 Cherokee,P28A,287305465,L1P,,,2022-10-31,1973-01-01
 a19d36,N203AP,Piper,PA-46-500TP Malibu Meridian,P46T,4697444,L1T,,,2023-02-28,2010-01-01
 a19eba,N203SB,Piper,PA-31T Cheyenne I,PAY1,31T-8104067,L2T,,,,
@@ -5984,6 +6119,7 @@ a2804e,N260PM,Piper,PA-46-500TP Malibu Meridian,P46T,4697545,L1T,,,2023-12-31,20
 a2880d,N262ST,Piper,PA-46-500TP Malibu Meridian,P46T,4697435,L1T,,,2022-02-28,2010-01-01
 a28b52,N263ND,Piper,PA-28-161 Warrior II,P28A,2842064,L1P,,,2022-07-31,1999-01-01
 a28df2,N264B,Piper,PA-46-500TP Malibu Meridian,P46T,46-97028,L1T,,,2022-08-31,2001-01-01
+a28e26,N264DB,Piper,PA-46-310P Malibu,PA46,46-8408037,L1P,,,,
 a291c2,N265C,Piper,PA-46-500TP Malibu Meridian,P46T,4697455,L1T,,,2022-12-31,2011-01-01
 a29a2e,N267ND,Piper,PA-28-161 Warrior II,P28A,2842067,L1P,,,2022-07-31,1999-01-01
 a29dd3,N268ML,Piper,PA-28-161 Warrior III,P28A,2842068,L1P,,,,
@@ -6107,6 +6243,7 @@ a3e35c,N35KG,Piper,PA-46-500TP Malibu Meridian,P46T,4697133,L1T,,,2023-08-31,200
 a3e4f6,N350BR,Piper,PA-46-310P Malibu,P46,4608001,L1P,,,2023-01-31,
 a3e5eb,N350ML,Piper,PA-28-181 Archer II,P28A,2843594,L1P,,,2024-05-31,2004-01-01
 a3e614,N350PB,Piper,PA-31-350 Chieftain,PA31,31-8252028,L2P,,,,
+a3e625,N350PU,Piper,PA-46-350P Malibu Mirage,PA46,4636227,L1P,,,2022-09-30,1999-01-01
 a3e8b6,N351C,Piper,PA-46-500TP Malibu Meridian,P46T,4697398,L1T,,,2022-08-31,2009-01-01
 a3f699,N3544M,Piper,PA-31-325 Navajo C/R,PA31,31-8012005,L2P,,,2021-12-31,1979-01-01
 a402b8,N358CA,Piper,PA-28-161 Warrior II,P28A,2841283,L1P,,,2024-07-31,1989-01-01
@@ -6152,6 +6289,8 @@ a483a2,N390JS,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166027,L2T,,,2023-10-31,1981
 a483dd,N390MA,Piper,PA-46-600TP,M600,4698052,L1T,,,2022-12-31,2017-01-01
 a486b5,N391CC,Piper,PA-46-500TP Malibu Meridian,P46T,4697147,L1T,,,,
 a4881c,N391SM,Piper,PA-46-500TP Malibu Meridian,P46T,4697541,L1T,,,,
+a4910c,N3935Y,Piper,PA-46-350P Malibu Mirage,PA46,4636620,L1P,,,2023-06-30,2014-01-01
+a4933a,N394SE,Piper,PA-46-350P Malibu Mirage,PA46,4636394,L1P,,,2022-05-31,2006-01-01
 a4958f,N395CA,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-1166005,L2T,,,2023-11-30,1984-01-01
 a495b7,N395DR,Piper,PA-42 Cheyenne III,PAY3,42-8001065,L2T,,,,
 a496f8,N395SM,Piper,PA-46-500TP Malibu Meridian,P46T,4697129,L1T,,,2023-01-31,2002-01-01
@@ -6187,6 +6326,7 @@ a4d7f7,N411BG,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527004,L2T,,,2024-02-29,1984
 a4d888,N411HB,Piper,PA-46-500TP Malibu Meridian,P46T,4697303,L1T,,,2024-02-29,2007-01-01
 a4e6cf,N415BC,Piper,PA-46-500TP Malibu Meridian,P46T,4697552,L1T,,,2023-02-28,2014-01-01
 a4e70a,N415DM,Piper,PA-46-500TP Malibu Meridian,P46T,4697537,L1T,,,2022-12-31,2013-01-01
+a4e94f,N41518,Piper,PA-46-350P Malibu Mirage,PA46,46-36302,L1P,,,2022-06-30,2000-01-01
 a4ebec,N416RL,Piper,PA-46-600TP,M600,4698016,L1T,,,2024-02-29,2016-01-01
 a4edc8,N4167S,Piper,PA-32R-301T Saratoga II TC,P32R,3257153,L1P,,,2021-12-31,2000-01-01
 a4edde,N4168D,Piper,PA-34-220T Seneca III,PA34,3449158,L2P,,,2023-10-31,2000-01-01
@@ -6251,6 +6391,7 @@ a58637,N455RS,Piper,PA-46-500TP Malibu Meridian,P46T,4697214,L1T,,,2023-12-31,20
 a58646,N455SG,Piper,PA-46-500TP Malibu Meridian,P46T,4697096,L1T,,,2024-01-31,2001-01-01
 a58727,N45507,Piper,PA-18-150 Super Cub,PA18,18-8566,L1P,,,2023-11-30,1967-01-01
 a587af,N45543,Piper,PA-18-150 Super Cub,PA18,18-8309014,L1P,,,2024-06-30,1983-01-01
+a5894d,N456KF,Piper,PA-46R-350T Matrix,PA46,4692021,L1P,,,2022-01-31,2008-01-01
 a58f2a,N4575F,Piper,PA-28-151 Cherokee Warrior,P28A,28-7715049,L1P,,,2022-10-31,1976-01-01
 a59327,N4587F,Piper,PA-32R-300 Lance,P32R,32R-7680461,L1P,,,2023-10-31,1976-01-01
 a594d1,N459PA,Piper,PA-34-220T Seneca III,PA34,3449459,L2P,,,2021-11-30,2012-01-01
@@ -6261,12 +6402,14 @@ a5981e,N46JV,Piper,PA-46-500TP Malibu Meridian,P46T,4697109,L1T,,,,
 a5985a,N46ME,Piper,PA-46-500TP Malibu Meridian,P46T,4697207,L1T,,,2022-06-30,2005-01-01
 a59892,N46PL,Piper,PA-46-500TP Malibu Meridian,P46T,4697054,L1T,,,2024-05-31,2001-01-01
 a5989c,N46PW,Piper,PA-46-350P Malibu Mirage,P46,4636370,L1P,,,2024-01-31,2005-01-01
+a59904,N46U,Piper,PA-46-310P Malibu,PA46,4608072,L1P,,,2023-10-31,1987-01-01
 a5999d,N460AB,Piper,PA-46-500TP Malibu Meridian,P46T,4697431,L1T,,,2023-02-28,2010-01-01
 a59d6d,N461BB,Piper,PA-46-500TP Malibu Meridian,P46T,4697016,L1T,,,2022-04-30,2000-01-01
 a59e1b,N461JA,Piper,PA-46-500TP Malibu Meridian,P46T,4697168,L1T,,,2023-06-30,2003-01-01
 a5a257,N462PJ,Piper,PA-46-500TP Malibu Meridian,P46T,4697249,L1T,,,2022-04-30,
 a5a8a9,N464C,Piper,PA-46-500TP Malibu Meridian,P46T,4697393,L1T,,,,
 a5a934,N464HP,Piper,PA-46-500TP Malibu Meridian,P46T,4697254,L1T,,,2022-08-31,2006-01-01
+a5a973,N464LB,Piper,PA-46-350P Malibu Mirage,PA46,4622139,L1P,,,2022-10-31,1993-01-01
 a5a9bd,N464PA,Piper,PA-46-500TP Malibu Meridian,P46T,4697451,L1T,,,2023-09-30,2011-01-01
 a5a9f8,N464RK,Piper,PA-46-600TP,M600,4698044,L1T,,,2023-08-31,2017-01-01
 a5aa39,N464U,Piper,PA-46-500TP Malibu Meridian,P46T,4697564,L1T,,,2023-09-30,2014-01-01
@@ -6301,6 +6444,7 @@ a60846,N488WA,Piper,PA-46-500TP Malibu Meridian,P46T,4697488,L1T,,,2021-08-31,20
 a60dc2,N49AC,Piper,PA-31T Cheyenne I,PAY1,31T-8004021,L2T,,,2023-10-31,1980-01-01
 a60e74,N49HF,Piper,PA-46-310P Malibu,P46,46-08125,L1P,,,2024-06-30,1988-01-01
 a60ef7,N49NM,Piper,PA-31T Cheyenne,PAY1,31T-7520006,L2T,,,2022-12-31,1975-01-01
+a60fd7,N49XL,Piper,PA-46-350P Malibu Mirage,PA46,4622049,L1P,,,2023-10-31,1989-01-01
 a61c8d,N493PL,Piper,PA-31-310 Navajo C,PA31,31-7612028,L2P,,,,
 a62c22,N497WW,Piper,PA-31T Cheyenne II,PAY2,31T-7820045,L2T,,,2023-06-30,1978-01-01
 a632ab,N499MS,Piper,PA-28-181 Archer II,P28A,2843166,L1P,,,2022-04-30,1998-01-01
@@ -6337,6 +6481,7 @@ a63c2a,N500YV,Piper,PA-46-500TP Malibu Meridian,P46T,4697598,L1T,,,,
 a63d3d,N5007,Piper,PA-31T Cheyenne II,PAY2,31T-7820061,L2T,CFS,,2023-06-30,1978-01-01
 a63d4e,N5007S,Piper,PA-28R-200 Arrow,P28R,28R-35731,L1P,,,2023-06-30,1970-01-01
 a63ee9,N501NX,Piper,PA-46-500TP Malibu Meridian,P46T,4697626,L1T,,,,
+a64929,N504DT,Piper,PA-46-350P Malibu Mirage,PA46,4636395,L1P,,,2024-02-29,2006-01-01
 a64e7a,N505WC,Piper,PA-32R-301 Saratoga II HP,P32R,3246034,L1P,,,2023-08-31,1996-01-01
 a658f9,N508PM,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527021,L2T,,,,
 a65cb0,N509PM,Piper,PA-46-500TP Malibu Meridian,P46T,4697509,L1T,,,2023-09-30,2012-01-01
@@ -6390,6 +6535,7 @@ a6c1c7,N5341C,Piper,PA-46-500TP Malibu Meridian,P46T,4697142,L1T,,,2022-04-30,20
 a6c2aa,N5347V,Piper,PA-46-500TP Malibu Meridian,P46T,4697126,L1T,,,2022-07-31,
 a6c3d8,N535JR,Piper,PA-46-500TP Malibu Meridian,P46T,4697253,L1T,,,2024-06-30,2006-01-01
 a6c59a,N53516,Piper,PA-46-500TP Malibu Meridian,P46T,4697132,L1T,,,2022-03-31,2002-01-01
+a6c59b,N53517,Piper,PA-46-350P Malibu Mirage,PA46,4636330,L1P,,,2023-12-31,2002-01-01
 a6c5d5,N5353V,Piper,PA-46-500TP Malibu Meridian,P46T,4697141,L1T,,,2022-09-30,2002-01-01
 a6c618,N5355S,Piper,PA-46-500TP Malibu Meridian,P46T,4697136,L1T,,,2023-11-30,2002-01-01
 a6c679,N5358J,Piper,PA-46-500TP Malibu Meridian,P46T,4697140,L1T,,,,
@@ -6401,6 +6547,7 @@ a6ca50,N5369F,Piper,PA-28-181 Archer II,P28A,28-7790102,L1P,,,2023-06-30,1976-01
 a6d552,N5398F,Piper,PA-28-181 Archer II,P28A,28-7790108,L1P,,,2022-07-31,1976-01-01
 a6d6b4,N54MP,Piper,PA-31-350 Chieftain,PA31,31-8452014,L2P,,,2023-07-31,1983-01-01
 a6d711,N54RG,Piper,PA-46-500TP Malibu Meridian,P46T,4697478,L1T,,,2021-12-31,2011-01-01
+a6d799,N54WT,Piper,PA-46-350P Malibu Mirage,PA46,4636202,L1P,,,2021-10-31,1999-01-01
 a6dcd3,N541ND,Piper,PA-46-500TP Malibu Meridian,P46T,4697356,L1T,,,2023-06-30,2008-01-01
 a6df58,N54199,Piper,PA-46-500TP Malibu Meridian,P46T,4697164,L1T,,,2021-11-30,2003-01-01
 a6e08a,N542ND,Piper,PA-46-500TP Malibu Meridian,P46T,4697436,L1T,,,2023-02-28,2010-01-01
@@ -6411,6 +6558,7 @@ a6fdac,N55GD,Piper,PA-31T Cheyenne II,PAY2,31T-7820003,L2T,PRH,,2023-06-30,1978-
 a6fde8,N55JP,Piper,PA-31T Cheyenne I,PAY1,31T-8004048,L2T,,,,
 a6fe08,N55KW,Piper,PA-31T Cheyenne II,PAY2,31T-8120007,L2T,,,2023-12-31,
 a6fe89,N55R,Piper,PA-31T Cheyenne,PAY1,31T-7620055,L2T,,,2023-09-30,1976-01-01
+a6ff0e,N55WH,Piper,PA-46-350P Malibu Mirage,PA46,4636204,L1P,,,2022-07-31,1999-01-01
 a6ff58,N55ZG,Piper,PA-46-500TP Malibu Meridian,P46T,4697082,L1T,,,2024-01-31,2001-01-01
 a7008a,N550MM,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166017,L2T,,,2024-02-29,1981-01-01
 a704dd,N551TT,Piper,PA-32R-301T Saratoga II TC,P32R,3257026,L1P,,,2023-03-31,1997-01-01
@@ -6483,6 +6631,7 @@ a7e454,N6075N,Piper,PA-46-500TP Malibu Meridian,P46T,4697379,L1T,,,,
 a7e49c,N6077Q,Piper,PA-46-500TP Malibu Meridian,P46T,4697383,L1T,,,2023-02-28,2008-01-01
 a7e5e2,N608KK,Piper,PA-46-600TP,M600,4698008,L1T,,,,
 a7e777,N6081E,Piper,PA-46-500TP Malibu Meridian,P46T,4697400,L1T,,,2021-08-31,2009-01-01
+a7eb99,N6094G,Piper,PA-46-350P Malibu Mirage,PA46,4636460,L1P,,,,
 a7ecb5,N61DE,Piper,PA-32-300 Cherokee Six,PA32,32-7940030,L1P,,,2022-09-30,1979-01-01
 a7ed16,N61HB,Piper,PA-34-220T Seneca V,PA34,3449217,L2P,,,,
 a7ed22,N61HP,Piper,PA-46-500TP Malibu Meridian,P46T,4697384,L1T,,,,
@@ -6520,6 +6669,7 @@ a83890,N629KC,Piper,PA-46-500TP Malibu Meridian,P46T,4697229,L1T,,,2023-12-31,20
 a83b25,N6298J,Piper,PA-28R-200 Arrow,P28R,28R-7635334,L1P,,,2022-06-30,1976-01-01
 a83b2a,N6298P,Piper,PA-24-250 Comanche,PA24,24-1278,L1P,,,,
 a83ba1,N63CM,Piper,PA-31T Cheyenne II,PAY2,31T-8020039,L2T,,,2023-06-30,1980-01-01
+a83c20,N63HP,Piper,PA-46-350P Malibu Mirage,PA46,4636456,L1P,,,2023-11-30,2009-01-01
 a83cf8,N63SE,Piper,PA-46-500TP Malibu Meridian,P46T,4697333,L1T,,,2022-07-31,2007-01-01
 a83ee4,N630MW,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166011,L2T,,,2023-06-30,
 a83f0d,N630PM,Piper,PA-46-500TP Malibu Meridian,P46T,4697543,L1T,,,2022-01-31,2013-01-01
@@ -6549,6 +6699,7 @@ a8b6cb,N6601Y,Piper,PA-23-250 Aztec C,PA27,27-3905,L2P,,,,
 a8b6ee,N6602Y,Piper,PA-28-140 Cherokee,P28A,28-21943,L1P,,,2021-12-31,1966-01-01
 a8b8db,N661KK,Piper,PA-28-181 Archer II,P28A,2890028,L1P,,,2022-06-30,1987-01-01
 a8bc92,N662KK,Piper,PA-18-150 Super Cub,PA18,18-8209023,L1P,,,2021-09-30,1982-01-01
+a8bd53,N662TC,Piper,PA-46-310P Malibu,PA46,468508095,L1P,,,2023-07-31,1985-01-01
 a8d2d5,N668KC,Piper,PA-46-500TP Malibu Meridian,P46T,4697268,L1T,,,2022-04-30,2006-01-01
 a8d98d,N67BW,Piper,PA-46-500TP Malibu Meridian,P46T,46-97011,L1T,,,2023-07-31,2000-01-01
 a8d9bf,N67DW,Piper,PA-31T Cheyenne,PAY1,31T-7620041,L2T,,,2023-06-30,1976-01-01
@@ -6583,8 +6734,10 @@ a95609,N700RD,Piper,PA-31T3 Cheyenne,PAT4,31T-5575001,L2T,,,2024-02-29,1985-01-0
 a9599c,N701PT,Piper,PA-31T Cheyenne I,PAY1,31T-1104011,L2T,,,2024-04-30,1984-01-01
 a967f9,N705JR,Piper,PA-42-720 Cheyenne IIIA,PAY3,42-5501011,L2T,,,2024-01-31,1984-01-01
 a96835,N705MA,Piper,PA-46-500TP Malibu Meridian,P46T,4697277,L1T,,,2023-09-30,2006-01-01
+a96e6a,N70689,Piper,PA-46-350P Malibu Mirage,PA46,4636713,L1P,,,,
 a975d8,N70889,Piper,J-3C-65 Cub,J3,17910,L1P,,,2024-06-30,1946-01-01
 a97693,N709G,Piper,PA-28-181 Archer II,P28A,2881205,L1P,,,2022-10-31,2019-01-01
+a97bc0,N71WZ,Piper,PA-46-350P Malibu Mirage,PA46,4636275,L1P,,,2022-03-31,2000-01-01
 a97d25,N710ME,Piper,PA-39-160 Twin Comanche C/R,PA30,39-101,L2P,,,2023-06-30,1971-01-01
 a97fcc,N711AH,Piper,PA-31T Cheyenne II,PAY2,31T-8120016,L2T,,,2022-12-31,1980-01-01
 a98038,N711ER,Piper,PA-31T Cheyenne I,PAY1,31T-8104056,L2T,,,2021-09-30,1981-01-01
@@ -6647,6 +6800,7 @@ aa78d8,N774KV,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166057,L2T,,,2023-01-31,1982
 aa78fc,N774MF,Piper,PA-31T Cheyenne II,PAY2,31T-7920035,L2T,,,,1979-01-01
 aa7a54,N77400,Piper,PA-46-500TP Malibu Meridian,P46T,4697206,L1T,,,2022-11-30,2005-01-01
 aa7cb3,N775MF,Piper,PA-31T Cheyenne II,PAY2,31T-7920079,L2T,,,,
+aa7cb7,N775MK,Piper,PA-46-310P Malibu,PA46,468508068,L1P,,,2021-12-31,1985-01-01
 aa8035,N776KC,Piper,PA-46-500TP Malibu Meridian,P46T,4697376,L1T,,,2023-02-28,2008-01-01
 aa841f,N777MD,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8131117,L1P,,,2022-11-30,1981-01-01
 aa8422,N777MG,Piper,PA-46-500TP Malibu Meridian,P46T,4697066,L1T,,,2022-12-31,
@@ -6665,6 +6819,7 @@ aaae59,N788BB,Piper,PA-31T Cheyenne,PAY1,31T-7620051,L2T,,,,
 aab2d9,N789KC,Piper,PA-46-500TP Malibu Meridian,P46T,4697460,L1T,,,2022-02-28,2011-01-01
 aab6ad,N79LG,Piper,PA-46-600TP,M600,4698018,L1T,,,2022-04-30,2016-01-01
 aac35d,N793CA,Piper,PA-46-500TP Malibu Meridian,P46T,4697402,L1T,,,,
+aacbac,N795MA,Piper,PA-46-350P Malibu Mirage,PA46,4636007,L1P,,,2023-09-30,1995-01-01
 aacd85,N7954J,Piper,PA-28R-200 Arrow,P28R,28R-7635125,L1P,,,2023-04-30,
 aacf1b,N796JD,Piper,PA-46-500TP Malibu Meridian,P46T,4697372,L1T,,,2023-01-31,2008-01-01
 aada44,N799JH,Piper,PA-28RT-201T Turbo Arrow IV,P28U,28R-8231051,L1P,,,2023-03-31,1982-01-01
@@ -6752,6 +6907,7 @@ abbabe,N855JL,Piper,PA-31T Cheyenne I,PAY1,31T-8104045,L2T,,,2021-09-30,1981-01-
 abcd99,N86MH,Piper,PA-46-500TP Malibu Meridian,P46T,4697615,L1T,,,2022-08-31,2016-01-01
 abd7bd,N862RA,Piper,PA-31T Cheyenne I,PAY1,31T-8104048,L2T,,,,
 abdb75,N863RB,Piper,PA-46-500TP Malibu Meridian,P46T,4697213,L1T,,,,
+abe629,N866LP,Piper,PA-46-350P Malibu Mirage,PA46,4636130,L1P,,,,
 abe92f,N867DM,Piper,PA-46-500TP Malibu Meridian,P46T,4697610,L1T,,,2023-09-30,2016-01-01
 abf509,N87LT,Piper,PA-34-220T Seneca III,PA34,3447013,L2P,,,2023-04-30,1996-01-01
 ac064d,N874MH,Piper,PA-38-112 Tomahawk,PA38,38-78A0554,L1P,,,2023-12-31,
@@ -6790,10 +6946,14 @@ ac91f5,N909PW,Piper,PA-31T Cheyenne,PAY1,31T-7720060,L2T,,,,
 ac9761,N910HG,Piper,PA-31T Cheyenne,PAY1,31T-7400009,L2T,,,2023-03-31,
 ac9781,N910JP,Piper,PA-31T Cheyenne II,PAY2,31T-7820004,L2T,,,2023-12-31,1977-01-01
 ac9c0e,N911TC,Piper,PA-46-500TP Malibu Meridian,P46T,4697238,L1T,,,2023-08-31,2006-01-01
+aca0c4,N9122N,Piper,PA-46-310P Malibu,PA46,4608097,L1P,,,2022-07-31,1987-01-01
+aca17e,N9127Z,Piper,PA-46-310P Malibu,PA46,4608059,L1P,,,2024-07-31,1987-01-01
 aca212,N913CR,Piper,PA-31T Cheyenne I,PAY1,31T-7804003,L2T,,,2022-01-31,1978-01-01
 aca2ff,N913NC,Piper,PA-31T Cheyenne II,PAY2,31T-8120044,L2T,,,2024-02-29,1981-01-01
+aca4a5,N9133V,Piper,PA-46-310P Malibu,PA46,4608112,L1P,,,2023-01-31,1988-01-01
 aca598,N914AS,Piper,PA-31T Cheyenne I,PAY1,31T-8104066,L2T,,,2022-11-30,1981-01-01
 aca81a,N9141Z,Piper,PA-32R-301 Saratoga SP,P32R,3213016,L1P,,,2024-05-31,
+aca970,N915C,Piper,PA-46R-350T Matrix,PA46,4692182,L1P,,,2022-06-30,2012-01-01
 acaafb,N915TV,Piper,PA-46-600TP,P46T,4698021,L1T,,,2024-01-31,2016-01-01
 acace8,N9159Y,Piper,PA-42-720 Cheyenne IIIA,PAY3,42-5501028,L2T,,,2023-11-30,1985-01-01
 acae7e,N916RT,Piper,PA-31T2 Cheyenne IIXL,PAY2,31T-8166041,L2T,,,2023-01-31,1981-01-01
@@ -6803,6 +6963,7 @@ acb4ec,N918FM,Piper,PA-31T Cheyenne I,PAY1,31T-7904025,L2T,,,2022-11-30,
 acb5f9,N918SF,Piper,PA-46-500TP Malibu Meridian,P46T,4697194,L1T,,,,
 acb689,N918Y,Piper,PA-30-160 Twin Comanche,PA30,30736,L2P,,,2022-01-31,1965-01-01
 acb92e,N919MA,Piper,PA-46-500TP Malibu Meridian,P46T,4697556,L1T,,,2023-05-31,2014-01-01
+acba88,N9190X,Piper,PA-46-350P Malibu Mirage,PA46,4622093,L1P,,,2023-03-31,
 acbacc,N9192V,Piper,PA-28-180 Cherokee C,P28A,28-3268,L1P,,,,
 acbc49,N92EV,Piper,PA-42-1000 Cheyenne IV,PAY4,42-5527035,L2T,,,,
 acc1be,N9209A,Piper,PA-38-112 Tomahawk,PA38,38-82A0113,L1P,,,2023-01-31,
@@ -6816,6 +6977,7 @@ acdfe5,N929DA,Piper,PA-46-500TP Malibu Meridian,P46T,4697573,L1T,,,2024-01-31,20
 ace4e8,N93SH,Piper,PA-31T Cheyenne I,PAY1,31T-7904029,L2T,,,2023-02-28,
 ace664,N930HM,Piper,PA-46-500TP Malibu Meridian,P46T,4697236,L1T,,,2022-05-31,2005-01-01
 ace696,N930KM,Piper,PA-46-500TP Malibu Meridian,P46T,4697365,L1T,,,2023-11-30,2008-01-01
+ace7e8,N930Z,Piper,PA-46-350P Malibu Mirage,PA46,4622188,L1P,,,2023-07-31,1995-01-01
 acf02b,N9325N,Piper,PA-28R-200 Arrow,P28R,28R-35025,L1P,,,,
 ad0165,N937TT,Piper,PA-31T Cheyenne,PAY1,31T-7720037,L2T,,,2023-01-31,1977-01-01
 ad043e,N938JW,Piper,PA-46-500TP Malibu Meridian,P46T,46-97023,L1T,,,2023-07-31,2000-01-01
@@ -6863,6 +7025,7 @@ add749,N991KP,Piper,PA-46-500TP Malibu Meridian,P46T,4697536,L1T,,,,
 addbcc,N992TT,Piper,PA-31T Cheyenne I,PAY1,31T-8004019,L2T,,,,
 ade293,N994MA,Piper,PA-46-500TP Malibu Meridian,P46T,4697394,L1T,,,,
 ade6c6,N995S,Piper,PA-46-500TP Malibu Meridian,P46T,4697154,L1T,,,,
+adedb8,N997MA,Piper,PA-46-350P Malibu Mirage,PA46,4636126,L1P,,,,
 adf161,N998LM,Piper,PA-31T Cheyenne II,PAY2,31T-8120006,L2T,,,,
 adf545,N999NG,Piper,PA-46-500TP Malibu Meridian,P46T,4697022,L1T,,,,
 adf59e,N999RW,Piper,PA-46-500TP Malibu Meridian,P46T,4697037,L1T,,,,
@@ -6887,6 +7050,7 @@ c02d89,C-FRGI,Piper,PA-23-250 Aztec,PA27,27-2604,L2P,,2009-08-31,,
 c03260,C-FTBZ,Piper,PA-46-500TP Malibu Meridian,P46T,4697578,L1T,,2018-09-19,,
 c0402b,C-FYHU,Piper,PA-24-180 Comanche,PA24,24-1685,L1P,,2007-12-21,,
 c0473e,C-GAZL,Piper,PA-28R-201T Turbo Arrow III,P28S,28R-7703186,L1P,,2001-03-02,,
+c0482f,C-GBIS,Piper,PA-46-350P Malibu Mirage,PA46,4622036,L1P,,2016-10-03,,
 c048c6,C-GBON,Piper,PA-31T Cheyenne II,PAY2,31T-8020057,L2T,,2013-01-22,2017-08-10,
 c048cc,C-GBOT,Piper,PA-42 Cheyenne III,PAY3,42-8001063,L2T,,2008-02-20,,
 c048ce,C-GBOV,Piper,PA-42 Cheyenne III,PAY3,42-8001027,L2T,,2012-07-23,,

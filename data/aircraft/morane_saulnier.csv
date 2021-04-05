@@ -521,6 +521,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3855b7,F-BVNX,Socata,MS.893E Rallye 180GT Gaillard,RALL,12528,L1P,,,,
 385722,F-BVZC,Socata,MS.893E Rallye 180GT Gaillard,RALL,12490,L1P,,,,
 385728,F-BVZI,Socata,MS.893E Rallye 180GT Gaillard,RALL,12488,L1P,,,,
+385734,F-BVZU,Socata,MS.893E Rallye 180GT Gaillard,RALL,12562,L1P,,,,
 385c69,F-BXDJ,Socata,MS.880B Rallye 110ST Galopin,RALL,2617,L1P,,,,
 385c6c,F-BXDM,Socata,MS.893E Rallye 180GT Gaillard,RALL,12636,L1P,,,,
 385c6d,F-BXDN,Socata,MS.893E Rallye 180GT Gaillard,RALL,12578,L1P,,,,
@@ -981,6 +982,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401dbd,G-BGMT,Socata,235E Gabier,RALL,13126,L1P,,2013-01-17,,1978-01-01
 401ddf,G-BGSA,Socata,MS.892E Rallye 150GT,RALL,12838,L1P,,2016-05-27,,1977-01-01
 401eba,G-BIAC,Socata,235E Gabier,RALL,13323,L1P,,2013-10-29,,1980-01-01
+401efc,G-BIIK,Socata,MS.883 Rallye 115,RALL,1552,L1P,,2004-04-21,,1970-01-01
 401f95,G-BJDF,Socata,MS.880B Rallye Club,RALL,3000,L1P,,2012-04-27,,1977-01-01
 402060,G-BKOA,Socata,MS.893E Rallye 180GT Gaillard,RALL,12432,L1P,,2007-04-18,,1974-01-01
 4020c6,G-BLGS,Socata,MS.880B Rallye 180T Galérien,RALL,3206,L1P,,2000-01-07,,1978-01-01
@@ -1009,6 +1011,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406426,G-CGPN,Socata,MS.880B Rallye Club,RALL,2429,L1P,,2012-09-14,,1973-01-01
 4066e4,G-SHOW,Morane-Saulnier,MS.733 Alcyon,MS73,125,L1P,,2016-02-09,,1956-01-01
 4405bf,OE-KPA,Socata,MS.893E Rallye 180GT Gaillard,RALL,12989,L1P,,,,
+44073c,OE-DGM,Socata,MS.893A Rallye Commodore 180,RALL,10639,L1P,,,,
 4408c8,OE-DKY,Socata,MS.880B Rallye 180T Galérien,RALL,3223,L1P,,,,
 4484ad,OO-AEM,Morane Saulnier,MS.892A Rallye Commodore 150,RALL,10281,L1P,,,,
 448609,OO-API,Socata,MS.880B Rallye 110ST Galopin,RALL,3289,L1P,,,,
@@ -1055,6 +1058,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 45c247,OY-PRG,Socata,MS.880B Rallye Club,RALL,2779,L1P,,,,
 45c249,OY-PRI,Socata,MS.892E Rallye 150ST,RALL,2687,L1P,,,,
 45c24a,OY-PRJ,Socata,MS.893E Rallye 180GT Gaillard,RALL,12727,L1P,,,,
+45c24c,OY-PRL,Socata,MS.892E Rallye 150ST,RALL,2744,L1P,,,,
 45c24d,OY-PRM,Socata,MS.893E Rallye 180GT Gaillard,RALL,12736,L1P,,,,
 45c253,OY-PRS,Socata,MS.880B Rallye Club,RALL,2948,L1P,,,,
 45c255,OY-PRU,Socata,MS.893E Rallye 180GT Gaillard,RALL,12959,L1P,,,,
@@ -1149,6 +1153,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4ab455,SE-MBU,Socata,MS.893A Rallye Commodore 180,RALL,12070,L1P,,,,
 4b0ae5,HB-EDH,Morane Saulnier,MS.885 Super Rallye,RALL,43,L1P,,,,
 4b0aec,HB-EDO,Morane Saulnier,MS.880B Rallye Club,RALL,209,L1P,,,,
+4b0c59,HB-ERP,Socata,MS.883 Rallye 115,RALL,1364,L1P,,1969-10-16,,1969-01-01
 4b0c5f,HB-ERV,Socata,MS.893A Rallye Commodore 180,RALL,10616,L1P,,,,
 4b0c8a,HB-ETM,Socata,MS.894A Rallye 220 Minerva,RALL,12096,L1P,,1975-11-19,,1973-01-01
 4b0d03,HB-EYD,Socata,MS.893E Rallye 180GT Gaillard,RALL,12680,L1P,,2015-11-05,,1972-01-01
@@ -1159,6 +1164,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4d0320,LX-GSL,Socata,MS.893A Rallye Commodore 180,RALL,11712,L1P,,,,
 a1ad20,N207MJ,Morane-Saulnier,MS.760B Paris II,MS76,02,L2J,,,2023-04-30,1966-01-01
 a433d4,N370AJ,Socata,MS.880B Rallye 150ST,RALL,2929,L1P,,,2022-12-31,1977-01-01
+a50353,N422CV,Socata,MS.880B Rallye 180T Galérien,RALL,1659,L1P,,,2022-06-30,1970-01-01
 a6e920,N5440,Morane-Saulnier,MS.733 Alcyon,MS73,40,L1P,,,2023-08-31,1954-01-01
 a7c58e,N60GT,Morane-Saulnier,MS.760 Paris,MS76,8,L2J,,,,
 a92a6a,N69X,Morane-Saulnier,MS.760B Paris II,MS76,90,L2J,,,2023-01-31,

@@ -1,5 +1,39 @@
 # Changelog for version 2.x
 
+**Version 2.0.23**
+
+- Add 1 Aeroprakt aircraft.
+- Add 1 Aero Vodochody aircraft.
+- Add 1 AgustaWestland aircraft.
+- Add 30 Airbus aircraft.
+- Add 2 ATR aircraft.
+- Add 14 Beechcraft aircraft.
+- Add 12 Bell aircraft.
+- Add 8 Boeing aircraft.
+- Add 5 Bombardier aircraft.
+- Add 869 British Aerospace aircraft.
+- Add 357 Cessna aircraft.
+- Add 4 Cirrus aircraft.
+- Add 1 Dassault aircraft.
+- Add 5 De Havilland aircraft.
+- Add 1 Dornier aircraft.
+- Add 5 Embraer aircraft.
+- Add 1 Grumman American aircraft.
+- Add 1 Hughes aircraft.
+- Add 1 Learjet aircraft.
+- Add 1 McDonnell Douglas aircraft.
+- Add 1 MD Helicopters aircraft.
+- Add 3 Mooney aircraft.
+- Add 6 Morane-Saulnier aircraft.
+- Add 164 Piper aircraft.
+- Add 8 Sikorsky aircraft.
+- Add 3 Sikorsky S64 aircraft (@Sportsbadger).
+- Add 1 aircraft type.
+- Add 1 aircarft type picture.
+- Fix aircraft `a22284` registration (@Sportsbadger).
+- Fix aircraft `7c1744` model name.
+- Fix "Morane-Saulnier" spelling, sometimes spelled without a dash.
+
 **Version 2.0.22**
 
 - Add 26 Boeing aircraft.

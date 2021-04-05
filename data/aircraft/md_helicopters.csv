@@ -133,6 +133,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 46a06d,SX-HCM,Kawasaki,369 HS,H500,6603,H1T,,,,
 46a097,SX-HDW,Kawasaki,369 HS,H500,109-0207S,H1T,,,,
 46a143,SX-HJC,Kawasaki,369 HS,H500,52-0382S,H1T,,,,
+477fd3,R909,MD Helicopters,MD 902 Explorer,EXPL,900-00111,H2T,,,,
 47844f,LN-OSK,MD Helicopters,MD 500E,H500,0261E,H1T,,,,
 4786e6,LN-OTC,Kawasaki,369 HS,H500,89-0112S,H1T,,,,
 48b16b,SP-MLL,MD Helicopters,MD 500E,H500,0015E,H1T,COO,,,

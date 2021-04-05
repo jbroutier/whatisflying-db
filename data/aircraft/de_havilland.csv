@@ -212,6 +212,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4024cc,G-ACCB,De Havilland,DH-83 Fox Moth,DH83,4042,L1P,,1988-08-17,,1932-01-01
 4024cd,G-ACDI,De Havilland,DH-82A Tiger Moth,DH82,3182,L1P,,2009-06-16,,1933-01-01
 4024ce,G-ACEJ,De Havilland,DH-83 Fox Moth,DH83,4069,L1P,,2014-11-14,,1933-01-01
+4024cf,G-ACET,De Havilland,DH-84 Dragon,DH84,6021,L2P,,2011-02-21,,1934-01-01
 4024d0,G-ACGZ,De Havilland,DH-60G III Moth Major,DH60,5030,L1P,,1999-09-28,,1933-01-01
 4024d1,G-ACNS,De Havilland,DH-60G III Moth Major,DH60,5068,L1P,,2009-11-21,,1934-01-01
 4024d3,G-ACXB,De Havilland,DH-60G III Moth Major,DH60,5098,L1P,,1992-01-02,,
@@ -268,6 +269,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 403cb7,G-BWVT,De Havilland,DH-82A Tiger Moth,DH82,1039,L1P,,2014-09-16,,1942-01-01
 404125,G-BYLB,De Havilland,DH-82A Tiger Moth,DH82,83286,L1P,,2015-07-06,,1940-01-01
 404295,G-BYTN,De Havilland,DH-82A Tiger Moth,DH82,3993,L1P,,2014-01-14,,1939-01-01
+404480,G-ECAN,De Havilland,DH-84 Dragon,DH84,2048,L2P,,2013-09-19,,1943-01-01
 404dc6,G-CDJO,De Havilland,DH-82A Tiger Moth,DH82,T230,L1P,,2005-04-11,,1940-01-01
 405554,G-CFII,De Havilland,DH-82A Tiger Moth,DH82,85584,L1P,,2015-10-15,,1938-01-01
 4060f4,G-AATC,De Havilland,DH-80A Puss Moth,DH80,2001,L1P,,2009-05-22,,1929-01-01
@@ -315,6 +317,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b365a,HB-UPE,De Havilland,DH-60G III Moth Major,DH60,5078,L1P,,1934-06-06,,1934-01-01
 4b3662,HB-UPM,De Havilland,DH-82A Tiger Moth,DH82,DHNZ 135R,L1P,,1982-04-06,,1940-01-01
 4b3665,HB-UPP,De Havilland,DH-82A Tiger Moth,DH82,A17-565,L1P,,1979-08-29,,1942-01-01
+4ca368,EI-ABI,De Havilland,DH-84 Dragon,DH84,6105,L2P,EIN,1985-08-12,,1936-01-01
 743599,JY-MLY,De Havilland,DH-115 Vampire T.55,VAMP,975,L1J,,,,
 7c0000,VH-AAA,De Havilland,DH-83 Fox Moth,DH83,DHA6,L1P,,1994-02-15,,1938-01-01
 7c1aaa,VH-FJW,De Havilland,DH-115 Vampire T.35,VAMP,4159,L1J,,,,1959-01-01
@@ -340,6 +343,7 @@ a1b845,N21MJ,De Havilland,DH-112 Venom,VNOM,737,L1J,,,2023-01-31,
 a204ca,N2290B,De Havilland,DH-89A Dragon Rapide,DH89,6588,L2P,,,2022-07-31,1941-01-01
 a20eaa,N23102,De Havilland,DH-115 Vampire T.55,VAMP,865,L1J,,,,
 a20ead,N23105,De Havilland,DH-115 Vampire T.55,VAMP,982,L1J,,,2024-02-29,1959-01-01
+a3bb48,N34DH,De Havilland,DH-84A Dragon,DH84,6096,L2P,,,2023-09-30,1934-01-01
 a3f73c,N3549,De Havilland,DH-82A Tiger Moth,DH82,PG645,L1P,,,2024-03-31,1945-01-01
 a445b5,N3745G,De Havilland,DH-104 Dove 6A,DOVE,04439,L2P,,,2023-03-31,
 a4e844,N415SA,De Havilland,DH-114 Heron 2X,HERN,14064,L4P,,,2023-11-30,1954-01-01
@@ -361,5 +365,6 @@ c80056,ZK-AKU,De Havilland,DH-89 Dragon Rapide,DH89,6662,L2P,,,,
 c80057,ZK-AKY,De Havilland,DH-89 Dragon Rapide,DH89,6653,L2P,,,,
 c80b1b,ZK-KTT,De Havilland,Devon C Mk.1,DOVE,04324,L2P,,,,
 c80e24,ZK-VAM,De Havilland,DH-115 Vampire T.35A,VAMP,DHA4171,L1J,,,,
+c812a0,ZK-AXI,De Havilland,DH-84A Dragon,DH84,2057,L2P,,,,
 c81358,ZK-XNZ,De Havilland,Devon C Mk.1,DOVE,04426,L2P,,,,
 c820c4,ZK-ZKF,De Havilland,Devon C Mk.1,DOVE,04312,L2P,KIW,,,

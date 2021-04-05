@@ -63,5 +63,6 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48fe01,SP-SKRB,Aeroprakt,A-22L2 Foxbat,AP22,393,L1P,,,,
 4ad982,SE-VLB,Aeroprakt,A-22 Vision,AP22,188,L1P,,,,
 4bd522,TC-UIB,Aeroprakt,A-22L2 Foxbat,AP22,507,L1P,,,,
-7c1744,23-8796,Aeroprakt,A32 Vixxen,AP32,026,L1P,,,,
+7c1744,23-8796,Aeroprakt,A-32 Vixxen,AP32,026,L1P,,,,
+7c2b84,VH-IVQ,Aeroprakt,A-32 Vixxen,AP32,027,L1P,,2017-02-07,,2016-01-01
 7cc387,24-8094,Aeroprakt,A-22LS Foxbat,AP22,A22LS-118,L1P,,,,

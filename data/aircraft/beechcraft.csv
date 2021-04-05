@@ -1158,6 +1158,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4ab4b0,SE-MEP,Beechcraft,C90GT King Air,BE9L,LJ-1987,L2T,,,,
 4ab545,SE-MJE,Beechcraft,B200 King Air,BE20,BB-1500,L2T,,,,
 4ab548,SE-MJH,Beechcraft,200GT King Air,BE20,BY-254,L2T,,,,
+4ab555,SE-MJU,Beechcraft,B200 King Air,BE20,BB-1144,L2T,JON,,,
 4ab582,SE-MLB,Beechcraft,B36TC Bonanza,BE36,EA-683,L1P,,,,
 4b0b19,HB-EFH,Beechcraft,V35 Bonanza,BE35,D-8072,L1P,,1966-06-09,,1966-01-01
 4b0b1e,HB-EFM,Beechcraft,V35 Bonanza,BE35,D-8414,L1P,,1967-03-23,,1967-01-01
@@ -1322,16 +1323,20 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c1a73,VH-FID,Beechcraft,D18S Twin Beech,BE18,A-458,L2P,,,,1948-01-01
 7c1a74,VH-FIE,Beechcraft,D18S Twin Beech,BE18,A-808,L2P,,,,1952-01-01
 7c1ab9,VH-FKB,Beechcraft,B200GT King Air,BE20,BY-120,L2T,,,,2011-01-01
+7c1ae8,VH-FLM,Beechcraft,D95A Travel Air,BE95,TD-672,L2P,,2016-02-29,,1966-01-01
 7c1b55,VH-FON,Beechcraft,B200 King Air,BE20,BB-1145,L2T,,,,1983-01-01
+7c1fc9,VH-GKB,Beechcraft,95-B55 Baron,BE55,TC-2308,L2P,,,,1980-01-01
 7c2114,VH-GTI,Beechcraft,C90GTi King Air,BE9L,LJ-1874,L2T,,,,2008-01-01
 7c24c6,VH-HJS,Beechcraft,B200 King Air,BE20,BB-1178,L2T,,,,1984-01-01
 7c2505,VH-HLJ,Beechcraft,B200 King Air,BE20,BB-945,L2T,,,,1982-01-01
 7c259b,VH-HPP,Beechcraft,B200C King Air,BE20,BL-137,L2T,,,,1990-01-01
+7c2981,VH-IHF,Beechcraft,A36 Bonanza,BE36,E-1356,L1P,,2016-04-21,,1978-01-01
 7c2a19,VH-ILN,Beechcraft,C90A King Air,BE9L,LJ-1375,L2T,,,,1994-01-01
 7c2b1a,VH-ISS,Beechcraft,B200 King Air,BE20,BB-1008,L2T,,,,1982-01-01
 7c2b33,VH-ITH,Beechcraft,200 King Air,BE20,BB-344,L2T,,,,1978-01-01
 7c2e2e,VH-JEO,Beechcraft,C90A King Air,BE9L,LJ-1464,L2T,,,,1997-01-01
 7c2f4b,VH-JML,Beechcraft,58 Baron,BE58,TH-1129,L2P,,,,1980-01-01
+7c3089,VH-JVF,Beechcraft,76 Duchess,BE76,ME-40,L2P,,,,1978-01-01
 7c3358,VH-KFE,Beechcraft,B200 King Air,BE20,BB-1172,L2T,,,,1984-01-01
 7c335b,VH-KFH,Beechcraft,B200 King Air,BE20,BB-1641,L2T,,,,1998-01-01
 7c336b,VH-KFX,Beechcraft,B200 King Air,BE20,BB-1862,L2T,,,,2004-01-01
@@ -1347,6 +1352,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c3a01,VH-LQR,Beechcraft,B200 King Air,BE20,BB-1054,L2T,,,,1982-01-01
 7c3a6c,VH-LTQ,Beechcraft,B200C King Air,BE20,BL-170,L2T,,,,2012-01-01
 7c3ad6,VH-LWO,Beechcraft,B200 King Air,BE20,BB-1643,L2T,,,,1998-01-01
+7c3dcc,VH-MHQ,Beechcraft,B200GT King Air,BE20,BY-290,L2T,,2018-08-08,,2017-01-01
 7c3dd1,VH-MHV,Beechcraft,B200 King Air,BE20,BB-1742,L2T,,,,2001-01-01
 7c3f19,VH-MQZ,Beechcraft,B200 King Air,BE20,BB-1961,L2T,,,,2006-01-01
 7c3f34,VH-MRQ,Beechcraft,B200GT King Air,BE20,BY-167,L2T,,,,2013-01-01
@@ -1380,6 +1386,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c4a05,VH-OWN,Beechcraft,B200 King Air,BE20,BB-936,L2T,,,,1981-01-01
 7c4a40,VH-OYA,Beechcraft,B200 King Air,BE20,BB-365,L2T,,,,
 7c4a53,VH-OYT,Beechcraft,200T King Air,BE20,BT-6,L2T,,,,
+7c4a67,VH-OZD,Beechcraft,G36 Bonanza,BE36,E-3919,L1P,,,,2010-01-01
 7c4cad,VH-PFJ,Beechcraft,C90B King Air,BE9L,LJ-1586,L2T,,,,
 7c4cae,VH-PFK,Beechcraft,C90GTi King Air,BE9L,LJ-1915,L2T,,,,2008-01-01
 7c5730,VH-RIA,Beechcraft,C90GT King Air,BE9L,LJ-1890,L2T,,,,
@@ -1394,6 +1401,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c6a57,VH-VAH,Beechcraft,B200C King Air,BE20,BL-156,L2T,,,,
 7c6a58,VH-VAI,Beechcraft,B200C King Air,BE20,BL-157,L2T,,,,
 7c6a99,VH-VCB,Beechcraft,B200 King Air,BE20,BB-579,L2T,,,,
+7c6b5a,VH-VHO,Beechcraft,95 Travel Air,BE95,TC-2221,L2P,,2011-02-18,,1979-01-01
 7c6d6e,VH-VWG,Beechcraft,C90GT King Air,BE9L,LJ-1854,L2T,,,,
 7c70ae,VH-WJK,Beechcraft,B200 King Air,BE20,BB-1083,L2T,,,,
 7c729d,VH-WXB,Beechcraft,B200 King Air,BE20,BB-1041,L2T,,,,
@@ -1405,6 +1413,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c74f1,VH-XDV,Beechcraft,B200 King Air,BE20,BB-1100,L2T,,,,
 7c755d,VH-XGV,Beechcraft,B200 King Air,BE20,BB-1230,L2T,,,,
 7c7752,VH-XUS,Beechcraft,T-34A Mentor,T34P,G-37,L1P,,,,
+7c79ee,VH-YDC,Beechcraft,58 Baron,BE58,TH-755,L2P,,2016-09-30,,1976-01-01
 7c7c7a,VH-YVG,Beechcraft,B200 King Air,BE20,BB-165,L2T,,,,
 7c7ee0,VH-ZCI,Beechcraft,B200 King Air,BE20,BB-1875,L2T,,,,
 7c7ee1,VH-ZCJ,Beechcraft,B200 King Air,BE20,BB-1853,L2T,,,,
@@ -3103,6 +3112,7 @@ a4fbe3,N420CT,Beechcraft,Hawker 400XP,BE40,RK-517,L2J,,,,
 a4fc0f,N420EM,Beechcraft,200 King Air,BE20,BB-271,L2T,,,2021-07-31,1977-01-01
 a4fd49,N420TA,Beechcraft,200 King Air,BE20,BB-420,L2T,,,2023-10-31,1978-01-01
 a4feec,N4207,Beechcraft,RC-45J Expeditor,BE18,67124,L2P,,,2021-07-31,1943-01-01
+a4ff46,N4209V,Beechcraft,Volpar Turbo 18,BE18,AF-884,L2P,HKN,,,
 a5008e,N421NM,Beechcraft,A-45 Mentor,T34P,G-720,L1P,,,2022-05-31,1961-01-01
 a501ee,N42114,Beechcraft,D18S Twin Beech,BE18,39815,L2P,,,2021-08-31,
 a5022f,N4213Z,Beechcraft,D-45 Mentor,T34P,BG-112,L1P,,,2024-03-31,1955-01-01
@@ -3153,6 +3163,7 @@ a52434,N430MC,Beechcraft,200 King Air,BE20,BB-904,L2T,,,2023-10-31,1981-01-01
 a524ae,N430S,Beechcraft,B200 King Air,BE20,BB-1080,L2T,,,2021-11-30,
 a524dc,N430TW,Beechcraft,B200 King Air,BE20,BB-1935,L2T,,,,
 a526f5,N431BG,Beechcraft,C90 King Air,BE9L,LJ-933,L2T,,,2022-09-30,1980-01-01
+a5272a,N431DK,Beechcraft,Volpar Turbo 18,BE18,AF-458,L2P,GBX,,,
 a52868,N431SC,Beechcraft,B200 King Air,BE20,BB-1337,L2T,,,2022-09-30,1989-01-01
 a52ba0,N432MA,Beechcraft,Hawker 400XP,BE40,RK-370,L2J,,,2022-11-30,
 a52ef5,N433HC,Beechcraft,B200 King Air,BE20,BB-1807,L2T,,,2022-04-30,
@@ -3713,6 +3724,7 @@ a7427e,N567SC,Beechcraft,C90GTi King Air,BE9L,LJ-2025,L2T,,,2022-01-31,2011-01-0
 a74306,N567XP,Beechcraft,Hawker 400XP,BE40,RK-567,L2J,,,2022-08-31,2008-01-01
 a74636,N568SD,Beechcraft,Hawker 400XP,BE40,RK-36,L2J,,,,
 a7465d,N568TT,Beechcraft,B200 King Air,BE20,BB-1568,L2T,,,2023-11-30,1997-01-01
+a74a0e,N569TM,Beechcraft,400A Beechjet,BE40,RK-346,L2J,,,,
 a74c17,N57AG,Beechcraft,B90 King Air,BE9L,LJ-343,L2T,,,2022-04-30,1968-01-01
 a74c9f,N57FT,Beechcraft,200 King Air,BE20,BB-136,L2T,,,2022-10-31,1976-01-01
 a74ca7,N57GA,Beechcraft,200 King Air,BE20,BB-477,L2T,,,2023-05-31,1979-01-01
@@ -4952,6 +4964,7 @@ ac9aa5,N911CS,Beechcraft,65 Queen Air,BE65,LF-21,L2P,,,2022-04-30,1960-01-01
 ac9aaa,N911CX,Beechcraft,C90 King Air,BE9L,LJ-830,L2T,,,2023-02-28,1979-01-01
 ac9ae6,N911FG,Beechcraft,C90 King Air,BE9L,LJ-774,L2T,,,,
 ac9aec,N911FN,Beechcraft,C90 King Air,BE9L,LJ-688,L2T,,,2022-12-31,1976-01-01
+ac9b82,N911MN,Beechcraft,B200 King Air,BE20,BB-1598,L2T,,,,
 ac9be4,N911RL,Beechcraft,C90A King Air,BE9L,LJ-1219,L2T,,,2023-11-30,1989-01-01
 ac9bef,N911RX,Beechcraft,B200 King Air,BE20,BB-1425,L2T,,,2022-08-31,1992-01-01
 ac9bf8,N911SF,Beechcraft,B200 King Air,BE20,BB-1659,L2T,,,2022-10-31,1999-01-01
@@ -5143,6 +5156,7 @@ ad7e93,N969LD,Beechcraft,C90A King Air,BE9L,LJ-1737,L2T,,,,
 ad7ea9,N969MA,Beechcraft,B200 King Air,BE20,BB-894,L2T,,,,
 ad7ffd,N9690R,Beechcraft,G18S Twin Beech,BE18,BA-494,L2P,,,2022-06-30,1960-01-01
 ad8197,N97D,Beechcraft,65-A90-1,U21,LM-137,L2T,,,2023-04-30,1970-01-01
+ad8198,N97DA,Beechcraft,C90GT King Air,BE9L,LJ-2137,L2T,,,,
 ad81b2,N97EB,Beechcraft,300 King Air,BE30,FA-97,L2T,,,2021-07-31,1986-01-01
 ad81c1,N97ES,Beechcraft,C90GTi King Air,BE9L,LJ-2103,L2T,,,2022-08-31,2014-01-01
 ad8207,N97HM,Beechcraft,F90 King Air,BE9T,LA-44,L2T,,,2021-12-31,

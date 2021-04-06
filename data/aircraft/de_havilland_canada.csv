@@ -1467,15 +1467,21 @@ aaf593,N805MR,De Havilland Canada,DHC-8-202 Dash 8,DH8B,655,L2T,,,2023-04-30,200
 aaf66d,N805WJ,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,805,L2T,,,,
 aaf8a1,N806EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,263,L2T,PDT,,2024-01-31,1991-01-01
 aaf94a,N806MR,De Havilland Canada,DHC-8-300 Dash 8,DH8C,662,L2T,,,2023-08-31,2009-01-01
+aafa29,N806WP,De Havilland Canada,DHC-8-103 Dash 8,DH8A,357,L2T,,,2023-03-31,1993-01-01
+aafc58,N807EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,292,L2T,,,2023-09-30,1991-01-01
 aafd01,N807MR,De Havilland Canada,DHC-8-315 Dash 8,DH8C,663,L2T,,,2023-07-31,2009-01-01
+ab000f,N808EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,299,L2T,,,2023-09-30,1991-01-01
 ab00b8,N808MR,De Havilland Canada,DHC-8-315 Dash 8,DH8C,667,L2T,,,2024-04-30,2009-01-01
 ab00dd,N808PC,De Havilland Canada,DHC-6-100 Twin Otter,DHC6,77,L2T,,,2022-04-30,1967-01-01
 ab011e,N808RT,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,499,L2T,,,2023-10-31,1976-01-01
 ab03c6,N809EX,De Havilland Canada,DHC-8-102A Dash 8,DH8A,302,L2T,PDT,,,
+ab09d6,N810EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,308,L2T,,,2022-03-31,1991-01-01
 ab0bb5,N8100A,De Havilland Canada,DHC-8-102 Dash 8,DH8A,225,L2T,DYA,,2021-09-30,
+ab1144,N812EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,312,L2T,,,2023-11-30,1991-01-01
 ab176c,N8134G,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1410,L1P,,,2022-11-30,1959-01-01
 ab1854,N814BC,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,548,L2T,,,2022-10-31,
 ab1898,N814DW,De Havilland Canada,DHC-2 Beaver,DHC2,34,L1P,,,2024-03-31,1949-01-01
+ab18b2,N814EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,318,L2T,,,2023-09-30,1992-01-01
 ab19d9,N814SS,Viking Air,DHC-6-400 Twin Otter,DHC6,901,L2T,,,2023-08-31,2014-01-01
 ab2d3a,N8190Y,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,824,L1P,,,2023-10-31,1955-01-01
 ab333b,N8200H,De Havilland Canada,DHC-8-202 Dash 8,DH8B,494,L2T,DYA,,2023-04-30,1997-01-01
@@ -1485,12 +1491,14 @@ ab34a2,N821AR,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,421,L2T,,,2022-07-31
 ab3e0d,N823X,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,823,L2T,,,2023-04-30,
 ab4932,N826X,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,826,L2T,,,2023-04-30,1985-01-01
 ab5611,N83AR,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,440,L2T,,,2023-01-31,1974-01-01
+ab5ab5,N8300C,De Havilland Canada,DHC-8-311 Dash 8,DH8C,307,L2T,,,2022-09-30,
 ab5ac4,15-00358,De Havilland Canada,RO-6A,DH8C,358,L2T,,,,
 ab5ac9,15-00332,De Havilland Canada,RO-6A,DH8C,332,L2T,,,,
 ab5b84,N8306,De Havilland Canada,DHC-2 Beaver,DHC2,533,L1P,,,,
 ab728e,N837CA,De Havilland Canada,DHC-8-311 Dash 8,DH8C,554,L2T,UCA,,2023-03-31,2000-01-01
 ab72d5,N837EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,217,L2T,PDT,,2023-04-30,
 ab7645,N838CA,De Havilland Canada,DHC-8-311Q Dash 8,DH8C,527,L2T,UCA,,,
+ab768c,N838EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,220,L2T,,,2023-09-30,
 ab79fc,N839CA,De Havilland Canada,DHC-8-311 Dash 8,DH8C,553,L2T,UCA,,2023-06-30,2000-01-01
 ab7a43,N839EX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,226,L2T,PDT,,2023-04-30,1990-01-01
 ab8757,N842AR,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,842,L2T,,,2023-09-30,1988-01-01
@@ -1505,6 +1513,7 @@ abf496,N87GC,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,286,L1P,,,2024-04-30,195
 abf4df,N87KA,De Havilland Canada,DHC-3 Turbo Otter,DH3T,11,L1T,KEN,,2023-04-30,1953-01-01
 ac0c9c,N87597,De Havilland Canada,U-6A Beaver,DHC2,987,L1P,,,,
 ac0cd3,N876CA,De Havilland Canada,DHC-8-311 Dash 8,DH8C,438,L2T,UCA,,2023-05-31,1996-01-01
+ac1e28,N880DH,De Havilland Canada,DHC-8-102 Dash 8,DH8A,206,L2T,,,2022-11-30,
 ac1e3a,N880EA,De Havilland Canada,DHC-8-106 Dash 8,DH8A,392,L2T,,,,
 ac279b,N8820,De Havilland Canada,U-6A Turbo Beaver,DH2T,406,L1T,,,2023-11-30,1952-01-01
 ac295f,N883EA,De Havilland Canada,DHC-8-106 Dash 8,DH8A,260,L2T,,,,
@@ -1515,6 +1524,7 @@ ac383b,N887EA,De Havilland Canada,DHC-8-106 Dash 8,DH8A,351,L2T,,,,
 ac3b1e,N88765,De Havilland Canada,DHC-3 Otter,DHC3,157,L1P,,,2023-05-31,1956-01-01
 ac3bae,N888BH,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,110,L1P,,,2023-03-31,1951-01-01
 ac3c7a,N888KM,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,126,L1P,,,2024-04-30,1951-01-01
+ac3da4,N888XK,De Havilland Canada,DHC-8-311 Dash 8,DH8C,264,L2T,,,2023-06-30,
 ac3fa9,N889EA,De Havilland Canada,DHC-8-102A Dash 8,DH8A,322,L2T,,,,
 ac41e1,N88919,De Havilland Canada,U-6A Beaver,DHC2,58-2029,L1P,,,2023-10-31,1958-01-01
 ac489f,N89068,De Havilland Canada,DHC-7-102 Dash 7,DHC7,88,L4T,,,2022-07-31,1982-01-01
@@ -1559,6 +1569,7 @@ ace3b4,N93E,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1149,L1P,,,2023-07-31,195
 ace73f,N930SF,De Havilland Canada,DHC-2 Turbo Beaver,DH2T,930,L1T,,,2021-09-30,1955-01-01
 ace759,N930TG,De Havilland Canada,DHC-2 Beaver,DHC2,1041,L1P,,,,
 ace83c,N9301Z,De Havilland Canada,DHC-2 Beaver,DHC2,1934,L1P,,,2021-08-31,1958-01-01
+acea10,N931HA,De Havilland Canada,DHC-8-102 Dash 8,DH8A,132,L2T,,,2023-09-30,
 acf3f4,N93356,De Havilland Canada,DHC-3 Turbo Otter,DH3T,144,L1T,,,2023-04-30,1955-01-01
 ad0adf,N94AR,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,388,L2T,,,2023-08-31,1973-01-01
 ad0b1d,N94DC,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,238,L1P,,,2023-03-31,1951-01-01
@@ -1595,6 +1606,7 @@ adc8a5,N9878R,De Havilland Canada,U-6A Beaver,DHC2,1135,L1P,,,,
 adcd43,N989HA,De Havilland Canada,DHC-8-202 Dash 8,DH8B,427,L2T,BYA,,,
 add181,N99NL,De Havilland Canada,DHC-2 Beaver,DHC2,1597,L1P,,,,
 add2b7,N990AV,De Havilland Canada,DHC-8-102 Dash 8,DH8A,099,L2T,,,,
+add2c4,N990BH,De Havilland Canada,DHC-8-106 Dash 8,DH8A,265,L2T,,,2021-11-30,1991-01-01
 add70a,N991HA,De Havilland Canada,DHC-8-202 Dash 8,DH8B,431,L2T,AIO,,,
 ade605,N995JG,De Havilland Canada,DHC-2 Turbo Beaver,DH2T,1627/TB16,L1T,,,,
 ade6d4,N995SP,De Havilland Canada,DHC-2 Beaver,DHC2,995,L1P,,,,
@@ -1609,6 +1621,7 @@ ae5c8e,15-00338,De Havilland Canada,DHC-8-314 Dash 8,DH8C,358,L2T,,,,
 ae5c90,15-00577,De Havilland Canada,DHC-8-314Q Dash 8,DH8C,577,L2T,,,,
 ae5f1a,16-00397,De Havilland Canada,RO-6A,DH8C,397,L2T,,,,
 c0001b,C-FABA,De Havilland Canada,DHC-8-102 Dash 8,DH8A,092,L2T,,2017-09-05,,
+c00021,C-FABG,De Havilland Canada,DHC-8-102 Dash 8,DH8A,147,L2T,,2005-01-12,2005-04-10,
 c00031,C-FABW,De Havilland Canada,DHC-8-102 Dash 8,DH8A,097,L2T,,2015-12-10,,
 c00038,C-FACD,De Havilland Canada,DHC-8-102 Dash 8,DH8A,150,L2T,JZA,2011-02-10,,
 c0003a,C-FACF,De Havilland Canada,DHC-8-311 Dash 8,DH8C,259,L2T,JZA,2011-03-04,,
@@ -1653,6 +1666,8 @@ c006e4,C-FCPV,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,371,L2T,,2016-04-29,
 c006f8,C-FCQP,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,370,L1P,,2018-09-07,,
 c00727,C-FCSK,De Havilland Canada,DHC-8-102 Dash 8,DH8A,122,L2T,CRQ,1988-11-10,,
 c00733,C-FCSW,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,355,L2T,,2018-09-26,,
+c00787,C-FCWC,De Havilland Canada,DHC-8-102 Dash 8,DH8A,069,L2T,,2004-11-03,2010-10-25,
+c00789,C-FCWE,De Havilland Canada,DHC-8-102 Dash 8,DH8A,094,L2T,,2004-12-14,2010-10-25,
 c00794,C-FCWP,De Havilland Canada,DHC-8-102 Dash 8,DH8A,111,L2T,CRQ,2013-04-26,,
 c007e1,C-FCZO,De Havilland Canada,DHC-3 Otter,DHC3,71,L1P,,2013-06-04,2018-06-07,
 c007e2,C-FCZP,De Havilland Canada,DHC-3 Otter,DHC3,69,L1P,,2016-07-05,,
@@ -1682,6 +1697,7 @@ c00bec,C-FENJ,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4496,L2T,WEN,2015-05-25,
 c00bf1,C-FENO,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4526,L2T,WEN,2016-08-24,,
 c00bf7,C-FENU,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4446,L2T,WEN,2013-08-01,,
 c00bfb,C-FENY,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4447,L2T,WEN,2013-09-20,,
+c00c59,C-FERO,De Havilland Canada,DHC-7-102 Dash 7,DHC7,113,L4T,,2015-03-11,,
 c00c8c,C-FETN,De Havilland Canada,DHC-2 Turbo Beaver Mk.3,DH2T,1668TB38,L1T,,1989-07-27,,
 c00d00,C-FEXZ,De Havilland Canada,DHC-8-314 Dash 8,DH8C,319,L2T,,2006-05-11,,
 c00d07,C-FEYG,De Havilland Canada,DHC-8-311 Dash 8,DH8C,320,L2T,,2005-05-31,,
@@ -1737,6 +1753,7 @@ c01538,C-FIAX,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,140,L1P,,2018-05-16,,
 c0154a,C-FIBP,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,787,L1P,,2000-12-21,2005-02-16,
 c01574,C-FIDF,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1321,L1P,,2009-04-01,,
 c01575,C-FIDG,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,718,L1P,,2016-07-19,,
+c0157a,C-FIDL,De Havilland Canada,DHC-8-314 Dash 8,DH8C,305,L2T,,2017-05-11,,
 c0157b,C-FIDM,De Havilland Canada,DHC-2 Beaver,DHC2,1323,L1P,,2018-07-10,,
 c015ac,C-FIFJ,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,831,L1P,ABS,2005-06-22,,
 c015b3,C-FIFQ,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,825,L1P,,2013-04-05,,
@@ -1782,6 +1799,7 @@ c01a97,C-FKBU,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,793,L2T,KBA,2018-04-
 c01a9a,C-FKBX,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,373,L2T,KBA,2015-06-18,,
 c01ab9,C-FKDC,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1080,L1P,,2013-04-24,,
 c01b89,C-FKLC,De Havilland Canada,DHC-3 Turbo Otter,DH3T,255,L1T,,2014-09-09,,
+c01c98,C-FKVN,De Havilland Canada,DHC-8-102 Dash 8,DH8A,155,L2T,,2018-06-28,,
 c01ca9,C-FKWE,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4467,L2T,WEN,2014-05-26,,
 c01d1c,C-FLAP,De Havilland Canada,DHC-3 Turbo Otter,DH3T,289,L1T,,2011-09-19,,
 c01d75,C-FLEA,De Havilland Canada,DHC-3 Turbo Otter,DH3T,286,L1T,,2018-08-16,,
@@ -1928,6 +1946,7 @@ c03446,C-FTUR,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1529,L1P,,1996-03-28,,
 c03493,C-FTXQ,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,308,L2T,,,,
 c034f8,C-FUBN,De Havilland Canada,DHC-2 Turbo Beaver Mk.3,DH2T,1622,L1T,,2010-07-29,,
 c03580,C-FUGT,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,382,L2T,KBA,,,
+c0368a,C-FUQZ,De Havilland Canada,DHC-8-314 Dash 8,DH8C,216,L2T,,2017-12-22,,
 c0369c,C-FURR,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1462,L1P,,2018-07-17,,
 c03703,C-FUVQ,De Havilland Canada,DHC-2 Beaver,DHC2,696,L1P,,2015-08-04,,
 c03711,C-FUWE,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4477,L2T,WEN,2014-10-06,,
@@ -1949,10 +1968,12 @@ c03a90,C-FWEP,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4548,L2T,WEN,2017-02-22,
 c03a97,C-FWEW,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4543,L2T,WEN,2018-04-23,,
 c03a9a,C-FWEZ,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4483,L2T,WEN,2014-12-17,,
 c03b3d,C-FWLG,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,731,L2T,,2012-08-22,,
+c03b41,C-FWLK,De Havilland Canada,DHC-8-301 Dash 8,DH8C,184,L2T,,2018-01-22,,
 c03bd3,C-FWRA,De Havilland Canada,DHC-3 Turbo Otter,DH3T,213,L1T,,2015-07-21,,
 c03c9d,C-FWYU,De Havilland Canada,DHC-7-103 Dash 7,DHC7,12,L4T,,2010-04-07,,
 c03ca7,C-FWZE,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1214,L1P,,1996-04-04,,
 c03cb8,C-FWZV,De Havilland Canada,DHC-7-103 Dash 7,DHC7,81,L4T,,2006-02-13,,
+c03e36,C-FXON,De Havilland Canada,DHC-8-102 Dash 8,DH8A,183,L2T,LAL,2004-08-03,2011-03-14,
 c03e45,C-FXPC,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1196,L1P,,2002-06-18,,
 c03e46,C-FXPD,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1507,L1P,,2007-02-14,,
 c03e7f,C-FXRI,De Havilland Canada,DHC-3 Turbo Otter,DH3T,258,L1T,,1987-04-22,,
@@ -1960,6 +1981,7 @@ c03ed2,C-FXUN,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1299,L1P,,2013-01-04,,
 c03edd,C-FXUY,De Havilland Canada,DHC-3 Turbo Otter,DH3T,142,L1T,,2005-09-22,2011-08-11,
 c03f69,C-FYAI,De Havilland Canada,DHC-8-314 Dash 8,DH8C,420,L2T,,2012-09-20,,
 c03fac,C-FYCX,De Havilland Canada,DHC-3 Turbo Otter,DH3T,44,L1T,,2010-08-18,,
+c03fb6,C-FYDH,De Havilland Canada,DHC-8-102 Dash 8,DH8A,083,L2T,GLR,2018-09-26,,
 c04098,C-FYLZ,De Havilland Canada,DHC-3 Turbo Otter,DH3T,247,L1T,,2013-07-02,,
 c040ae,C-FYMV,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1589,L1P,,2008-06-04,,
 c040c6,C-FYNT,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1054,L1P,,2010-12-30,,
@@ -1991,6 +2013,7 @@ c0459e,C-GAJL,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1397,L1P,,1975-08-05,,
 c045db,C-GALU,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,726,L2T,,,,
 c04600,C-GANF,De Havilland Canada,DHC-8-102 Dash 8,DH8A,042,L2T,,2017-07-19,,
 c04605,C-GANK,De Havilland Canada,DHC-8-102 Dash 8,DH8A,087,L2T,,2016-01-15,,
+c0460d,C-GANS,De Havilland Canada,DHC-8-102 Dash 8,DH8A,057,L2T,,2017-11-28,,
 c04652,C-GAQJ,De Havilland Canada,U-6A Beaver,DHC2,1130,L1P,,,,
 c04656,C-GAQN,De Havilland Canada,DHC-8-311 Dash 8,DH8C,548,L2T,,2009-11-10,,
 c0467e,C-GASB,De Havilland Canada,DHC-8-102 Dash 8,DH8A,013,L2T,,2012-09-11,,
@@ -2006,6 +2029,8 @@ c048de,C-GBPL,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,819,L1P,,2016-08-29,,
 c048ef,C-GBQC,De Havilland Canada,DHC-3 Otter,DHC3,401,L1P,,2012-03-29,,
 c0494f,C-GBTU,De Havilland Canada,DHC-3 Turbo Otter,DH3T,209,L1T,,2015-05-26,,
 c04960,C-GBUL,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,588,L1P,,2003-10-03,,
+c04965,C-GBUQ,De Havilland Canada,DHC-8-106 Dash 8,DH8A,228,L2T,,2018-07-31,,
+c04969,C-GBUU,De Havilland Canada,DHC-8-106 Dash 8,DH8A,227,L2T,,2018-07-30,2018-11-28,
 c049db,C-GBZE,De Havilland Canada,DHC-2 Beaver,DHC2,1621,L1P,,2014-02-28,,
 c049de,C-GBZH,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1518,L1P,,2011-09-29,,
 c04a15,C-GCBK,De Havilland Canada,DHC-8-314 Dash 8,DH8C,286,L2T,,2017-08-28,,
@@ -2014,6 +2039,7 @@ c04a7c,C-GCFJ,De Havilland Canada,DHC-8-102 Dash 8,DH8A,020,L2T,,1986-05-28,,
 c04a7d,C-GCFK,De Havilland Canada,DHC-8-102 Dash 8,DH8A,028,L2T,NVC,1996-11-29,,
 c04a84,C-GCFR,De Havilland Canada,DHC-7-150 Dash 7,DHC7,102,L4T,,2004-02-06,,
 c04af6,C-GCKB,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,312,L2T,KBA,2001-07-25,,
+c04be1,C-GCTC,De Havilland Canada,DHC-8-102 Dash 8,DH8A,065,L2T,,2011-02-11,,
 c04c42,C-GCWV,De Havilland Canada,DHC-6-100 Twin Otter,DHC6,82,L2T,,2018-07-31,,
 c04c6d,C-GCYM,De Havilland Canada,DHC-2 Beaver,DHC2,354,L1P,,2013-04-23,,
 c04c7b,C-GCZA,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1667,L1P,,2011-06-24,,
@@ -2023,6 +2049,7 @@ c04cd6,C-GDCN,De Havilland Canada,DHC-2 Turbo Beaver,DH2T,1661/TB35,L1T,,,,
 c04d0a,C-GDEN,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4500,L2T,WEN,2015-07-07,,
 c04d13,C-GDEW,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4563,L2T,WEN,2017-11-03,,
 c04d4d,C-GDHC,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,494,L2T,KBA,1994-07-07,,
+c04d57,C-GDHM,De Havilland Canada,DHC-8-311 Dash 8,DH8C,232,L2T,,2017-07-10,,
 c04d61,C-GDHW,De Havilland Canada,DHC-3 Otter,DHC3,10,L1P,AKN,2018-04-11,,
 c04d99,C-GDKA,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1447,L1P,,1989-04-21,,
 c04e02,C-GDOB,De Havilland Canada,DHC-2 Turbo Beaver Mk.1,DH2T,774,L1T,,2002-07-09,,
@@ -2115,6 +2142,8 @@ c05c58,C-GIZF,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,549,L2T,,2017-08-25,
 c05cbf,C-GJDE,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,471,L2T,,2012-08-24,,
 c05ce2,C-GJEN,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4536,L2T,WEN,2016-11-04,,
 c05d43,C-GJIG,De Havilland Canada,DHC-8-102 Dash 8,DH8A,068,L2T,JZA,2011-02-11,,
+c05dad,C-GJMI,De Havilland Canada,DHC-8-102 Dash 8,DH8A,077,L2T,,2011-02-10,,
+c05db3,C-GJMO,De Havilland Canada,DHC-8-102 Dash 8,DH8A,079,L2T,,2011-02-04,,
 c05dca,C-GJNL,De Havilland Canada,DHC-8-311 Dash 8,DH8C,422,L2T,,2001-04-19,,
 c05de8,C-GJOP,De Havilland Canada,DHC-8-102 Dash 8,DH8A,121,L2T,CRQ,2002-02-13,,
 c05e34,C-GJRN,De Havilland Canada,DHC-2 Beaver,DHC2,943,L1P,,2018-04-18,,
@@ -2169,6 +2198,7 @@ c062a7,C-GLJI,De Havilland Canada,DHC-3 Otter,DHC3,150,L1P,,2010-03-09,,
 c062ba,C-GLKB,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,321,L2T,KBA,,,
 c062d1,C-GLKY,De Havilland Canada,DHC-8-314 Dash 8,DH8C,538,L2T,,2013-10-16,,
 c06300,C-GLMT,De Havilland Canada,DHC-3 Otter,DHC3,216,L1P,,1996-05-10,,
+c0632e,C-GLON,De Havilland Canada,DHC-8-102 Dash 8,DH8A,133,L2T,LAL,2006-02-10,2011-02-03,
 c0633a,C-GLOZ,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4034,L2T,BFO,,,
 c06347,C-GLPM,De Havilland Canada,DHC-3 Turbo Otter,DH3T,147,L1T,,2015-05-22,,
 c06356,C-GLQB,De Havilland Canada,DHC-8-402 Dash 8,DH8D,4130,L2T,POE,2006-08-29,,
@@ -2230,8 +2260,11 @@ c06a3d,C-GOGA,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,739,L2T,,1981-02-16,
 c06a3e,C-GOGB,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,761,L2T,,1981-05-11,,
 c06a84,C-GOIT,De Havilland Canada,DHC-2 Beaver,DHC2,346,L1P,,2012-05-02,,
 c06aa6,C-GOKB,De Havilland Canada,DHC-6-300 Twin Otter,DHC6,339,L2T,KBA,,,
+c06ab2,C-GOKN,De Havilland Canada,DHC-8-102 Dash 8,DH8A,160,L2T,,2018-10-02,,
 c06ac1,C-GOLC,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1392,L1P,,2012-05-15,,
+c06af6,C-GOND,De Havilland Canada,DHC-8-102 Dash 8,DH8A,090,L2T,,2011-02-11,,
 c06afc,C-GONJ,De Havilland Canada,DHC-8-102 Dash 8,DH8A,095,L2T,JZA,2011-02-04,,
+c06b00,C-GONN,De Havilland Canada,DHC-8-102 Dash 8,DH8A,101,L2T,,2011-01-28,,
 c06b04,C-GONR,De Havilland Canada,DHC-8-102 Dash 8,DH8A,109,L2T,JZA,2011-02-10,,
 c06b09,C-GONW,De Havilland Canada,DHC-8-102 Dash 8,DH8A,112,L2T,JZA,2011-02-10,,
 c06b0a,C-GONX,De Havilland Canada,DHC-8-102 Dash 8,DH8A,118,L2T,JZA,2011-02-10,,
@@ -2264,6 +2297,7 @@ c07195,C-GRAI,De Havilland Canada,DHC-8-314 Dash 8,DH8C,483,L2T,,2009-09-18,,
 c0719c,C-GRAP,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,829,L1P,,2012-09-19,,
 c071de,C-GRDD,De Havilland Canada,DHC-6-100 Twin Otter,DHC6,54,L2T,NWL,1998-01-20,,
 c071ec,C-GRDR,De Havilland Canada,DHC-2 Beaver,DHC2,823,L1P,,2016-09-08,,
+c07231,C-GRGI,De Havilland Canada,DHC-8-106 Dash 8,DH8A,304,L2T,MPE,2017-07-25,,
 c07233,C-GRGK,De Havilland Canada,DHC-8-202 Dash 8,DH8B,522,L2T,,2009-04-01,,
 c07237,C-GRGO,De Havilland Canada,DHC-8-106 Dash 8,DH8A,258,L2T,MPE,2008-05-29,,
 c07248,C-GRHF,De Havilland Canada,DHC-2 Beaver Mk.1,DHC2,1123,L1P,,2013-01-09,,

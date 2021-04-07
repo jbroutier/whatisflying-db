@@ -310,6 +310,8 @@ C82T,,Cessna,TR182 Turbo Skylane RG,L1P,L,,,,,,,,,,,,,,,,,,,,
 C97,,Boeing,C-97 Stratofreighter,L4P,M,,,105,,,,,,,,,,,,,,,,,
 CAW,,Cessna,Model A,L1P,L,,,,,,,,,,,,,,,,,,,,
 CDC6,,Cessna,DC-6,L1P,L,,,,,,,,,,,,,,,,,,,,
+CL2P,,Canadair,CL-215,A2P,M,,,,,,,,,,,,,,,,,,,,
+CL2T,,Canadair,CL-215T,A2T,M,,,,,,,,,,,,,,,,,,,,
 CL30,,Bombardier,Challenger 300,L2J,M,,45000,117,459,470,,,6.20,20.90,48.50,19.40,,,7934,3100,15309,17532,17463,11839,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima080
 CL35,,Bombardier,Challenger 350,L2J,M,,45000,,459,477,,,6.20,20.90,48.50,19.40,,,7934,3200,15309,17532,17463,11839,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima080
 CL60,CCJ,Bombardier,Challenger 600,L2J,M,,,125,,,,,,,,,,,,,,,18643,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima023

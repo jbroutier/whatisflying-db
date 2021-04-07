@@ -1,5 +1,29 @@
 # Changelog for version 2.x
 
+**Version 2.0.24**
+
+- Add 6 Adam aircraft.
+- Add 56 Aeroprakt aircraft.
+- Add 49 Aero Vodochody aircraft.
+- Add 254 Airbus aircraft.
+- Add 26 Antonov aircraft.
+- Add 175 Aquila aircraft.
+- Add 1 ATR aircraft.
+- Add 1173 Boeing aircraft.
+- Add 153 De Havilland aircraft.
+- Add 386 De Havilland Canada aircraft.
+- Add 529 Embraer aircraft.
+- Add 116 Icon Aircraft aircraft.
+- Add 27 RotorWay aircraft.
+- Add 105 Transall aircraft.
+- Add 21 Tupolev aircraft.
+- Add 214 Yakovlev aircraft.
+- Add 150 aircraft pictures.
+- Add 19 aircraft types.
+- Add 8 aircraft types pictures.
+- Fix 8 Embraer aircraft.
+- Fix 5 Tupolev aircraft.
+
 **Version 2.0.23**
 
 - Add 1 Aeroprakt aircraft.

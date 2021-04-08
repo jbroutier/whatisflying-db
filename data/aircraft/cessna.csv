@@ -514,7 +514,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3431c8,EC-KQO,Cessna,525B CitationJet CJ3,C25B,525B-0234,L2J,,,,
 3431cf,EC-KPO,Cessna,172R Skyhawk,C172,17281479,L1P,,,,
 3431d0,EC-EKF,Reims Aviation,F172P Skyhawk,C172,2189,L1P,,,,
-3431d6,EC-EHI,Cessna,T210M Centurion,C210,210-61956,L1P,,,,
+3431d6,EC-EHI,Cessna,T210M Turbo Centurion,T210,210-61956,L1P,,,,
 34320c,EC-GRT,Reims Aviation,F172P Skyhawk,C172,2230,L1P,,,,
 343240,EC-KPN,Cessna,172S Skyhawk SP,C172,172S10650,L1P,,,,
 34328f,EC-IPO,Cessna,421B Golden Eagle,C421,421B-0509,L2P,,,,
@@ -528,7 +528,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 34348e,EC-LCM,Cessna,525 CitationJet CJ1,C525,525-0309,L2J,,,,
 3434c9,EC-LCX,Cessna,510 Citation Mustang,C510,510-0235,L2J,,,,
 3434cf,EC-LDE,Cessna,525 CitationJet CJ1+,C525,525-0644,L2J,,,,
-3434d3,EC-FGJ,Cessna,T210N Centurion,C210,210-64334,L1P,,,,
+3434d3,EC-FGJ,Cessna,T210N Turbo Centurion,T210,210-64334,L1P,,,,
 343509,EC-IHY,Cessna,421C Golden Eagle,C421,421C-1033,L2P,,,,
 343545,EC-LEP,Cessna,560 Citation V,C560,560-0153,L2J,,,,
 34354e,EC-CZZ,Reims Aviation,FR172J Reims Rocket,C172,0550,L1P,,,,
@@ -990,7 +990,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 390617,F-GBQX,Reims Aviation,F172 Skyhawk,C172,1899,L1P,,,,
 390618,F-GBQY,Reims Aviation,F152,C152,1641,L1P,,,,
 390619,F-GBQZ,Reims Aviation,F172 Skyhawk,C172,1902,L1P,,,,
-390663,F-GBTD,Cessna,T210N Centurion,C210,210-63179,L1P,,,,
+390663,F-GBTD,Cessna,T210N Turbo Centurion,T210,210-63179,L1P,,,,
 39066d,F-GBTN,Reims Aviation,F172 Skyhawk,C172,1834,L1P,,,,
 390672,F-GBTS,Reims Aviation,F182P Skylane,C182,0004,L1P,,,,
 390677,F-GBTX,Reims Aviation,F172M Skyhawk,C172,1492,L1P,,,,
@@ -1136,7 +1136,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391859,F-GGCZ,Cessna,172RG Cutlass,C72R,172RG0708,L1P,,,,
 391864,F-GGDE,Cessna,A185F Skywagon,C185,18504075,L1P,,,,
 3918c0,F-GGGA,Cessna,550 Citation II,C550,550-0586,L2J,,,,
-3918cd,F-GGGN,Cessna,T210N Centurion,C210,210-64426,L1P,,,,
+3918cd,F-GGGN,Cessna,T210N Turbo Centurion,T210,210-64426,L1P,,,,
 3918d3,F-GGGT,Cessna,550 Citation II,C550,550-0611,L2J,,,,
 391a58,F-GGSY,Cessna,150M,C150,15078308,L1P,,,,
 391b29,F-GGZJ,Cessna,172N Skyhawk,C172,17269362,L1P,,,,
@@ -1154,7 +1154,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 391d44,F-GHKE,Cessna,152,C152,15280176,L1P,,,,
 391d58,F-GHKY,Cessna,R182 Skylane RG,C82R,R18200728,L1P,,,,
 391d74,F-GHLU,Cessna,152,C152,15280860,L1P,,,,
-391d92,F-GHMS,Cessna,T210L Centurion,C210,210-60012,L1P,,,,
+391d92,F-GHMS,Cessna,T210L Turbo Centurion,T210,210-60012,L1P,,,,
 391db8,F-GHNY,Cessna,152,C152,15284287,L1P,,,,
 391db9,F-GHNZ,Cessna,152,C152,15279559,L1P,,,,
 391dc6,F-GHOG,Cessna,172N Skyhawk,C172,17270189,L1P,,,,
@@ -1439,7 +1439,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 39a96a,F-HKLK,Cessna,172S Skyhawk SP,C172,172S9202,L1P,,,,
 39a96d,F-HKLN,Reims Aviation,F172 Skyhawk,C172,1998,L1P,,,,
 39aa20,F-HKRA,Cessna,525 CitationJet CJ1+,C525,525-0661,L2J,,,,
-39accc,F-HLGM,Cessna,T210N Centurion,C210,210-63672,L1P,,,,
+39accc,F-HLGM,Cessna,T210N Turbo Centurion,T210,210-63672,L1P,,,,
 39ad0c,F-HLIM,Cessna,560 Citation Encore,C560,560-0683,L2J,,,,
 39ae71,F-HLTR,Cessna,P210N Pressurized Centurion,P210,P21000570,L1P,,,,
 39b013,F-GDRX,Reims Aviation,F172M Skyhawk,C172,0969,L1P,,,,
@@ -1675,7 +1675,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d060d,D-EANT,Reims Aviation,FR172G Reims Rocket,C172,0194,L1P,,,,
 3d0617,D-EAOD,Reims Aviation,F152,C152,1910,L1P,,,,
 3d0618,D-EAOE,Cessna,172RG Cutlass,C72R,172RG0380,L1P,,,,
-3d0622,D-EAOO,Cessna,T210N Centurion,C210,210-63856,L1P,,,,
+3d0622,D-EAOO,Cessna,T210N Turbo Centurion,T210,210-63856,L1P,,,,
 3d0625,D-EAOR,Reims Aviation,FR172F Reims Rocket,C172,0071,L1P,,,,
 3d0637,D-EAPJ,Reims Aviation,F150M,C150,1262,L1P,,,,
 3d0638,D-EAPK,Cessna,182P Skylane,C182,18263975,L1P,,,,
@@ -1783,7 +1783,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0952,D-EBTY,Cessna,150D,C150,15060459,L1P,,,,
 3d0955,D-EBUB,Cessna,170B,C170,26934,L1P,,,,
 3d0958,D-EBUE,Reims Aviation,F150J,C150,0473,L1P,,,,
-3d0961,D-EBUN,Cessna,T210N Centurion,C210,210-63136,L1P,,,,
+3d0961,D-EBUN,Cessna,T210N Turbo Centurion,T210,210-63136,L1P,,,,
 3d096c,D-EBUY,Reims Aviation,F150G,C150,0098,L1P,,,,
 3d096f,D-EBVB,Cessna,180H Skywagon,C180,18051589,L1P,,,,
 3d0977,D-EBVJ,Cessna,150F,C150,15063532,L1P,,,,
@@ -1802,7 +1802,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d09cf,D-EBYT,Reims Aviation,F152,C152,1487,L1P,,,,
 3d09de,D-EBZI,Reims Aviation,F150G,C150,0172,L1P,,,,
 3d09e0,D-EBZK,Reims Aviation,F172M Skyhawk,C172,1458,L1P,,,,
-3d09e2,D-EBZM,Cessna,T210L Centurion,C210,210-61425,L1P,,,,
+3d09e2,D-EBZM,Cessna,T210L Turbo Centurion,T210,210-61425,L1P,,,,
 3d09f4,D-ECAE,Reims Aviation,FA150K Aerobat,C150,0057,L1P,,,,
 3d09fe,D-ECAO,Cessna,172R Skyhawk,C172,17280049,L1P,,,,
 3d0a14,D-ECBK,Reims Aviation,F172H Skyhawk,C172,0685,L1P,,,,
@@ -1831,7 +1831,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0a6d,D-ECEV,Reims Aviation,F150K,C150,0585,L1P,,,,
 3d0a6e,D-ECEW,Reims Aviation,F150K,C150,0587,L1P,,,,
 3d0a70,D-ECEY,Reims Aviation,F150L,C150,0666,L1P,,,,
-3d0a72,D-ECFA,Cessna,T210K Centurion,C210,210-59212,L1P,,,,
+3d0a72,D-ECFA,Cessna,T210K Turbo Centurion,T210,210-59212,L1P,,,,
 3d0a73,D-ECFB,Reims Aviation,F172H Skyhawk,C172,0725,L1P,,,,
 3d0a77,D-ECFF,Reims Aviation,F172L Skyhawk,C172,0806,L1P,,,,
 3d0a81,D-ECFP,Cessna,172P Skyhawk,C172,17274428,L1P,,,,
@@ -2024,7 +2024,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0ca5,D-EDAR,Cessna,150J,C150,15071060,L1P,,,,
 3d0ca7,D-EDAT,Cessna,172S Skyhawk SP,C172,172S8132,L1P,,,,
 3d0cab,D-EDAX,Cessna,172M Skyhawk,C172,17265372,L1P,,,,
-3d0cac,D-EDAY,Cessna,T210N Centurion,C210,210-64305,L1P,,,,
+3d0cac,D-EDAY,Cessna,T210N Turbo Centurion,T210,210-64305,L1P,,,,
 3d0cb5,D-EDBH,Reims Aviation,FR182 Skylane RG,C82R,0007,L1P,,,,
 3d0cbb,D-EDBN,Cessna,172RG Cutlass,C72R,172RG0546,L1P,,,,
 3d0cbe,D-EDBQ,Reims Aviation,F172N Skyhawk,C172,1569,L1P,,,,
@@ -2091,7 +2091,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0ddf,D-EDMT,Reims Aviation,F172 Skyhawk,C172,1570,L1P,,,,
 3d0de9,D-EDND,Cessna,TR182 Turbo Skylane RG,C82T,R18201155,L1P,,,,
 3d0df2,D-EDNM,Reims Aviation,F150M,C150,1166,L1P,,,,
-3d0e02,D-EDOC,Cessna,T210M Centurion,C210,210-61910,L1P,,,,
+3d0e02,D-EDOC,Cessna,T210M Turbo Centurion,T210,210-61910,L1P,,,,
 3d0e12,D-EDOS,Reims Aviation,F172P Skyhawk,C172,2223,L1P,,,,
 3d0e15,D-EDOV,Reims Aviation,F172G Skyhawk,C172,0227,L1P,,,,
 3d0e29,D-EDPP,Reims Aviation,F150M,C150,1303,L1P,,,,
@@ -2188,10 +2188,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d0fcc,D-EEFS,Reims Aviation,F172P Skyhawk,C172,2186,L1P,,,,
 3d0fd0,D-EEFW,Cessna,172Q Cutlass,C172,17275823,L1P,,,,
 3d0fd2,D-EEFY,Reims Aviation,F172P Skyhawk,C172,2229,L1P,,,,
-3d0fd8,D-EEGE,Cessna,T210N Centurion,C210,210-63674,L1P,,,,
+3d0fd8,D-EEGE,Cessna,T210N Turbo Centurion,T210,210-63674,L1P,,,,
 3d0fde,D-EEGK,Cessna,182J Skylane,C182,18256742,L1P,,,,
 3d0fdf,D-EEGL,Reims Aviation,F172M Skyhawk,C172,1335,L1P,,,,
-3d0fe0,D-EEGM,Cessna,T210M Centurion,C210,210-62433,L1P,,,,
+3d0fe0,D-EEGM,Cessna,T210M Turbo Centurion,T210,210-62433,L1P,,,,
 3d0fe3,D-EEGP,Reims Aviation,F172 Skyhawk,C172,1981,L1P,,,,
 3d0fea,D-EEGW,Cessna,TR182 Turbo Skylane RG,C82T,R18200667,L1P,,,,
 3d0ff4,D-EEHG,Cessna,182Q Skylane,C182,18267235,L1P,,,,
@@ -2214,7 +2214,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1049,D-EEKN,Cessna,172S Skyhawk SP,C172,172S8308,L1P,,,,
 3d1069,D-EELT,Cessna,172C Skyhawk,C172,17248963,L1P,,,,
 3d106b,D-EELV,Cessna,172N Skyhawk,C172,17273031,L1P,,,,
-3d1074,D-EEME,Cessna,T210N Centurion,C210,210-64262,L1P,,,,
+3d1074,D-EEME,Cessna,T210N Turbo Centurion,T210,210-64262,L1P,,,,
 3d1076,D-EEMG,Cessna,210C Centurion,C210,210-58150,L1P,,,,
 3d1077,D-EEMH,Cessna,172RG Cutlass,C72R,172RG1053,L1P,,,,
 3d107d,D-EEMN,Reims Aviation,FR182 Skylane RG,C82R,0040,L1P,,,,
@@ -2233,7 +2233,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d10a1,D-EENX,Reims Aviation,F150L,C150,1059,L1P,,,,
 3d10ae,D-EEOK,Reims Aviation,F172M Skyhawk,C172,1286,L1P,,,,
 3d10b0,D-EEOM,Reims Aviation,F172M Skyhawk,C172,1295,L1P,,,,
-3d10b2,D-EEOO,Cessna,T210M Centurion,C210,210-62648,L1P,,,,
+3d10b2,D-EEOO,Cessna,T210M Turbo Centurion,T210,210-62648,L1P,,,,
 3d10b5,D-EEOR,Reims Aviation,FR172K Hawk XP,C172,0624,L1P,,,,
 3d10b6,D-EEOS,Reims Aviation,F172P Skyhawk,C172,2078,L1P,,,,
 3d10c5,D-EEPH,Reims Aviation,F172M Skyhawk,C172,1216,L1P,,,,
@@ -2519,7 +2519,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1640,D-EGRG,Reims Aviation,FR172F Reims Rocket,C172,0120,L1P,,,,
 3d1656,D-EGSC,Reims Aviation,F172 Skyhawk,C172,1898,L1P,,,,
 3d1659,D-EGSF,Reims Aviation,F172 Skyhawk,C172,1711,L1P,,,,
-3d165c,D-EGSI,Cessna,T210L Centurion,C210,210-60057,L1P,,,,
+3d165c,D-EGSI,Cessna,T210L Turbo Centurion,T210,210-60057,L1P,,,,
 3d165f,D-EGSL,Cessna,R182 Skylane RG,C82R,R18201364,L1P,,,,
 3d1665,D-EGSR,Reims Aviation,F172 Skyhawk,C172,1857,L1P,,,,
 3d1667,D-EGST,Reims Aviation,F172F Skyhawk,C172,0141,L1P,,,,
@@ -2532,7 +2532,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d168f,D-EGUH,Reims Aviation,F152,C152,1590,L1P,,,,
 3d1691,D-EGUJ,Cessna,172N Skyhawk,C172,17271599,L1P,,,,
 3d1692,D-EGUK,Cessna,172N Skyhawk,C172,17269403,L1P,,,,
-3d1693,D-EGUL,Cessna,T210N Centurion,C210,210-63924,L1P,,,,
+3d1693,D-EGUL,Cessna,T210N Turbo Centurion,T210,210-63924,L1P,,,,
 3d169b,D-EGUT,Cessna,TR182 Turbo Skylane RG,C82T,R18200668,L1P,,,,
 3d16a7,D-EGVF,Reims Aviation,F172 Skyhawk,C172,1924,L1P,,,,
 3d16a8,D-EGVG,Reims Aviation,F172N Skyhawk,C172,1933,L1P,,,,
@@ -2809,7 +2809,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2022,D-EKKO,Reims Aviation,FR172G Reims Rocket,C172,0185,L1P,,,,
 3d2026,D-EKKS,Cessna,172N Skyhawk,C172,17272162,L1P,,,,
 3d202a,D-EKKW,Cessna,T182T Turbo Skylane,C82S,T18208402,L1T,,,,
-3d203a,D-EKLM,Cessna,T210M Centurion,C210,210-61592,L1P,,,,
+3d203a,D-EKLM,Cessna,T210M Turbo Centurion,T210,210-61592,L1P,,,,
 3d2040,D-EKLS,Cessna,150F,C150,15062405,L1P,,,,
 3d204a,D-EKMC,Cessna,TP206E Turbo Super Skylane,T206,TP206-0611,L1P,,,,
 3d204e,D-EKMG,Cessna,172N Skyhawk,C172,17270868,L1P,,,,
@@ -2832,12 +2832,12 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d20ca,D-EKRA,Reims Aviation,F172G Skyhawk,C172,0286,L1P,,,,
 3d20cb,D-EKRB,Reims Aviation,F150J,C150,0451,L1P,,,,
 3d20d6,D-EKRM,Cessna,172P Skyhawk,C172,17274481,L1P,,,,
-3d20dc,D-EKRS,Cessna,T210L Centurion,C210,210-59569,L1P,,,,
+3d20dc,D-EKRS,Cessna,T210L Turbo Centurion,T210,210-59569,L1P,,,,
 3d20e7,D-EKSD,Cessna,152,C152,15283480,L1P,,,,
 3d20e9,D-EKSF,Cessna,P210N Pressurized Centurion,P210,P21000503,L1P,,,,
 3d20eb,D-EKSH,Cessna,172S Skyhawk SP,C172,172S8811,L1P,,,,
 3d20ee,D-EKSK,Cessna,172S Skyhawk SP,C172,172S8571,L1P,,,,
-3d20ef,D-EKSL,Cessna,T210N Centurion,C210,210-64855,L1P,,,,
+3d20ef,D-EKSL,Cessna,T210N Turbo Centurion,T210,210-64855,L1P,,,,
 3d20f8,D-EKSU,Cessna,150D,C150,15060091,L1P,,,,
 3d210b,D-EKTN,Cessna,U206G Stationair,C206,U206-6768,L1P,,,,
 3d210c,D-EKTO,Reims Aviation,F172G Skyhawk,C172,0180,L1P,,,,
@@ -2891,7 +2891,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2323,D-ELOD,Reims Aviation,F172G Skyhawk,C172,0203,L1P,,,,
 3d2326,D-ELOG,Reims Aviation,F150G,C150,0096,L1P,,,,
 3d232b,D-ELOL,Reims Aviation,F172G Skyhawk,C172,0207,L1P,,,,
-3d2331,D-ELOR,Cessna,T210N Centurion,C210,210-64184,L1P,,,,
+3d2331,D-ELOR,Cessna,T210N Turbo Centurion,T210,210-64184,L1P,,,,
 3d2333,D-ELOT,Reims Aviation,F152,C152,1637,L1P,,,,
 3d2338,D-ELOY,Reims Aviation,F182Q Skylane,C182,0073,L1P,,,,
 3d233d,D-ELPD,Reims Aviation,F172 Skyhawk,C172,1825,L1P,,,,
@@ -2915,7 +2915,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d23a3,D-ELTB,Reims Aviation,F182Q Skylane,C182,0082,L1P,,,,
 3d23a4,D-ELTC,Reims Aviation,F182Q Skylane,C182,0139,L1P,,,,
 3d23b6,D-ELTU,Cessna,170B,C170,20615,L1P,,,,
-3d23bb,D-ELTZ,Cessna,T210N Centurion,C210,210-64486,L1P,,,,
+3d23bb,D-ELTZ,Cessna,T210N Turbo Centurion,T210,210-64486,L1P,,,,
 3d23c4,D-ELUI,Reims Aviation,F172 Skyhawk,C172,1719,L1P,,,,
 3d23cb,D-ELUP,Reims Aviation,F172 Skyhawk,C172,1528,L1P,,,,
 3d23d1,D-ELUV,Cessna,170B,C170,20471,L1P,,,,
@@ -3358,7 +3358,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d37e7,D-ETKP,Cessna,150L,C150,15073727,L1P,,,,
 3d37e9,D-ETKR,Cessna,150M,C150,15078318,L1P,,,,
 3d37ea,D-ETKS,Cessna,TR182 Turbo Skylane RG,C82T,R18200937,L1P,,,,
-3d37ee,D-ETKW,Cessna,T210L Centurion,C210,210-60348,L1P,,,,
+3d37ee,D-ETKW,Cessna,T210L Turbo Centurion,T210,210-60348,L1P,,,,
 3d37f3,D-ETLB,Cessna,172R Skyhawk,C172,17281183,L1P,,,,
 3d37f8,D-ETLG,Cessna,172S Skyhawk SP,C172,172S8561,L1P,,,,
 3d37fd,D-ETLL,Cessna,150M,C150,15077050,L1P,,,,
@@ -3467,7 +3467,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d4164,D-EXAA,Cessna,182T Skylane,C182,18281766,L1P,,,,
 3d4165,D-EXAB,Cessna,205,C205,2050294,L1P,,,,
 3d416a,D-EXAG,Cessna,T182T Turbo Skylane,C82S,T18208557,L1T,,,,
-3d4171,D-EXAN,Cessna,T210L Centurion,C210,210-60565,L1P,,,,
+3d4171,D-EXAN,Cessna,T210L Turbo Centurion,T210,210-60565,L1P,,,,
 3d4179,D-EXAV,Cessna,172S Skyhawk SP,C172,172S10953,L1P,,,,
 3d417f,D-EXBB,Reims Aviation,FR182 Skylane RG,C82R,0026,L1P,,,,
 3d4180,D-EXBC,Cessna,182S Skylane,C182,18280113,L1P,,,,
@@ -3803,7 +3803,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400b75,G-CGOA,Cessna,550 Citation II,C550,550-0183,L2J,,2010-05-13,,1980-01-01
 400b85,G-EJEL,Cessna,550 Citation II,C550,550-0643,L2J,,2015-02-18,,1990-01-01
 400b91,G-CRUZ,Cessna,T303 Crusader,C303,T303-0004,L2P,,2013-10-22,,1982-01-01
-400ba3,G-BSGT,Cessna,T210N Centurion,C210,210-63361,L1P,,2004-03-12,,1979-01-01
+400ba3,G-BSGT,Cessna,T210N Turbo Centurion,T210,210-63361,L1P,,2004-03-12,,1979-01-01
 400bb9,G-ORAY,Reims Aviation,F182Q Skylane,C182,0132,L1P,,2017-02-20,,1980-01-01
 400bd6,G-EELS,Cessna,208B Grand Caravan,C208,208B-0619,L1T,,1997-03-03,,1997-01-01
 400be9,G-OBBO,Cessna,182S Skylane,C182,18280534,L1P,,2007-09-21,,1999-01-01
@@ -3826,7 +3826,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 400cc6,G-CIEL,Cessna,560XL Citation Excel,C56X,560-5247,L2J,LNX,2005-04-29,,2002-01-01
 400cca,G-BRDO,Cessna,177B Cardinal,C177,17702166,L1P,,2016-06-01,,1975-01-01
 400d4f,G-BSRR,Cessna,182Q Skylane,C182,18266915,L1P,,2002-08-08,,1979-01-01
-400d72,G-SEEK,Cessna,T210N Centurion,C210,210-64579,L1P,,1996-12-16,,1982-01-01
+400d72,G-SEEK,Cessna,T210N Turbo Centurion,T210,210-64579,L1P,,1996-12-16,,1982-01-01
 400d74,G-AWUZ,Reims Aviation,F172H Skyhawk,C172,0587,L1P,,2011-07-27,,1968-01-01
 400dba,G-FJET,Cessna,550 Citation II,C550,550-0419,L2J,LNX,1998-11-20,,1982-01-01
 400dcc,G-ZOOL,Reims Aviation,FA152 Aerobat,C152,0357,L1P,,2007-03-12,,1979-01-01
@@ -3905,7 +3905,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4012c6,G-IFAB,Reims Aviation,F182Q Skylane,C182,0127,L1P,,2011-03-17,,1979-01-01
 4012df,G-FNEY,Reims Aviation,F177 Cardinal RG,C77R,0059,L1P,,2004-02-24,,1972-01-01
 401301,G-GFIE,Cessna,152,C152,15281906,L1P,,2014-12-05,,1978-01-01
-40133e,G-WYLD,Cessna,T210N Centurion,C210,210-64341,L1P,,2017-10-03,,1981-01-01
+40133e,G-WYLD,Cessna,T210N Turbo Centurion,T210,210-64341,L1P,,2017-10-03,,1981-01-01
 40134b,G-PEER,Cessna,525A CitationJet CJ2+,C25A,525A-0360,L2J,,,,
 401352,G-LEAA,Cessna,510 Citation Mustang,C510,510-0072,L2J,LNX,,,
 401370,G-OHPC,Cessna,208 Caravan,C208,208-0224,L1T,,2008-04-04,,1992-01-01
@@ -4160,7 +4160,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 401c80,G-BEOY,Reims Aviation,FRA150L Aerobat,C150,0150,L1P,,2007-11-09,,1972-01-01
 401c9b,G-BEUX,Reims Aviation,F172N Skyhawk,C172,1596,L1P,,2014-01-20,,1977-01-01
 401ca5,G-BEWR,Reims Aviation,F172N Skyhawk,C172,1613,L1P,,2017-09-07,,1977-01-01
-401cb2,G-BEYV,Cessna,T210M Centurion,C210,210-61583,L1P,,2017-09-20,,1977-01-01
+401cb2,G-BEYV,Cessna,T210M Turbo Centurion,T210,210-61583,L1P,,2017-09-20,,1977-01-01
 401cbb,G-BEZK,Reims Aviation,F172H Skyhawk,C172,0462,L1P,,2005-01-04,,1967-01-01
 401cbc,G-BEZO,Reims Aviation,F172M Skyhawk,C172,1392,L1P,,2011-01-10,,1976-01-01
 401cc0,G-BEZV,Reims Aviation,F172M Skyhawk,C172,1474,L1P,,1995-06-01,,1976-01-01
@@ -4403,7 +4403,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4025a8,G-BTYC,Cessna,150L,C150,15075767,L1P,,1996-03-08,,1975-01-01
 4025ae,G-AVEO,Reims Aviation,F150G,C150,0204,L1P,,2015-09-29,,1967-01-01
 4025bd,G-BMCV,Reims Aviation,F152,C152,1963,L1P,,2014-07-11,,1963-01-01
-4025c9,G-EMLS,Cessna,T210L Centurion,C210,210-60094,L1P,,2008-09-23,,1974-01-01
+4025c9,G-EMLS,Cessna,T210L Turbo Centurion,T210,210-60094,L1P,,2008-09-23,,1974-01-01
 4025d3,G-BAEO,Reims Aviation,F172M Skyhawk,C172,0911,L1P,,2016-01-28,,1973-01-01
 4025d7,G-BAXV,Reims Aviation,F150L,C150,0966,L1P,,2017-07-18,,1973-01-01
 4025e9,G-BMGG,Cessna,152,C152,15279592,L1P,,1991-07-09,,1979-01-01
@@ -4491,7 +4491,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4029cd,G-BNUL,Cessna,152,C152,15284486,L1P,,2002-09-02,,1980-01-01
 4029cf,G-BNYL,Cessna,152,C152,15280671,L1P,,2000-03-14,,1977-01-01
 4029d1,G-SVIP,Cessna,421B Golden Eagle,C421,421B-0820,L2P,,2010-04-20,,1975-01-01
-402a02,G-BNZM,Cessna,T210N Centurion,C210,210-63640,L1P,,1994-06-08,,1979-01-01
+402a02,G-BNZM,Cessna,T210N Turbo Centurion,T210,210-63640,L1P,,1994-06-08,,1979-01-01
 402a0d,G-FIGB,Cessna,152,C152,15285925,L1P,,2008-05-20,,1984-01-01
 402a14,G-BOCI,Cessna,140A,C140,15497,L1P,,1998-09-24,,1950-01-01
 402a1f,G-BNSU,Cessna,152,C152,15281245,L1P,,2016-02-26,,1978-01-01
@@ -4963,7 +4963,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406e0b,G-FBKF,Cessna,510 Citation Mustang,C510,510-0360,L2J,,2015-04-21,,2010-01-01
 406e0c,G-FBKG,Cessna,510 Citation Mustang,C510,510-0361,L2J,,2015-04-01,,2010-01-01
 406e2c,G-JJET,Cessna,510 Citation Mustang,C510,510-0390,L2J,,2015-06-01,,2011-01-01
-406e3f,G-EFFH,Cessna,T210L Centurion,C210,210-60616,L1P,,2015-04-16,,1975-01-01
+406e3f,G-EFFH,Cessna,T210L Turbo Centurion,T210,210-60616,L1P,,2015-04-16,,1975-01-01
 406e47,G-CIPU,Reims Aviation,F172F Skyhawk,C172,0112,L1P,,2015-05-20,,1964-01-01
 406e55,G-GILB,Cessna,510 Citation Mustang,C510,510-0241,L2J,,2016-11-15,,2009-01-01
 406e58,G-CIRW,Reims Aviation,FA150K Aerobat,C150,0053,L1P,,2015-07-20,,1970-01-01
@@ -4996,7 +4996,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40705c,G-GSFS,Cessna,152,C152,15284130,L1P,,2016-02-18,,1979-01-01
 40705d,G-GMOX,Cessna,152,C152,15282152,L1P,,2016-02-17,,1979-01-01
 407067,G-UZZI,Columbia Aircraft,LC41-550FG Columbia 400,COL4,41017,L1P,,2016-07-01,,2004-01-01
-40707c,G-EENO,Cessna,T210N Centurion,C210,210-64162,L1P,,2016-03-16,,1981-01-01
+40707c,G-EENO,Cessna,T210N Turbo Centurion,T210,210-64162,L1P,,2016-03-16,,1981-01-01
 407098,G-BRCD,Cessna,A152 Aerobat,C152,A1520796,L1P,,2016-04-04,,1978-01-01
 40709a,G-XLSR,Cessna,560XL Citation XLS+,C56X,560-6202,L2J,,,,
 4070b3,G-EDGK,Cessna,TR182 Turbo Skylane RG,C82T,R18200941,L1P,,2016-04-14,,1979-01-01
@@ -5099,7 +5099,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440098,OE-FSS,Cessna,525 CitationJet CJ1,C525,525-0226,L2J,,,,
 4400b0,OE-GLL,Cessna,550B Citation Bravo,C55B,550-1069,L2J,,,,
 4400bc,OE-FOX,Cessna,340A,C340,340A-0963,L2P,,,,
-4400dd,OE-DUR,Cessna,T210N Centurion,C210,210-63862,L1P,,,,
+4400dd,OE-DUR,Cessna,T210N Turbo Centurion,T210,210-63862,L1P,,,,
 4400e0,OE-DID,Cessna,182P Skylane,C182,18264446,L1P,,,,
 4400fe,OE-FMA,Cessna,525 CitationJet CJ1,C525,525-0188,L2J,,,,
 440114,OE-FCI,Cessna,340A,C340,340A-0690,L2P,,,,
@@ -5989,7 +5989,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 468613,SX-APS,Cessna,152,C152,15282810,L1P,,,,
 468616,SX-APV,Cessna,172N Skyhawk,C172,17268819,L1P,,,,
 468617,SX-APW,Cessna,182E Skylane,C182,18254349,L1P,,,,
-468647,SX-ARG,Cessna,T210L Centurion,C210,210-60610,L1P,,,,
+468647,SX-ARG,Cessna,T210L Turbo Centurion,T210,210-60610,L1P,,,,
 46864c,SX-ARL,Reims Aviation,F150L,C150,0769,L1P,,,,
 468664,SX-ASD,Reims Aviation,F152,C152,1922,L1P,,,,
 468667,SX-ASG,Reims Aviation,F172M Skyhawk,C172,1091,L1P,,,,
@@ -6534,7 +6534,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4906ab,CS-AUK,Cessna,152,C152,15280376,L1P,,,,
 4906b0,CS-AUP,Cessna,172C Skyhawk,C172,17248845,L1P,,,,
 4906b3,CS-AUS,Cessna,152,C152,15280296,L1P,,,,
-4906b7,CS-AUW,Cessna,T210L Centurion,C210,210-60642,L1P,,,,
+4906b7,CS-AUW,Cessna,T210L Turbo Centurion,T210,210-60642,L1P,,,,
 4906c1,CS-AVA,Cessna,152,C152,15283295,L1P,,,,
 4906c2,CS-AVB,Cessna,152,C152,15279539,L1P,,,,
 4906c3,CS-AVC,Cessna,152,C152,15279621,L1P,,,,
@@ -6566,9 +6566,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49104e,CS-DBN,Cessna,172N Skyhawk,C172,17270051,L1P,,,,
 49106c,CS-DCL,Reims Aviation,FR172F Reims Rocket,C172,0133,L1P,,,,
 49106f,CS-DCO,Cessna,152,C152,15284611,L1P,,,,
-491072,CS-DCR,Cessna,T210N Centurion,C210,210-63671,L1P,,,,
+491072,CS-DCR,Cessna,T210N Turbo Centurion,T210,210-63671,L1P,,,,
 491075,CS-DCU,Cessna,172N Skyhawk,C172,17267812,L1P,,,,
-49107a,CS-DCZ,Cessna,T210N Centurion,C210,210-63239,L1P,,,,
+49107a,CS-DCZ,Cessna,T210N Turbo Centurion,T210,210-63239,L1P,,,,
 49108a,CS-DDJ,Cessna,152,C152,15283947,L1P,,,,
 49108d,CS-DDM,Cessna,182S Skylane,C182,18280437,L1P,,,,
 49108f,CS-DDO,Cessna,A152 Aerobat,C152,A1520804,L1P,,,,
@@ -6883,7 +6883,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4a1ca7,YR-GEG,Cessna,172S Skyhawk SP,C172,172S10593,L1P,,,,
 4a2e98,YR-KTX,Cessna,152,C152,15283973,L1P,,,,
 4a2e99,YR-KTY,Cessna,152,C152,15279544,L1P,,,,
-4a3421,YR-MAA,Cessna,T210L Centurion,C210,210-60102,L1P,,,,
+4a3421,YR-MAA,Cessna,T210L Turbo Centurion,T210,210-60102,L1P,,,,
 4a3481,YR-MDA,Cessna,172S Skyhawk SP,C172,172S8114,L1P,,,,
 4a3482,YR-MDB,Cessna,172S Skyhawk SP,C172,172S8354,L1P,,,,
 4a3483,YR-MDC,Cessna,172S Skyhawk SP,C172,172S8356,L1P,,,,
@@ -6947,7 +6947,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4aa538,SE-IIX,Cessna,U206A Super Skywagon,C206,U206-0591,L1P,,,,
 4aa562,SE-IKB,Cessna,140,C140,9624,L1P,,,,
 4aa578,SE-IKX,Cessna,A185E Skywagon,C185,18501530,L1P,,,,
-4aa5cc,SE-INL,Cessna,T210N Centurion,C210,210-64692,L1P,,,,
+4aa5cc,SE-INL,Cessna,T210N Turbo Centurion,T210,210-64692,L1P,,,,
 4aa5ce,SE-INN,Reims Aviation,F172H Skyhawk,C172,0556,L1P,,,,
 4aa607,SE-IPG,Reims Aviation,F172P Skyhawk,C172,2234,L1P,,,,
 4aa643,SE-IRC,Reims Aviation,F172P Skyhawk,C172,2173,L1P,,,,
@@ -7041,7 +7041,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b0580,HB-CCE,Reims Aviation,F152,C152,1604,L1P,,,,
 4b0589,HB-CCN,Reims Aviation,F152,C152,1621,L1P,,,,
 4b058c,HB-CCQ,Cessna,172S Skyhawk,C172,172S10928,L1P,,2016-04-22,,2009-01-01
-4b058d,HB-CCR,Cessna,T210N Centurion,C210,210-63489,L1P,,1979-06-29,,1979-01-01
+4b058d,HB-CCR,Cessna,T210N Turbo Centurion,T210,210-63489,L1P,,1979-06-29,,1979-01-01
 4b058f,HB-CCT,Reims Aviation,F172N Skyhawk,C172,1885,L1P,,1979-10-12,,1979-01-01
 4b0591,HB-CCV,Reims Aviation,F172M Skyhawk,C172,1476,L1P,,1979-08-07,,1976-01-01
 4b0597,HB-CDB,Reims Aviation,F150L,C150,0870,L1P,,1972-11-24,,1973-01-01
@@ -7198,7 +7198,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b07d8,HB-CZG,Cessna,T206H Turbo Stationair,T206,T206-8078,L1P,,2007-02-16,,1999-01-01
 4b07d9,HB-CZH,Cessna,170B,C170,27107,L1P,,2007-08-28,,1956-01-01
 4b07de,HB-CZM,Cessna,T182T Turbo Skylane,C82S,T18208784,L1T,,2008-05-14,,2007-01-01
-4b07df,HB-CZN,Cessna,T210N Centurion,C210,210-64496,L1P,,2008-02-28,,1981-01-01
+4b07df,HB-CZN,Cessna,T210N Turbo Centurion,T210,210-64496,L1P,,2008-02-28,,1981-01-01
 4b07e0,HB-CZO,Cessna,172S Skyhawk,C172,172S10067,L1P,EZB,2009-07-22,,2005-01-01
 4b07e4,HB-CZS,Cessna,T182T Turbo Skylane,C82S,T18208896,L1T,,2015-10-23,,2008-01-01
 4b07e6,HB-CZU,Cessna,182S Skylane,C182,18280047,L1P,,2010-07-14,,1997-01-01
@@ -7615,7 +7615,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 501e4c,9A-EEE,Cessna,182Q Skylane,C182,18265770,L1P,,,,
 502c8d,YL-MBL,Cessna,172S Skyhawk SP,C172,172S9795,L1P,,,,
 502cb0,YL-SAB,Cessna,182T Skylane,C182,18281246,L1P,,,,
-502cbe,YL-CKA,Cessna,T210L Centurion,C210,210-61046,L1P,,,,
+502cbe,YL-CKA,Cessna,T210L Turbo Centurion,T210,210-61046,L1P,,,,
 502cc1,YL-CCD,Cessna,172N Skyhawk,C172,17269293,L1P,,,,
 502ccb,YL-IES,Cessna,404 Titan,C404,404-0406,L2P,,,,
 502cd5,YL-ART,Reims Aviation,F172L Skyhawk,C172,0864,L1P,,,,
@@ -9182,10 +9182,10 @@ a1b907,N21VC,Cessna,525 CitationJet CJ1,C525,525-0106,L2J,,,2022-09-30,1995-01-0
 a1b986,N210AD,Cessna,210G Centurion,C210,210-58835,L1P,,,2021-08-31,1967-01-01
 a1b9a0,N210BE,Cessna,P210N Pressurized Centurion,P210,P21000088,L1P,,,2024-02-29,1978-01-01
 a1b9c0,N210CM,Cessna,560 Citation V,C560,560-0369,L2J,,,2023-12-31,1996-01-01
-a1b9f9,N210EU,Cessna,T210L Centurion,C210,210-61152,L1P,,,2023-12-31,
+a1b9f9,N210EU,Cessna,T210L Turbo Centurion,T210,210-61152,L1P,,,2023-12-31,
 a1ba09,N210FK,Cessna,P210N Pressurized Centurion,P210,P21000441,L1P,,,2023-09-30,1979-01-01
 a1ba45,N210HV,Cessna,P210N Pressurized Centurion,P210,P21000377,L1P,,,,
-a1ba9a,N210ME,Cessna,T210L Centurion,C210,210-61123,L1P,,,2023-09-30,
+a1ba9a,N210ME,Cessna,T210L Turbo Centurion,T210,210-61123,L1P,,,2023-09-30,
 a1baba,N210NM,Cessna,210K Centurion,C210,210-59255,L1P,,,2023-08-31,1970-01-01
 a1bad3,N210PM,Cessna,510 Citation Mustang,C510,510-0301,L2J,,,2023-06-30,2010-01-01
 a1bb1a,N210SH,Cessna,P210N Pressurized Centurion,P210,P21000739,L1P,,,2021-11-30,1981-01-01
@@ -12496,7 +12496,7 @@ a89bcd,N654CE,Cessna,560 Citation V,C560,560-0654,L2J,,,2024-02-29,2004-01-01
 a89cdf,N654PD,Cessna,560XL Citation Excel,C56X,560-6236,L2J,,,2023-10-31,2017-01-01
 a89d05,N654QS,Cessna,560XL Citation Excel,C56X,560-5611,L2J,EJA,,2023-11-30,2006-01-01
 a89d9f,N654WW,Cessna,525 CitationJet CJ1,C525,525-0053,L2J,,,2023-05-31,1994-01-01
-a89e91,N6544Y,Cessna,T210N Centurion,C210,210-64429,L1P,,,2022-02-28,1981-01-01
+a89e91,N6544Y,Cessna,T210N Turbo Centurion,T210,210-64429,L1P,,,2022-02-28,1981-01-01
 a89f5f,N655AT,Cessna,501 Citation I/SP,C501,501-0030,L2J,,,2024-04-30,0001-01-01
 a89f89,N655CK,Cessna,525 CitationJet CJ1,C525,525-0448,L2J,,,2022-12-31,2001-01-01
 a8a026,N655JS,Cessna,560 Citation V,C560,560-0190,L2J,,,2023-06-30,1992-01-01
@@ -13216,7 +13216,7 @@ aa420a,N760FE,Cessna,208B Grand Caravan,C208,208B-0252,L1T,,,,
 aa429b,N760M,Cessna,550 Citation II,C550,550-0635,L2J,,,2023-07-31,1990-01-01
 aa439e,N760XJ,Cessna,750 Citation X,C750,750-0260,L2J,XOJ,,2021-12-31,2006-01-01
 aa45c1,N761FE,Cessna,208B Grand Caravan,C208,208B-0254,L1T,,,2022-11-30,1991-01-01
-aa461a,N761JU,Cessna,T210M Centurion,C210,210-62300,L1P,,,2022-03-31,1977-01-01
+aa461a,N761JU,Cessna,T210M Turbo Centurion,T210,210-62300,L1P,,,2022-03-31,1977-01-01
 aa4685,N761PA,Cessna,510 Citation Mustang,C510,510-0374,L2J,,,2023-07-31,2011-01-01
 aa46ca,N761RV,Cessna,208B Grand Caravan EX,C208,208B-5334,L1T,,,,
 aa4978,N762FE,Cessna,208B Grand Caravan,C208,208B-0255,L1T,FDX,,2023-02-28,1991-01-01

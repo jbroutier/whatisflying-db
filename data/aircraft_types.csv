@@ -63,8 +63,8 @@ A3ST,ABB,Airbus,A300-600ST Beluga,L2J,H,,,137,,,,,,,,,,,,,140000,155900,155000,1
 A4,,Douglas,A-4 Skyhawk,L1J,M,,,,,585,,,4.62,12.23,24.00,8.38,,,,1008,,,11113,,
 A400,,Airbus Defence and Space,A400M Atlas,L4T,H,,,,,,,,,,,,,,,,,,,,
 A5,,Icon Aircraft,A5,A1P,L,,,,,,,,,,,,,,,,,,,,
-A50,,Beriev,A-50,L4J,H,,,,,,,,,,,,,,,,,,,,,
-A500,,Adam,A500,L2P,L,,,,,,,,,,,,,,,,,,,,,
+A50,,Beriev,A-50,L4J,H,,,,,,,,,,,,,,,,,,,,
+A500,,Adam,A500,L2P,L,,,,,,,,,,,,,,,,,,,,
 A504,,Avro,504,L1P,L,,,,,,,,,,,,,,,,,,,,
 A6,,Grumman,A-6 Intruder,L2J,M,,,,,,,,,,,,,,,,,,,,
 A600,,RotorWay,A600 Talon,H1P,L,,,,,,,,,,,,,,,,,,,,
@@ -310,10 +310,12 @@ C82T,,Cessna,TR182 Turbo Skylane RG,L1P,L,,,,,,,,,,,,,,,,,,,,
 C97,,Boeing,C-97 Stratofreighter,L4P,M,,,105,,,,,,,,,,,,,,,,,
 CAW,,Cessna,Model A,L1P,L,,,,,,,,,,,,,,,,,,,,
 CDC6,,Cessna,DC-6,L1P,L,,,,,,,,,,,,,,,,,,,,
+CL2P,,Canadair,CL-215,A2P,M,,,,,,,,,,,,,,,,,,,,
+CL2T,,Canadair,CL-215T,A2T,M,,,,,,,,,,,,,,,,,,,,
 CL30,,Bombardier,Challenger 300,L2J,M,,45000,117,459,470,,,6.20,20.90,48.50,19.40,,,7934,3100,15309,17532,17463,11839,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima080
 CL35,,Bombardier,Challenger 350,L2J,M,,45000,,459,477,,,6.20,20.90,48.50,19.40,,,7934,3200,15309,17532,17463,11839,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima080
 CL60,CCJ,Bombardier,Challenger 600,L2J,M,,,125,,,,,,,,,,,,,,,18643,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima023
-CMAS,,Cessna,Airmaster,L1P,L,,,,,,,,,,,,,,,,,,,,
+CMAS,,Cessna,C-34 Airmaster,L1P,L,,,,,,,,,,,,,,,,,,,,
 CN35,,Airbus Defence and Space,CN235,L2T,M,25000,30000,160,245,,,,8.18,21.40,60.00,25.81,,,5220,2730,16500,,16500,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa186
 CNBR,,English Electric,Canberra,L2J,M,,,,,,,,,,,,,,,,,,,,
 CNGP,,Cessna,NGP,L1P,L,,,,,,,,,,,,,,,,,,,,

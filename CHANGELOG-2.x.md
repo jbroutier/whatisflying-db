@@ -1,5 +1,49 @@
 # Changelog for version 2.x
 
+**Version 2.0.25**
+
+**Added**
+
+- Add 1819 Bombardier aircraft.
+- Add 69660 Cessna aircraft.
+- Add 13 Douglas aircraft.
+- Add 112 Canadair aircraft.
+- Add 22 De Havilland Canada aircraft.
+- Add 113 McDonnell Douglas aircraft.
+- Add 44200 Piper aircraft.
+- Add 48 aircraft pictures.
+- Add 2 aircraft types.
+- Add 3 aircraft types pictures.
+
+**Fixed or improved**
+
+- Properly format Cessna C240 aircraft serial numbers.
+- Properly format Piper AEST aircraft serial numbers.
+- Properly format Piper M600 aircraft serial numbers.
+- Properly format Piper PA18 aircraft serial numbers.
+- Properly format Piper PA24 aircraft serial numbers.
+- Properly format Piper PA27 aircraft serial numbers.
+- Properly format Piper P28A/B/R/S/T/U aircraft serial numbers.
+- Properly format Piper PA30 aircraft serial numbers.
+- Properly format Piper PA31 aircraft serial numbers.
+- Properly format Piper PA32/P32R/P32T aircraft serial numbers.
+- Properly format Piper PA34 aircraft serial numbers.
+- Properly format Piper PA44 aircraft serial numbers.
+- Properly format Piper PA46/P46T aircraft serial numbers.
+- Fix Bombardier Challenger 604/605 aircraft names.
+- Fix Cessna C188 "Ag" variants aircraft names.
+- Fix Cessna C310 aircraft model names.
+- Fix Cessna T210 Turbo Centurion aircraft names & types.
+- Fix Cessna T50 aircraft description.
+- Fix Piper PA46 aircraft ICAO type codes.
+- Fix Piper PAY1/PAY2 aircraft model names.
+- Fix 4 Piper PA18 aircraft model names.
+- Fix aircraft `3824d2` ICAO type code.
+- Fix aircraft `4015d0` model name.
+- Fix aircraft `405c80` model name.
+- Fix aircraft `34328e` model name.
+- Fix aircraft type CMAS name.
+
 **Version 2.0.24**
 
 - Add 6 Adam aircraft.

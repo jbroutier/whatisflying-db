@@ -1,6 +1,6 @@
 # Changelog for version 2.x
 
-**Version 2.0.25**
+## Version 2.0.25
 
 **Added**
 
@@ -44,7 +44,7 @@
 - Fix aircraft `34328e` model name.
 - Fix aircraft type CMAS name.
 
-**Version 2.0.24**
+## Version 2.0.24
 
 - Add 6 Adam aircraft.
 - Add 56 Aeroprakt aircraft.
@@ -68,7 +68,7 @@
 - Fix 8 Embraer aircraft.
 - Fix 5 Tupolev aircraft.
 
-**Version 2.0.23**
+## Version 2.0.23
 
 - Add 1 Aeroprakt aircraft.
 - Add 1 Aero Vodochody aircraft.
@@ -102,7 +102,7 @@
 - Fix aircraft `7c1744` model name.
 - Fix "Morane-Saulnier" spelling, sometimes spelled without a dash.
 
-**Version 2.0.22**
+## Version 2.0.22
 
 - Add 26 Boeing aircraft.
 - Add 1418 Boeing-Stearman aircraft.
@@ -111,12 +111,12 @@
 - Add 43 aircraft types.
 - Add 42 aircraft types pictures.
 
-**Version 2.0.21**
+## Version 2.0.21
 
 - Add 549 aircraft pictures.
 - Fix aircraft `3e45a3` manufacturer & model.
 
-**Version 2.0.20**
+## Version 2.0.20
 
 - Add 287 Dornier aircraft.
 - Add 1929 Pilatus aircraft.
@@ -124,7 +124,7 @@
 - Add 16 aircraft types.
 - Add 16 aircraft types pictures.
 
-**Version 2.0.19**
+## Version 2.0.19
 
 - Add 5 English Electric aircraft.
 - Add 26 Fieseler aircraft.
@@ -135,7 +135,7 @@
 - Add 19 aircraft types.
 - Add 19 aircraft types pictures.
 
-**Version 2.0.18**
+## Version 2.0.18
 
 - Add 77 AgustaWestland aircraft.
 - Add 140 Avro aircraft.
@@ -145,7 +145,7 @@
 - Add 22 aircraft types.
 - Add 22 aircraft types pictures.
 
-**Version 2.0.17**
+## Version 2.0.17
 
 - Add 37 Aermacchi aircraft.
 - Add 421 Aero Vodochody aircraft.
@@ -155,7 +155,7 @@
 - Add 12 aircraft types pictures.
 - Fix aircraft `ad120c` model.
 
-**Version 2.0.16**
+## Version 2.0.16
 
 - Add 274 Boeing aircraft.
 - Add 107 British Aerospace aircraft.
@@ -168,11 +168,11 @@
 - Fix aircraft type HAWK manufacturer name & name.
 - Fix aircraft type T33 name.
 
-**Version 2.0.15**
+## Version 2.0.15
 
 - Remove 5 duplicate Airbus aircraft.
 
-**Version 2.0.14**
+## Version 2.0.14
 
 - Add 65 Airbus aircraft.
 - Add 3 Cessna aircraft.
@@ -181,7 +181,7 @@
 - Fix 18 Piper aircraft types names.
 - Replace aircraft type C30J picture (better quality).
 
-**Version 2.0.13**
+## Version 2.0.13
 
 - Add 42 Airbus aircraft.
 - Add 2 ATR aircraft.
@@ -189,26 +189,26 @@
 - Add 6 Embraer aircraft.
 - Add AirAsia India (IAD/I5) airline.
 
-**Version 2.0.12**
+## Version 2.0.12
 
 - Add 20 Schweizer aircraft.
 - Add 1456 Sikorsky aircraft.
 - Add 192 aircraft pictures.
 - Update aircraft type S330 manufacturer name.
 
-**Version 2.0.11**
+## Version 2.0.11
 
 - Add 6446 Bell aircraft.
 - Add 536 Mooney aircraft.
 
-**Version 2.0.10**
+## Version 2.0.10
 
 - Add 594 Dassault aircraft.
 - Add 365 Lockheed Martin aircraft.
 - Add 189 aircraft pictures.
 - Remove wrong Cessna E350 aircraft type picture.
 
-**Version 2.0.9**
+## Version 2.0.9
 
 - Add 3 Airbus aircraft.
 - Add 1 Boeing aircraft.
@@ -217,7 +217,7 @@
 - Add 155 Northrop aircraft.
 - Add the surface type of 8515 airport runways.
 
-**Version 2.0.8**
+## Version 2.0.8
 
 - Add 307 Grumman American aircraft.
 - Add 18 Gulfstream American aircraft.
@@ -226,7 +226,7 @@
 - Add 1039 aircraft pictures.
 - Add aircraft type E530 picture.
 
-**Version 2.0.7**
+## Version 2.0.7
 
 - Add 22 ERCO aircraft.
 - Add 202 Eurofighter aircraft.
@@ -240,12 +240,12 @@
 - Fix aircraft type D11 name.
 - Fix aircraft type H269 manufacturer name.
 
-**Version 2.0.6**
+## Version 2.0.6
 
 - Add 8146 Cessna aircraft.
 - Add 180 aircraft pictures.
 
-**Version 2.0.5**
+## Version 2.0.5
 
 - Add 958 Cessna aircraft.
 - Add 1 navaid.
@@ -253,25 +253,25 @@
 - Fix 3 Cessna aircraft types names.
 - Fix navaids incorrectly marked as DME-ILS instead of terminal, non-paired DMEs.
 
-**Version 2.0.4**
+## Version 2.0.4
 
 - Fix broken CSV.
 
-**Version 2.0.3**
+## Version 2.0.3
 
 - Add 6141 Cessna aircraft.
 - Add 197 Czech Sport Aircraft aircraft.
 - Fix aircraft type CRUZ manufacturer name.
 - Fix aircraft type T50 name.
 
-**Version 2.0.2**
+## Version 2.0.2
 
 - Add 6174 Beechcraft aircraft.
 - Add 4 Nextant Aerospace aircraft.
 - Add Nextant Aerospace 400XT (BE4W) aircraft type.
 - Fix 5 Beechcraft aircraft types names.
 
-**Version 2.0.1**
+## Version 2.0.1
 
 - Add 40 Airbus aircraft.
 - Add 3 ATR aircraft.
@@ -286,7 +286,7 @@
 - Replace the old Berlin-Schönefeld (EDDB/SXF) airport with the new Berlin-Brandenburg (EDDB/BER) airport.
 - Fix the aircraft type E50P name.
 
-**Version 2.0.0**
+## Version 2.0.0
 
 - Fix ICAO aircraft type code for AgustaWestland AW119 family aircraft.
 - Add missing ICAO aircraft type code for aircraft ad5f08.

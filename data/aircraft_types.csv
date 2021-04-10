@@ -187,6 +187,7 @@ B788,788,Boeing,787-8 Dreamliner,L2J,H,,43100,140,488,516,5.75,5.75,16.92,56.72,
 B789,789,Boeing,787-9 Dreamliner,L2J,H,,43100,140,488,516,5.75,5.75,17.02,62.00,377.00,60.12,,,126356,7635,192776,254692,254011,181436,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima115
 B78X,78J,Boeing,787-10 Dreamliner,L2J,H,,41100,,488,516,5.75,5.75,17.02,68.30,377.00,60.12,,,126356,6430,201848,254692,254011,192777,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima115
 BA11,B11,BAC,111 One-Eleven,L2J,M,,,,,,,,,,,,,,,,,,,,
+BALL,,Generic,Balloon,X,L,,,,,,,,,,,,,,,,,,,,
 BCAT,,Grumman,F8F Bearcat,L1P,L,,,,,,,,,,,,,,,,,,,,
 BCS1,CS1,Airbus,A220-100,L2J,M,,41000,130,,,,,11.80,34.90,,35.10,,,,,52390,61235,60781,50349,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima570
 BCS3,CS3,Airbus,A220-300,L2J,M,,41000,135,,,,,11.50,38.70,,35.10,,,,,58740,68039,67585,55792,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima570
@@ -452,6 +453,8 @@ GL5T,,Bombardier,Global 5000,L2J,M,41000,51000,108,487,504,,,7.80,29.50,94.80,28
 GL7T,,Bombardier,Global 7000,L2J,M,43000,51000,,487,507,,,8.20,33.88,116.50,31.70,,,23362,7700,39735,52208,52095,30617,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
 GLEX,CCX,Bombardier,Global Express,L2J,M,41000,51000,108,487,504,,,7.80,30.30,94.80,28.70,,,24333,6000,35652,45246,45132,26308,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
 GLF2,,Grumman,G-1159 Gulfstream II,L2J,M,,,125,,,,,,,,,,,,,,,,,
+GLID,,Generic,Glider,X,L,,,,,,,,,,,,,,,,,,,,
+GYRO,,Generic,Ultralight autogyro,X,L,,,,,,,,,,,,,,,,,,,,
 H160,,Airbus Helicopters,H160,H2T,L,,20000,,138,170,4.91,3.54,,13.96,,,140.95,13.40,1440,475,,,6050,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar516
 H25B,H25,British Aerospace,BAe 125-700,L2J,M,,,,,,,,,,,,,,,,,,,,
 H25C,H25,British Aerospace,BAe 125-1000,L2J,M,,,,,,,,,,,,,,,,,,,,
@@ -597,6 +600,7 @@ PA38,,Piper,PA-38 Tomahawk,L1P,L,,,,,,,,,,,,,,,,,,,,
 PA44,,Piper,PA-44 Seminole,L2P,L,,,66,,,,,,,,,,,,,,,,,
 PA46,PAG,Piper,PA-46 Malibu,L1P,L,,,75,,,,,,,,,,,,,,,,,
 PA47,,Piper,PA-47 PiperJet,L1J,L,,,,,,,,,,,,,,,,,,,,
+PARA,,Generic,Paramotor,X,L,,,,,,,,,,,,,,,,,,,,
 PAT4,,Piper,PA-31T3 Cheyenne,L2T,L,,,100,,,,,,,,,,,,,,,,,
 PAY1,,Piper,PA-31T Cheyenne,L2T,L,,,92,,,,,,,,,,,,,,,,,
 PAY2,,Piper,PA-31T Cheyenne II,L2T,L,,,98,,,,,,,,,,,,,,,,,
@@ -648,6 +652,7 @@ SBD,,Douglas,SBD Dauntless,L1P,L,25530,,,161,222,,,4.14,10.09,30.20,12.66,,,980,
 SF50,,Cirrus,SF50 Vision,L1J,L,,,,,,,,,,,,,,,,,,,,
 SGUP,,Aero Spacelines,B377SGT Super Guppy,L4T,L,,,,,,,,,,,,,,,,,,,,
 SHAC,,Avro,696 Shackleton,L4P,M,,,,,,,,,,,,,,,,,,,,
+SHIP,,Generic,Airship,X,L,,,,,,,,,,,,,,,,,,,,
 SMB2,,Dassault,Super Mystère B2,L1J,M,,,,,,,,,,,,,,,,,,,,
 SR20,,Cirrus,SR20,L1P,L,,,,,,,,,,,,,,,,,,,,
 SR22,,Cirrus,SR22,L1P,L,,,,,,,,,,,,,,,,,,,,
@@ -684,6 +689,8 @@ U2,,Lockheed,U-2,L1J,M,,,,,,,,,,,,,,,,,,,,
 U21,,Beechcraft,U-21 Ute,L2T,L,,,,,,,,,,,,,,,,,,,,
 UH1,,Bell,204/UH-1 Iroquois,H1T,L,,,,,,,,,,,,,,,,,,,,
 UH1Y,,Bell,UH-1Y Venom,H2T,M,,,,,,,,,,,,,,,,,,,,
+UHEL,,Generic,Ultralight helicopter,X,L,,,,,,,,,,,,,,,,,,,,
+ULAC,,Generic,Ultralight aircraft,X,L,,,,,,,,,,,,,,,,,,,,
 V1,,Grumman,OV-1 Mohawk,L2T,M,,,,,,,,,,,,,,,,,,,,
 V22,,Bell/Boeing,V-22 Osprey,T2T,M,,,,,,,,,,,,,,,,,,,,
 VAMP,,De Havilland,DH-100 Vampire,L1J,L,,,,,,,,,,,,,,,,,,,,
@@ -726,3 +733,4 @@ Z37T,,Zlín,Z-37T Agro-Turbo,L1T,L,,,,,,,,,,,,,,,,,,,,
 Z42,,Zlín,Z-42,L1P,L,13940,,,116,122,,,2.69,7.07,13.15,9.11,,,130,290,970,,970,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa027
 Z43,,Zlín,Z-43,L1P,L,12500,,,79,110,,,2.91,7.75,14.50,9.76,,,230,330,1280,,1350,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa028
 Z50,,Zlín,Z-50,L1P,L,20000,,,130,158,,,1.99,6.62,12.50,8.58,,,160,,800,,800,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa108
+ZZZZ,,Generic,Aircraft,X,L,,,,,,,,,,,,,,,,,,,,

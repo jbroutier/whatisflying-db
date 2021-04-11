@@ -1,5 +1,23 @@
 # Changelog for version 2.x
 
+## Version 2.0.26
+
+**Added**
+
+- Add 19 Boeing aircraft.
+- Add 3 De Havilland aircraft.
+- Add 329 aircraft pictures.
+- Add 8 generic aircraft types (ICAO special designators).
+- Add 8 generic aircraft types pictures (ICAO special designators).
+
+**Fixed or improved**
+
+- Fix 7 Boeing B735 aircraft ICAO type codes.
+- Fix 71 Cessna C425 aircraft ICAO type codes.
+- Fix 2 Icon Aircraft aircraft ICAO type codes.
+- Fix aircraft `a4a8c8` ICAO type code.
+- Fix aircraft `aa2177` ICAO type code.
+
 ## Version 2.0.25
 
 **Added**

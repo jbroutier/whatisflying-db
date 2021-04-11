@@ -153,6 +153,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40192d,G-AZDY,De Havilland,DH-82A Tiger Moth,DH82,86559,L1P,,2012-03-08,,1944-01-01
 4019af,G-AZZZ,De Havilland,DH-82A Tiger Moth,DH82,86311,L1P,,1972-07-27,,1944-01-01
 4019d1,G-BAFG,De Havilland,DH-82A Tiger Moth,DH82,85995,L1P,,2013-06-13,,1942-01-01
+401a3c,G-EBHX,De Havilland,DH-53 Humming Bird,ZZZZ,98,L1P,,1993-04-08,,1923-01-01
+401a3e,G-EBIR,De Havilland,DH-51 Moth,ZZZZ,102,L1P,,1993-04-08,,1924-01-01
+401a42,G-EBQP,De Havilland,DH-53 Humming Bird,ZZZZ,114,L1P,,2008-04-08,,1924-01-01
 401a44,G-AAHY,De Havilland,DH-60M Moth,DH60,1362,L1P,,1996-09-27,,1929-01-01
 401a4d,G-AAWO,De Havilland,DH-60G Gipsy Moth,DH60,1235,L1P,,2012-08-08,,1930-01-01
 401a4e,G-AAZP,De Havilland,DH-80A Puss Moth,DH80,2047,L1P,,1982-11-02,,1930-01-01

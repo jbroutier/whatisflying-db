@@ -1,5 +1,10 @@
 # Changelog for version 2.x
 
+## Version 2.0.28
+
+- Add 214 aircraft pictures.
+- Fix Cessna C185/C188 "Ag" variants model names.
+
 ## Version 2.0.27
 
 - Add 297 aircraft pictures.

@@ -1,5 +1,17 @@
 # Changelog for version 2.x
 
+## Version 2.0.27
+
+**Added**
+
+- Add 297 aircraft pictures.
+- Add 5 aircraft type pictures.
+
+**Fixed or improved**
+
+- Fix Beechcraft BE19/BE24 aircraft ICAO type codes.
+- Properly format aircraft `40650b` model.
+
 ## Version 2.0.26
 
 **Added**

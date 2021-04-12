@@ -1,0 +1,509 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+008363,ZS-BGS,Rockwell,690A Turbo Commander,AC90,11234,L2T,,,,
+00998f,ZS-JRA,Rockwell,690A Turbo Commander,AC90,11284,L2T,,,,
+009990,ZS-JRB,Rockwell,690A Turbo Commander,AC90,11248,L2T,,,,
+009996,ZS-JRH,Rockwell,690B Turbo Commander,AC90,11421,L2T,,,,
+009c93,ZS-KUS,Rockwell,690B Turbo Commander,AC90,11545,L2T,,,,
+009d1c,ZS-KZZ,Rockwell,695A Jetprop Commander,AC95,96052,L2T,,,,
+00aa14,ZS-PXR,Rockwell,690A Turbo Commander,AC90,11259,L2T,,,,
+00b0bf,ZS-SLI,Rockwell,690A Turbo Commander,AC90,11211,L2T,,,,
+00b492,ZS-TWZ,Rockwell,695A Jetprop Commander,AC95,96085,L2T,,,,
+0d05d6,XC-GAS,Rockwell,690B Turbo Commander,AC90,11556,L2T,,,,
+0d0886,XB-DMT,Rockwell,690B Turbo Commander,AC90,11360,L2T,,,,
+0d0991,XC-BCS,Rockwell,695A Jetprop Commander,AC95,96001,L2T,,,,
+0d09f9,XB-ILI,Rockwell,690C Turbo Commander,AC90,11687,L2T,COO,,,
+0d81a5,YVO100,Rockwell,695A Jetprop Commander,AC95,96016,L2T,,,,
+20100c,V5-MAC,Rockwell,690B Turbo Commander,AC90,11557,L2T,,,,
+30052f,I-BLFE,Rockwell,690A Turbo Commander,AC90,11204,L2T,,,,
+3451cb,EC-MDF,Rockwell,Commander 112A,AC11,487,L1P,,,,
+381dd1,F-BHOR,Rockwell,Commander 112A,AC11,284,L1P,,,,
+385df2,F-BXPS,Rockwell,Commander 112TC,AC11,13026,L1P,,,,
+391ee3,F-GHXD,Rockwell,Commander 114,AC11,14134,L1P,,,,
+392826,F-GKBG,Rockwell,Commander 112A,AC11,198,L1P,,,,
+392cf9,F-GLHZ,Rockwell,Commander 112A,AC11,173,L1P,,,,
+393012,F-GMAS,Rockwell,Commander 114B,AC11,14552,L1P,,,,
+394875,F-GSDV,Rockwell,Commander 114B,AC11,14601,L1P,,,,
+39a04a,F-HICK,Rockwell,Commander 114,AC11,14018,L1P,,,,
+3d0559,D-EAGV,Rockwell,Commander 114,AC11,14410,L1P,,,,
+3d05de,D-EALY,Rockwell,Commander 114B,AC11,14585,L1P,,,,
+3d0664,D-EARC,Rockwell,Commander 112A,AC11,468,L1P,,,,
+3d0afc,D-ECKI,Rockwell,Commander 112A,AC11,298,L1P,,,,
+3d0d45,D-EDGV,Rockwell,Commander 114A,AC11,14531,L1P,,,,
+3d0e18,D-EDOY,Rockwell,Commander 114TC,AC11,20031,L1P,,,,
+3d0f77,D-EECL,Rockwell,Commander 112TC,AC11,13039,L1P,,,,
+3d0fdb,D-EEGH,Rockwell,Commander 114B,AC11,14632,L1P,,,,
+3d1100,D-EERO,Rockwell,Commander 114A,AC11,14532,L1P,,,,
+3d128a,D-EFGS,Rockwell,Commander 114B,AC11,14607,L1P,,,,
+3d12a8,D-EFHW,Rockwell,Commander 112A,AC11,402,L1P,,,,
+3d1776,D-EHDE,Rockwell,Commander 114B,AC11,14545,L1P,,,,
+3d17c4,D-EHGE,Rockwell,Commander 114,AC11,14385,L1P,,,,
+3d17ce,D-EHGO,Rockwell,Commander 114,AC11,14389,L1P,,,,
+3d1890,D-EHOA,Rockwell,Commander 114A,AC11,14537,L1P,,,,
+3d1896,D-EHOG,Rockwell,Commander 114B,AC11,14592,L1P,,,,
+3d18a6,D-EHOW,Rockwell,Commander 114A,AC11,14536,L1P,,,,
+3d192d,D-EHUB,Rockwell,Commander 114B,AC11,14556,L1P,,,,
+3d1982,D-EHXI,Rockwell,Commander 112,AC11,119,L1P,,,,
+3d1984,D-EHXK,Rockwell,Commander 112,AC11,121,L1P,,,,
+3d1985,D-EHXL,Rockwell,Commander 112A,AC11,129,L1P,,,,
+3d1986,D-EHXM,Rockwell,Commander 112A,AC11,191,L1P,,,,
+3d1987,D-EHXN,Rockwell,Commander 112A,AC11,209,L1P,,,,
+3d1988,D-EHXO,Rockwell,Commander 112A,AC11,214,L1P,,,,
+3d198b,D-EHXR,Rockwell,Commander 112A,AC11,324,L1P,,1975-01-01,,1975-01-01
+3d198c,D-EHXS,Rockwell,Commander 112A,AC11,357,L1P,,,,
+3d198e,D-EHXU,Rockwell,Commander 112A,AC11,467,L1P,,,,
+3d1990,D-EHXW,Rockwell,Commander 112A,AC11,475,L1P,,,,
+3d1991,D-EHXX,Rockwell,Commander 112A,AC11,279,L1P,,,,
+3d1992,D-EHXY,Rockwell,Commander 112A,AC11,489,L1P,,,,
+3d19e1,D-EIAZ,Rockwell,Commander 112A,AC11,314,L1P,,,,
+3d19e5,D-EIBD,Rockwell,Commander 114B,AC11,14400,L1P,,,,
+3d1aea,D-EILE,Rockwell,Commander 114B,AC11,14549,L1P,,,,
+3d1c22,D-EIXE,Rockwell,Commander 114,AC11,14200,L1P,,,,
+3d1c26,D-EIXI,Rockwell,Commander 114,AC11,14277,L1P,,,,
+3d1c28,D-EIXK,Rockwell,Commander 112TC,AC11,13030,L1P,,,,
+3d1c31,D-EIXT,Rockwell,Commander 114B,AC11,14261,L1P,,,,
+3d1ca0,D-EJCA,Rockwell,Commander 114B,AC11,14544,L1P,,,,
+3d1d2e,D-EJHM,Rockwell,Commander 114B,AC11,14366,L1P,,,,
+3d1d9d,D-EJLT,Rockwell,Commander 114,AC11,14195,L1P,,,,
+3d1de5,D-EJON,Rockwell,Commander 114B,AC11,14547,L1P,,,,
+3d1df5,D-EJPD,Rockwell,Commander 114B,AC11,14599,L1P,,,,
+3d1f4a,D-EKCG,Rockwell,Commander 114B,AC11,14548,L1P,,,,
+3d1f70,D-EKDS,Rockwell,Commander 114,AC11,14206,L1P,,,,
+3d21ef,D-ELCH,Rockwell,Commander 114B,AC11,14566,L1P,,,,
+3d22e7,D-ELLV,Rockwell,Commander 112A,AC11,416,L1P,,,,
+3d243d,D-ELYZ,Rockwell,Commander 112,AC11,53,L1P,,,,
+3d2519,D-EMHL,Rockwell,Commander 114B,AC11,14151,L1P,,,,
+3d25c7,D-EMOD,Rockwell,Commander 114,AC11,14421,L1P,,,,
+3d2708,D-ENAM,Rockwell,Commander 114,AC11,14008,L1P,,,,
+3d288d,D-ENPL,Rockwell,Commander 114A,AC11,14509,L1P,,,,
+3d2f1c,D-EQCA,Rockwell,Commander 114B,AC11,14565,L1P,,,,
+3d31c0,D-ERCA,Rockwell,Commander 114A,AC11,14500,L1P,,,,
+3d338c,D-ERTS,Rockwell,Commander 112TC,AC11,13072,L1P,,,,
+3d33cd,D-ERWF,Rockwell,Commander 114B,AC11,14580,L1P,,,,
+3d3443,D-ESAT,Rockwell,Commander 114B,AC11,14551,L1P,,,,
+3d3782,D-ETGS,Rockwell,Commander 112TC-A,AC11,13177,L1P,,,,
+3d39ac,D-EUCA,Rockwell,Commander 114B,AC11,14571,L1P,,,,
+3d3e3f,D-EVVB,Rockwell,Commander 114B,AC11,14622,L1P,,,,
+3d3ed3,D-EWAT,Rockwell,Commander 114B,AC11,14564,L1P,,,,
+3d3f5e,D-EWGC,Rockwell,Commander 114TC,AC11,20032,L1P,,,,
+3d3f97,D-EWIH,Rockwell,Commander 114B,AC11,14153,L1P,,,,
+3d4198,D-EXCA,Rockwell,Commander 114B,AC11,14557,L1P,,,,
+3d48ee,D-EZWG,Rockwell,Commander 114B,AC11,14620,L1P,,,,
+3e2ba0,D-IHSI,Rockwell,695 Jetprop Commander,AC95,95039,L2T,,,,
+400aa5,G-PLAZ,Rockwell,Commander 112,AC11,345,L1P,,2005-10-20,,1975-01-01
+400ac1,G-TWIZ,Rockwell,Commander 114,AC11,14375,L1P,,1999-02-19,,1978-01-01
+400b15,G-BHRO,Rockwell,Commander 112,AC11,364,L1P,,2015-04-20,,1975-01-01
+400b68,G-NATT,Rockwell,Commander 114A,AC11,14538,L1P,,1983-07-01,,1979-01-01
+400bf6,G-BHSE,Rockwell,Commander 114,AC11,14161,L1P,,1985-07-15,,1976-01-01
+400cdb,G-EMCA,Rockwell,Commander 114B,AC11,14661,L1P,,2007-12-01,,1999-01-01
+400d3c,G-OVIN,Rockwell,Commander 112TC,AC11,13090,L1P,,2009-03-03,,1976-01-01
+400d47,G-DASH,Rockwell,Commander 112,AC11,237,L1P,,2013-06-25,,1975-01-01
+400d93,G-KEEF,Rockwell,Commander 114B,AC11,14610,L1P,,2004-06-17,,1994-01-01
+400dc7,G-OLFT,Rockwell,Commander 114,AC11,14274,L1P,,2001-07-09,,1977-01-01
+400e1b,G-HILO,Rockwell,Commander 114,AC11,14224,L1P,,2013-11-26,,1977-01-01
+400ef9,G-JURG,Rockwell,Commander 114A,AC11,14516,L1P,,2016-02-01,,1979-01-01
+4010b4,G-OOJP,Rockwell,Commander 114B,AC11,14567,L1P,,2006-08-23,,1993-01-01
+4011a6,G-OECM,Rockwell,Commander 114B,AC11,14627,L1P,,2016-12-13,,1995-01-01
+40120d,G-ERIC,Rockwell,Commander 112TC,AC11,13010,L1P,,2015-07-13,,1976-01-01
+40124f,G-BERI,Rockwell,Commander 114,AC11,14234,L1P,,2014-03-05,,1977-01-01
+401bc3,G-BDAK,Rockwell,Commander 112,AC11,252,L1P,,2003-09-02,,1975-01-01
+401bee,G-BDIE,Rockwell,Commander 112,AC11,342,L1P,,2009-07-28,,1975-01-01
+401bfa,G-BDKW,Rockwell,Commander 112,AC11,106,L1P,,2012-06-18,,1973-01-01
+401bfc,G-BDLT,Rockwell,Commander 112,AC11,363,L1P,,2014-02-10,,1975-01-01
+401c48,G-BEBU,Rockwell,Commander 112,AC11,272,L1P,,2009-04-16,,1975-01-01
+401c55,G-BEDG,Rockwell,Commander 112,AC11,482,L1P,,2008-05-21,,1976-01-01
+401c56,G-TECH,Rockwell,Commander 114,AC11,14074,L1P,,2012-09-20,,1976-01-01
+401c78,G-BENJ,Rockwell,Commander 112B,AC11,522,L1P,,2009-04-06,,1976-01-01
+401c86,G-BEPY,Rockwell,Commander 112B,AC11,524,L1P,,2008-05-15,,1977-01-01
+401d2d,G-BFPO,Rockwell,Commander 112B,AC11,530,L1P,,2009-08-28,,1976-01-01
+401d51,G-BFXS,Rockwell,Commander 114,AC11,14271,L1P,,2007-04-24,,1977-01-01
+401d5a,G-BFZM,Rockwell,Commander 112TC-A,AC11,13191,L1P,,2001-06-07,,1977-01-01
+401e7e,G-ZIPA,Rockwell,Commander 114A,AC11,14505,L1P,,2013-01-03,,1979-01-01
+401f25,G-BIOJ,Rockwell,Commander 112TC-A,AC11,13192,L1P,,,,
+402008,G-BKAY,Rockwell,Commander 114,AC11,14411,L1P,,2000-05-23,,1978-01-01
+40212d,G-BOLT,Rockwell,Commander 114,AC11,14428,L1P,,2007-07-21,,1978-01-01
+40217f,G-CRIL,Rockwell,Commander 112B,AC11,521,L1P,,2015-03-10,,1976-01-01
+4021cb,G-FLPI,Rockwell,Commander 112,AC11,205,L1P,,2013-11-06,,1974-01-01
+402239,G-LITE,Rockwell,Commander 112,AC11,291,L1P,,2007-10-26,,1975-01-01
+40266b,G-BMJL,Rockwell,Commander 114,AC11,14006,L1P,,2002-07-02,,1976-01-01
+4027b8,G-BMWR,Rockwell,Commander 112,AC11,365,L1P,,2017-08-15,,1975-01-01
+402ac6,G-DIME,Rockwell,Commander 114,AC11,14123,L1P,,1998-10-05,,1976-01-01
+402e1a,G-BPTG,Rockwell,Commander 112TC,AC11,13067,L1P,,2007-11-27,,1976-01-01
+402ed6,G-HROI,Rockwell,Commander 112,AC11,326,L1P,,1996-06-28,,1975-01-01
+403291,G-LADS,Rockwell,Commander 114,AC11,14314,L1P,,1990-12-06,,1977-01-01
+4032ea,G-IMPX,Rockwell,Commander 112B,AC11,512,L1P,,2016-02-04,,1976-01-01
+403458,G-RCED,Rockwell,Commander 114,AC11,14241,L1P,,2008-09-01,,1977-01-01
+4036ff,G-BUSW,Rockwell,Commander 114,AC11,14079,L1P,,2015-05-15,,1976-01-01
+403c3c,G-FATB,Rockwell,Commander 114B,AC11,14624,L1P,,2000-04-28,,1994-01-01
+403d39,G-OMUM,Rockwell,Commander 114,AC11,14067,L1P,,2014-12-04,,1976-01-01
+403df2,G-JFER,Rockwell,Commander 114B,AC11,14638,L1P,,2016-09-03,,1996-01-01
+403f20,G-FMLY,Rockwell,Commander 114B,AC11,14655,L1P,,2013-11-13,,1998-01-01
+40418d,G-BYKB,Rockwell,Commander 114,AC11,14121,L1P,,2014-07-31,,1976-01-01
+4042ca,G-EHXP,Rockwell,Commander 112,AC11,227,L1P,,2002-08-14,,1974-01-01
+404c7e,G-HPSL,Rockwell,Commander 114B,AC11,14682,L1P,,2007-11-09,,2001-01-01
+404ce0,G-HPSF,Rockwell,Commander 114B,AC11,14590,L1P,,2009-07-17,,1993-01-01
+404e0a,G-CNCN,Rockwell,Commander 112TC-A,AC11,13151,L1P,,2009-11-06,,1977-01-01
+407280,G-RJRC,Rockwell,Commander 114B,AC11,14615,L1P,,2016-12-22,,1994-01-01
+43e8ac,M-BETS,Rockwell,695A Jetprop Commander,AC95,96034,L2T,,,,
+43eb08,2-MIKE,Rockwell,Commander 114B,AC11,14676,L1P,,,,
+43eb09,2-BOYS,Rockwell,Commander 114B,AC11,14609,L1P,,,,
+43eb16,2-AKOP,Rockwell,Commander 114B,AC11,14663,L1P,,,,
+43eb17,2-ZOOM,Rockwell,Commander 114B,AC11,14635,L1P,,,,
+43eb1b,2-RACE,Rockwell,Commander 114B,AC11,14603,L1P,,,,
+43eb1d,2-BEST,Rockwell,Commander 114B,AC11,14636,L1P,,,,
+43eb3d,2-LAND,Rockwell,Commander 114B,AC11,14662,L1P,,,,
+440225,OE-KMG,Rockwell,Commander 114B,AC11,14578,L1P,,,,
+440450,OE-KHM,Rockwell,Commander 112TC,AC11,13018,L1P,,,,
+449923,OO-FIC,Rockwell,Commander 114,AC11,14089,L1P,,,,
+449de1,OO-GOA,Rockwell,690A Turbo Commander,AC90,11173,L2T,,,,
+44c8b3,OO-RES,Rockwell,Commander 112A,AC11,373,L1P,,,,
+44c9e2,OO-ROB,Rockwell,690B Turbo Commander,AC90,11409,L2T,,,,
+44cb30,OO-RYP,Rockwell,Commander 112A,AC11,167,L1P,,,,
+44ce74,OO-SST,Rockwell,Commander 114A,AC11,14521,L1P,,,,
+44d8f6,OO-VGV,Rockwell,Commander 112A,AC11,196,L1P,,,,
+460041,OH-ACN,Rockwell,690A Turbo Commander,AC90,11301,L2T,,,,
+460e74,OH-FMI,Rockwell,690B Turbo Commander,AC90,11482,L2T,,,,
+4685e4,SX-AOD,Rockwell,Commander 112A,AC11,427,L1P,,,,
+4785ac,LN-HOK,Rockwell,Commander 114,AC11,14111,L1P,,,,
+478643,LN-MIL,Rockwell,Commander 112A,AC11,452,L1P,,,,
+4787a2,LN-PIP,Rockwell,Commander 112TC,AC11,13002,L1P,,,,
+48c404,SP-SAC,Rockwell,Commander 114TC,AC11,20010,L1P,,,,
+4904f0,CS-AGP,Rockwell,Commander 112A,AC11,192,L1P,,,,
+490665,CS-ASE,Rockwell,Commander 112,AC11,73,L1P,,,,
+491048,CS-DBH,Rockwell,Commander 114B,AC11,14591,L1P,,,,
+491087,CS-DDG,Rockwell,Commander 112A,AC11,294,L1P,,,,
+4910eb,CS-DGK,Rockwell,Commander 114,AC11,14302,L1P,,,,
+49d05a,OK-NET,Rockwell,Commander 114,AC11,14407,L1P,,,,
+49d140,OK-BMO,Rockwell,Commander 112TC-A,AC11,13256,L1P,,,,
+49d1cc,OK-VYS,Rockwell,Commander 112A,AC11,172,L1P,,,,
+4a6303,YR-XXC,Rockwell,690A Turbo Commander,AC90,11265,L2T,,,,
+4a9e73,SE-GSS,Rockwell,690C Turbo Commander,AC90,11613,L2T,BLW,,,
+4aa6b6,SE-IUV,Rockwell,690C Turbo Commander,AC90,11681,L2T,BLW,,,
+4ab283,SE-LTC,Rockwell,Commander 112TC-A,AC11,13150,L1P,,,,
+4ab29a,SE-LTZ,Rockwell,Commander 114B,AC11,14563,L1P,,,,
+4ab355,SE-LZU,Rockwell,690A Turbo Commander,AC90,11121,L2T,,,,
+4ab358,SE-LZX,Rockwell,690B Turbo Commander,AC90,11367,L2T,,,,
+4ab46f,SE-MCO,Rockwell,Commander 112A,AC11,480,L1P,,,,
+4ab4ce,SE-MFN,Rockwell,690C Turbo Commander,AC90,11617,L2T,,,,
+4b2289,HB-NCB,Rockwell,Commander 112,AC11,165,L1P,,1974-08-28,,1974-01-01
+4b228b,HB-NCD,Rockwell,Commander 112A,AC11,206,L1P,,,,
+4b228d,HB-NCF,Rockwell,Commander 114,AC11,14034,L1P,,1976-04-22,,1976-01-01
+4b228e,HB-NCG,Rockwell,Commander 112TC,AC11,13074,L1P,,1976-08-13,,1976-01-01
+4b228f,HB-NCH,Rockwell,Commander 114,AC11,14050,L1P,,1976-05-11,,1976-01-01
+4b2290,HB-NCI,Rockwell,Commander 114,AC11,14208,L1P,,1977-02-23,,1977-01-01
+4b2296,HB-NCO,Rockwell,Commander 114,AC11,14183,L1P,,1981-04-21,,1976-01-01
+4b2297,HB-NCP,Rockwell,Commander 114,AC11,14374,L1P,,1978-05-12,,1978-01-01
+4b229a,HB-NCS,Rockwell,Commander 114,AC11,14356,L1P,,1979-06-08,,1979-01-01
+4b229b,HB-NCT,Rockwell,Commander 112,AC11,442,L1P,,1979-04-04,,1976-01-01
+4b22a0,HB-NCY,Rockwell,Commander 112,AC11,188,L1P,,1983-04-15,,1974-01-01
+4b22a2,HB-NDA,Rockwell,Commander 112TC,AC11,13070,L1P,,1984-08-20,,1976-01-01
+4b22a4,HB-NDC,Rockwell,Commander 114B,AC11,14550,L1P,,1992-09-01,,1992-01-01
+4b22a6,HB-NDE,Rockwell,Commander 114,AC11,14150,L1P,,1997-09-02,,1976-01-01
+4b22a8,HB-NDG,Rockwell,Commander 114A,AC11,14512,L1P,,2005-07-25,,1979-01-01
+4b22ad,HB-NDL,Rockwell,Commander 112B,AC11,515,L1P,,2010-11-26,,1976-01-01
+4b22bb,HB-NDZ,Rockwell,Commander 114B,AC11,14618,L1P,,2011-08-23,,1994-01-01
+4b9034,TC-DAT,Rockwell,Commander 112B,AC11,538,L1P,,,,
+4b9323,TC-DYC,Rockwell,Commander 114,AC11,14013,L1P,,,,
+505cac,OM-KEL,Rockwell,Commander 112TC,AC11,13106,L1P,,,,
+7304f6,1406,Rockwell,690 Turbo Commander,AC90,11045,L2T,,,,
+7304f7,EP-AGW,Rockwell,690 Turbo Commander,AC90,11047,L2T,,,,
+7394d4,4X-CYP,Rockwell,Commander 114,AC11,14207,L1P,,,,
+7c0bbf,VH-CLT,Rockwell,690A Turbo Commander,AC90,11152,L2T,,,,1974-01-01
+7c25a4,VH-HPY,Rockwell,695A Jetprop Commander,AC95,96051,L2T,,,,1982-01-01
+7c3962,VH-LMC,Rockwell,695A Jetprop Commander,AC95,15026,L2T,,,,1983-01-01
+7c3aaa,VH-LVG,Rockwell,690B Turbo Commander,AC90,11551,L2T,,,,1979-01-01
+7c4c4d,VH-PCV,Rockwell,690A Turbo Commander,AC90,11283,L2T,,,,1975-01-01
+7c7aca,VH-YJG,Rockwell,690A Turbo Commander,AC90,11308,L2T,,,,
+86e3b8,JA8600,Rockwell,695 Jetprop Commander,AC95,95070,L2T,,,,
+86e3c2,JA860A,Rockwell,695 Jetprop Commander,AC95,95078,L2T,,,,
+90200b,5W-JMJ,Rockwell,690B Turbo Commander,AC90,11411,L2T,,,,
+a013ed,N104DT,Rockwell,695A Jetprop Commander,AC95,96010,L2T,,,2023-08-31,1981-01-01
+a023fd,N108SA,Rockwell,690B Turbo Commander,AC90,11416,L2T,,,2022-02-28,1977-01-01
+a0340a,N112EE,Rockwell,690A Turbo Commander,AC90,11330,L2T,,,2024-08-31,1976-01-01
+a0346a,N112JA,Rockwell,Commander 112TC-A,AC11,13182,L1P,,,2022-11-30,1977-01-01
+a03b21,N114AT,Rockwell,Commander 114B,AC11,14619,L1P,,,2023-04-30,1994-01-01
+a03caa,N114SL,Rockwell,Commander 112,AC11,122,L1P,,,2022-04-30,
+a03fdd,N115MD,Rockwell,Commander 114TC,AC11,20039,L1P,,,2022-02-28,2001-01-01
+a0406f,N115T,Rockwell,Commander 114TC,AC11,20035,L1P,,,2023-11-30,2000-01-01
+a0440f,N116SB,Rockwell,Commander 114B,AC11,14678,L1P,,,2022-04-30,2000-01-01
+a05335,N12VA,Rockwell,695B Jetprop Commander,AC95,96062,L2T,,,2023-05-31,
+a05846,N121JW,Rockwell,690A Turbo Commander,AC90,11299,L2T,,,,
+a06764,N125MM,Rockwell,690C Turbo Commander,AC90,11605,L2T,,,2021-12-31,1979-01-01
+a06b0f,N126M,Rockwell,695 Jetprop Commander,AC95,95033,L2T,,,,
+a09025,N1350J,Rockwell,Commander 112B,AC11,516,L1P,,,2022-02-28,1976-01-01
+a091c6,N136D,Rockwell,Commander 114,AC11,14361,L1P,,,,
+a0a05d,N14AF,Rockwell,Commander 112TC-A,AC11,13258,L1P,,,2022-12-31,1978-01-01
+a0a606,N1407J,Rockwell,Commander 112A,AC11,407,L1P,,,2022-11-30,1975-01-01
+a0ac8a,N1420V,Rockwell,690B Turbo Commander,AC90,11524,L2T,,,2022-01-31,
+a0c80c,N15CD,Rockwell,690A Turbo Commander,AC90,11177,L2T,,,2022-12-31,
+a0c96c,N15SF,Rockwell,690B Turbo Commander,AC90,11528,L2T,,,2024-07-31,1979-01-01
+a0f570,N161AL,Rockwell,690A Turbo Commander,AC90,11210,L2T,WIL,,,
+a0f927,N162AL,Rockwell,690A Turbo Commander,AC90,11231,L2T,,,2024-07-31,1975-01-01
+a10d26,N167R,Rockwell,690B Turbo Commander,AC90,11437,L2T,,,2023-03-31,1978-01-01
+a1249f,N173DB,Rockwell,690B Turbo Commander,AC90,11485,L2T,,,,
+a1575a,N186E,Rockwell,690B Turbo Commander,AC90,11566,L2T,,,2023-04-30,1979-01-01
+a182c4,N197GB,Rockwell,690A Turbo Commander,AC90,11282,L2T,,,2022-11-30,1975-01-01
+a190be,N20MA,Rockwell,690B Turbo Commander,AC90,11514,L2T,,,2023-09-30,1978-01-01
+a1cadb,N2141B,Rockwell,690B Turbo Commander,AC90,11484,L2T,,,,
+a1cf1e,N2155B,Rockwell,690 Turbo Commander,AC90,11046,L2T,,,,
+a1d85e,N218MS,Rockwell,695 Jetprop Commander,AC95,95041,L2T,,,2024-01-31,1981-01-01
+a1e987,N222ME,Rockwell,690A Turbo Commander,AC90,11338,L2T,,,,
+a1f059,N224EZ,Rockwell,695B Jetprop Commander,AC95,96206,L2T,,,2022-01-31,1985-01-01
+a1f4b3,N225MM,Rockwell,690B Turbo Commander,AC90,11462,L2T,,,2022-04-30,1978-01-01
+a22ddb,N24CC,Rockwell,690A Turbo Commander,AC90,11201,L2T,,,,
+a22e4e,N24GT,Rockwell,690A Turbo Commander,AC90,11254,L2T,,,2023-04-30,1975-01-01
+a2555c,N25CE,Rockwell,690B Turbo Commander,AC90,11400,L2T,,,2024-07-31,1977-01-01
+a256db,N25TN,Rockwell,695 Jetprop Commander,AC95,95013,L2T,,,2023-08-31,
+a25baa,N251ES,Rockwell,690A Turbo Commander,AC90,11251,L2T,,,2024-01-31,1975-01-01
+a280f6,N260WE,Rockwell,690B Turbo Commander,AC90,11536,L2T,,,,
+a29a79,N267RD,Rockwell,690B Turbo Commander,AC90,11456,L2T,,,2024-02-29,1978-01-01
+a2cd4e,N28TC,Rockwell,690B Turbo Commander,AC90,11449,L2T,,,,
+a2f3bb,N29GD,Rockwell,690D Turbo Commander,AC90,15035,L2T,,,2022-11-30,1983-01-01
+a3402e,N30854,Rockwell,690A Turbo Commander,AC90,11229,L2T,,,2024-08-31,
+a344a5,N31BV,Rockwell,690A Turbo Commander,AC90,11315,L2T,,,2024-01-31,
+a344d7,N31DV,Rockwell,690A Turbo Commander,AC90,11154,L2T,,,,
+a34670,N31WD,Rockwell,690B Turbo Commander,AC90,11353,L2T,,,,
+a36c02,N32AL,Rockwell,690A Turbo Commander,AC90,11336,L2T,WIL,,2023-10-31,1976-01-01
+a36c8e,N32GA,Rockwell,690A Turbo Commander,AC90,11215,L2T,,,2021-11-30,1974-01-01
+a36d4c,N32PR,Rockwell,690A Turbo Commander,AC90,11332,L2T,,,,
+a36dfc,N32WS,Rockwell,690A Turbo Commander,AC90,11339,L2T,,,2022-01-31,1976-01-01
+a39b00,N331RC,Rockwell,690A Turbo Commander,AC90,11137,L2T,,,2024-03-31,1973-01-01
+a3a2c4,N333UP,Rockwell,695A Jetprop Commander,AC95,96015,L2T,,,2023-12-31,
+a40070,N357ST,Rockwell,695A Jetprop Commander,AC95,95074,L2T,,,,
+a40ac1,N36JF,Rockwell,690B Turbo Commander,AC90,11478,L2T,,,2023-09-30,1978-01-01
+a40acd,N36JT,Rockwell,695 Jetprop Commander,AC95,95024,L2T,,,2024-02-29,1980-01-01
+a40b98,N36SW,Rockwell,690B Turbo Commander,AC90,11505,L2T,COO,,,
+a41552,N362SH,Rockwell,690A Turbo Commander,AC90,11316,L2T,,,2022-08-31,1976-01-01
+a41d1d,N364WA,Rockwell,690B Turbo Commander,AC90,11439,L2T,,,2023-08-31,1977-01-01
+a43304,N37SB,Rockwell,690C Turbo Commander,AC90,11724,L2T,,,,
+a459f7,N38LM,Rockwell,690B Turbo Commander,AC90,11424,L2T,,,2022-08-31,1977-01-01
+a45ae6,N38WA,Rockwell,690A Turbo Commander,AC90,11169,L2T,,,2024-01-31,1974-01-01
+a4752d,N3869F,Rockwell,690A Turbo Commander,AC90,11141,L2T,,,2024-01-31,1973-01-01
+a49708,N395TC,Rockwell,Commander 114TC,AC11,20003,L1P,,,2023-06-30,1995-01-01
+a4a94c,N4PZ,Rockwell,690A Turbo Commander,AC90,11269,L2T,,,2022-05-31,1975-01-01
+a4abe4,N40SM,Rockwell,690B Turbo Commander,AC90,11559,L2T,,,2022-02-28,1979-01-01
+a4ac43,N40WG,Rockwell,690B Turbo Commander,AC90,11459,L2T,,,2022-04-30,
+a4acfd,N400DS,Rockwell,690B Turbo Commander,AC90,11512,L2T,,,2021-11-30,1978-01-01
+a50e8f,N425DT,Rockwell,690B Turbo Commander,AC90,11519,L2T,,,2023-01-31,1978-01-01
+a54973,N44NC,Rockwell,690B Turbo Commander,AC90,11387,L2T,,,2021-11-30,1977-01-01
+a55b71,N444WD,Rockwell,695A Jetprop Commander,AC95,96006,L2T,,,2023-06-30,1988-01-01
+a56d09,N449LC,Rockwell,690A Turbo Commander,AC90,11187,L2T,,,2024-03-31,
+a56fdb,N45AZ,Rockwell,690B Turbo Commander,AC90,11383,L2T,,,2023-05-31,1977-01-01
+a57140,N45RF,Rockwell,695A Jetprop Commander,AC95,96089,L2T,,,2022-01-31,1984-01-01
+a58fa2,N4578W,Rockwell,Commander 112TC,AC11,13068,L1P,,,2022-07-31,1976-01-01
+a5be8f,N4698W,Rockwell,Commander 112TC-A,AC11,13274,L1P,,,2023-12-31,1978-01-01
+a5bf33,N47EP,Rockwell,690B Turbo Commander,AC90,11520,L2T,,,2024-02-29,1978-01-01
+a5c07c,N47TT,Rockwell,690C Turbo Commander,AC90,11600,L2T,,,2023-12-31,1979-01-01
+a5c832,N4717V,Rockwell,690A Turbo Commander,AC90,11220,L2T,,,2022-07-31,
+a5e3e0,N479PT,Rockwell,695A Jetprop Commander,AC95,96011,L2T,,,2024-01-31,1981-01-01
+a5e65a,N48BA,Rockwell,690C Turbo Commander,AC90,11665,L2T,,,2024-02-29,
+a5e97a,N480K,Rockwell,690B Turbo Commander,AC90,11543,L2T,,,2023-10-31,1976-01-01
+a637ae,N50AY,Rockwell,Commander 114A,AC11,14527,L1P,,,2021-10-31,
+a637f8,N50DX,Rockwell,690A Turbo Commander,AC90,11227,L2T,,,2023-06-30,1974-01-01
+a65f6d,N51DM,Rockwell,695A Jetprop Commander,AC95,96014,L2T,,,2024-05-31,1981-01-01
+a66110,N51WF,Rockwell,690C Turbo Commander,AC90,11684,L2T,,,2022-12-31,1981-01-01
+a66a73,N512SF,Rockwell,Commander 114TC,AC11,20026,L1P,,,2023-08-31,
+a6740e,N515AM,Rockwell,695 Jetprop Commander,AC95,95008,L2T,,,2023-10-31,1980-01-01
+a687f1,N52PY,Rockwell,690A Turbo Commander,AC90,11196,L2T,,,2022-02-28,1974-01-01
+a6aeaf,N53GE,Rockwell,690B Turbo Commander,AC90,11404,L2T,,,2024-08-31,
+a6ff0f,N55WJ,Rockwell,690B Turbo Commander,AC90,11427,L2T,,,2024-02-29,1977-01-01
+a71323,N555MT,Rockwell,690B Turbo Commander,AC90,11418,L2T,,,,
+a713de,N555VE,Rockwell,690B Turbo Commander,AC90,11546,L2T,,,2024-04-30,1979-01-01
+a72113,N559CG,Rockwell,690B Turbo Commander,AC90,11530,L2T,,,2022-11-30,1979-01-01
+a72271,N559SG,Rockwell,Commander 112A,AC11,384,L1P,,,2024-03-31,1976-01-01
+a74d98,N57RS,Rockwell,690A Turbo Commander,AC90,11149,L2T,,,2021-11-30,1973-01-01
+a754b6,N57112,Rockwell,690A Turbo Commander,AC90,11263,L2T,,,2022-07-31,1975-01-01
+a75985,N57292,Rockwell,690A Turbo Commander,AC90,11270,L2T,,,,
+a78c91,N586DV,Rockwell,690B Turbo Commander,AC90,11553,L2T,,,2023-01-31,1979-01-01
+a79363,N5878K,Rockwell,690C Turbo Commander,AC90,11626,L2T,,,2022-09-30,1980-01-01
+a7b30b,N5955K,Rockwell,690C Turbo Commander,AC90,11703,L2T,,,2021-12-31,1981-01-01
+a7b32e,N5956K,Rockwell,690C Turbo Commander,AC90,11719,L2T,,,2022-09-30,
+a7c50b,N60BM,Rockwell,690A Turbo Commander,AC90,11172,L2T,,,2022-09-30,1974-01-01
+a7c944,N600WS,Rockwell,690B Turbo Commander,AC90,11435,L2T,,,,
+a7ccfc,N601WT,Rockwell,690D Turbo Commander,AC90,15016,L2T,,,2023-04-30,1982-01-01
+a7cd65,N6010Y,Rockwell,Commander 114B,AC11,14589,L1P,,,2023-06-30,1993-01-01
+a7d60d,N6039X,Rockwell,Commander 114B,AC11,14639,L1P,,,2023-07-31,1995-01-01
+a7e778,N6081F,Rockwell,Commander 114B,AC11,14681,L1P,,,2023-06-30,2001-01-01
+a7e86d,N6088F,Rockwell,Commander 114TC,AC11,20043,L1P,,,2024-01-31,
+a7ebcd,N6095Z,Rockwell,Commander 114,AC11,14005,L1P,,,2023-06-30,1976-01-01
+a7f274,N611,Rockwell,690D Turbo Commander,AC90,15018,L2T,,,,
+a801aa,N615DP,Rockwell,690A Turbo Commander,AC90,11317,L2T,,,2022-03-31,1976-01-01
+a802e3,N615SB,Rockwell,690B Turbo Commander,AC90,11457,L2T,,,2023-04-30,1978-01-01
+a86438,N64PS,Rockwell,690C Turbo Commander,AC90,11702,L2T,,,2023-02-28,1981-01-01
+a8a754,N657GC,Rockwell,690C Turbo Commander,AC90,11657,L2T,,,,
+a8d998,N67CG,Rockwell,690B Turbo Commander,AC90,11540,L2T,,,2023-01-31,1979-01-01
+a8d9e1,N67FE,Rockwell,690C Turbo Commander,AC90,11729,L2T,,,,
+a8ebcc,N674NM,Rockwell,690A Turbo Commander,AC90,11226,L2T,,,2022-04-30,1974-01-01
+a92abd,N690AG,Rockwell,690A Turbo Commander,AC90,11327,L2T,,,2021-12-31,1976-01-01
+a92ac6,N690AR,Rockwell,690A Turbo Commander,AC90,11155,L2T,,,2022-10-31,1974-01-01
+a92ac7,N690AS,Rockwell,690A Turbo Commander,AC90,11277,L2T,,,2023-01-31,1974-01-01
+a92acc,N690AX,Rockwell,690B Turbo Commander,AC90,11384,L2T,,,2022-01-31,1977-01-01
+a92ad6,N690BG,Rockwell,690B Turbo Commander,AC90,11381,L2T,,,2022-06-30,1977-01-01
+a92ad7,N690BH,Rockwell,690B Turbo Commander,AC90,11361,L2T,,,2024-07-31,
+a92adb,N690BM,Rockwell,690A Turbo Commander,AC90,11311,L2T,,,2023-08-31,1975-01-01
+a92aeb,N690CC,Rockwell,690B Turbo Commander,AC90,11379,L2T,,,2024-04-30,1977-01-01
+a92aee,N690CF,Rockwell,690A Turbo Commander,AC90,11168,L2T,,,2023-01-31,1974-01-01
+a92af0,N690CH,Rockwell,690B Turbo Commander,AC90,11542,L2T,,,,
+a92af3,N690CL,Rockwell,690A Turbo Commander,AC90,11153,L2T,,,,
+a92af6,N690CP,Rockwell,690B Turbo Commander,AC90,11451,L2T,,,2024-03-31,1978-01-01
+a92b05,N690DD,Rockwell,690A Turbo Commander,AC90,11159,L2T,,,2022-09-30,1974-01-01
+a92b12,N690DS,Rockwell,690A Turbo Commander,AC90,11262,L2T,,,,
+a92b22,N690EH,Rockwell,690A Turbo Commander,AC90,11309,L2T,,,,
+a92b37,N690FD,Rockwell,690B Turbo Commander,AC90,11393,L2T,,,2024-04-30,1977-01-01
+a92b52,N690GF,Rockwell,690B Turbo Commander,AC90,11357,L2T,,,2023-07-31,1976-01-01
+a92b67,N690HB,Rockwell,690A Turbo Commander,AC90,11205,L2T,,,2022-02-28,1974-01-01
+a92b6b,N690HF,Rockwell,690A Turbo Commander,AC90,11298,L2T,,,2023-12-31,1975-01-01
+a92b86,N690JH,Rockwell,690B Turbo Commander,AC90,11529,L2T,,,,
+a92b88,N690JK,Rockwell,690B Turbo Commander,AC90,11480,L2T,,,2021-11-30,1978-01-01
+a92bbd,N690LN,Rockwell,690B Turbo Commander,AC90,11415,L2T,,,2023-10-31,1977-01-01
+a92bc1,N690LS,Rockwell,690B Turbo Commander,AC90,11475,L2T,,,2023-06-30,
+a92bfe,N690PC,Rockwell,690A Turbo Commander,AC90,11341,L2T,,,,
+a92c05,N690PK,Rockwell,690A Turbo Commander,AC90,11166,L2T,,,2022-05-31,1974-01-01
+a92c2e,N690RA,Rockwell,690 Turbo Commander,AC90,11010,L2T,,,2021-10-31,1972-01-01
+a92c36,N690RJ,Rockwell,690B Turbo Commander,AC90,11508,L2T,,,2022-08-31,
+a92c4a,N690SD,Rockwell,690A Turbo Commander,AC90,11287,L2T,,,2021-12-31,1975-01-01
+a92c4b,N690SE,Rockwell,690B Turbo Commander,AC90,11463,L2T,,,2023-02-28,1978-01-01
+a92c4d,N690SG,Rockwell,690A Turbo Commander,AC90,11146,L2T,,,2021-10-31,1974-01-01
+a92c62,N690TC,Rockwell,690B Turbo Commander,AC90,11385,L2T,,,,
+a92c66,N690TG,Rockwell,690A Turbo Commander,AC90,11319,L2T,,,2022-01-31,1976-01-01
+a92c6d,N690TP,Rockwell,690D Turbo Commander,AC90,15001,L2T,,,,
+a92c6f,N690TR,Rockwell,690 Turbo Commander,AC90,11034,L2T,,,2022-07-31,1972-01-01
+a92cbb,N690WS,Rockwell,690A Turbo Commander,AC90,11194,L2T,,,2024-02-29,1974-01-01
+a92cbc,N690WT,Rockwell,690B Turbo Commander,AC90,11455,L2T,,,,
+a933cd,N692T,Rockwell,690B Turbo Commander,AC90,11555,L2T,,,2023-03-31,1979-01-01
+a93d4b,N695AB,Rockwell,695A Jetprop Commander,AC95,96055,L2T,,,2022-01-31,1983-01-01
+a93d8c,N695CS,Rockwell,695A Jetprop Commander,AC95,96007,L2T,,,2023-10-31,
+a93db2,N695EE,Rockwell,695B Jetprop Commander,AC95,96205,L2T,,,,
+a93dc7,N695FA,Rockwell,695A Jetprop Commander,AC95,96077,L2T,,,2023-11-30,1984-01-01
+a93de6,N695GG,Rockwell,695A Jetprop Commander,AC95,96036,L2T,,,2023-04-30,1982-01-01
+a93de7,N695GH,Rockwell,695B Jetprop Commander,AC95,96078,L2T,,,2022-01-31,
+a93e0a,N695HT,Rockwell,695A Jetprop Commander,AC95,96038,L2T,,,2023-12-31,1982-01-01
+a93e19,N695JH,Rockwell,695A Jetprop Commander,AC95,96096,L2T,,,2022-08-31,
+a93e63,N695MG,Rockwell,695B Jetprop Commander,AC95,96204,L2T,,,,
+a93e68,N695MM,Rockwell,695A Jetprop Commander,AC95,96050,L2T,,,2023-12-31,1982-01-01
+a93ec3,N695RC,Rockwell,695A Jetprop Commander,AC95,96087,L2T,,,2023-03-31,
+a93ed2,N695RT,Rockwell,695B Jetprop Commander,AC95,96208,L2T,,,2023-10-31,1986-01-01
+a93f7d,N695YP,Rockwell,695A Jetprop Commander,AC95,96070,L2T,,,2024-03-31,1984-01-01
+a94db7,N699SB,Rockwell,690 Turbo Commander,AC90,11280,L2T,,,2022-07-31,1976-01-01
+a955e2,N700PQ,Rockwell,690B Turbo Commander,AC90,11389,L2T,,,2023-04-30,1977-01-01
+a9738e,N708PC,Rockwell,695 Jetprop Commander,AC95,95023,L2T,,,2023-09-30,1980-01-01
+a979b5,N71AA,Rockwell,690B Turbo Commander,AC90,11527,L2T,,,2024-07-31,1979-01-01
+a979bc,N71AH,Rockwell,690 Turbo Commander,AC90,11006,L2T,,,,
+a97ad7,N71MR,Rockwell,695A Jetprop Commander,AC95,96054,L2T,,,,
+a9810b,N711PB,Rockwell,690B Turbo Commander,AC90,11356,L2T,,,2021-11-30,1976-01-01
+a9a2de,N72TB,Rockwell,690C Turbo Commander,AC90,11619,L2T,,,2023-04-30,
+a9a8ee,N721TB,Rockwell,690B Turbo Commander,AC90,11352,L2T,,,2022-11-30,1976-01-01
+a9cc32,N730MV,Rockwell,695A Jetprop Commander,AC95,96032,L2T,,,2022-02-28,1982-01-01
+a9f09b,N74EF,Rockwell,690C Turbo Commander,AC90,11614,L2T,,,2024-07-31,1979-01-01
+aa01a0,N744CH,Rockwell,690D Turbo Commander,AC90,15015,L2T,,,,
+aa1972,N75U,Rockwell,690A Turbo Commander,AC90,11218,L2T,,,2021-11-30,
+aa1de9,N751BR,Rockwell,690B Turbo Commander,AC90,11436,L2T,,,2023-02-28,1977-01-01
+aa3f96,N76EC,Rockwell,690A Turbo Commander,AC90,11208,L2T,,,2022-11-30,
+aa4124,N76WA,Rockwell,690A Turbo Commander,AC90,11342,L2T,,,2023-11-30,1976-01-01
+aa676e,N77HS,Rockwell,690D Turbo Commander,AC90,15041,L2T,,,2024-03-31,1985-01-01
+aa6cd8,N771BA,Rockwell,690B Turbo Commander,AC90,11429,L2T,,,2023-07-31,1977-01-01
+aa6d41,N771FF,Rockwell,690D Turbo Commander,AC90,15014,L2T,,,2022-01-31,1982-01-01
+aa8448,N777NV,Rockwell,690C Turbo Commander,AC90,11680,L2T,,,,
+aa8f5a,N78NA,Rockwell,690B Turbo Commander,AC90,11401,L2T,,,2022-02-28,1977-01-01
+aa8fe8,N78TT,Rockwell,690B Turbo Commander,AC90,11509,L2T,,,2023-08-31,1978-01-01
+aab5ca,N79BE,Rockwell,690B Turbo Commander,AC90,11408,L2T,,,2024-02-29,
+aab6f9,N79PH,Rockwell,695A Jetprop Commander,AC95,96029,L2T,,,2022-10-31,
+aade7f,N8PQ,Rockwell,690A Turbo Commander,AC90,11243,L2T,,,2024-01-31,1975-01-01
+aae0d1,N80PH,Rockwell,690C Turbo Commander,AC90,11691,L2T,,,2023-03-31,1981-01-01
+aae5fa,N801EB,Rockwell,690A Turbo Commander,AC90,11111,L2T,,,,
+ab25d1,N81703,Rockwell,690B Turbo Commander,AC90,11438,L2T,,,2022-01-31,1977-01-01
+ab3d92,N823SB,Rockwell,690A Turbo Commander,AC90,11304,L2T,,,2023-01-31,1975-01-01
+ab6431,N833HC,Rockwell,690A Turbo Commander,AC90,11150,L2T,,,,
+ab6b22,N835CC,Rockwell,690C Turbo Commander,AC90,11730,L2T,,,2024-03-31,1983-01-01
+ab7e29,N84GU,Rockwell,690B Turbo Commander,AC90,11522,L2T,,,2024-08-31,1979-01-01
+ab7fe3,N840AK,Rockwell,690C Turbo Commander,AC90,11643,L2T,,,2022-04-30,1980-01-01
+ab7ff6,N840BD,Rockwell,690C Turbo Commander,AC90,11659,L2T,,,2022-03-31,
+ab8011,N840CF,Rockwell,690C Turbo Commander,AC90,11624,L2T,,,2022-09-30,1980-01-01
+ab806f,N840G,Rockwell,690C Turbo Commander,AC90,11683,L2T,,,2024-07-31,1981-01-01
+ab8077,N840GH,Rockwell,690C Turbo Commander,AC90,11615,L2T,,,2022-12-31,1979-01-01
+ab80a4,N840JC,Rockwell,690C Turbo Commander,AC90,11676,L2T,,,,
+ab80ab,N840JK,Rockwell,690C Turbo Commander,AC90,11697,L2T,,,,
+ab80b6,N840JW,Rockwell,690C Turbo Commander,AC90,11658,L2T,,,2022-09-30,1981-01-01
+ab80f3,N840MG,Rockwell,690C Turbo Commander,AC90,11638,L2T,,,,
+ab812b,N840PN,Rockwell,690C Turbo Commander,AC90,11679,L2T,,,2022-03-31,1981-01-01
+ab812f,N840PS,Rockwell,690C Turbo Commander,AC90,11672,L2T,,,2023-07-31,1981-01-01
+ab8152,N840RB,Rockwell,690C Turbo Commander,AC90,11699,L2T,,,2023-05-31,1981-01-01
+ab816e,N840SE,Rockwell,690C Turbo Commander,AC90,11610,L2T,,,2023-12-31,1979-01-01
+ab8175,N840SM,Rockwell,690C Turbo Commander,AC90,11700,L2T,,,,
+ab8197,N840TW,Rockwell,690C Turbo Commander,AC90,11689,L2T,,,2024-06-30,1981-01-01
+ab8eef,N844CH,Rockwell,690B Turbo Commander,AC90,11470,L2T,,,2021-11-30,1978-01-01
+ab9048,N844SC,Rockwell,690C Turbo Commander,AC90,11701,L2T,,,2024-01-31,1981-01-01
+ab9dc8,N848CE,Rockwell,690A Turbo Commander,AC90,11303,L2T,,,2022-01-31,1975-01-01
+ab9e92,N848LG,Rockwell,690C Turbo Commander,AC90,11641,L2T,,,2023-03-31,1980-01-01
+ac31e0,N885RA,Rockwell,690 Turbo Commander,AC90,11012,L2T,,,,
+ac396a,N887SD,Rockwell,695B Jetprop Commander,AC95,96207,L2T,,,2022-09-30,1984-01-01
+ac4eb7,N892WA,Rockwell,690A Turbo Commander,AC90,11273,L2T,,,2023-01-31,1976-01-01
+ac6a7d,N9AC,Rockwell,Commander 112TC-A,AC11,13304,L1P,,,,
+ac6ce5,N90AT,Rockwell,690A Turbo Commander,AC90,11272,L2T,,,2022-11-30,1975-01-01
+ac6fa2,N900ET,Rockwell,690D Turbo Commander,AC90,15037,L2T,,,,
+ac7086,N900PW,Rockwell,690D Turbo Commander,AC90,15033,L2T,,,2022-05-31,1984-01-01
+ac7491,N901TE,Rockwell,690D Turbo Commander,AC90,15031,L2T,,,,
+ac81c9,N905AK,Rockwell,695B Jetprop Commander,AC95,96063,L2T,,,2023-06-30,
+ac972b,N910FC,Rockwell,690C Turbo Commander,AC90,11682,L2T,,,2022-05-31,1981-01-01
+ac9b46,N911KC,Rockwell,690A Turbo Commander,AC90,11300,L2T,,,2023-10-31,1975-01-01
+aca307,N913NL,Rockwell,690D Turbo Commander,AC90,15008,L2T,,,2022-09-30,1982-01-01
+acc383,N921ST,Rockwell,690A Turbo Commander,AC90,11200,L2T,,,,
+acd607,N926SC,Rockwell,690C Turbo Commander,AC90,11622,L2T,,,2022-08-31,1980-01-01
+acd9c7,N927SM,Rockwell,690D Turbo Commander,AC90,15013,L2T,,,2021-10-31,
+acdca6,N928HW,Rockwell,Commander 114B,AC11,14672,L1P,,,2022-08-31,2000-01-01
+ace468,N93ME,Rockwell,690B Turbo Commander,AC90,11414,L2T,,,2024-04-30,1977-01-01
+ad0b34,N94EA,Rockwell,695A Jetprop Commander,AC95,96094,L2T,,,2023-11-30,1985-01-01
+ad0d2b,N940AC,Rockwell,690C Turbo Commander,AC90,11629,L2T,,,,
+ad3250,N95AB,Rockwell,695A Jetprop Commander,AC95,96012,L2T,,,2022-03-31,
+ad3322,N95JM,Rockwell,690A Turbo Commander,AC90,11289,L2T,,,2023-06-30,1975-01-01
+ad334e,N95LF,Rockwell,690A Turbo Commander,AC90,11290,L2T,,,2024-07-31,1975-01-01
+ad6ed5,N965BC,Rockwell,695A Jetprop Commander,AC95,96071,L2T,,,2023-04-30,1984-01-01
+ad8352,N97WT,Rockwell,690C Turbo Commander,AC90,11709,L2T,,,,
+ada8d4,N98AJ,Rockwell,690B Turbo Commander,AC90,11458,L2T,,,,
+adaa19,N98PJ,Rockwell,690A Turbo Commander,AC90,11320,L2T,,,,
+adab2e,N980AK,Rockwell,690C Turbo Commander,AC90,11636,L2T,,,2024-04-30,1980-01-01
+adab45,N980BH,Rockwell,695 Jetprop Commander,AC95,95002,L2T,,,2023-12-31,1980-01-01
+adabca,N980GR,Rockwell,695 Jetprop Commander,AC95,95049,L2T,,,2023-10-31,1981-01-01
+adabd5,N980HB,Rockwell,695 Jetprop Commander,AC95,95006,L2T,,,,
+adb18a,N9812S,Rockwell,695 Jetprop Commander,AC95,95060,L2T,,,2024-06-30,
+add5de,N9906S,Rockwell,695A Jetprop Commander,AC95,96003,L2T,,,,
+ade42e,N9942S,Rockwell,695A Jetprop Commander,AC95,96022,L2T,,,,
+adf1d9,N998RG,Rockwell,690A Turbo Commander,AC90,11136,L2T,,,,
+c00114,C-FAKP,Rockwell,690 Turbo Commander,AC90,11040,L2T,,2004-04-01,,
+c007ec,C-FCZZ,Rockwell,690A Turbo Commander,AC90,11106,L2T,,2015-05-06,,
+c015fc,C-FIIL,Rockwell,690A Turbo Commander,AC90,11167,L2T,,2006-04-26,,
+c01ffc,C-FMCX,Rockwell,690B Turbo Commander,AC90,11446,L2T,,2007-04-24,,
+c02042,C-FMFP,Rockwell,690A Turbo Commander,AC90,11307,L2T,,2005-04-13,,
+c02263,C-FNAO,Rockwell,690C Turbo Commander,AC90,11731,L2T,,2006-01-13,,
+c0241e,C-FNRP,Rockwell,690C Turbo Commander,AC90,11627,L2T,BVA,2014-03-27,,
+c02fd7,C-FSDA,Rockwell,690B Turbo Commander,AC90,11501,L2T,,2017-12-14,,
+c030ea,C-FSNP,Rockwell,690C Turbo Commander,AC90,11646,L2T,,2012-01-25,,
+c0311b,C-FSPM,Rockwell,690D Turbo Commander,AC90,15002,L2T,,2005-12-05,,
+c03194,C-FSUD,Rockwell,690B Turbo Commander,AC90,11554,L2T,,2017-12-14,,
+c043cf,C-FZRQ,Rockwell,690 Turbo Commander,AC90,11025,L2T,,1997-04-11,,
+c044b4,C-GAAL,Rockwell,690A Turbo Commander,AC90,11104,L2T,,2015-05-06,,
+c048f0,C-GBQD,Rockwell,690A Turbo Commander,AC90,11237,L2T,,2010-02-05,,
+c04cd4,C-GDCL,Rockwell,690A Turbo Commander,AC90,11192,L2T,,2015-05-06,,
+c050b7,C-GEOS,Rockwell,690A Turbo Commander,AC90,11279,L2T,,1988-03-15,,
+c05372,C-GFPP,Rockwell,690 Turbo Commander,AC90,11032,L2T,,2000-01-19,,
+c05966,C-GHWF,Rockwell,690A Turbo Commander,AC90,11134,L2T,,2015-05-06,,
+c05cfd,C-GJFO,Rockwell,690 Turbo Commander,AC90,11035,L2T,,2001-08-15,,
+c05f78,C-GKDZ,Rockwell,690 Turbo Commander,AC90,11016,L2T,,2002-03-28,,
+c06387,C-GLRY,Rockwell,Commander 112,AC11,257,L1P,,2001-05-15,,
+c06466,C-GMAN,Rockwell,690B Turbo Commander,AC90,11535,L2T,,2017-12-13,,
+c06bd6,C-GOVT,Rockwell,695A Turbo Commander,AC90,15020,L2T,,2005-05-26,,
+c07642,C-GSUJ,Rockwell,690A Turbo Commander,AC90,11138,L2T,,2012-12-12,,
+c07f3f,C-GWEW,Rockwell,690 Turbo Commander,AC90,11057,L2T,,2015-05-06,,
+c08491,C-GYFG,Rockwell,690A Turbo Commander,AC90,11189,L2T,,2013-10-31,,
+c0852a,C-GYLD,Rockwell,690B Turbo Commander,AC90,11426,L2T,,2017-12-13,,
+c08826,C-GZON,Rockwell,690 Turbo Commander,AC90,11020,L2T,,2003-10-07,,
+c814a1,ZK-PVB,Rockwell,690A Turbo Commander,AC90,11321,L2T,,,,
+e020ca,LV-BCJ,Rockwell,690 Turbo Commander,AC90,11022,L2T,,,,
+e02381,LV-BNA,Rockwell,690B Turbo Commander,AC90,11419,L2T,,,,
+e0c488,LV-LRH,Rockwell,690A Turbo Commander,AC90,11236,L2T,,,,
+e0c502,LV-LTB,Rockwell,690A Turbo Commander,AC90,11238,L2T,,,,
+e0c519,LV-LTY,Rockwell,690A Turbo Commander,AC90,11230,L2T,,,,
+e0c68c,LV-LZL,Rockwell,690A Turbo Commander,AC90,11246,L2T,,,,
+e0d099,LV-MBY,Rockwell,690B Turbo Commander,AC90,11412,L2T,,,,
+e0d10e,LV-MDN,Rockwell,690B Turbo Commander,AC90,11442,L2T,,,,
+e0d641,LV-MYA,Rockwell,690B Turbo Commander,AC90,11558,L2T,,,,
+e0f149,LV-OEI,Rockwell,690C Turbo Commander,AC90,11612,L2T,,,,

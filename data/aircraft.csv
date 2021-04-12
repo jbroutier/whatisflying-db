@@ -67,6 +67,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 46b829,SX-NAI,ERCO,415-C Ercoupe,ERCO,1477,L1P,,,,
 484e80,PH-NCE,ERCO,415-CD Ercoupe,ERCO,4765,L1P,,,,
 4a8c86,SE-CDF,Stinson,108-1,S108,108-1846,L1P,,,,
+4bb82b,TC-NAK,IMCO,Callair A-9A,A9,1450,L1P,,,,
 a1bf78,N211Z,Stinson,108-2,S108,108-2838,L1P,,,2023-01-31,1947-01-01
 a202a3,N229CA,English Electric,Canberra B.20,CNBR,29,L2J,,,,
 a2954a,N266AC,FD Composites,Arrow Copter AC10,AC10,011,G1P,,,2024-07-31,2012-01-01

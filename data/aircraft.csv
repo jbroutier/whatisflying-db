@@ -1,4 +1,5 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+00e2a0,ZU-RGP,FD Composites,Arrow Copter AC10,AC10,007,G1P,,,,
 33ff84,MM7149,AMX International,A-11B,AMX,IX061,L1J,AMX,,,
 33ff87,MM7126,AMX International,A-11B,AMX,IX038,L1J,AMX,,,
 33ff88,MM7114,AMX International,A-11B,AMX,IX026,L1J,AMX,,,
@@ -58,6 +59,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 407261,G-FXCR,Nextant Aerospace,Nextant 400XT,BE4W,RK-423,L2J,,2017-02-07,,2005-01-01
 407290,G-FXAR,Nextant Aerospace,Nextant 400XT,BE4W,RK-252,L2J,,2017-05-19,,1999-01-01
 407291,G-FXKR,Nextant Aerospace,Nextant 400XT,BE4W,RK-279,L2J,,2017-03-06,,2000-01-01
+440690,OE-XAD,FD Composites,Arrow Copter AC20,AC10,024,G1P,,,,
 44c2b3,OO-PUS,ERCO,415-CD Ercoupe,ERCO,4577,L1P,,,,
 4594d0,OY-EFP,Stinson,108,S108,108-7149,L1P,,,,
 4594d6,OY-EFV,Stinson,108,S108,108-353,L1P,,,,
@@ -67,6 +69,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4a8c86,SE-CDF,Stinson,108-1,S108,108-1846,L1P,,,,
 a1bf78,N211Z,Stinson,108-2,S108,108-2838,L1P,,,2023-01-31,1947-01-01
 a202a3,N229CA,English Electric,Canberra B.20,CNBR,29,L2J,,,,
+a2954a,N266AC,FD Composites,Arrow Copter AC10,AC10,011,G1P,,,2024-07-31,2012-01-01
 a2c2e0,N2770L,Aces High,Cuby II,CUB2,1364,L1P,,,2021-04-30,1982-01-01
 a31ec9,N30UP,English Electric,Canberra B(I).8,CNBR,6663,L2J,,,,
 a4ac18,N40UP,English Electric,Canberra B.6,CNBR,71398,L2J,,,,
@@ -94,3 +97,4 @@ c096a4,C-IFBF,Aces High,Cuby II,CUB2,041087,L1P,,1996-03-19,,
 c09755,C-IFIA,Aces High,Cuby II,CUB2,72087,L1P,,2000-12-22,,
 c0a5f7,C-IKWC,Aces High,Cuby II,CUB2,LC2W931072511,L1P,,2016-01-12,,
 c0c23e,C-IVON,Aces High,Cuby II,CUB2,LC2FW089002,L1P,,1999-07-22,,
+c8233a,ZK-RBV,FD Composites,Arrow Copter AC20,AC10,039,G1P,,,,

@@ -2,28 +2,18 @@
 
 ## Version 2.0.27
 
-**Added**
-
 - Add 297 aircraft pictures.
 - Add 5 aircraft type pictures.
-
-**Fixed or improved**
-
 - Fix Beechcraft BE19/BE24 aircraft ICAO type codes.
 - Properly format aircraft `40650b` model.
 
 ## Version 2.0.26
-
-**Added**
 
 - Add 19 Boeing aircraft.
 - Add 3 De Havilland aircraft.
 - Add 329 aircraft pictures.
 - Add 8 generic aircraft types (ICAO special designators).
 - Add 8 generic aircraft types pictures (ICAO special designators).
-
-**Fixed or improved**
-
 - Fix 7 Boeing B735 aircraft ICAO type codes.
 - Fix 71 Cessna C425 aircraft ICAO type codes.
 - Fix 2 Icon Aircraft aircraft ICAO type codes.
@@ -31,8 +21,6 @@
 - Fix aircraft `aa2177` ICAO type code.
 
 ## Version 2.0.25
-
-**Added**
 
 - Add 1819 Bombardier aircraft.
 - Add 69660 Cessna aircraft.
@@ -44,9 +32,6 @@
 - Add 48 aircraft pictures.
 - Add 2 aircraft types.
 - Add 3 aircraft types pictures.
-
-**Fixed or improved**
-
 - Properly format Cessna C240 aircraft serial numbers.
 - Properly format Piper AEST aircraft serial numbers.
 - Properly format Piper M600 aircraft serial numbers.

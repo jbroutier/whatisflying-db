@@ -260,7 +260,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 383182,F-BMMC,Beechcraft,65-A80 Queen Air,BE80,LD-161,L2P,,,,
 38324c,F-BMSM,Beechcraft,65-80 Queen Air,BE80,LD-28,L2P,,,,
 383471,F-BNDR,Beechcraft,C33 Debonair,BE33,CD-929,L1P,,,,
-383589,F-BNMJ,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-116,L1P,,,,
+383589,F-BNMJ,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-116,L1P,,,,
 383592,F-BNMS,Beechcraft,B35 Bonanza,BE35,D-2610,L1P,,,,
 383593,F-BNMT,Beechcraft,D95A Travel Air,BE95,TD-577,L2P,,,,
 3835c8,F-BNOI,Beechcraft,C33A Debonair,BE33,CE-39,L1P,,,,
@@ -270,8 +270,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3835d2,F-BNOS,Beechcraft,S35 Bonanza,BE35,D-7944,L1P,,,,
 3835d3,F-BNOT,Beechcraft,A23A Custom III,BE23,M-960,L1P,,,,
 3835f8,F-BNPY,Beechcraft,65 Queen Air,BE65,LC-206,L2P,,,,
-383628,F-BNRI,Beechcraft,A23-24 Musketeer Super III,BE23,MA-105,L1P,,,,
-383666,F-BNTG,Beechcraft,A23-24 Musketeer Super III,BE23,MA-33,L1P,,,,
+383628,F-BNRI,Beechcraft,A23-24 Musketeer Super III,BE24,MA-105,L1P,,,,
+383666,F-BNTG,Beechcraft,A23-24 Musketeer Super III,BE24,MA-33,L1P,,,,
 38366b,F-BNTL,Beechcraft,C33 Debonair,BE33,CD-1049,L1P,,,,
 3838f8,F-BOHY,Beechcraft,65-88 Queen Air,BE88,LP-42,L2P,,,,
 383903,F-BOID,Beechcraft,M35 Bonanza,BE35,D-6434,L1P,,,,
@@ -297,7 +297,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 384687,F-BRUH,Beechcraft,E33 Bonanza,BE33,CD-1230,L1P,,,,
 384880,F-BSEA,Beechcraft,E33A Bonanza,BE33,CE-249,L1P,,,,
 384a72,F-BSTS,Beechcraft,65-A80 Queen Air,BE80,LD-166,L2P,,,,
-384aae,F-BSVO,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-34,L1P,,,,
+384aae,F-BSVO,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-34,L1P,,,,
 384d79,F-BTLZ,Beechcraft,A35 Bonanza,BE35,D-2198,L1P,,,,
 384d8d,F-BTMN,Beechcraft,A36 Bonanza,BE36,E-43,L1P,,,,
 384e0c,F-BTQM,Beechcraft,C23 Sundower 180,BE23,M-1388,L1P,,,,
@@ -599,7 +599,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d1e06,D-EJPU,Beechcraft,B33 Debonair,BE33,CD-499,L1P,,,,
 3d1e6e,D-EJTU,Beechcraft,F33A Bonanza,BE33,CE-1381,L1P,,,,
 3d1e79,D-EJUF,Beechcraft,F33A Bonanza,BE33,CE-1247,L1P,,,,
-3d1ea6,D-EJVY,Beechcraft,A23-24 Musketeer Super III,BE23,MA-354,L1P,,,,
+3d1ea6,D-EJVY,Beechcraft,A23-24 Musketeer Super III,BE24,MA-354,L1P,,,,
 3d1f17,D-EKAH,Beechcraft,F33A Bonanza,BE33,CE-757,L1P,,,,
 3d1f26,D-EKAW,Beechcraft,33 Debonair,BE33,CD-27,L1P,,,,
 3d1f3d,D-EKBT,Beechcraft,B36TC Bonanza,BE36,EA-514,L1P,,,,
@@ -612,7 +612,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d211d,D-EKUF,Beechcraft,G35 Bonanza,BE35,D-4713,L1P,,,,
 3d2132,D-EKVA,Beechcraft,A36 Bonanza,BE36,E-2328,L1P,,,,
 3d2166,D-EKXA,Beechcraft,F33C Bonanza,BE33,CJ-29,L1P,,,,
-3d21da,D-ELBM,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-35,L1P,,,,
+3d21da,D-ELBM,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-35,L1P,,,,
 3d2205,D-ELDD,Beechcraft,F33A Bonanza,BE33,CE-869,L1P,,,,
 3d222e,D-ELES,Beechcraft,C24R Sierra,BE24,MC-669,L1P,,,,
 3d2274,D-ELHK,Beechcraft,V35B Bonanza,BE35,D-10020,L1P,,,,
@@ -630,7 +630,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d2564,D-EMKI,Beechcraft,77 Skipper,BE77,WA-94,L1P,,,,
 3d258c,D-EMLW,Beechcraft,A24R Sierra,BE24,MC-81,L1P,,,,
 3d25a2,D-EMMS,Beechcraft,G36 Bonanza,BT36,E-3970,L1P,,,,
-3d25be,D-EMNU,Beechcraft,A23-24 Musketeer Super III,BE23,MA-36,L1P,,,,
+3d25be,D-EMNU,Beechcraft,A23-24 Musketeer Super III,BE24,MA-36,L1P,,,,
 3d25db,D-EMOX,Beechcraft,F33A Bonanza,BE33,CE-875,L1P,,,,
 3d2615,D-EMRD,Beechcraft,V35B Bonanza,BE35,D-10138,L1P,,,,
 3d266a,D-EMUK,Beechcraft,V35B Bonanza,BE35,D-9986,L1P,,,,
@@ -691,7 +691,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 3d3cca,D-EVGS,Beechcraft,D35 Bonanza,BE35,D-3637,L1P,,,,
 3d3cf6,D-EVIK,Beechcraft,A36 Bonanza,BE36,E-2347,L1P,,,,
 3d3e42,D-EVVE,Beechcraft,A36 Bonanza,BE36,E-2200,L1P,,,,
-3d3f56,D-EWFU,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-33,L1P,,,,
+3d3f56,D-EWFU,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-33,L1P,,,,
 3d3f84,D-EWHO,Beechcraft,A36AT Bonanza,BE36,E-2707,L1P,,,,
 3d3f9c,D-EWIM,Beechcraft,F33A Bonanza,BE33,CE-1388,L1P,,,,
 3d404a,D-EWPE,Beechcraft,F33A Bonanza,BE33,CE-1391,L1P,,,,
@@ -902,7 +902,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 403d7a,G-DGST,Beechcraft,95-B55 Baron,BE55,TC-2011,L2P,,2013-12-16,,1976-01-01
 403ffe,G-BXXT,Beechcraft,76 Duchess,BE76,ME-212,L2P,,2015-06-09,,1979-01-01
 4040b0,G-BYDG,Beechcraft,C24R Sierra,BE24,MC-627,L1P,,2017-02-22,,1978-01-01
-4043cb,G-TAMS,Beechcraft,A23-24 Musketeer Super III,BE23,MA-190,L1P,,2017-07-06,,1967-01-01
+4043cb,G-TAMS,Beechcraft,A23-24 Musketeer Super III,BE24,MA-190,L1P,,2017-07-06,,1967-01-01
 4043dc,G-JUST,Beechcraft,F33A Bonanza,BE33,CE-1165,L1P,,2016-08-19,,1987-01-01
 40444e,G-BZNN,Beechcraft,76 Duchess,BE76,ME-343,L2P,,2011-04-20,,1980-01-01
 4044ab,G-BZPG,Beechcraft,C24R Sierra,BE24,MC-556,L1P,,2017-06-30,,1978-01-01
@@ -927,7 +927,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 406588,G-SIBK,Beechcraft,A36 Bonanza,BE36,E-3034,L1P,,2017-08-15,,1996-01-01
 40670d,G-JOTB,Beechcraft,C90 King Air,BE9L,LJ-741,L2T,ENZ,2012-03-20,,1977-01-01
 406787,G-CHGI,Beechcraft,A36 Bonanza,BE36,E-1784,L1P,,2012-05-30,,1981-01-01
-4067e8,G-IBFF,Beechcraft,A23-24 Musketeer Super III,BE23,MA-352,L1P,,2012-08-30,,1969-01-01
+4067e8,G-IBFF,Beechcraft,A23-24 Musketeer Super III,BE24,MA-352,L1P,,2012-08-30,,1969-01-01
 4068d8,G-LUKA,Beechcraft,G58 Baron,BE58,TH-2257,L2P,,2013-01-17,,2009-01-01
 4068f7,G-IASA,Beechcraft,B200 King Air,BE20,BB-1698,L2T,,2013-01-09,,2000-01-01
 406b4d,G-NIAA,Beechcraft,B200 King Air,BE20,BB-897,L2T,,2014-03-14,,1981-01-01
@@ -975,7 +975,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 440336,OE-KRH,Beechcraft,F33A Bonanza,BE33,CE-1703,L1P,,,,
 4405e5,OE-KGF,Beechcraft,K35 Bonanza,BE35,D-5793,L1P,,,,
 4407ee,OE-DTM,Beechcraft,F33A Bonanza,BE33,CE-1438,L1P,,,,
-44080c,OE-DMF,Beechcraft,A23-B19 Sport 150,BE23,MB 674,L1P,,,,
+44080c,OE-DMF,Beechcraft,A23-B19 Sport 150,BE19,MB 674,L1P,,,,
 4408e8,OE-ADM,Beechcraft,A-45 Mentor,T34P,G-757,L1P,,,,
 44845a,OO-ABZ,Beechcraft,C33 Debonair,BE33,CD-890,L1P,,,,
 448533,OO-AIS,Beechcraft,200T King Air,BE20,BT-11,L2T,,,,
@@ -998,7 +998,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 44b0b4,OO-LET,Beechcraft,B200 King Air,BE20,BB-1473,L2T,,,,
 44b54b,OO-MJK,Beechcraft,A36 Bonanza,BE36,E-1319,L1P,,,,
 44b607,OO-MPG,Beechcraft,A36 Bonanza,BE36,E-2461,L1P,,,,
-44ba14,OO-NPT,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-31,L1P,,,,
+44ba14,OO-NPT,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-31,L1P,,,,
 44c04c,OO-PBL,Beechcraft,77 Skipper,BE77,WA-250,L1P,,,,
 44c9a3,OO-RMC,Beechcraft,F33A Bonanza,BE33,CE-1598,L1P,,,,
 44cc24,OO-SAD,Beechcraft,U-21G Ute,U21,LM-126,L2T,,,,
@@ -1013,10 +1013,10 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 458b34,OY-BYT,Beechcraft,A23 Musketeer II,BE23,M-677,L1P,,,,
 458d70,OY-CKP,Beechcraft,B200 King Air,BE20,BB-951,L2T,,,,
 45915a,OY-DJZ,Beechcraft,V35B Bonanza,BE35,D-9528,L1P,,,,
-45916d,OY-DKM,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-193,L1P,,,,
+45916d,OY-DKM,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-193,L1P,,,,
 4591cb,OY-DNK,Beechcraft,C33A Debonair,BE33,CE-163,L1P,,,,
 45920c,OY-DPL,Beechcraft,A23 Musketeer II,BE23,M-637,L1P,,,,
-459261,OY-DSA,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-300,L1P,,,,
+459261,OY-DSA,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-300,L1P,,,,
 459ca6,OY-GEF,Beechcraft,200GT King Air,BE20,BY-97,L2T,,,,
 45a830,OY-JAP,Beechcraft,C90 King Air,BE9L,LJ-874,L2T,,,,
 45a944,OY-JJD,Beechcraft,Hawker 400XP,BE40,RK-133,L2J,SUR,,,
@@ -1027,7 +1027,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 45c1ea,OY-POJ,Beechcraft,95-B55 Baron,BE55,TC-579,L2P,,,,
 45d0c4,OY-TFD,Beechcraft,A36 Bonanza,BE36,E-3013,L1P,,,,
 45d0da,OY-TFZ,Beechcraft,23 Musketeer,BE23,M-407,L1P,,,,
-4602a5,OH-BAB,Beechcraft,A23-B19 Sport 150,BE23,MB-822,L1P,,,,
+4602a5,OH-BAB,Beechcraft,A23-B19 Sport 150,BE19,MB-822,L1P,,,,
 4602b5,OH-BAR,Beechcraft,B60 Duke,BE60,P-477,L2P,,,,
 4602bb,OH-BAX,Beechcraft,C90 King Air,BE9L,LJ-984,L2T,,,,
 4602c6,OH-BBI,Beechcraft,D55 Baron,BE55,TE-525,L2P,,,,
@@ -1038,8 +1038,8 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 460309,OH-BDX,Beechcraft,A60 Duke,BE60,P-194,L2P,,,,
 460323,OH-BEX,Beechcraft,C90 King Air,BE9L,LJ-978,L2T,,,,
 4603cc,OH-BLK,Beechcraft,65-B80 Queen Air,BE80,LD-298,L2P,,,,
-4603df,OH-BMD,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-163,L1P,,,,
-4603e3,OH-BMH,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-225,L1P,,,,
+4603df,OH-BMD,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-163,L1P,,,,
+4603e3,OH-BMH,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-225,L1P,,,,
 46846d,SX-ACM,Beechcraft,B24R Sierra 200,BE24,MC-426,L1P,,,,
 468483,SX-ADC,Beechcraft,35 Bonanza,BE35,D-1049,L1P,,,,
 468609,SX-API,Beechcraft,58 Baron,BE58,TH-970,L2P,,,,
@@ -1097,9 +1097,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 48c1f4,SP-RPW,Beechcraft,B200 King Air,BE20,BB-1861,L2T,,,,
 48c812,SP-TAT,Beechcraft,Hawker 400XP,BE40,RK-267,L2J,,,,2000-01-01
 48ce11,SP-URS,Beechcraft,200GT King Air,BE20,BY-259,L2T,,,,
-4904c7,CS-AFG,Beechcraft,A23-24 Musketeer Super III,BE23,MA-350,L1P,,,,
+4904c7,CS-AFG,Beechcraft,A23-24 Musketeer Super III,BE24,MA-350,L1P,,,,
 4904ec,CS-AGL,Beechcraft,F35 Bonanza,BE35,D-4192,L1P,,,,
-490533,CS-AIS,Beechcraft,A23-24 Musketeer Super III,BE23,MA-106,L1P,,,,
+490533,CS-AIS,Beechcraft,A23-24 Musketeer Super III,BE24,MA-106,L1P,,,,
 4906ad,CS-AUM,Beechcraft,F33A Bonanza,BE33,CE-763,L1P,,,,
 4906cc,CS-AVL,Beechcraft,76 Duchess,BE76,ME-332,L2P,,,,
 491057,CS-DBW,Beechcraft,C24R Sierra,BE24,MC-660,L1P,,,,
@@ -1175,9 +1175,9 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4b0b8f,HB-EJV,Beechcraft,35-C33 Debonair,BE33,CD-1028,L1P,,1986-01-17,,1966-01-01
 4b0b90,HB-EJW,Beechcraft,B36TC Bonanza,BE36,EA-292,L1P,,,,
 4b0bb7,HB-ELJ,Beechcraft,35-C33 Debonair,BE33,CD-1010,L1P,,2001-08-02,,1966-01-01
-4b0bf7,HB-ENV,Beechcraft,A23-24 Musketeer Super III,BE23,MA-108,L1P,,1966-11-25,,1966-01-01
-4b0bf8,HB-ENW,Beechcraft,A23-24 Musketeer Super III,BE23,MA-107,L1P,,,,
-4b0bf9,HB-ENX,Beechcraft,A23-19 Musketeer Sport III,BE23,MB-141,L1P,,1966-12-13,,1966-01-01
+4b0bf7,HB-ENV,Beechcraft,A23-24 Musketeer Super III,BE24,MA-108,L1P,,1966-11-25,,1966-01-01
+4b0bf8,HB-ENW,Beechcraft,A23-24 Musketeer Super III,BE24,MA-107,L1P,,,,
+4b0bf9,HB-ENX,Beechcraft,A23-19 Musketeer Sport III,BE19,MB-141,L1P,,1966-12-13,,1966-01-01
 4b0cd0,HB-EWE,Beechcraft,23 Musketeer,BE23,M-504,L1P,,1967-06-26,,1963-01-01
 4b0cd2,HB-EWG,Beechcraft,F33A Bonanza,BE33,CE-513,L1P,,1978-06-09,,1974-01-01
 4b0cd3,HB-EWH,Beechcraft,F33A Bonanza,BE33,CE-844,L1P,,1979-06-22,,1979-01-01

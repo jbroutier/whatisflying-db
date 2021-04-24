@@ -1,5 +1,25 @@
 # Changelog for version 2.x
 
+## Version 2.0.29
+
+- Add 41 Aero aircraft.
+- Add 48 Aero Commander aircraft.
+- Add 423 Beechcraft aircraft.
+- Add 5501 Cirrus aircraft.
+- Add 117 Dassault-Dornier aircraft.
+- Add 4 FD Composites aircraft.
+- Add 1 IMCO aircraft.
+- Add 314 North American aircraft.
+- Add 508 Rockwell aircraft.
+- Add 21 aircraft types.
+- Add 14 aircraft types pictures.
+- Fix Beechcraft B58T aircraft model names & ICAO codes.
+- Fix Cirrus S22T aircraft ICAO type codes.
+- Fix Volpar Turbo 18 aircraft model names, descriptions & ICAO codes.
+- Rename DME which are parts of ILS using the "DME <runway number>" scheme.
+- Add runway numbers to the DME which are parts of ILS.
+- Properly mark DME without associated ILS as terminal DME.
+
 ## Version 2.0.28
 
 - Add 214 aircraft pictures.

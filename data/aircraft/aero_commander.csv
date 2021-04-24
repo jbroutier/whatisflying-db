@@ -1,0 +1,49 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+381a43,F-BGSD,Aero Commander,560A,AC56,560A-366,L2P,,,,
+38304c,F-BMCM,Aero Commander,680FP,AC68,680FP-1391-146,L2P,,,,
+3835e4,F-BNPE,Aero Commander,680FP,AC68,680FP-1385-145,L2P,,,,
+384f19,F-BTYZ,Aero Commander,560F,AC56,560F-1069-25,L2P,,,,
+3e1763,D-IABB,Aero Commander,680FL Grand Commander,AC6L,680FL-1633-119,L2P,,,,
+3e1764,D-IABC,Aero Commander,680T Turbo Commander,AC80,1684-65,L2T,,,,
+3e1765,D-IABD,Aero Commander,680FL Grand Commander,AC6L,680FL-1741-143,L2P,,,,
+3e1a55,D-IBEB,Aero Commander,560E,AC56,560E-741-58,L2P,,,,
+3e1a59,D-IBEF,Aero Commander,560F,AC56,560F-1033-12,L2P,,,,
+3e2af1,D-IHLP,Aero Commander,680F,AC68,560F-1037-53,L2P,,,,
+46003f,OH-ACL,Aero Commander,500S Shrike Commander,AC50,500S-3229,L2P,,,,
+475201,HA-ARA,Aero Commander,500A,AC50,500A-1113-55,L2P,,,,
+4ab06e,SE-LCN,Aero Commander,500S Shrike Commander,AC50,500S-3177,L2P,,,,
+4bb681,TC-MTA,Aero Commander,680F,AC68,560F-1224-117,L2P,,,,
+4c04c0,YU-BGA,Aero Commander,500S Shrike Commander,AC50,500S-1874-47,L2P,,,,
+4c0635,YU-BRV,Aero Commander,680FP,AC68,680FP-1290-133,L2P,,,,
+731921,EP-FIA,Aero Commander,680W Turbo II Commander,AC80,1849-45,L2T,,,,
+731922,EP-FIB,Aero Commander,680W Turbo II Commander,AC80,1850-46,L2T,,,,
+731a73,EP-FSS,Aero Commander,680W Turbo II Commander,AC80,1848-44,L2T,,,,
+7c4207,VH-NBT,Rockwell,681 Hawk Commander,AC68,6047,L2P,,,,1971-01-01
+7c6698,VH-UJU,Aero Commander,500S Shrike Commander,AC50,3055,L2P,,1992-07-17,,1969-01-01
+7c6699,VH-UJV,Aero Commander,500S Shrike Commander,AC50,3161,L2P,,1979-03-16,,1973-01-01
+a03184,N111SK,Aero Commander,680V Turbo Commander,AC80,1710-85,L2T,,,2023-03-31,1967-01-01
+a0379c,N113CT,Rockwell,681 Hawk Commander,AC68,6006,L2P,,,,
+a11cf6,N171AT,Aero Commander,680T Turbo Commander,AC80,1616-49,L2T,,,,
+a166f8,N19MU,Rockwell,681B Turbo Commander,AC68,6051,L2P,,,,
+a18fcf,N20BM,Aero Commander,680V Turbo Commander,AC80,1698-75,L2T,,,2023-06-30,1967-01-01
+a2f476,N29PR,Rockwell,681 Hawk Commander,AC68,6018,L2P,,,2024-07-31,1969-01-01
+a40978,N3596T,Aero Commander,500,AC50,500-752-59,L2P,,,,
+a434ac,N370K,Aero Commander,680V Turbo Commander,AC80,1570-25,L2T,COO,,,
+a4759e,N387DH,Aero Commander,500S Shrike Commander,AC50,500S-3295,L2P,,,,
+a5a3ac,N4622E,Aero Commander,680W Turbo II Commander,AC80,1723-3,L2T,,,2023-07-31,1968-01-01
+a6dee9,N54163,Aero Commander,680W Turbo II Commander,AC80,1774-12,L2T,,,2023-04-30,1968-01-01
+a8f69b,N677KA,Aero Commander,680V Turbo Commander,AC80,1677-60,L2T,,,,
+a902c1,N68VH,Rockwell,681 Hawk Commander,AC68,6007,L2P,,,,
+a9088c,N681SP,Rockwell,681 Hawk Commander,AC68,6027,L2P,,,2024-07-31,
+a922a4,N688TM,Aero Commander,680V Turbo Commander,AC80,1687-67,L2T,,,2022-12-31,
+ad0eea,N940U,Aero Commander,680W Turbo II Commander,AC80,1843-42,L2T,,,2022-07-31,1968-01-01
+c0032b,C-BFE,Aero Commander,500,AC50,500-776,L2P,FAP,1977-03-29,2001-06-06,
+c0068a,C-FCMJ,Rockwell,681B Turbo Commander,AC68,6054,L2P,,,,
+c00ff9,C-FGBG,Aero Commander,520,AC52,520-32,L2P,,2003-06-03,2018-06-28,
+c021c5,C-FMUM,Aero Commander,500S Shrike Commander,AC50,3103,L2P,,2017-12-14,,
+c02d02,C-FRBD,Aero Commander,500S Shrike Commander,AC50,3118,L2P,,2017-12-14,,
+c05130,C-GETJ,Aero Commander,500S Shrike Commander,AC50,3275,L2P,,2017-12-14,,
+c05c68,C-GIZV,Aero Commander,500B Shrike Commander,AC50,1440-155,L2P,,2017-12-14,,
+c05d99,C-GJLO,Aero Commander,500S Shrike Commander,AC50,1796-11,L2P,,2017-12-14,,
+c05da5,C-GJMA,Aero Commander,500B,AC50,1319-128,L2P,,2017-12-14,,
+c05f7d,C-GKEE,Aero Commander,500S Shrike Commander,AC50,3308,L2P,,2009-05-14,,

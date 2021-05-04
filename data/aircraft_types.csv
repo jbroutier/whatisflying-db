@@ -211,7 +211,7 @@ BCS1,CS1,Airbus,A220-100,L2J,M,,41000,130,,,,,11.80,34.90,,35.10,,,,,52390,61235
 BCS3,CS3,Airbus,A220-300,L2J,M,,41000,135,,,,,11.50,38.70,,35.10,,,,,58740,68039,67585,55792,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima570
 BE10,,Beechcraft,Model 100 King Air,L2T,L,,,111,,,,,,,,13.72,,,,,,,,,
 BE17,,Beechcraft,Model 17 Staggerwing,L1P,L,,,,,,,,,,,,,,,,,,,,
-BE18,,Beechcraft,Model 18 Twin Beech (turbine),L2T,L,,,,,,,,,,,,,,,,,,,,
+B18T,,Beechcraft,Model 18 Twin Beech (turbine),L2T,L,,,,,,,,,,,,,,,,,,,,
 BE18,,Beechcraft,Model 18 Twin Beech,L2P,L,,,87,,,,,,,,,,,,,,,,,
 BE19,,Beechcraft,Model 19 Musketeer Sport,L1P,L,,,,,,,,,,,,,,,,,,,,
 BE20,,Beechcraft,Model 200 King Air,L2T,L/M,,,98,,,,,,,,,,,,,,,,,

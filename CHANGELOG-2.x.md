@@ -1,5 +1,16 @@
 # Changelog for version 2.x
 
+## Version 2.0.30
+
+- Add 12 Airbus aircraft.
+- Add 35 Boeing aircraft.
+- Add 175 Embraer aircraft.
+- Fix E190 CJ version aircraft model names.
+- Fix Piper PA32 aircraft descriptions.
+- Fix aircraft type B18T icao code.
+- Properly format aircraft `4ca99b` serial number.
+- Update 30 Boeing aircraft (specify the exact model).
+
 ## Version 2.0.29
 
 - Add 41 Aero aircraft.

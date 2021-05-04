@@ -7,6 +7,7 @@
 - Add 175 Embraer aircraft.
 - Fix E190 CJ version aircraft model names.
 - Fix Piper PA32 aircraft descriptions.
+- Fix aircraft type B18T icao code.
 - Properly format aircraft `4ca99b` serial number.
 - Update 30 Boeing aircraft (specify the exact model).
 

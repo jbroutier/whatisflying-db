@@ -308,6 +308,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 8964ca,A6-MBS,Dassault,Falcon 7X,FA7X,263,L3J,DCS,,,
 a00199,N1SG,Dassault,Falcon 2000,F2TH,85,L2J,COO,,,
 a0032f,N10JM,Dassault,Falcon 2000,F2TH,151,L2J,,,2021-12-31,
+a00331,N10JP,Dassault,Falcon 2000,F2TH,23,L2J,,,,
 a00932,N101HZ,Dassault,Falcon 2000,F2TH,86,L2J,,,2024-02-29,1999-01-01
 a0174d,N105AF,Dassault,Falcon 2000,F2TH,012,L2J,,,2022-10-31,1995-01-01
 a02a07,N11BV,Dassault,Falcon 2000,F2TH,21,L2J,,,2022-11-30,1995-01-01

@@ -1,5 +1,15 @@
 icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+006015,FAM-002,Hawker Beechcraft,Hawker 850XP,H25B,258750,L2J,,,,
+00817d,ZS-AOA,British Aerospace,BAe 125-800A,H25B,258160,L2J,,,,
+008190,ZS-AOT,Hawker Beechcraft,Hawker 800XP,H25B,258670,L2J,,,,
+00855f,ZS-CAG,British Aerospace,BAe 125-700B,H25B,257172,L2J,,,,
+008800,ZS-DAD,Hawker Beechcraft,Hawker 800XP,H25B,258477,L2J,,2016-11-01,,2000-01-01
+008cfd,ZS-EXG,Hawker Beechcraft,Hawker 800XP,H25B,258406,L2J,,,,
+009579,ZS-ICU,British Aerospace,BAe 125-700A,H25B,257113,L2J,,,,
+0096bb,ZS-IPE,British Aerospace,BAe 125-700A,H25B,257202,L2J,AZR,,,
 0099b5,ZS-JSM,British Aerospace,BAe-4112 Jetstream 41,JS41,41052,L2T,MCC,,,
+009fdb,ZS-MBA,Hawker Beechcraft,Hawker 800XP,H25B,258460,L2J,COO,,,
+00a127,ZS-MNU,Hawker Beechcraft,Hawker 800XP,H25B,258435,L2J,,,,
 00a3dd,ZS-NOM,British Aerospace,BAe-4102 Jetstream 41,JS41,41047,L2T,MCC,,,
 00a423,ZS-NRE,British Aerospace,BAe-4121 Jetstream 41,JS41,41048,L2T,,,,
 00a424,ZS-NRF,British Aerospace,BAe-4101 Jetstream 41,JS41,41050,L2T,,,,
@@ -9,21 +19,107 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 00a428,ZS-NRJ,British Aerospace,BAe-4121 Jetstream 41,JS41,41062,L2T,,,,
 00a588,ZS-OEX,British Aerospace,BAe-4121 Jetstream 41,JS41,41103,L2T,,,,
 00a65a,ZS-OMZ,British Aerospace,BAe-4102 Jetstream 41,JS41,41037,L2T,,,,
+00a93a,ZS-PPH,Hawker Beechcraft,Hawker 800XP,H25B,258717,L2J,,,,
+00affb,ZS-SDU,British Aerospace,BAe 125-700A,H25B,257053,L2J,,,,
 00b0df,ZS-SMO,British Aerospace,BAe 146-300,B463,E3169,L4J,,,,
+00b10d,ZS-SOI,British Aerospace,BAe 125-700A,H25B,257144,L2J,,,,
 00b116,ZS-SOR,British Aerospace,BAe 146-300,B463,E3155,L4J,DJU,,,
+00b26a,ZS-TBT,British Aerospace,BAe 125-700A,H25B,257210,L2J,,,,
+00b394,ZS-TNF,Hawker Beechcraft,Hawker 800XP,H25B,258724,L2J,,,,
+00bb29,ZS-WJW,British Aerospace,BAe 125-700A,H25B,257159,L2J,,,,
+00c28a,ZS-ZEN,British Aerospace,BAe 125-800A,H25B,258246,L2J,,,,
+00c2f1,ZS-ZIM,Hawker Beechcraft,Hawker 800XP,H25B,258499,L2J,,,,
+0100f2,SU-MAN,Hawker Beechcraft,Hawker 850XP,H25B,258832,L2J,AKN,,,
 0200d7,CN-TMK,British Aerospace,BAe-3201 Jetstream 32,JS32,943,L2T,AFA,,,
+0360ef,TN-AJE,British Aerospace,BAe 125-800A,H25B,258209,L2J,,,,
 042c59,3C-AKK,British Aerospace,BAe 146-200,B462,E2069,L4J,,,,
 04403c,9G-SBA,British Aerospace,BAe 146-300,B463,E3125,L4J,,,,
 044046,9G-GAS,British Aerospace,BAe-3202 Jetstream 32,JS32,970,L2T,,,,
+064004,5N-DGN,British Aerospace,BAe 125-1000B,H25C,259018,L2J,,,,
+064059,5N-NPC,British Aerospace,BAe 125-800B,H25B,258109,L2J,,,,
+064063,5N-JMB,Hawker Beechcraft,Hawker 800XP,H25B,258659,L2J,ARA,,,
+064071,5N-BEX,British Aerospace,BAe 125-700B,H25B,257197,L2J,,,,
+0640d9,5N-BMR,British Aerospace,BAe 125-800,H25B,258264,L2J,,,,
+0640e2,5N-BMT,British Aerospace,BAe 125-800A,H25B,258231,L2J,,,,
+0640e6,5N-BNE,British Aerospace,BAe 125-800,H25B,258265,L2J,,,,
+064102,5N-BNM,Hawker Beechcraft,Hawker 800XP,H25B,258429,L2J,,,,
+064115,5N-BOO,British Aerospace,BAe 125-800B,H25B,258143,L2J,COO,,,
+06415f,5N-EXJ,Hawker Beechcraft,Hawker 800XP,H25B,258312,L2J,COO,,,
 070104,6V-AIE,British Aerospace,BAe-3201 Jetstream 32,JS32,899,L2T,,,,
+08800b,5V-TTM,Hawker Beechcraft,Hawker 800XP,H25B,258632,L2J,COO,,,
+0a0041,7T-VCW,British Aerospace,BAe 125-700B,H25B,257163,L2J,,,,
+0a8037,C6-SVA,British Aerospace,BAe 125-700A,H25B,257045,L2J,,,,
+0a8039,C6-JAG,British Aerospace,BAe 125-700A,H25B,257120,L2J,,,,
 0ac0a2,HK-4502,British Aerospace,BAe-4101 Jetstream 41,JS41,41091,L2T,EFY,,,
 0ac0a6,HK-4522,British Aerospace,BAe-4101 Jetstream 41,JS41,41086,L2T,EFY,,,
 0ac0ae,HK-4551,British Aerospace,BAe-4101 Jetstream 41,JS41,41089,L2T,EFY,,,
+0ac105,HK-4670,Hawker Beechcraft,Hawker 800XP,H25B,258502,L2J,,,,
 0ac124,HK-4765,British Aerospace,BAe-4101 Jetstream 41,JS41,41074,L2T,EFY,,,
 0ac12d,HK-4775,British Aerospace,BAe-4101 Jetstream 41,JS41,41039,L2T,EFY,,,
 0ac130,HK-4786-X,British Aerospace,BAe-4101 Jetstream 41,JS41,41098,L2T,EFY,,,
 0ac160,HK-4844,British Aerospace,BAe-3201 Jetstream 32,JS32,888,L2T,,,,
 0ac161,HK-4854,British Aerospace,BAe-3201 Jetstream 32,JS32,921,L2T,,,,
+0d007d,XA-BWB,Hawker Beechcraft,Hawker 800XP,H25B,258581,L2J,,,,
+0d0166,XB-JTN,British Aerospace,BAe 125-700A,H25B,257185,L2J,,,,
+0d020b,XA-HHH,Hawker Beechcraft,Hawker 800XP,H25B,258554,L2J,,,,
+0d0254,XA-TYK,Hawker Beechcraft,Hawker 800XP,H25B,258597,L2J,,2003-08-01,,2002-01-01
+0d0262,XA-NTE,Hawker Beechcraft,Hawker 800XP,H25B,258638,L2J,,,,
+0d02be,XA-KTY,British Aerospace,BAe 125-800A,H25B,258004,L2J,,,,
+0d02d1,XA-JET,Hawker Beechcraft,Hawker 800XP,H25B,258628,L2J,,2004-11-23,,2003-01-01
+0d03d3,XA-LEY,Hawker Beechcraft,Hawker 800XP,H25B,258731,L2J,,,,
+0d0405,XA-RBV,British Aerospace,BAe 125-800,H25B,258275,L2J,,,,
+0d0441,XA-LUN,British Aerospace,BAe 125-700B,H25B,257127,L2J,,,,
+0d04b0,XA-GCC,British Aerospace,BAe 125-800A,H25B,258252,L2J,,,,
+0d04cd,XB-MCB,Hawker Beechcraft,Hawker 800XP,H25B,258320,L2J,,,,
+0d04e6,XA-JBG,Hawker Beechcraft,Hawker 800XP,H25B,258715,L2J,,,,
+0d052d,XA-PBT,Hawker Beechcraft,Hawker 800XP,H25B,258601,L2J,,,,
+0d054d,XA-TPB,Hawker Beechcraft,Hawker 800XP,H25B,258409,L2J,,,,
+0d0559,XA-TEM,Hawker Beechcraft,Hawker 800XP,H25B,258431,L2J,,,,
+0d057d,XA-GGP,Hawker Beechcraft,Hawker 800XP,H25B,258476,L2J,,,,
+0d05ab,XA-OLA,Hawker Beechcraft,Hawker 850XP,H25B,258757,L2J,,,,
+0d0643,XA-NIC,Hawker Beechcraft,Hawker 800XP,H25B,258552,L2J,,,,
+0d0668,XA-LEX,British Aerospace,BAe 125-800A,H25B,258187,L2J,,,,
+0d0672,XA-RAA,British Aerospace,BAe 125-800A,H25B,258220,L2J,PNU,,,
+0d06bf,XA-JMR,Hawker Beechcraft,Hawker 800XP,H25B,258530,L2J,,,,
+0d06ca,XA-STK,Hawker Beechcraft,Hawker 800XP,H25B,258383,L2J,,,,
+0d06e4,XA-ASH,British Aerospace,BAe 125-800B,H25B,258082,L2J,,,,
+0d06f9,XA-GBP,Hawker Beechcraft,Hawker 800XP,H25B,258749,L2J,,,,
+0d072d,XA-PIE,Hawker Beechcraft,Hawker 800XP,H25B,258327,L2J,,,,
+0d073e,XA-RLV,British Aerospace,BAe 125-800A,H25B,258035,L2J,,,,
+0d074c,XA-UPE,British Aerospace,BAe 125-700A,H25B,257019,L2J,,,,
+0d0750,XA-DAR,Hawker Beechcraft,Hawker 800XP,H25B,258753,L2J,,,,
+0d075a,XA-ELX,Hawker Beechcraft,Hawker 800XP,H25B,258413,L2J,,,,
+0d07c3,XA-CHK,Hawker Beechcraft,Hawker 800XP,H25B,258727,L2J,,,,
+0d07d2,XA-HEL,Hawker Beechcraft,Hawker 800XP,H25B,258489,L2J,,,,
+0d07e5,XA-WNG,Hawker Beechcraft,Hawker 800XP,H25B,258397,L2J,,,,
+0d07ed,XA-PYC,Hawker Beechcraft,Hawker 800XP,H25B,258644,L2J,,,,
+0d0841,XA-FSA,Hawker Beechcraft,Hawker 800XP,H25B,258664,L2J,,,,
+0d08c8,XA-QPL,British Aerospace,BAe 125-800A,H25B,258161,L2J,COO,,,
+0d08c9,XA-EXC,British Aerospace,BAe 125-800A,H25B,258170,L2J,,,,
+0d08e3,XA-LAS,Hawker Beechcraft,Hawker 800XP,H25B,258626,L2J,,,,
+0d0941,XA-PAG,British Aerospace,BAe 125-1000B,H25C,259032,L2J,,,,
+0d0988,XA-UYQ,Hawker Beechcraft,Hawker 800XP,H25B,258691,L2J,,,,
+0d09a1,XA-IJC,Hawker Beechcraft,Hawker 850XP,H25B,258904,L2J,,,,
+0d09a4,XA-LAU,Hawker Beechcraft,Hawker 800XP,H25B,258295,L2J,,,,
+0d09d6,XA-MJA,Hawker Beechcraft,Hawker 800XP,H25B,258331,L2J,,,,
+0d0a45,XA-XXX,Hawker Beechcraft,Hawker 850XP,H25B,258909,L2J,,,,
+0d8000,YV572T,Hawker Beechcraft,Hawker 800XP,H25B,258430,L2J,COO,,,
+0d812c,YV2477,British Aerospace,BAe 125-800B,H25B,258149,L2J,,2009-09-01,,1989-01-01
+0d820b,YV2837,British Aerospace,BAe 125-800A,H25B,258201,L2J,COO,,,
+140ad3,RA-02771,British Aerospace,BAe 125-700B,H25B,257214,L2J,,,,
+140ad4,RA-02772,British Aerospace,BAe 125-800A,H25B,258126,L2J,,,,
+140ad6,RA-02774,British Aerospace,BAe 125-800B,H25B,258074,L2J,COO,,,
+140ad7,RA-02775,British Aerospace,BAe 125-700A,H25B,257058,L2J,,2012-01-01,,1979-01-01
+140af2,RA-02802,British Aerospace,BAe 125-700B,H25B,257142,L2J,RLS,2007-05-01,,1981-01-01
+140af4,RA-02804,British Aerospace,BAe 125-700B,H25B,257175,L2J,LIN,2007-10-01,,1982-01-01
+140af8,RA-02808,British Aerospace,BAe 125-700B,H25B,257184,L2J,JSI,,,
+140af9,RA-02809,British Aerospace,BAe 125-700B,H25B,257022,L2J,,,,
+140afa,RA-02810,British Aerospace,BAe 125-700A,H25B,257012,L2J,,,,
+140afb,RA-02811,British Aerospace,BAe 125-700B,H25B,257200,L2J,,,,
+140b22,RA-02850,British Aerospace,BAe 125-700B,H25B,257112,L2J,CIG,,,
+300237,I-PZZR,Hawker Beechcraft,Hawker 800XP,H25B,258722,L2J,,,,
+30025c,I-KREM,Hawker Beechcraft,Hawker 800XP,H25B,258608,L2J,,,,
+300288,I-TOPH,Hawker Beechcraft,Hawker 850XP,H25B,258809,L2J,EEU,,,
 34414c,EC-LMR,British Aerospace,BAe 146-300QT,B463,E3151,L4J,PNR,,,
 34415a,EC-LOF,British Aerospace,BAe 146-300QT,B463,E3150,L4J,PNR,,,
 3445c6,EC-MCK,British Aerospace,BAe 146-300QT,B463,E3153,L4J,PNR,,,
@@ -32,13 +128,25 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 34468e,EC-MFT,British Aerospace,BAe 146-300QT,B463,E3182,L4J,PNR,,,
 34468f,EC-MEO,British Aerospace,BAe 146-300QT,B463,E3186,L4J,PNR,,,
 3450d2,EC-MID,British Aerospace,BAe 146-300QT,B463,E3168,L4J,PNR,,,
+393cc0,F-GPGA,Hawker Beechcraft,Hawker 900XP,H25B,HA-0205,L2J,VLJ,,,
 3982a3,F-HAVD,British Aerospace,BAe-4101 Jetstream 41,JS41,41022,L2T,DEF,,,
 3982a5,F-HAVF,British Aerospace,BAe-4101 Jetstream 41,JS41,41025,L2T,DEF,,,
+3984af,F-HBFP,Hawker Beechcraft,Hawker 800XP,H25B,258689,L2J,,,,
+39b083,F-HMED,British Aerospace,BAe 125-1000B,H25C,259026,L2J,,,,
+39ba41,F-HOSB,Hawker Beechcraft,Hawker 750,H25B,HB-27,L2J,,,,
+39ba4f,F-HOSP,British Aerospace,BAe 125-1000B,H25C,259034,L2J,,,,
+39be91,F-HPUR,Hawker Beechcraft,Hawker 800XP,H25B,258673,L2J,,,,
+39c497,F-HREX,Hawker Beechcraft,Hawker 800XP,H25B,258335,L2J,,,,
 3a4c88,F-OTEI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,841,L2T,,,,
 3c1297,D-AWBA,British Aerospace,BAe 146-300,B463,E3134,L4J,WDL,,,
 3c1489,D-AWUE,British Aerospace,BAe 146-200,B462,E2050,L4J,WDL,,,
 3c5553,D-AEJS,British Aerospace,BAe 146-300,B463,E3183,L4J,WDL,,,
 3c74ec,D-AMGL,British Aerospace,BAe 146-200,B462,E2055,L4J,WDL,,,
+3cfe19,D-CXNL,Hawker Beechcraft,Hawker 800XP,H25B,258544,L2J,,,,
+400065,VP-CSP,British Aerospace,BAe 125-800B,H25B,258210,L2J,,,,
+4001a6,VP-BMH,British Aerospace,BAe 125-800B,H25B,258180,L2J,CIG,,,
+4001bc,VP-BCW,Hawker Beechcraft,Hawker 800XP,H25B,258719,L2J,,,,
+400532,G-VIPI,British Aerospace,BAe 125-800B,H25B,258222,L2J,,2014-05-12,,1992-01-01
 40053f,G-FLTC,British Aerospace,BAe 146-300,B463,E3205,L4J,,2009-03-05,,1991-01-01
 40064a,G-BTPJ,British Aerospace,ATP,ATP,2016,L2T,,2013-09-12,,1989-01-01
 40064c,G-BTPL,British Aerospace,ATP,ATP,2042,L2T,,2011-01-18,,1991-01-01
@@ -62,20 +170,38 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 40098c,G-MAJJ,British Aerospace,BAe-4101 Jetstream 41,JS41,41024,L2T,EZE,2003-04-03,,1993-01-01
 40098d,G-MAJK,British Aerospace,BAe-4101 Jetstream 41,JS41,41070,L2T,BEE,2012-03-06,,1995-01-01
 40098e,G-MAJL,British Aerospace,BAe-4101 Jetstream 41,JS41,41087,L2T,EZE,2002-02-15,,1996-01-01
+400995,G-GMAB,British Aerospace,BAe 125-1000B,H25C,259034,L2J,GMA,,,
 400a28,G-BWWW,British Aerospace,BAe-3102 Jetstream 31,JS31,614,L2T,WTN,1995-02-01,,1983-01-01
+400a71,G-GMMR,British Aerospace,BAe 125-800B,H25B,258130,L2J,,2016-01-28,,1988-01-01
+400b64,G-EGSS,Hawker Beechcraft,Hawker 800XP,H25B,258456,L2J,,2016-09-13,,2000-01-01
+400bb4,G-JJSI,British Aerospace,BAe 125-800B,H25B,258058,L2J,,2009-01-21,,1986-01-01
 400bc7,G-GAVA,British Aerospace,BAe-3102 Jetstream 31,JS31,785,L2T,,2013-11-26,,1987-01-01
 400d37,G-NFLA,British Aerospace,BAe-3102 Jetstream 31,JS31,637,L2T,,2006-02-15,,1984-01-01
+400da4,G-IFTF,British Aerospace,BAe 125-800B,H25B,258021,L2J,,2015-02-19,,1985-01-01
 400de7,G-ISLC,British Aerospace,BAe-3202 Jetstream 32,JS32,873,L2T,,2015-06-09,,1989-01-01
+400df2,G-IFTE,Hawker Siddeley,HS 125-700B,H25B,257037,L2J,,2015-02-19,,1978-01-01
 400e07,G-MAJT,British Aerospace,BAe-4101 Jetstream 41,JS41,41040,L2T,EZE,2013-05-17,,1994-01-01
 400ec2,G-MAJU,British Aerospace,BAe-4101 Jetstream 41,JS41,41071,L2T,EZE,2006-04-10,,1995-01-01
 400f22,G-MAJW,British Aerospace,BAe-4101 Jetstream 41,JS41,41015,L2T,EZE,2009-06-23,,1993-01-01
 400f26,G-MAJZ,British Aerospace,BAe-4101 Jetstream 41,JS41,41100,L2T,EZE,2006-08-14,,1997-01-01
 400f44,G-JIBO,British Aerospace,BAe-3102 Jetstream 31,JS31,711,L2T,,2017-04-10,,1986-01-01
 400f46,G-MAJY,British Aerospace,BAe-4101 Jetstream 41,JS41,41099,L2T,EZE,2011-06-02,,1997-01-01
+401140,G-HSXP,Hawker Beechcraft,Hawker 850XP,H25B,258827,L2J,,2008-01-23,,2007-01-01
+40126b,G-CERX,Hawker Beechcraft,Hawker 850XP,H25B,258810,L2J,GMA,2010-06-04,,2006-01-01
+4058a4,G-ODUR,Hawker Beechcraft,Hawker 900XP,H25B,HA-0041,L2J,,2017-02-16,,2008-01-01
 405aad,G-RAJJ,British Aerospace,BAe 146-200,B462,E2108,L4J,CLJ,2009-12-08,,1988-01-01
+405f91,G-TWIY,Hawker Beechcraft,Hawker 750,H25B,HB-14,L2J,,2015-04-08,,2008-01-01
 4063b5,G-TYPH,British Aerospace,BAe 146-200,B462,E2200,L4J,WTN,2011-02-23,,1991-01-01
+4066e5,G-KLNE,Hawker Beechcraft,Hawker 900XP,H25B,HA-0186,L2J,,2012-03-19,,2011-01-01
 406c03,G-CIHE,British Aerospace,BAe-4101 Jetstream 41,JS41,41068,L2T,,2014-07-04,,1995-01-01
 406c04,G-CIHD,British Aerospace,BAe-4101 Jetstream 41,JS41,41065,L2T,,2014-07-04,,1995-01-01
+42414b,VP-CDE,Hawker Beechcraft,Hawker 850XP,H25B,258755,L2J,,,,
+424197,VP-CFS,Hawker Beechcraft,Hawker 900XP,H25B,HA-0090,L2J,,,,
+424235,VP-BMX,British Aerospace,BAe 125-1000B,H25C,259012,L2J,CIG,,,
+4242b9,VP-BNW,Hawker Beechcraft,Hawker 850XP,H25B,258855,L2J,CIG,,,
+42432e,VP-BMY,British Aerospace,BAe 125-1000,H25C,259049,L2J,CIG,,,
+4243d2,VQ-BVA,Hawker Beechcraft,Hawker 850XP,H25B,258813,L2J,CIG,,,
+42479f,VP-CGG,Hawker Beechcraft,Hawker 800XP,H25B,258361,L2J,,,,
 43c04d,ZJ951,British Aerospace,Hawk 120D,HAWK,DT036,L1J,WTN,,,
 43c0df,XX159,Hawker Siddeley,Hawk T1A,HAWK,41H-312005,L1J,NVY,,,
 43c0e2,XX162,Hawker Siddeley,Hawk T1,HAWK,41H-312009,L1J,,,,
@@ -155,14 +281,30 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 43c5c3,XX342,Hawker Siddeley,Hawk T1,HAWK,41H-312166,L1J,,,,
 43c704,ZE707,British Aerospace,BAe 146 C.3,B462,E2188,L4J,SHF,,,
 43c705,ZE708,British Aerospace,BAe 146 C.3,B462,E2211,L4J,SHF,,,
+43e728,M-ACPT,British Aerospace,BAe 125-1000B,H25C,259004,L2J,,,,
+43e820,M-IRNE,Hawker Beechcraft,Hawker 850XP,H25B,258778,L2J,,,,
+43e827,M-UKHA,Hawker Beechcraft,Hawker 800XP,H25B,258625,L2J,BZF,,,
+43e853,M-OLLE,Hawker Beechcraft,Hawker 750,H25B,HB-65,L2J,,,,
+43e8b5,M-ABDP,Hawker Beechcraft,Hawker 800XP,H25B,258609,L2J,,,,
+43e8d8,M-HSXP,Hawker Beechcraft,Hawker 800XP,H25B,258645,L2J,,,,
+43e940,M-VITO,Hawker Beechcraft,Hawker 800XP,H25B,258512,L2J,,,,
+43ea3a,M-ARIE,Hawker Beechcraft,Hawker 800XP,H25B,258600,L2J,,,,
+440140,OE-GCE,Hawker Beechcraft,Hawker 800XP,H25B,258536,L2J,,,,
+440837,OE-GMI,Hawker Beechcraft,Hawker 800XP,H25B,258748,L2J,,,,
 451f84,LZ-HBD,British Aerospace,BAe 146-300,B463,E3141,L4J,TBM,,,
 451f88,LZ-HBZ,British Aerospace,BAe 146-200,B462,E2103,L4J,LZB,,,
+45a84a,OY-JBJ,Hawker Beechcraft,Hawker 800XP,H25B,258358,L2J,SUR,,,
+45a943,OY-JJC,Hawker Beechcraft,Hawker 800XP,H25B,258637,L2J,,,,
+45c821,OY-RAA,British Aerospace,BAe 125-800B,H25B,258235,L2J,MMD,,,
 45cec2,OY-SVB,British Aerospace,BAe-3217 Jetstream 32,JS32,985,L2T,XMS,,,
 45cec6,OY-SVF,British Aerospace,BAe-3108 Jetstream 31,JS31,686,L2T,XMS,,,
 469121,SX-DIA,British Aerospace,BAe-4101 Jetstream 41,JS41,41075,L2T,SEH,,,
 46913a,SX-DIZ,British Aerospace,BAe 146-300,B463,E3206,L4J,,,,
 46c9e4,SX-ROD,British Aerospace,BAe-4101 Jetstream 41,JS41,41076,L2T,SEH,,,
 46cca8,SX-SEH,British Aerospace,BAe-4102 Jetstream 41,JS41,41014,L2T,SEH,,,
+48411b,P4-WIN,Hawker Beechcraft,Hawker 850XP,H25B,258859,L2J,,,,
+48435e,P4-SEN,Hawker Beechcraft,Hawker 800XP,H25B,258617,L2J,,,,
+4844b3,P4-PRT,Hawker Beechcraft,Hawker 800XP,H25B,258682,L2J,,,,
 484ea6,PH-CCI,British Aerospace,BAe-3201 Jetstream 32,JS32,860,L2T,,,,
 484ede,PH-DCI,British Aerospace,BAe-3201 Jetstream 32,JS32,916,L2T,,,,
 48504e,PH-HCI,British Aerospace,BAe-3201 Jetstream 32,JS32,864,L2T,,,,
@@ -172,6 +314,26 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4851f2,PH-BCI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,953,L2T,,,,
 485329,PH-FCI,British Aerospace,BAe-3201 Jetstream 32,JS32,854,L2T,EZE,,,
 485334,PH-ICI,British Aerospace,BAe-3201 Jetstream 32,JS32,855,L2T,,,,
+491248,CS-DRH,Hawker Beechcraft,Hawker 800XP,H25B,258746,L2J,,,,
+49124c,CS-DRL,Hawker Beechcraft,Hawker 800XP,H25B,258770,L2J,,,,
+49124e,CS-DRN,Hawker Beechcraft,Hawker 800XP,H25B,258772,L2J,,,,
+49124f,CS-DRO,Hawker Beechcraft,Hawker 800XP,H25B,258775,L2J,,,,
+491250,CS-DRP,Hawker Beechcraft,Hawker 800XP,H25B,258779,L2J,,,,
+491251,CS-DRQ,Hawker Beechcraft,Hawker 800XP,H25B,258783,L2J,,,,
+491252,CS-DRR,Hawker Beechcraft,Hawker 800XP,H25B,258786,L2J,,,,
+491253,CS-DRS,Hawker Beechcraft,Hawker 800XP,H25B,258795,L2J,,,,
+491254,CS-DRT,Hawker Beechcraft,Hawker 800XP,H25B,258802,L2J,,,,
+491255,CS-DRU,Hawker Beechcraft,Hawker 800XP,H25B,258821,L2J,,,,
+491256,CS-DRV,Hawker Beechcraft,Hawker 800XP,H25B,258825,L2J,,,,
+491257,CS-DRW,Hawker Beechcraft,Hawker 800XP,H25B,258829,L2J,,,,
+491258,CS-DRX,Hawker Beechcraft,Hawker 850XP,H25B,258834,L2J,,,,
+491259,CS-DRY,Hawker Beechcraft,Hawker 800XP,H25B,258840,L2J,,,,
+49125a,CS-DRZ,Hawker Beechcraft,Hawker 800XP,H25B,258847,L2J,,,,
+4912a4,CS-DUD,Hawker Beechcraft,Hawker 750,H25B,HB-8,L2J,,,,
+4912a5,CS-DUE,Hawker Beechcraft,Hawker 750,H25B,HB-11,L2J,,,,
+4912a6,CS-DUF,Hawker Beechcraft,Hawker 750,H25B,HB-19,L2J,,,,
+4912a7,CS-DUG,Hawker Beechcraft,Hawker 750,H25B,HB-20,L2J,,,,
+4912a8,CS-DUH,Hawker Beechcraft,Hawker 750,H25B,HB-21,L2J,,,,
 4912d1,CS-DVQ,British Aerospace,BAe-3201 Jetstream 32,JS32,857,L2T,AOG,,,
 4a06d2,YR-AVR,British Aerospace,BAe 146-300,B463,E3193,L4J,,,,
 4a8180,SE-LGX,British Aerospace,ATP,ATP,2036,L2T,,,,
@@ -207,15 +369,42 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 4ab508,SE-MHH,British Aerospace,ATP,ATP,2015,L2T,,,,
 4ab509,SE-MHI,British Aerospace,ATP,ATP,2017,L2T,,,,
 4ab50b,SE-MHK,British Aerospace,ATP,ATP,2033,L2T,,,,
+4ac998,SE-RLX,Hawker Beechcraft,Hawker 800XP,H25B,258458,L2J,,,,
+4b383f,HB-VHV,British Aerospace,BAe 125-800A,H25B,258153,L2J,CAZ,1989-05-16,,1989-01-01
+4b388e,HB-VKW,British Aerospace,BAe 125-800A,H25B,258246,L2J,SWY,,,
+4b38f0,HB-VOQ,British Aerospace,BAe 125-1000A,H25C,259021,L2J,,2008-05-05,,1992-01-01
+4b848f,TC-ADO,Hawker Beechcraft,Hawker 800XP,H25B,258738,L2J,,,,
+4bb42e,TC-MAN,Hawker Beechcraft,Hawker 850XP,H25B,258836,L2J,,,,
+4bcc4c,TC-SBL,Hawker Beechcraft,Hawker 850XP,H25B,258793,L2J,,,,
+4bcd05,TC-SHE,Hawker Beechcraft,Hawker 850XP,H25B,258872,L2J,,,,
+4bd036,TC-TAV,Hawker Beechcraft,Hawker 800XP,H25B,258736,L2J,,,,
+4bd163,TC-TKC,Hawker Beechcraft,Hawker 850XP,H25B,258790,L2J,,,,
+4ca611,EI-WXP,Hawker Beechcraft,Hawker 800XP,H25B,258382,L2J,,2007-11-09,,1998-01-01
 4cc48a,TF-ORA,British Aerospace,BAe-3217 Jetstream 32,JS32,925,L2T,FEI,,,
 4cc48b,TF-ORC,British Aerospace,BAe-3217 Jetstream 32,JS32,981,L2T,FEI,,,
 4cc4a7,TF-ORD,British Aerospace,BAe-3101 Jetstream 31,JS31,740,L2T,FEI,,,
 4cc4dc,TF-ORG,British Aerospace,BAe-3217 Jetstream 32,JS32,986,L2T,FEI,,,
+50005c,T7-TUN,Hawker Beechcraft,Hawker 850XP,H25B,258915,L2J,,,,
+5000db,T7-BDD,Hawker Beechcraft,Hawker 800XP,H25B,258432,L2J,EAV,,,
+500101,T7-SMA,British Aerospace,BAe 125-1000B,H25C,259022,L2J,,,,
+502c87,YL-KSD,Hawker Beechcraft,Hawker 850XP,H25B,258845,L2J,,,,
+503c01,LY-DSK,Hawker Beechcraft,Hawker 850XP,H25B,258811,L2J,,,,
+503cb5,LY-KLA,Hawker Beechcraft,Hawker 800XP,H25B,258498,L2J,,,,
+503d15,LY-LTD,Hawker Beechcraft,Hawker 800XP,H25B,258450,L2J,LTC,,,
+503d17,LY-LTA,Hawker Beechcraft,Hawker 800XP,H25B,258760,L2J,LTC,,,
+503d1a,LY-BGH,Hawker Beechcraft,Hawker 750,H25B,HB-65,L2J,LTC,,,
+503d1b,LY-BGD,Hawker Beechcraft,Hawker 850XP,H25B,258813,L2J,LTC,,,
+503deb,LY-HCW,Hawker Beechcraft,Hawker 800XP,H25B,258398,L2J,LTC,,,
+505d27,OM-OIG,Hawker Beechcraft,Hawker 800XP,H25B,258612,L2J,,,,
+506c2d,S5-AFR,Hawker Beechcraft,Hawker 800XP,H25B,258385,L2J,EAV,,,
+5083b4,UR-PRT,Hawker Beechcraft,Hawker 800XP,H25B,258682,L2J,,,,
+5083bf,UR-WRS,Hawker Beechcraft,Hawker 850XP,H25B,258859,L2J,WRC,,,
 511012,ES-PJG,British Aerospace,BAe-3108 Jetstream 31,JS31,701,L2T,AIA,,,
 51102c,ES-PJR,British Aerospace,BAe-3201 Jetstream 32,JS32,949,L2T,AIA,,,
 5110ab,ES-PJD,British Aerospace,BAe-3112 Jetstream 31,JS31,773,L2T,AIA,,,
 6010d2,EX-27002,British Aerospace,BAe 146-200,B462,E2172,L4J,TEZ,,,
 6010f8,EX-27007,British Aerospace,BAe 146-200,B462,E2180,L4J,AVJ,,,
+601841,EZ-B021,British Aerospace,BAe 125-1000B,H25C,259029,L2J,TUA,,,
 70a00d,9N-AIH,British Aerospace,BAe-4101 Jetstream 41,JS41,41085,L2T,NYT,,,
 70a96f,9N-AHV,British Aerospace,BAe-4101 Jetstream 41,JS41,41077,L2T,NYT,,,
 70a975,9N-AHY,British Aerospace,BAe-4101 Jetstream 41,JS41,41066,L2T,NYT,,,
@@ -243,6 +432,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 710378,7908,British Aerospace,Hawk 165,HAWK,ST017,L1J,RSF,,,
 710379,7909,British Aerospace,Hawk 165,HAWK,ST018,L1J,RSF,,,
 71037c,7910,British Aerospace,Hawk 165,HAWK,ST021,L1J,RSF,,,
+728662,YI-ASB,Hawker Beechcraft,Hawker 800XP,H25B,258504,L2J,,,,
 7335b6,EP-MMV,British Aerospace,BAe 146-200,B462,E2079,L4J,IRM,,,
 7335e2,EP-MOB,British Aerospace,BAe 146-300,B463,E3212,L4J,IRM,,,
 7335e3,EP-MOC,British Aerospace,BAe 146-300,B463,E3158,L4J,IRM,,,
@@ -252,14 +442,40 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7335eb,EP-MOK,British Aerospace,BAe 146-300,B463,E3146,L4J,IRM,,,
 7335ec,EP-MOL,British Aerospace,BAe 146-300,B463,E3159,L4J,IRM,,,
 7335ed,EP-MOM,British Aerospace,BAe 146-300,B463,E3165,L4J,IRM,,,
+73920c,4X-CZO,British Aerospace,BAe 125-800A,H25B,258183,L2J,,,,
+73920e,4X-CLZ,Hawker Beechcraft,Hawker 800XP,H25B,258290,L2J,,,,
+739568,4X-CUZ,Hawker Beechcraft,Hawker 800XP,H25B,258514,L2J,,,,
+7406e4,JY-AWD,Hawker Beechcraft,Hawker 800XP,H25B,258520,L2J,AWS,,,
+7406e5,JY-AWE,Hawker Beechcraft,Hawker 800XP,H25B,258539,L2J,AWS,,,
+748010,OD-BOY,British Aerospace,BAe 125-700B,H25B,257109,L2J,,,,
+748012,OD-TSW,Hawker Beechcraft,Hawker 800XP,H25B,258319,L2J,XAH,,,
+748013,OD-MAS,British Aerospace,BAe 125-700A,H25B,257115,L2J,XAH,,,
+748015,OD-EAS,Hawker Beechcraft,Hawker 800XP,H25B,258410,L2J,XAH,,,
+748039,OD-MAF,Hawker Beechcraft,Hawker 800XP,H25B,258631,L2J,,,,
+748043,OD-LEA,Hawker Beechcraft,Hawker 850XP,H25B,258792,L2J,XAH,,,
+748049,OD-EKF,Hawker Beechcraft,Hawker 800XP,H25B,258710,L2J,COO,,,
+758035,RP-C8576,Hawker Beechcraft,Hawker 800XP,H25B,258571,L2J,,,,
+758052,RP-C9808,British Aerospace,BAe 125-700A,H25B,257209,L2J,,,,
+75805c,RP-C8008,British Aerospace,BAe 125-800B,H25B,258212,L2J,,,,
+7580f6,RP-C8082,British Aerospace,BAe 125-800B,H25B,258064,L2J,COO,,,
 758243,RP-C2812,British Aerospace,BAe-3217 Jetstream 32,JS32,923,L2T,,,,
 758244,RP-C8299,British Aerospace,BAe-4101 Jetstream 41,JS41,41080,L2T,,,,
+758271,RP-C5998,British Aerospace,BAe 125-700B,H25B,257166,L2J,,,,
+758289,RP-C5808,British Aerospace,BAe 125-700A,H25B,257188,L2J,,,,
 7582e0,RP-C2813,British Aerospace,BAe-3201 Jetstream 32,JS32,853,L2T,,,,
+7583f2,RP-C850,Hawker Beechcraft,Hawker 850XP,H25B,258805,L2J,,,,
 78017a,B-HRS,British Aerospace,BAe-4124 Jetstream 41,JS41,41102,L2T,,,,
 78017b,B-HRT,British Aerospace,BAe-4124 Jetstream 41,JS41,41104,L2T,,,,
+780381,B-3991,Hawker Beechcraft,Hawker 800XP,H25B,258470,L2J,,,,
+780382,B-3992,Hawker Beechcraft,Hawker 800XP,H25B,258501,L2J,,,,
+780383,B-3993,Hawker Beechcraft,Hawker 800XP,H25B,258525,L2J,,,,
+780387,B-3997,Hawker Beechcraft,Hawker 800XP,H25B,258575,L2J,CES,,,
 7c005d,VH-ACV,British Aerospace,BAe-3201 Jetstream 32EP,JS32,974,L2T,,,,1992-01-01
+7c06d6,VH-BMW,Hawker Beechcraft,Hawker 850XP,H25B,258895,L2J,,,,2008-01-01
+7c3f18,VH-MQY,Hawker Beechcraft,Hawker 850XP,H25B,258807,L2J,,,,2006-01-01
 7c4319,VH-NJF,British Aerospace,BAe 146-300QT,B463,E3198,L4J,,,,1991-01-01
 7c431a,VH-NJG,British Aerospace,BAe 146-200,B462,E2170,L4J,,,,1990-01-01
+7c431c,VH-NJI,British Aerospace,BAe 146-300,B463,E3154,L4J,JTE,2018-03-14,,1990-01-01
 7c431f,VH-NJL,British Aerospace,BAe 146-300,B463,E3213,L4J,,,,
 7c4320,VH-NJM,British Aerospace,BAe 146-300QT,B463,E3194,L4J,,,,1991-01-01
 7c4321,VH-NJN,British Aerospace,BAe 146-300,B463,E3217,L4J,,,,1991-01-01
@@ -267,63 +483,683 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 7c4329,VH-NJV,British Aerospace,BAe 146-100QT,B461,E1002,L4J,,,,
 7c432d,VH-NJZ,British Aerospace,BAe 146-300QT,B463,E3126,L4J,,,,1989-01-01
 7c4487,VH-NTL,British Aerospace,BAe-3206 Jetstream 32,JS32,982,L2T,FRE,,,1993-01-01
+7c479d,VH-OFJ,Hawker Beechcraft,Hawker 800XP,H25B,258625,L2J,,,,2003-01-01
 7c498f,VH-OTD,British Aerospace,BAe-3206 Jetstream 32,JS32,978,L2T,FRE,,,1993-01-01
 7c4990,VH-OTE,British Aerospace,BAe-3206 Jetstream 32,JS32,980,L2T,FRE,,,1993-01-01
 7c499c,VH-OTQ,British Aerospace,BAe-3202 Jetstream 32,JS32,975,L2T,FRE,,,1993-01-01
+7c573e,VH-RIO,Hawker Beechcraft,Hawker 800XP,H25B,258594,L2J,,,,
+7c5744,VH-RIU,Hawker Beechcraft,Hawker 800XP,H25B,258723,L2J,,,,
 7c5be9,VH-SFV,British Aerospace,BAe 146-200QT,B462,E2086,L4J,,,,
 7c5bea,VH-SFW,British Aerospace,BAe 146-200QT,B462,E2105,L4J,,,,
+7c5c10,VH-SGY,Hawker Beechcraft,Hawker 850XP,H25B,258780,L2J,,,,
 7c5c45,VH-SIF,British Aerospace,BAe 146-200QC,B462,E2119,L4J,,,,
+80019a,VT-ABG,Hawker Beechcraft,Hawker 800XP,H25B,258716,L2J,,,,
+8001c2,VT-FAF,Hawker Beechcraft,Hawker 800XP,H25B,258745,L2J,,,,
+8001c8,VT-RPL,Hawker Beechcraft,Hawker 800XP,H25B,258465,L2J,,,,
+80039d,VT-JHP,Hawker Beechcraft,Hawker 850XP,H25B,258794,L2J,,,,
+8003c4,VT-KNB,Hawker Beechcraft,Hawker 850XP,H25B,258815,L2J,,,,
+800410,VT-OBR,Hawker Beechcraft,Hawker 850XP,H25B,258838,L2J,,,,
+8004c4,VT-AGP,Hawker Beechcraft,Hawker 800XP,H25B,258835,L2J,,,,
+80058b,VT-SRA,Hawker Beechcraft,Hawker 800XP,H25B,258422,L2J,,,,
+80061c,VT-VAP,Hawker Beechcraft,Hawker 800XP,H25B,258384,L2J,,,,
+80063a,VT-FTL,Hawker Beechcraft,Hawker 850XP,H25B,258980,L2J,,,,
+80072e,VT-VPA,Hawker Beechcraft,Hawker 800XP,H25B,258415,L2J,,,,
 880027,41060,British Aerospace,BAe-4122 Jetstream 41,JS41,41060,L2T,,,,
 88002c,41094,British Aerospace,BAe-4122 Jetstream 41,JS41,41094,L2T,,,,
+880e07,HS-CPG,Hawker Beechcraft,Hawker 850XP,H25B,258833,L2J,,,,
+880e08,HS-CPH,Hawker Beechcraft,Hawker 800XP,H25B,258615,L2J,,,,
+8815a7,HS-EMG,British Aerospace,BAe 125-800B,H25B,258094,L2J,,,,
+8840ab,HS-PEK,Hawker Beechcraft,Hawker 850XP,H25B,258830,L2J,,,,
 8a04de,PK-DGC,British Aerospace,ATP,ATP,2052,L2T,DRY,,,
+8a0546,PK-EJR,Hawker Beechcraft,Hawker 800XP,H25B,258591,L2J,COO,,,
 8a17ff,PK-JKW,British Aerospace,BAe 146-200,B462,E2204,L4J,,,,
 8a1800,PK-BRF,British Aerospace,BAe 146-200,B462,E2210,L4J,,,,
+8a2404,PK-TVO,Hawker Beechcraft,Hawker 800XP,H25B,258579,L2J,,,,
+a0028d,N10C,Hawker Siddeley,HS 125-700A,H25B,NA-0235,L2J,,,2023-06-30,1978-01-01
+a00420,N10UC,British Aerospace,BAe 125-700A,H25B,257119,L2J,,,,
+a0048a,N10YJ,British Aerospace,BAe 125-800A,H25B,258099,L2J,,,,
+a004bb,N100AG,Hawker Beechcraft,Hawker 800XP,H25B,258747,L2J,,,2024-02-29,2005-01-01
+a0056e,N100HL,Hawker Beechcraft,Hawker 800XP,H25B,258345,L2J,,,2024-03-31,1997-01-01
+a00977,N101LT,British Aerospace,BAe 125-700A,H25B,257114,L2J,,,,
+a0149a,N104LR,Hawker Beechcraft,Hawker 800XP,H25B,258303,L2J,,,2023-05-31,1996-01-01
+a0150d,N104RF,Hawker Beechcraft,Hawker 800XP,H25B,258641,L2J,,,2021-12-31,2003-01-01
+a01f2b,N107ET,British Aerospace,BAe 125-700A,H25B,257146,L2J,,,,
+a01fc1,N107LT,Hawker Beechcraft,Hawker 850XP,H25B,258901,L2J,,,2023-09-30,2008-01-01
+a02643,N109BG,Hawker Siddeley,HS 125-700A,H25B,NA0310,L2J,,,2023-04-30,1982-01-01
+a02ba7,N11UL,Hawker Beechcraft,Hawker 800XP,H25B,258498,L2J,,,,
+a02ccd,N110GD,Hawker Beechcraft,Hawker 800XP,H25B,258713,L2J,,,2023-05-31,2005-01-01
+a02e38,N110WS,Hawker Beechcraft,Hawker 800XP,H25B,258388,L2J,,,2022-11-30,1998-01-01
+a03151,N111QJ,British Aerospace,BAe 125-700A,H25B,257079,L2J,COO,,,
+a0323a,N111ZS,British Aerospace,BAe 125-700B,H25B,257076,L2J,,,,
 a03c22,N114M,British Aerospace,BAe 146-100,B461,E1068,L4J,,,,
+a044ff,N1161G,Hawker Beechcraft,Hawker 800XP,H25B,258547,L2J,,,,
+a046eb,N117HH,British Aerospace,BAe 125-800A,H25B,258249,L2J,,,2021-12-31,1993-01-01
+a04a21,N118CD,Hawker Siddeley,HS 125-700A,H25B,NA0212,L2J,,,2024-01-31,1977-01-01
+a04a41,N118DL,Hawker Beechcraft,Hawker 800XP,H25B,258607,L2J,,,2021-11-30,2003-01-01
+a04dc2,N119BG,Hawker Beechcraft,Hawker 800XP,H25B,258681,L2J,,,2023-08-31,2004-01-01
+a04ec0,N119ML,British Aerospace,BAe 125-800A,H25B,NA0445,L2J,,,2022-06-30,
+a04f64,N119U,British Aerospace,BAe 125-1000A,H25C,259007,L2J,,,2024-07-31,1992-01-01
+a05300,N12SY,British Aerospace,BAe 125-800A,H25B,258103,L2J,,,2022-07-31,1987-01-01
+a053c0,N120AP,British Aerospace,BAe 125-800A,H25B,258120,L2J,,,2024-03-31,1988-01-01
+a055da,N120YB,Hawker Beechcraft,Hawker 800XP,H25B,258687,L2J,,,,
+a05f3f,N123ED,Hawker Beechcraft,Hawker 800XP,H25B,258366,L2J,,,2021-11-30,
+a05f90,N123HK,British Aerospace,BAe 125-800A,H25B,258208,L2J,,,2024-06-30,1992-01-01
 a063d4,N124PA,British Aerospace,BAe-3101 Jetstream 31,JS31,643,L2T,CXS,,2021-12-31,1984-01-01
+a06680,N125CJ,British Aerospace,BAe 125-700A,H25B,257083,L2J,,,,
+a066b3,N125EK,Hawker Siddeley,HS 125-700A,H25B,NA 0263,L2J,,,2021-11-30,1980-01-01
+a067d7,N125SB,British Aerospace,BAe 125-800A,H25B,258046,L2J,,,2024-04-30,1985-01-01
+a06860,N125XP,Hawker Beechcraft,Hawker 800XP,H25B,258485,L2J,,,2022-01-31,2000-01-01
+a06ae0,N126KC,Hawker Beechcraft,Hawker 800,H25B,258276,L2J,,,2022-04-30,1995-01-01
+a07d59,N130YB,Hawker Beechcraft,Hawker 800XP,H25B,258590,L2J,,,2023-09-30,2002-01-01
+a08148,N1310H,British Aerospace,BAe 125-800A,H25B,258253,L2J,,,,
+a08748,N133KS,Hawker Beechcraft,Hawker 800XP,H25B,258697,L2J,,,2021-10-31,2004-01-01
+a08a4b,N134CM,Hawker Beechcraft,Hawker 800XP,H25B,258503,L2J,,,2021-12-31,2000-01-01
+a08b4e,N134NW,British Aerospace,BAe 125-700A,H25B,257134,L2J,,,,
+a0a66c,N141AE,Hawker Siddeley,HS 125-700A,H25B,NA0306,L2J,,,2021-11-30,1981-01-01
+a0a78a,N141MR,British Aerospace,BAe 125-800A,H25B,NA0429,L2J,,,2022-10-31,1988-01-01
+a0c5b1,N149SB,Hawker Beechcraft,Hawker 800XP,H25B,258654,L2J,,,,
+a0c964,N15RY,Hawker Beechcraft,Hawker 800XP,H25B,258448,L2J,,,2022-03-31,1999-01-01
+a0cacb,N150GF,Hawker Beechcraft,Hawker 850XP,H25B,258823,L2J,,,2023-09-30,2006-01-01
+a0cb39,N150LR,Hawker Beechcraft,Hawker 1000,H25C,259050,L2J,,,2023-03-31,1996-01-01
+a0cbc1,N150SB,British Aerospace,BAe 125-800A,H25B,258197,L2J,,,2023-05-31,1991-01-01
+a0d991,N154FJ,British Aerospace,BAe 125-700A,H25B,257110,L2J,,,,
+a0da92,N154RR,Hawker Beechcraft,Hawker 800XP,H25B,258375,L2J,,,2024-03-31,1998-01-01
+a0ddff,N155NS,Hawker Beechcraft,Hawker 800XP,H25B,258549,L2J,,,2023-01-31,2001-01-01
+a0e1b6,N156NS,Hawker Beechcraft,Hawker 800XP,H25B,258668,L2J,,,2024-01-31,2004-01-01
+a0ec27,N159FM,Hawker Beechcraft,Hawker 800XP,H25B,258651,L2J,,,2023-12-31,2003-01-01
+a0ecba,N159MJ,Hawker Beechcraft,Hawker 850XP,H25B,258841,L2J,,,2024-03-31,2007-01-01
+a10391,N1645,Hawker Beechcraft,Hawker 800XP,H25B,258376,L2J,,,2023-03-31,1998-01-01
+a10c00,N167DF,Hawker Beechcraft,Hawker 800XP,H25B,258500,L2J,COO,,,
+a10f85,N168BF,Hawker Beechcraft,Hawker 800XP,H25B,258373,L2J,,,2022-08-31,1998-01-01
+a11891,N17TV,Hawker Beechcraft,Hawker 800XP,H25B,258622,L2J,,,2023-10-31,2003-01-01
 a11a75,N170PC,British Aerospace,BAe-3101 Jetstream 31,JS31,717,L2T,,,2021-11-30,1986-01-01
+a11dfb,N171MD,British Aerospace,BAe 125-800A,H25B,258251,L2J,,,2023-10-31,1993-01-01
+a11e9d,N171TR,Hawker Beechcraft,Hawker 800XP,H25B,258680,L2J,,,2023-08-31,2004-01-01
+a12a00,N174WC,Hawker Beechcraft,Hawker 800XP,H25B,258593,L2J,,,,
+a1312b,N176TL,British Aerospace,BAe 125-800A,H25B,258176,L2J,,,2023-08-31,1990-01-01
+a13706,N178BH,Hawker Beechcraft,Hawker 800XP,H25B,258538,L2J,,,,
+a13e88,N18CC,British Aerospace,BAe 125-700A,H25B,257030,L2J,,,,
+a13efc,N18GU,Hawker Beechcraft,Hawker 800XP,H25B,258522,L2J,,,2024-03-31,2001-01-01
+a14117,N180EG,British Aerospace,BAe 125-800A,H25B,258188,L2J,,,2023-05-31,
+a141dd,N180NE,British Aerospace,BAe 125-800A,H25B,NA0401,L2J,,,2022-10-31,
+a144e8,N181FH,British Aerospace,BAe 125-800A,H25B,258098,L2J,,,2022-01-31,1987-01-01
+a15141,N184TR,Hawker Beechcraft,Hawker 800XP,H25B,258671,L2J,,,,
+a15e6a,N188AF,British Aerospace,BAe 125-800A,H25B,258238,L2J,,,,
+a163d0,N189TM,British Aerospace,BAe 125-800A,H25B,258196,L2J,,,,
+a16c80,N191GH,Hawker Beechcraft,Hawker 800XP,H25B,258318,L2J,,,2024-02-29,1996-01-01
+a16e3b,N1910A,Hawker Beechcraft,Hawker 800XP,H25B,258711,L2J,,,2022-01-31,2005-01-01
+a1897a,N1989D,Hawker Beechcraft,Hawker 800XP,H25B,258580,L2J,,,2021-12-31,2002-01-01
+a196c5,N201LS,Hawker Beechcraft,Hawker 850XP,H25B,258777,L2J,,,,
+a19edd,N203TM,Hawker Beechcraft,Hawker 800XP,H25B,258653,L2J,COO,,,
+a19fe9,N2033,British Aerospace,BAe 125-800A,H25B,258093,L2J,,,2021-11-30,
+a1a654,N205TW,British Aerospace,BAe 125-700B,H25B,257025,L2J,,,,
+a1ace5,N207K,Hawker Beechcraft,Hawker 1000,H25C,259045,L2J,,,2021-11-30,1994-01-01
+a1adbf,N207TT,British Aerospace,BAe 125-1000A,H25C,259008,L2J,,,2022-07-31,1992-01-01
+a1b798,N21EL,Hawker Beechcraft,Hawker 800XP,H25B,258396,L2J,,,,
+a1bb03,N210RK,British Aerospace,BAe 125-700A,H25B,257073,L2J,,,,
+a1be0e,N211JN,British Aerospace,BAe 125-800A,H25B,258104,L2J,,,,
+a1c1fa,N212LR,British Aerospace,BAe 125-800A,H25B,258182,L2J,,,2022-07-31,1990-01-01
+a1c26e,N212RG,Hawker Beechcraft,Hawker 800XP,H25B,258700,L2J,,,2022-01-31,2004-01-01
+a1c313,N212XX,Hawker Siddeley,HS 125-700A,H25B,257093,L2J,,,2023-04-30,
+a1c625,N213RG,British Aerospace,BAe 125-800A,H25B,258073,L2J,,,2023-11-30,1986-01-01
+a1ca0b,N214TD,Hawker Beechcraft,Hawker 800XP,H25B,258332,L2J,,,2022-04-30,1997-01-01
+a1cc30,N215BB,Hawker Beechcraft,Hawker 800XP,H25B,258630,L2J,,,2022-07-31,2003-01-01
+a1cd9d,N215RS,British Aerospace,BAe 125-700A,H25B,257023,L2J,COO,,,
+a1d888,N218PJ,British Aerospace,BAe 125-800A,H25B,NA0426,L2J,,,2023-11-30,1988-01-01
+a1d8c7,N218RX,Hawker Beechcraft,Hawker 800XP,H25B,258323,L2J,,,2023-08-31,1996-01-01
+a1dee8,N22CP,Hawker Beechcraft,Hawker 800XP,H25B,258507,L2J,,,2022-11-30,2000-01-01
+a1dfda,N22NF,Hawker Beechcraft,Hawker 800XP,H25B,258624,L2J,,,2021-12-31,2003-01-01
+a1e044,N22SM,Hawker Beechcraft,Hawker 800XP,H25B,258655,L2J,,,2021-10-31,2004-01-01
+a1e1d2,N220JJ,Hawker Beechcraft,Hawker 800XP,H25B,258475,L2J,,,2022-03-31,2000-01-01
+a1e5ff,N221PB,Hawker Beechcraft,Hawker 800XP,H25B,258623,L2J,,,2024-03-31,2003-01-01
+a1f042,N224EA,British Aerospace,BAe 125-700B,H25B,257088,L2J,,,,
+a1f4db,N225PB,Hawker Beechcraft,Hawker 800XP,H25B,258558,L2J,,,,
+a1f519,N225RP,Hawker Beechcraft,Hawker 800XP,H25B,258311,L2J,,,,
+a20634,N23AN,British Aerospace,BAe 125-800A,H25B,NA0474,L2J,,,2022-03-31,1992-01-01
+a2105a,N232EH,Hawker Beechcraft,Hawker 800XP,H25B,258729,L2J,,,,
+a222e2,N237DX,British Aerospace,BAe 125-700A,H25B,257148,L2J,,,,
+a22f42,N24SM,Hawker Beechcraft,Hawker 800XP,H25B,258567,L2J,,,,
+a231da,N240V,Hawker Beechcraft,Hawker 800XP,H25B,258417,L2J,AIZ,,2023-08-31,1999-01-01
+a2323e,N240Z,Hawker Beechcraft,Hawker 800XP,H25B,258565,L2J,,,2023-04-30,2001-01-01
+a2348f,N241JS,Hawker Beechcraft,Hawker 800XP,H25B,258652,L2J,,,2023-04-30,
+a23f63,N244FL,British Aerospace,BAe 125-800A,H25B,258066,L2J,,,2022-09-30,
+a24e1e,N248EC,Hawker Beechcraft,Hawker 800XP,H25B,258368,L2J,,,2022-11-30,1998-01-01
+a25893,N250MB,British Aerospace,BAe 125-800B,H25B,258237,L2J,,,,
+a26a72,N255DX,Hawker Beechcraft,Hawker 800XP,H25B,258535,L2J,,,,
+a26b8a,N255RB,Hawker Beechcraft,Hawker 850XP,H25B,258791,L2J,,,,
+a26ec3,N256LA,Hawker Beechcraft,Hawker 800XP,H25B,258548,L2J,,,,
+a272cf,N257PL,British Aerospace,BAe 125-800A,H25B,258167,L2J,,,2022-09-30,1990-01-01
+a27659,N258MR,Hawker Beechcraft,Hawker 800,H25B,258258,L2J,,,2022-07-31,1994-01-01
+a2765a,N258MS,Hawker Beechcraft,Hawker 800XP,H25B,258405,L2J,,,2024-03-31,1999-01-01
+a27a6c,N259RH,Hawker Beechcraft,Hawker 800XP,H25B,258529,L2J,,,2022-05-31,2001-01-01
+a27e37,N26SC,British Aerospace,BAe 125-700A,H25B,257117,L2J,,,,
+a27fac,N260H,British Aerospace,BAe 125-800A,H25B,258248,L2J,,,2023-05-31,1993-01-01
+a283fa,N261PA,Hawker Beechcraft,Hawker 1000,H25C,259003,L2J,,,2024-07-31,1998-01-01
+a29624,N266JW,British Aerospace,BAe 125-800A,H25B,NA0403,L2J,,,2022-12-31,
+a2a06d,N269AA,Hawker Beechcraft,Hawker 850XP,H25B,258800,L2J,,,2023-05-31,
+a2a4ab,N27FL,Hawker Beechcraft,Hawker 800XP,H25B,258426,L2J,,,2023-08-31,
+a2a72e,N270HC,British Aerospace,BAe 125-800A,H25B,258020,L2J,,,,
+a2ba88,N275RB,British Aerospace,BAe 125-800A,H25B,258096,L2J,,,,
+a2c205,N277RS,Hawker Beechcraft,Hawker 800XP,H25B,258693,L2J,,,2022-07-31,2004-01-01
+a2c21d,N277SR,Hawker Beechcraft,Hawker 850XP,H25B,258819,L2J,,,,
+a2c823,N279CF,Hawker Beechcraft,Hawker 800XP,H25B,258642,L2J,,,2022-09-30,
+a2cde7,N28ZF,British Aerospace,BAe 125-800A,H25B,NA0458,L2J,,,2022-04-30,
+a2ce2f,N280CB,Hawker Beechcraft,Hawker 800XP,H25B,258733,L2J,,,,
+a2e2a9,N285XP,Hawker Beechcraft,Hawker 800XP,H25B,258285,L2J,,,2022-08-31,1995-01-01
+a2f3cf,N29GZ,Hawker Beechcraft,Hawker 800XP,H25B,258344,L2J,,,2024-03-31,1997-01-01
+a2f94a,N291B,Hawker Beechcraft,Hawker 800XP,H25B,258321,L2J,,,2022-06-30,1996-01-01
+a3049c,N294CV,Hawker Beechcraft,Hawker 800XP,H25B,258339,L2J,,,,
+a308e1,N295JM,Hawker Beechcraft,Hawker 850XP,H25B,258754,L2J,,,2023-09-30,2005-01-01
+a31528,N298WB,Hawker Beechcraft,Hawker 800XP,H25B,258476,L2J,,,2022-06-30,2000-01-01
+a318df,N299WB,British Aerospace,BAe 125-700A,H25B,257092,L2J,,,,
+a31c05,N3QG,British Aerospace,BAe 125-800A,H25B,258127,L2J,,,,
+a31d58,N30DV,Hawker Siddeley,HS 125-700A,H25B,NA0325,L2J,,,2023-03-31,
+a31f93,N300CQ,Hawker Beechcraft,Hawker 800XP,H25B,258555,L2J,,,2022-05-31,2001-01-01
+a3229f,N3007,Hawker Beechcraft,Hawker 800XP,H25B,258487,L2J,CFS,,2022-11-30,2000-01-01
+a322c2,N3008,British Aerospace,BAe 125-800A,H25B,258092,L2J,,,,
+a32725,N302EA,British Aerospace,BAe 125-800,H25B,258269,L2J,,,,
+a3280e,N302PJ,Hawker Beechcraft,Hawker 800XP,H25B,258302,L2J,,,2023-08-31,1996-01-01
+a32a93,N303BC,Hawker Beechcraft,Hawker 800XP,H25B,258324,L2J,EJM,,,
+a32e40,N304AT,British Aerospace,BAe 125-800,H25B,258257,L2J,,,,
+a331ec,N305AG,British Aerospace,BAe 125-800B,H25B,258013,L2J,COO,,,
+a33ad6,N307RM,Hawker Beechcraft,Hawker 800XP,H25B,258322,L2J,,,2023-11-30,
 a34710,N310CN,British Aerospace,BAe-3101 Jetstream 31,JS31,771,L2T,,,2022-10-31,1987-01-01
+a35759,N314TC,Hawker Beechcraft,Hawker 800XP,H25B,258400,L2J,,,2024-01-31,1999-01-01
+a35a37,N315JL,Hawker Beechcraft,Hawker 850XP,H25B,258891,L2J,,,2022-11-30,2007-01-01
+a35e34,N316MF,Hawker Beechcraft,Hawker 800XP,H25B,258314,L2J,,,2024-01-31,
+a36113,N317CQ,Hawker Beechcraft,Hawker 800XP,H25B,258532,L2J,,,2023-07-31,2001-01-01
 a36a07,N319UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41042,L2T,VTE,,,
+a36cda,N32KB,Hawker Beechcraft,Hawker 800XP,H25B,258461,L2J,,,2022-01-31,2000-01-01
+a36d45,N32PJ,British Aerospace,BAe 125-800A,H25B,NA0455,L2J,,,2023-04-30,
 a37017,N320UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41043,L2T,,,2021-11-30,1995-01-01
+a3732b,N321MS,Hawker Beechcraft,Hawker 800XP,H25B,258515,L2J,,,2024-06-30,2001-01-01
+a375da,N322BC,British Aerospace,BAe 125-700A,H25B,257176,L2J,,,,
 a382aa,N325UE,British Aerospace,BAe-4101 Jetstream 41,JS41,41063,L2T,,,2022-06-30,
+a385c6,N326N,British Aerospace,BAe 125-800A,H25B,NA0427,L2J,,,2022-11-30,
+a38647,N326TD,British Aerospace,BAe 125-700B,H25B,257178,L2J,,,,
+a39392,N33BC,Hawker Beechcraft,Hawker 800XP,H25B,258292,L2J,,,2023-10-31,1996-01-01
+a394ad,N33NL,Hawker Beechcraft,Hawker 800XP,H25B,258643,L2J,,,2023-07-31,2003-01-01
+a3a23c,N333PC,Hawker Beechcraft,Hawker 800XP,H25B,258669,L2J,,,2023-03-31,2004-01-01
+a3a276,N333RL,British Aerospace,BAe 125-1000A,H25C,259027,L2J,,,2024-02-29,1992-01-01
+a3b14c,N337RE,British Aerospace,BAe 125-800A,H25B,258024,L2J,,,2021-12-31,
+a3b1d4,N337WR,Hawker Beechcraft,Hawker 800,H25B,258273,L2J,,,2024-07-31,1995-01-01
+a3b752,N339AV,Hawker Beechcraft,Hawker 800,H25B,258255,L2J,,,2023-06-30,1994-01-01
+a3b773,N339CC,Hawker Beechcraft,Hawker 800XP,H25B,258277,L2J,,,,
+a3bfb7,N3400S,Hawker Beechcraft,Hawker 850XP,H25B,258959,L2J,,,,
+a3ca06,N343SC,Hawker Beechcraft,Hawker 800XP,H25B,258365,L2J,,,2022-01-31,1998-01-01
+a3cc51,N344BP,British Aerospace,BAe 125-700A,H25B,257206,L2J,,,,
+a3d827,N347JR,Hawker Beechcraft,Hawker 850XP,H25B,258861,L2J,,,2024-04-30,2007-01-01
+a3e2a9,N35CC,Hawker Beechcraft,Hawker 800XP,H25B,258294,L2J,,,2022-07-31,1996-01-01
+a3e61d,N350PL,British Aerospace,BAe 125-700A,H25B,257193,L2J,,,,
+a3f7de,N355FA,British Aerospace,BAe 125-800A,H25B,258156,L2J,,,2023-01-31,1989-01-01
+a3fcb7,N356SR,Hawker Beechcraft,Hawker 800XP,H25B,258620,L2J,,,,
+a40658,N359BC,Hawker Beechcraft,Hawker 850XP,H25B,258812,L2J,,,2022-07-31,2008-01-01
+a410fe,N361LA,Hawker Beechcraft,Hawker 800XP,H25B,258562,L2J,,,2024-04-30,2001-01-01
+a4467a,N375BC,Hawker Beechcraft,Hawker 850XP,H25B,258856,L2J,,,2023-10-31,2007-01-01
+a45c9a,N380PL,Hawker Beechcraft,Hawker 800XP,H25B,258380,L2J,,,,
+a46a28,N384AB,Hawker Beechcraft,Hawker 800XP,H25B,258339,L2J,,,2023-09-30,1997-01-01
+a481d7,N39QJ,British Aerospace,BAe 125-1000A,H25C,259039,L2J,,,2021-11-30,1993-01-01
+a4aaef,N40GS,British Aerospace,BAe 125-800A,H25B,258128,L2J,,,,
+a4b20d,N401TM,Hawker Beechcraft,Hawker 800XP,H25B,258602,L2J,,,,
+a4b80a,N403CT,Hawker Beechcraft,Hawker 850XP,H25B,258818,L2J,,,,
+a4bd32,N404TM,Hawker Beechcraft,Hawker 850XP,H25B,258848,L2J,,,2024-03-31,2007-01-01
+a4c02f,N405LA,Hawker Beechcraft,Hawker 800XP,H25B,258726,L2J,,,2024-07-31,2005-01-01
+a4c0e9,N405TM,Hawker Beechcraft,Hawker 800XP,H25B,258667,L2J,,,,
+a4c3b3,N406J,British Aerospace,BAe 125-700A,H25B,257131,L2J,,,,
+a4c4a0,N406TM,Hawker Beechcraft,Hawker 800XP,H25B,258578,L2J,,,2023-07-31,2002-01-01
 a4cbac,N408PP,British Aerospace,BAe-3101 Jetstream 31,JS31,605,L2T,,,2022-04-30,1982-01-01
+a4ce24,N409AV,Hawker Beechcraft,Hawker 800XP,H25B,258347,L2J,,,,
+a4dbda,N412DA,British Aerospace,BAe 125-800A,H25B,258061,L2J,,,2024-03-31,
+a4e005,N413HS,British Aerospace,BAe 125-800A,H25B,NA0413,L2J,,,2022-09-30,
+a4e446,N414PE,British Aerospace,BAe 125-800A,H25B,258090,L2J,,,,
+a4efd6,N417TM,Hawker Beechcraft,Hawker 800XP,H25B,258657,L2J,,,,
+a4f20b,N418CA,British Aerospace,BAe 125-800A,H25B,258218,L2J,,,,
 a4f95c,N42AX,British Aerospace,BAe-4101 Jetstream 41,JS41,41084,L2T,,,2022-02-28,1996-01-01
+a4fa17,N42JJ,Hawker Beechcraft,Hawker 800XP,H25B,258509,L2J,,,2024-02-29,2001-01-01
+a4fb00,N42TS,British Aerospace,BAe 125-700B,H25B,257067,L2J,,,,
+a50350,N422CS,British Aerospace,BAe 125-800A,H25B,258110,L2J,,,2023-02-28,1988-01-01
+a5051a,N422X,British Aerospace,BAe 125-700A,H25B,257074,L2J,,,,
 a507a6,N423KA,British Aerospace,BAe-4101 Jetstream 41,JS41,41023,L2T,,,2021-09-30,1993-01-01
+a5085b,N423SG,Hawker Beechcraft,Hawker 800XP,H25B,258472,L2J,,,2022-11-30,2000-01-01
+a50f1a,N425KG,British Aerospace,BAe 125-700B,H25B,257001,L2J,,,,
+a51305,N426MJ,Hawker Beechcraft,Hawker 850XP,H25B,258759,L2J,,,2024-05-31,2006-01-01
+a51755,N427TM,Hawker Beechcraft,Hawker 800XP,H25B,258720,L2J,,,,
+a51ec3,N429TM,Hawker Beechcraft,Hawker 850XP,H25B,258767,L2J,,,,
+a5284f,N431RC,British Aerospace,BAe 125-700A,H25B,257170,L2J,COO,,,
+a5367d,N435JD,Hawker Beechcraft,Hawker 800XP,H25B,258298,L2J,,,2022-09-30,1996-01-01
+a54227,N438PM,Hawker Beechcraft,Hawker 800XP,H25B,258636,L2J,,,,
+a542da,N438WR,Hawker Beechcraft,Hawker 850XP,H25B,258983,L2J,,,2023-07-31,2009-01-01
+a54a13,N44UN,Hawker Beechcraft,Hawker 800XP,H25B,258359,L2J,,,2023-10-31,1998-01-01
+a54a9d,N440A,British Aerospace,BAe 125-800A,H25B,258233,L2J,,,2024-01-31,1993-01-01
+a54d5e,N4403,Hawker Beechcraft,Hawker 800XP,H25B,258480,L2J,,,,
+a5532f,N442MS,British Aerospace,BAe 125-800A,H25B,NA0460,L2J,,,2022-08-31,
 a561fb,N446MA,British Aerospace,BAe 146-200,B462,E2111,L4J,,,,
+a5663c,N447SP,Hawker Beechcraft,Hawker 800XP,H25B,258618,L2J,,,2023-05-31,2003-01-01
+a56904,N448H,Hawker Beechcraft,Hawker 850XP,H25B,258907,L2J,,,2023-04-30,2008-01-01
+a5705d,N45GD,British Aerospace,BAe 125-800A,H25B,258142,L2J,,,2023-02-28,1989-01-01
+a570ab,N45KG,Hawker Siddeley,HS 125-700A,H25B,257189,L2J,,,2021-12-31,1980-01-01
+a570b1,N45KN,Hawker Beechcraft,Hawker 800XP,H25B,258635,L2J,,,,
+a584d2,N455BK,British Aerospace,BAe 125-700A,H25B,257078,L2J,,,,
+a58ce5,N457J,British Aerospace,BAe 125-800A,H25B,258085,L2J,,,2021-10-31,1987-01-01
+a594aa,N459MM,British Aerospace,BAe 125-700A,H25B,257106,L2J,,,,
+a5993b,N46WE,British Aerospace,BAe 125-1000A,H25C,259028,L2J,,,2023-04-30,1992-01-01
+a59aba,N460MM,British Aerospace,BAe 125-800A,H25B,258075,L2J,,,,
+a5a228,N462MM,British Aerospace,BAe 125-800A,H25B,258202,L2J,,,,
+a5a50f,N463DD,British Aerospace,BAe 125-800A,H25B,258178,L2J,,,,
+a5a8fb,N464FG,British Aerospace,BAe 125-700A,H25B,257069,L2J,,,,
+a5b104,N466MM,British Aerospace,BAe 125-700A,H25B,257059,L2J,,,,
+a5bc8a,N469RJ,British Aerospace,BAe 125-800A,H25B,258067,L2J,,,2023-10-31,1986-01-01
+a5bf71,N47HA,Hawker Beechcraft,Hawker 800XP,H25B,258280,L2J,,,2023-02-28,1995-01-01
+a5bf85,N47HW,British Aerospace,BAe 125-800A,H25B,258023,L2J,,,,
 a5c247,N470NA,British Aerospace,BAe 146-200A,B462,E2049,L4J,,,2022-12-31,1986-01-01
 a5c5fe,N471NA,British Aerospace,BAe 146-200A,B462,E2136,L4J,,,2022-12-31,
 a5c9b5,N472NA,British Aerospace,BAe 146-200A,B462,E2138,L4J,,,2022-08-31,1989-01-01
 a5cd6c,N473NA,British Aerospace,BAe 146-200,B462,E2045,L4J,,,2022-12-31,1985-01-01
+a5d02e,N474CF,Hawker Beechcraft,Hawker 800XP,H25B,258662,L2J,,,2023-05-31,2004-01-01
+a5d468,N475HM,Hawker Beechcraft,Hawker 800XP,H25B,258451,L2J,,,2023-10-31,1999-01-01
 a5d4da,N475NA,British Aerospace,BAe 146-200,B462,E 2192,L4J,,,2022-12-31,1991-01-01
+a5d535,N475RS,Hawker Beechcraft,Hawker 800XP,H25B,258674,L2J,,,2024-02-29,2004-01-01
+a5f785,N484AR,British Aerospace,BAe 125-800A,H25B,258014,L2J,,,,
 a60461,N487UE,British Aerospace,BAe-3201 Jetstream 32,JS32,906,L2T,,,2024-02-29,1990-01-01
+a6065d,N488AM,Hawker Beechcraft,Hawker 800XP,H25B,258648,L2J,,,2022-08-31,2003-01-01
+a60a2d,N489BM,Hawker Beechcraft,Hawker 800,H25B,258271,L2J,,,2022-01-31,1994-01-01
+a60f3f,N49RJ,British Aerospace,BAe 125-700B,H25B,257007,L2J,,,,
+a62a20,N497AG,Hawker Beechcraft,Hawker 800XP,H25B,258439,L2J,,,,
+a632cd,N499PA,Hawker Beechcraft,Hawker 800XP,H25B,258739,L2J,,,2021-12-31,2005-01-01
 a633aa,N499XX,British Aerospace,Hawk 67,HAWK,67-499,L1J,,,2022-09-30,
+a638fe,N50QJ,British Aerospace,BAe 125-800A,H25B,258216,L2J,,,,
+a63a79,N500FM,British Aerospace,BAe 125-700A,H25B,257102,L2J,,,,
+a63c0b,N500XP,Hawker Beechcraft,Hawker 800XP,H25B,258455,L2J,,,2023-07-31,1999-01-01
+a63e43,N501GF,Hawker Siddeley,HS 125-700A,H25B,257208,L2J,,,2022-04-30,1984-01-01
 a64738,N503XX,British Aerospace,Hawk 67,HAWK,67-503,L1J,,,2022-09-30,1992-01-01
+a64980,N504HE,British Aerospace,BAe 125-800A,H25B,258229,L2J,,,,
+a649e5,N504MF,Hawker Beechcraft,Hawker 800XP,H25B,258286,L2J,,,,
 a64aef,N504XX,British Aerospace,Hawk 67,HAWK,67-504,L1J,,,2022-09-30,
 a65614,N507XX,British Aerospace,Hawk 67,HAWK,67-505,L1J,,,2022-09-30,
 a659cb,N508XX,British Aerospace,Hawk 67,HAWK,67-508,L1J,,,2022-09-30,1993-01-01
 a65d82,N509XX,British Aerospace,Hawk 67,HAWK,67-509,L1J,,,2022-09-30,1993-01-01
 a66392,N510XX,British Aerospace,Hawk 67,HAWK,67-510,L1J,,,2022-09-30,
+a66549,N511BK,British Aerospace,BAe 125-1000A,H25C,259031,L2J,,,2024-02-29,
 a66749,N511XX,British Aerospace,Hawk 67,HAWK,67-511,L1J,,,2022-09-30,1993-01-01
+a669a8,N512JC,Hawker Beechcraft,Hawker 800XP,H25B,258556,L2J,,,2022-07-31,2001-01-01
+a66ad4,N512WC,Hawker Beechcraft,Hawker 800XP,H25B,258595,L2J,,,2022-04-30,2002-01-01
+a66cb2,N513BE,Hawker Beechcraft,Hawker 800XP,H25B,258471,L2J,,,2024-01-31,2000-01-01
 a66eb7,N513XX,British Aerospace,Hawk 67,HAWK,67-513,L1J,,,2022-09-30,
 a67625,N515XX,British Aerospace,Hawk 67,HAWK,67-512,L1J,,,2022-09-30,1993-01-01
+a6796a,N516TH,Hawker Beechcraft,Hawker 800XP,H25B,258418,L2J,,,2023-01-31,1999-01-01
 a679dc,N516XX,British Aerospace,Hawk 67,HAWK,67-514,L1J,,,2022-09-30,
+a67c7a,N517LR,British Aerospace,BAe 125-1000A,H25C,259017,L2J,,,2022-10-31,1992-01-01
+a67d12,N517ST,British Aerospace,BAe 125-800A,H25B,258069,L2J,,,,
+a68824,N52RZ,British Aerospace,BAe 125-800B,H25B,258177,L2J,,,,
+a68831,N52SM,British Aerospace,BAe 125-1000A,H25C,NA1009,L2J,,,2024-01-31,
+a689bc,N520JF,Hawker Beechcraft,Hawker 800XP,H25B,258317,L2J,,,,
+a689f8,N520LR,British Aerospace,BAe 125-1000A,H25C,NA1008,L2J,,,2023-03-31,1992-01-01
+a68d77,N521JK,British Aerospace,BAe 125-800,H25B,258262,L2J,COO,,,
+a6960e,N523WG,British Aerospace,BAe 125-800A,H25B,258086,L2J,,,2022-08-31,1987-01-01
+a698d4,N524LR,British Aerospace,BAe 125-1000A,H25C,259-024,L2J,,,2022-05-31,1992-01-01
+a69b57,N52484,Hawker Beechcraft,Hawker 800XP,H25B,258293,L2J,,,2023-12-31,1996-01-01
+a6a7cf,N528MX,Hawker Beechcraft,Hawker 800XP,H25B,258725,L2J,,,2023-01-31,2005-01-01
+a6c48b,N535RV,Hawker Beechcraft,Hawker 800XP,H25B,258355,L2J,,,2023-04-30,1998-01-01
+a6d8f6,N540LR,British Aerospace,BAe 125-1000A,H25C,259040,L2J,,,2022-12-31,1993-01-01
+a6dcad,N541LR,British Aerospace,BAe 125-1000A,H25C,259041,L2J,,,2022-04-30,1993-01-01
+a6ddbe,N541XP,Hawker Beechcraft,Hawker 800XP,H25B,258541,L2J,,,2023-09-30,2001-01-01
+a6e06d,N542M,Hawker Beechcraft,Hawker 850XP,H25B,258766,L2J,,,2023-03-31,2006-01-01
+a6e411,N543LF,Hawker Beechcraft,Hawker 800XP,H25B,258391,L2J,,,2023-11-30,1999-01-01
+a6e81e,N544PS,Hawker Beechcraft,Hawker 800XP,H25B,258491,L2J,,,2024-01-31,2000-01-01
+a6ef40,N546LR,Hawker Beechcraft,Hawker 1000,H25C,259046,L2J,,,2024-04-30,1994-01-01
+a6fa74,N549MF,British Aerospace,BAe 125-800A,H25B,258152,L2J,,,2024-08-31,
+a6fd2c,N55BA,Hawker Beechcraft,Hawker 800XP,H25B,258356,L2J,,,2022-02-28,
+a6fe0e,N55LB,Hawker Beechcraft,Hawker 800XP,H25B,258494,L2J,,,2022-05-31,2000-01-01
+a6ff2d,N55XP,Hawker Beechcraft,Hawker 800XP,H25B,258583,L2J,,,2022-03-31,2002-01-01
+a707f1,N552ME,Hawker Beechcraft,Hawker 800XP,H25B,258459,L2J,,,2023-09-30,2000-01-01
+a70abe,N553BW,Hawker Beechcraft,Hawker 800XP,H25B,258570,L2J,,,2022-02-28,2002-01-01
+a72bf7,N561PS,Hawker Siddeley,HS 125-700A,H25B,NA-0262,L2J,,,2024-07-31,1980-01-01
+a735ef,N564BR,Hawker Siddeley,HS 125-700A,H25B,NA0287,L2J,,,2024-02-29,
+a735fb,N564CC,Hawker Beechcraft,Hawker 800XP,H25B,258287,L2J,,,,
 a7367f,N564HK,British Aerospace,BAe-4101 Jetstream 41,JS41,41081,L2T,,,2022-10-31,1996-01-01
+a73b17,N565SK,Hawker Beechcraft,Hawker 800XP,H25B,258604,L2J,,,2023-09-30,2002-01-01
+a74128,N567CL,British Aerospace,BAe 125-1000A,H25C,259035,L2J,,,2023-02-28,1993-01-01
+a74c27,N57AY,British Aerospace,BAe 125-700A,H25B,257156,L2J,,,,
+a74c7d,N57EJ,Hawker Siddeley,HS 125-700A,H25B,257056,L2J,,,2024-03-31,1979-01-01
+a75c72,N5734,Hawker Beechcraft,Hawker 800XP,H25B,258304,L2J,,,2024-07-31,1997-01-01
+a75d7f,N574CH,Hawker Beechcraft,Hawker 800XP,H25B,258540,L2J,,,2023-02-28,2001-01-01
+a773b3,N58BL,British Aerospace,BAe 125-800A,H25B,258236,L2J,,,2022-07-31,
+a78a59,N585VC,Hawker Beechcraft,Hawker 800XP,H25B,258585,L2J,,,,
+a79b37,N59BR,Hawker Beechcraft,Hawker 800XP,H25B,258599,L2J,,,,
+a7a156,N591CF,British Aerospace,BAe 125-800A,H25B,258175,L2J,,,2023-08-31,1989-01-01
+a7b143,N595PD,Hawker Beechcraft,Hawker 800XP,H25B,258526,L2J,,,2021-10-31,2001-01-01
+a7b1cd,N595US,British Aerospace,BAe 125-800A,H25B,258131,L2J,COO,,,
+a7bbde,N598HR,British Aerospace,BAe 125-800A,H25B,258089,L2J,,,2022-02-28,
+a7c3c9,N6NR,Hawker Beechcraft,Hawker 800XP,H25B,258701,L2J,,,2023-01-31,2004-01-01
+a7c866,N600MV,British Aerospace,BAe 125-1000A,H25C,259036,L2J,,,2022-11-30,1993-01-01
 a7cf7b,N602JF,British Aerospace,BAe-4107 Jetstream 41,JS41,41038,L2T,,,,
+a7dd88,N606,British Aerospace,BAe 125-800A,H25B,258068,L2J,,,2022-08-31,1987-01-01
+a7de57,N606JF,Hawker Beechcraft,Hawker 800XP,H25B,258337,L2J,,,2021-12-31,1997-01-01
+a7ea27,N609RB,British Aerospace,BAe 125-800A,H25B,258019,L2J,,,2024-01-31,1984-01-01
+a7f38b,N611MC,Hawker Siddeley,HS 125-700A,H25B,NA 0257,L2J,,,2022-09-30,
+a7fa1b,N613CF,British Aerospace,BAe 125-800,H25B,258256,L2J,,,,
+a7fda8,N614AP,British Aerospace,BAe 125-800A,H25B,258057,L2J,,,,
+a80703,N616WG,British Aerospace,BAe 125-800A,H25B,258030,L2J,,,2021-11-30,1985-01-01
 a80e09,N618SC,British Aerospace,BAe-3101 Jetstream 31,JS31,618,L2T,,,2023-11-30,1983-01-01
+a8189d,N6200H,British Aerospace,BAe 125-800A,H25B,258087,L2J,,,2023-05-31,1987-01-01
+a81b86,N621SB,Hawker Beechcraft,Hawker 800XP,H25B,258531,L2J,,,2023-03-31,2001-01-01
+a81bf6,N621WP,British Aerospace,BAe 125-800A,H25B,258033,L2J,,,2022-05-31,1985-01-01
+a81e9c,N622KR,Hawker Beechcraft,Hawker 800XP,H25B,258282,L2J,,,2021-12-31,1995-01-01
+a82cc0,N626CG,British Aerospace,BAe 125-800A,H25B,258041,L2J,,,,
+a83e63,N630GS,Hawker Beechcraft,Hawker 850XP,H25B,258769,L2J,,,2023-11-30,2006-01-01
+a86a77,N641RP,Hawker Beechcraft,Hawker 850XP,H25B,258858,L2J,,,2024-01-31,2007-01-01
+a878f2,N645MS,British Aerospace,BAe 125-800A,H25B,258044,L2J,,,2024-03-31,1985-01-01
 a87d6d,N646VN,British Aerospace,BAe-3101 Jetstream 31,JS31,646,L2T,,,,
+a88ab7,N65DL,British Aerospace,BAe 125-800B,H25B,258224,L2J,,,,
+a88e66,N650TC,Hawker Siddeley,HS 125-700A,H25B,NA0290,L2J,,,2022-10-31,1980-01-01
 a8a6d5,N657BA,British Aerospace,BAe-3101 Jetstream 31,JS31,657,L2T,VTE,,,
+a8b421,N66ZB,Hawker Beechcraft,Hawker 800XP,H25B,258675,L2J,,,2024-02-29,2004-01-01
+a8bc7c,N662JN,Hawker Beechcraft,Hawker 850XP,H25B,258837,L2J,,,2023-07-31,2007-01-01
+a8c318,N664AC,Hawker Beechcraft,Hawker 800XP,H25B,258566,L2J,,,,
 a8c3f3,N664JX,British Aerospace,BAe-3101 Jetstream 31,JS31,664,L2T,,,,
+a8c41d,N664LP,British Aerospace,BAe 125-800A,H25B,258032,L2J,,,,
+a8cb4e,N666JC,British Aerospace,BAe 125-800A,H25B,258115,L2J,,,,
+a8d2bf,N668JF,British Aerospace,BAe 125-800A,H25B,258124,L2J,,,,
+a8d5dd,N669CC,Hawker Beechcraft,Hawker 850XP,H25B,258814,L2J,,,2024-01-31,2006-01-01
+a8db58,N67WE,British Aerospace,BAe 125-1000A,H25C,259038,L2J,,,,
+a8e0f6,N671RR,British Aerospace,BAe 125-800A,H25B,258244,L2J,,,2022-05-31,1993-01-01
+a8f20a,N676AH,Hawker Beechcraft,Hawker 850XP,H25B,258831,L2J,,,,
+a8f2a0,N676GH,Hawker Beechcraft,Hawker 800XP,H25B,258676,L2J,,,2021-12-31,2004-01-01
+a8f2cc,N676JB,Hawker Beechcraft,Hawker 800XP,H25B,258619,L2J,,,,
+a900ee,N68AR,British Aerospace,BAe 125-800A,H25B,258234,L2J,,,2024-04-30,1992-01-01
+a90112,N68CB,Hawker Beechcraft,Hawker 800XP,H25B,258453,L2J,,,2022-11-30,1999-01-01
+a90af0,N682D,British Aerospace,BAe 125-800A,H25B,NA0431,L2J,,,2023-05-31,
+a90ed9,N683F,British Aerospace,BAe 125-800A,H25B,NA0410,L2J,,,2023-11-30,
+a91268,N684DK,Hawker Beechcraft,Hawker 800XP,H25B,258684,L2J,,,2022-10-31,2004-01-01
+a91b40,N686TX,Hawker Beechcraft,Hawker 800XP,H25B,258686,L2J,,,2023-04-30,2004-01-01
+a924b2,N689AM,Hawker Beechcraft,Hawker 800XP,H25B,258665,L2J,,,2023-12-31,2004-01-01
+a93a07,N694ES,Hawker Beechcraft,Hawker 800XP,H25B,258694,L2J,,,,
 a93e5d,N695MA,British Aerospace,BAe-3101 Jetstream 31,JS31,695,L2T,,,2022-06-30,
+a94e40,N699XP,Hawker Beechcraft,Hawker 800XP,H25B,258699,L2J,,,,
+a95366,N70NE,British Aerospace,BAe 125-800A,H25B,258107,L2J,,,,
+a95395,N70QB,British Aerospace,BAe 125-700A,H25B,257125,L2J,,,,
+a954c5,N700CE,British Aerospace,BAe 125-700B,H25B,257213,L2J,,,,
+a955c8,N700NP,Hawker Siddeley,HS 125-700A,H25B,NA0345,L2J,,,2023-11-30,1983-01-01
+a955ed,N700QA,British Aerospace,BAe 125-700A,H25B,257052,L2J,,,,
+a95615,N700RR,Hawker Siddeley,HS 125-700A,H25B,NA-0217,L2J,,,2023-10-31,1978-01-01
+a95659,N700UJ,British Aerospace,BAe 125-700A,H25B,257086,L2J,,,,
+a9614f,N703SM,British Aerospace,BAe 125-800A,H25B,258204,L2J,,,,
+a9643e,N704JM,Hawker Beechcraft,Hawker 800XP,H25B,258367,L2J,,,2022-03-31,1998-01-01
+a9673c,N705BB,Hawker Beechcraft,Hawker 800XP,H25B,258765,L2J,,,2023-04-30,2006-01-01
+a96ae4,N706AM,British Aerospace,BAe 125-700A,H25B,257009,L2J,,,,
+a96eb4,N707BM,Hawker Beechcraft,Hawker 800XP,H25B,258730,L2J,,,2023-02-28,2005-01-01
+a96f66,N707JQ,Hawker Beechcraft,Hawker 800XP,H25B,258703,L2J,,,2022-04-30,2005-01-01
+a988c5,N713SC,Hawker Beechcraft,Hawker 800XP,H25B,258712,L2J,COO,,,
+a98f9b,N715LA,Hawker Beechcraft,Hawker 800XP,H25B,258441,L2J,,,2023-08-31,1999-01-01
+a992a4,N716DB,Hawker Beechcraft,Hawker 800XP,H25B,258568,L2J,,,2022-04-30,2002-01-01
+a99703,N717KV,Hawker Beechcraft,Hawker 800XP,H25B,258449,L2J,,,2024-01-31,1999-01-01
+a99733,N717MT,British Aerospace,BAe 125-800A,H25B,258163,L2J,,,2024-03-31,1989-01-01
+a99a77,N718HC,British Aerospace,BAe 125-800A,H25B,258040,L2J,,,2022-05-31,1985-01-01
+a99b4c,N718RR,Hawker Beechcraft,Hawker 800XP,H25B,258428,L2J,,,2022-07-31,1999-01-01
+a99b5e,N718SJ,Hawker Beechcraft,Hawker 800XP,H25B,258718,L2J,,,2023-05-31,
+a99e32,N719HG,Hawker Beechcraft,Hawker 800XP,H25B,258488,L2J,KDZ,,2022-11-30,2000-01-01
+a9a1b3,N72FC,Hawker Beechcraft,Hawker 800XP,H25B,258519,L2J,,,2022-12-31,2001-01-01
+a9a22e,N72LA,Hawker Beechcraft,Hawker 850XP,H25B,258801,L2J,,,2023-07-31,2006-01-01
+a9a457,N720JC,British Aerospace,BAe 125-700A,H25B,257065,L2J,COO,,,
+a9a4e3,N720PT,Hawker Siddeley,HS 125-700A,H25B,NA0223,L2J,,,2023-04-30,1978-01-01
+a9a541,N720TM,Hawker Beechcraft,Hawker 850XP,H25B,258758,L2J,,,2023-07-31,2006-01-01
 a9aee4,N723CA,British Aerospace,BAe-3101 Jetstream 31,JS31,723,L2T,,,2024-03-31,1986-01-01
+a9afb5,N723LK,British Aerospace,BAe 125-800A,H25B,258155,L2J,,,,
+a9b281,N724B,British Aerospace,BAe 125-700A,H25B,257006,L2J,,,,
+a9c2ee,N728TA,Hawker Beechcraft,Hawker 800XP,H25B,258364,L2J,,,,
+a9c50d,N729AT,Hawker Beechcraft,Hawker 800XP,H25B,258402,L2J,,,,
+a9ca4d,N73SL,Hawker Beechcraft,Hawker 850XP,H25B,258781,L2J,,,,
+a9ca82,N73UP,Hawker Beechcraft,Hawker 800XP,H25B,258473,L2J,,,2024-05-31,2000-01-01
+a9cb46,N730CJ,British Aerospace,BAe 125-1000A,H25C,NA1007,L2J,,,2024-06-30,1992-01-01
+a9d27a,N732AA,British Aerospace,BAe 125-800A,H25B,258243,L2J,,,2023-07-31,1993-01-01
+a9e26a,N736MB,Hawker Beechcraft,Hawker 800XP,H25B,258390,L2J,,,,
+a9f0dc,N74GW,Hawker Beechcraft,Hawker 800XP,H25B,258706,L2J,,,2023-04-30,2005-01-01
+a9f82c,N741VR,Hawker Beechcraft,Hawker 800XP,H25B,258741,L2J,,,,
+aa0381,N744XP,Hawker Beechcraft,Hawker 800XP,H25B,258744,L2J,,,2023-04-30,2005-01-01
+aa06ed,N745UP,Hawker Beechcraft,Hawker 800XP,H25B,258336,L2J,,,,
+aa1652,N7490A,Hawker Siddeley,HS 125-700A,H25B,NA 0320,L2J,,,2022-02-28,1982-01-01
+aa1856,N75GR,Hawker Beechcraft,Hawker 800XP,H25B,258756,L2J,BSM,,,
+aa186a,N75HL,Hawker Beechcraft,Hawker 800XP,H25B,258316,L2J,,,,
+aa1ee5,N751MT,Hawker Beechcraft,Hawker 850XP,H25B,258751,L2J,,,2024-01-31,2005-01-01
+aa229c,N752MT,Hawker Beechcraft,Hawker 800XP,H25B,258752,L2J,,,,
 aa235f,N752VN,British Aerospace,BAe-3101 Jetstream 31,JS31,752,L2T,,,,
+aa34b1,N757GS,Hawker Beechcraft,Hawker 800XP,H25B,258624,L2J,COO,,,
+aa351d,N757M,British Aerospace,BAe 125-800A,H25B,NA0402,L2J,,,2021-10-31,
+aa475a,N761XP,Hawker Beechcraft,Hawker 850XP,H25B,258761,L2J,,,2023-09-30,2006-01-01
+aa691f,N770AZ,Hawker Siddeley,HS 125-700A,H25B,257046,L2J,,,2022-02-28,1978-01-01
+aa693c,N770CC,Hawker Beechcraft,Hawker 800XP,H25B,258587,L2J,,,2021-11-30,2002-01-01
+aa69e1,N770JT,British Aerospace,BAe 125-800A,H25B,258254,L2J,,,,
+aa6a85,N770RG,British Aerospace,BAe 125-1000A,H25C,259025,L2J,,,2023-10-31,1993-01-01
+aa79dd,N774WF,Hawker Beechcraft,Hawker 850XP,H25B,258774,L2J,,,2023-05-31,2006-01-01
+aa80d9,N776RS,Hawker Beechcraft,Hawker 850XP,H25B,258776,L2J,,,2023-09-30,2006-01-01
+aa8374,N777EH,Hawker Siddeley,HS 125-700A,H25B,257020,L2J,,,2023-03-31,
+aa84f8,N777VW,British Aerospace,BAe 125-800A,H25B,258169,L2J,,,2021-10-31,1989-01-01
+aa90e6,N780DW,Hawker Beechcraft,Hawker 800XP,H25B,258378,L2J,,,2023-10-31,1998-01-01
+aa9202,N780RE,Hawker Beechcraft,Hawker 850XP,H25B,258819,L2J,,,2023-03-31,2006-01-01
+aaa4f7,N785VC,Hawker Beechcraft,Hawker 850XP,H25B,258785,L2J,,,2021-11-30,2006-01-01
+aab20f,N789BA,Hawker Siddeley,HS 125-700A,H25B,NA 0317,L2J,,,2023-08-31,1982-01-01
+aab2a5,N789HA,Hawker Beechcraft,Hawker 800XP,H25B,258354,L2J,,,2022-10-31,1998-01-01
+aab618,N79EH,British Aerospace,BAe 125-700A,H25B,257047,L2J,,,,
+aac4a4,N793RC,Hawker Beechcraft,Hawker 800XP,H25B,258550,L2J,,,2022-01-31,2001-01-01
+aace89,N796CH,British Aerospace,BAe 125-800A,H25B,258049,L2J,,,2022-06-30,
+aad6a5,N798KG,Hawker Beechcraft,Hawker 800XP,H25B,258443,L2J,,,,
+aad703,N798PA,British Aerospace,BAe 125-800A,H25B,258070,L2J,,,2022-11-30,
+aadaf7,N799RM,Hawker Beechcraft,Hawker 800XP,H25B,258708,L2J,,,2021-10-31,2005-01-01
+aadb04,N799S,Hawker Beechcraft,Hawker 800XP,H25B,258588,L2J,,,2023-10-31,2002-01-01
+aaded5,N8TA,Hawker Beechcraft,Hawker 800XP,H25B,258440,L2J,,,2024-04-30,1999-01-01
+aae0d3,N80PK,Hawker Beechcraft,Hawker 800XP,H25B,258442,L2J,,,2021-10-31,1999-01-01
+aae1e3,N800AF,British Aerospace,C-29A,H25B,258158,L2J,,,,
+aae218,N800CJ,British Aerospace,BAe 125-800A,H25B,258081,L2J,,,2022-12-31,
+aae21a,N800CL,Hawker Beechcraft,Hawker 850XP,H25B,258912,L2J,,,2024-05-31,2008-01-01
+aae223,N800CV,Hawker Beechcraft,Hawker 800XP,H25B,258386,L2J,,,,
+aae242,N800EA,Hawker Beechcraft,Hawker 800XP,H25B,258582,L2J,,,2021-10-31,2002-01-01
+aae24d,N800EM,Hawker Beechcraft,Hawker 800XP,H25B,258649,L2J,,,2022-10-31,
+aae263,N800FJ,British Aerospace,BAe 125-800A,H25B,NA0428,L2J,,,2023-12-31,
+aae265,N800FL,British Aerospace,BAe 125-800A,H25B,258005,L2J,,,,1984-01-01
+aae27d,N800GK,Hawker Beechcraft,Hawker 800XP,H25B,258301,L2J,,,,
+aae280,N800GN,Hawker Beechcraft,Hawker 800XP,H25B,258372,L2J,,,2024-02-29,1998-01-01
+aae2b1,N800JM,British Aerospace,BAe 125-800A,H25B,NA0421,L2J,,,2022-11-30,
+aae2e6,N800LQ,Hawker Beechcraft,Hawker 800XP,H25B,258551,L2J,,,2023-08-31,2001-01-01
+aae2f1,N800MA,Hawker Beechcraft,Hawker 800XP,H25B,258369,L2J,,,2022-10-31,1998-01-01
+aae323,N800PA,British Aerospace,BAe 125-800A,H25B,NA0438,L2J,,,2024-02-29,
+aae327,N800PE,Hawker Beechcraft,Hawker 800XP,H25B,258508,L2J,,,2023-04-30,2000-01-01
+aae32d,N800PL,Hawker Beechcraft,Hawker 800XP,H25B,258696,L2J,,,2024-01-31,
+aae33a,N800PZ,British Aerospace,BAe 125-800A,H25B,258088,L2J,,,2022-06-30,1988-01-01
+aae357,N800RC,Hawker Beechcraft,Hawker 800XP,H25B,258660,L2J,,,,
+aae35b,N800RG,British Aerospace,BAe 125-800A,H25B,258230,L2J,,,2023-02-28,1993-01-01
+aae381,N800SV,British Aerospace,BAe 125-800A,H25B,NA0470,L2J,,,2024-02-29,
+aae391,N800TL,Hawker Beechcraft,Hawker 800XP,H25B,258394,L2J,,,2022-03-31,1998-01-01
+aae3a9,N800UK,Hawker Beechcraft,Hawker 800XP,H25B,258577,L2J,,,2023-03-31,2002-01-01
+aae3b4,N800UW,Hawker Beechcraft,Hawker 800XP,H25B,258395,L2J,,,2022-03-31,1998-01-01
+aae3c8,N800VR,British Aerospace,BAe 125-800A,H25B,258016,L2J,,,2021-10-31,1984-01-01
+aae3d2,N800WA,British Aerospace,BAe 125-800A,H25B,NA0414,L2J,,,2023-05-31,1988-01-01
+aae3d5,N800WD,British Aerospace,BAe 125-1000,H25C,259052,L2J,,,,
+aae3d7,N800WF,Hawker Beechcraft,Hawker 800XP,H25B,258728,L2J,,,2023-12-31,2005-01-01
+aae3d9,N800WH,British Aerospace,BAe 125-800A,H25B,258080,L2J,,,2024-03-31,
+aae3da,N800WJ,Hawker Beechcraft,Hawker 800XP,H25B,258437,L2J,,,2022-07-31,1999-01-01
+aae3e6,N800WW,Hawker Beechcraft,Hawker 800XP,H25B,258661,L2J,,,2023-09-30,2004-01-01
+aae3f6,N800XM,Hawker Beechcraft,Hawker 800XP,H25B,258414,L2J,,,2023-10-31,1999-01-01
+aae3fa,N800XR,Hawker Beechcraft,Hawker 800XP,H25B,258283,L2J,,,2023-11-30,1995-01-01
+aae5cc,N801CF,British Aerospace,BAe 125-800A,H25B,258185,L2J,COO,,,
+aae69a,N801LM,British Aerospace,BAe 125-800A,H25B,NA0409,L2J,,,2023-10-31,1988-01-01
+aae6d9,N801P,British Aerospace,BAe 125-800A,H25B,258191,L2J,TCY,,,
+aae717,N801RM,British Aerospace,BAe 125-800A,H25B,258011,L2J,,,2023-10-31,1984-01-01
+aae735,N801SS,Hawker Beechcraft,Hawker 800XP,H25B,258291,L2J,,,,
+aae791,N801WJ,Hawker Beechcraft,Hawker 800XP,H25B,258281,L2J,,,,
+aae983,N802CF,Hawker Beechcraft,Hawker 800XP,H25B,258425,L2J,,,2024-03-31,1999-01-01
+aaeb48,N802WJ,British Aerospace,BAe 125-800A,H25B,258008,L2J,,,2022-09-30,1984-01-01
+aaee83,N803RK,British Aerospace,BAe 125-800A,H25B,258003,L2J,,,2023-05-31,1984-01-01
+aaf0da,N804BH,Hawker Beechcraft,Hawker 800XP,H25B,258596,L2J,,,2022-05-31,2002-01-01
+aaf18d,N804JM,Hawker Beechcraft,Hawker 800XP,H25B,258467,L2J,,,2023-09-30,2000-01-01
+aaf264,N804TB,Hawker Beechcraft,Hawker 800XP,H25B,258438,L2J,,,2023-01-31,1999-01-01
+aaf543,N805JL,British Aerospace,BAe 125-800A,H25B,258203,L2J,,,,
+aaf9dc,N806TM,Hawker Beechcraft,Hawker 800XP,H25B,258486,L2J,,,2021-10-31,2000-01-01
+aafcf4,N807MC,British Aerospace,BAe 125-800A,H25B,NA0411,L2J,,,2022-11-30,
+ab014a,N808TM,Hawker Beechcraft,Hawker 800XP,H25B,258482,L2J,,,,
+ab01d2,N808YY,Hawker Beechcraft,Hawker 800XP,H25B,258334,L2J,,,,
+ab0962,N810AF,Hawker Beechcraft,Hawker 800XP,H25B,258589,L2J,,,2023-05-31,2002-01-01
 ab0a2c,N810JH,British Aerospace,BAe-3201 Jetstream 32,JS32,810,L2T,,,2022-08-31,1988-01-01
+ab0a3f,N810KB,Hawker Siddeley,HS 125-700A,H25B,257118,L2J,,,2022-07-31,
+ab0aef,N810SC,Hawker Beechcraft,Hawker 800XP,H25B,258464,L2J,,,,
+ab0d1f,N811AM,British Aerospace,BAe 125-800A,H25B,NA0444,L2J,,,2023-03-31,
+ab10d6,N812AM,British Aerospace,BAe 125-800A,H25B,258147,L2J,,,,
+ab1169,N812GJ,British Aerospace,BAe 125-800B,H25B,258112,L2J,,,,
+ab1484,N813AC,British Aerospace,BAe 125-800A,H25B,NA0406,L2J,,,2023-01-31,1987-01-01
+ab15ae,N813NA,British Aerospace,BAe 125-700B,H25B,257158,L2J,,,,
+ab19da,N814ST,Hawker Beechcraft,Hawker 800,H25B,258272,L2J,,,2023-08-31,1995-01-01
+ab1d5e,N815QS,Hawker Beechcraft,Hawker 800XP,H25B,258705,L2J,,,,
+ab1fc6,N816BG,British Aerospace,BAe 125-800A,H25B,NA0440,L2J,,,2022-04-30,
+ab207a,N816JM,Hawker Siddeley,HS 125-700A,H25B,NA0207,L2J,,,2023-09-30,
+ab20b6,N816LX,Hawker Beechcraft,Hawker 800XP,H25B,258363,L2J,,,2022-05-31,1998-01-01
+ab2824,N818LX,Hawker Beechcraft,Hawker 800XP,H25B,258534,L2J,,,2023-06-30,2001-01-01
+ab28c9,N818TM,Hawker Beechcraft,Hawker 800XP,H25B,258463,L2J,,,,
+ab3022,N82SR,British Aerospace,BAe 125-800A,H25B,258026,L2J,,,2022-08-31,
+ab311f,N820CT,British Aerospace,BAe 125-700A,H25B,257041,L2J,,,,
+ab31b4,N820JS,Hawker Beechcraft,Hawker 800XP,H25B,258313,L2J,,,2024-04-30,1997-01-01
+ab358e,N821LB,Hawker Beechcraft,Hawker 800XP,H25B,258650,L2J,,,2021-12-31,
+ab35b3,N821MP,British Aerospace,BAe 125-800A,H25B,258043,L2J,,,2021-10-31,1985-01-01
+ab386d,N822BL,British Aerospace,BAe 125-800B,H25B,258022,L2J,,,,
+ab39fe,N822TM,Hawker Beechcraft,Hawker 800XP,H25B,258433,L2J,,,,
+ab40c7,N824LX,Hawker Beechcraft,Hawker 800XP,H25B,258740,L2J,,,,
+ab44de,N825QT,Hawker Beechcraft,Hawker 800XP,H25B,258497,L2J,,,2024-05-31,2000-01-01
+ab47be,N826GC,Hawker Beechcraft,Hawker 800,H25B,258263,L2J,,,2022-10-31,1994-01-01
+ab4fe1,N828PJ,British Aerospace,BAe 125-700A,H25B,257005,L2J,,,,
+ab5718,N83MD,Hawker Siddeley,HS 125-700A,H25B,NA0286,L2J,,,2022-05-31,
+ab5859,N830,Hawker Beechcraft,Hawker 850XP,H25B,258782,L2J,,,2023-10-31,2006-01-01
+ab58e2,N830FL,Hawker Beechcraft,Hawker 800XP,H25B,258483,L2J,,,,
+ab6534,N833TM,Hawker Beechcraft,Hawker 800XP,H25B,258474,L2J,,,,
+ab6ca2,N835TM,Hawker Beechcraft,Hawker 800XP,H25B,258387,L2J,,,,
+ab7f50,N84UP,Hawker Beechcraft,Hawker 800XP,H25B,258484,L2J,,,2024-06-30,2000-01-01
+ab818e,N840TM,Hawker Beechcraft,Hawker 800XP,H25B,258393,L2J,,,,
+ab853c,N841TC,Hawker Beechcraft,Hawker 850XP,H25B,258874,L2J,,,2023-07-31,2007-01-01
+ab9ebd,N848N,Hawker Beechcraft,Hawker 800XP,H25B,258371,L2J,,,2023-12-31,1998-01-01
 aba221,N849JS,British Aerospace,BAe-3101 Jetstream 31,JS31,812,L2T,,,2024-04-30,1988-01-01
+aba534,N85CC,Hawker Beechcraft,Hawker 800XP,H25B,258307,L2J,,,2022-07-31,1996-01-01
+aba5b6,N85HH,Hawker Beechcraft,Hawker 850XP,H25B,258817,L2J,,,2023-01-31,
+aba7b1,N850DP,Hawker Beechcraft,Hawker 800XP,H25B,258468,L2J,,,2021-10-31,2000-01-01
+aba7bf,N850EC,Hawker Beechcraft,Hawker 850XP,H25B,258789,L2J,,,2023-10-31,2006-01-01
+aba7d4,N850EZ,Hawker Beechcraft,Hawker 850XP,H25B,258799,L2J,,,2021-12-31,2006-01-01
+aba7d7,N850FB,Hawker Beechcraft,Hawker 800XP,H25B,258677,L2J,,,2022-05-31,2004-01-01
+aba821,N850JA,British Aerospace,BAe 125-1000A,H25C,259006,L2J,,,,
+aba83e,N850KE,Hawker Beechcraft,Hawker 850XP,H25B,258961,L2J,,,2023-03-31,2008-01-01
+aba87c,N850MS,Hawker Beechcraft,Hawker 850XP,H25B,258784,L2J,,,,
+aba8a2,N850PE,Hawker Beechcraft,Hawker 850XP,H25B,258808,L2J,,,2022-10-31,2006-01-01
+aba8fe,N850SX,Hawker Beechcraft,Hawker 800,H25B,258270,L2J,,,2022-04-30,1994-01-01
+aba90d,N850TM,Hawker Beechcraft,Hawker 850XP,H25B,258798,L2J,,,2023-06-30,
+aba941,N850VP,Hawker Beechcraft,Hawker 850XP,H25B,258768,L2J,,,2023-02-28,2006-01-01
+abab44,N851CC,Hawker Beechcraft,Hawker 850XP,H25B,258787,L2J,,,,
+abac8d,N851RG,Hawker Beechcraft,Hawker 800XP,H25B,258634,L2J,COO,,,
+abaec6,N852A,British Aerospace,BAe 125-800A,H25B,258083,L2J,,,,
+abb2b2,N853CC,Hawker Beechcraft,Hawker 850XP,H25B,258803,L2J,,,2024-02-29,
+abb6bc,N854FL,Hawker Beechcraft,Hawker 800XP,H25B,258454,L2J,,,2023-01-31,2000-01-01
+abba07,N855BC,British Aerospace,BAe 125-800A,H25B,258055,L2J,,,,
+abba82,N855GA,British Aerospace,BAe 125-800B,H25B,258211,L2J,,,,
+abbb13,N855MW,British Aerospace,BAe 125-800A,H25B,258241,L2J,,,2024-06-30,1993-01-01
 abc559,N858CY,British Aerospace,BAe-3201 Jetstream 32,JS32,858,L2T,,,2023-12-31,1989-01-01
+abcd9e,N86MN,Hawker Beechcraft,Hawker 800XP,H25B,258330,L2J,,,2022-01-31,1997-01-01
+abda9b,N863GJ,Hawker Beechcraft,Hawker 800XP,H25B,258663,L2J,,,,
+abde01,N864DC,Hawker Beechcraft,Hawker 800XP,H25B,258647,L2J,,,2021-10-31,2003-01-01
+abe31f,N865TM,Hawker Beechcraft,Hawker 800XP,H25B,258505,L2J,,,,
+abea97,N867TX,Hawker Beechcraft,Hawker 800XP,H25B,258576,L2J,,,2023-11-30,2002-01-01
+abf576,N87RB,Hawker Beechcraft,Hawker 800XP,H25B,258299,L2J,,,2023-06-30,1996-01-01
+abf80b,N870TM,Hawker Beechcraft,Hawker 800XP,H25B,258517,L2J,,,,
+ac0905,N875BC,Hawker Beechcraft,Hawker 800XP,H25B,258524,L2J,,,2023-11-30,2001-01-01
+ac09f1,N875LP,Hawker Beechcraft,Hawker 800XP,H25B,258308,L2J,,,2022-11-30,1996-01-01
+ac120c,N877TM,Hawker Beechcraft,Hawker 800XP,H25B,258542,L2J,,,,
+ac13c7,N8778,Hawker Beechcraft,Hawker 800XP,H25B,258560,L2J,,,2022-01-31,2001-01-01
+ac1523,N878MB,Hawker Beechcraft,Hawker 800XP,H25B,258603,L2J,,,2023-01-31,2002-01-01
+ac1ddb,N880AF,Hawker Beechcraft,Hawker 800XP,H25B,258279,L2J,,,2023-04-30,1995-01-01
+ac1ee1,N880LT,Hawker Beechcraft,Hawker 1000,H25C,259051,L2J,,,2022-09-30,1996-01-01
+ac1f53,N880RG,British Aerospace,BAe 125-700B,H25B,257107,L2J,,,,
+ac1f8a,N880TM,Hawker Beechcraft,Hawker 800XP,H25B,258528,L2J,,,,
+ac2012,N880YY,Hawker Beechcraft,Hawker 800XP,H25B,258546,L2J,,,,
+ac2192,N881AF,Hawker Beechcraft,Hawker 800XP,H25B,258289,L2J,,,2023-11-30,1996-01-01
+ac2e20,N884QS,Hawker Beechcraft,Hawker 800XP,H25B,258734,L2J,EJA,,,
+ac3221,N885TR,Hawker Beechcraft,Hawker 800XP,H25B,258564,L2J,,,2021-10-31,2001-01-01
+ac3c2c,N888GJ,British Aerospace,BAe 125-1000,H25C,259042,L2J,COO,,,
+ac3d98,N888WY,Hawker Beechcraft,Hawker 850XP,H25B,258921,L2J,,,2023-08-31,2008-01-01
+ac3de4,N888ZZ,British Aerospace,BAe 125-800A,H25B,258017,L2J,COO,,,
+ac3e11,N8881J,British Aerospace,BAe 125-800A,H25B,258219,L2J,,,2024-02-29,1992-01-01
+ac3f05,N8888H,Hawker Beechcraft,Hawker 1000,H25C,259043,L2J,,,2024-02-29,1994-01-01
+ac44f0,N89WA,Hawker Beechcraft,Hawker 800XP,H25B,258420,L2J,,,2024-06-30,1999-01-01
+ac4709,N890TM,Hawker Beechcraft,Hawker 800XP,H25B,258545,L2J,,,,
+ac4a7a,N891QS,Hawker Beechcraft,Hawker 800XP,H25B,258788,L2J,EJA,,,
+ac599c,N895TM,Hawker Beechcraft,Hawker 800XP,H25B,258416,L2J,,,,
+ac5d0d,N896QS,Hawker Beechcraft,Hawker 800XP,H25B,258640,L2J,EJA,,,
+ac5f55,N897A,Hawker Beechcraft,Hawker 800XP,H25B,258326,L2J,,,2023-06-30,1997-01-01
+ac5f9c,N897CW,British Aerospace,BAe 125-800A,H25B,258077,L2J,,,,
+ac635b,N898DD,Hawker Beechcraft,Hawker 800XP,H25B,258704,L2J,,,,
+ac6878,N899TM,Hawker Beechcraft,Hawker 800XP,H25B,258452,L2J,,,,
+ac6d52,N90FB,Hawker Beechcraft,Hawker 800XP,H25B,258613,L2J,,,2022-06-30,2003-01-01
+ac6ed5,N90WP,Hawker Beechcraft,Hawker 800XP,H25B,258692,L2J,,,2023-12-31,2004-01-01
+ac7131,N900WS,Hawker Beechcraft,Hawker 850XP,H25B,258893,L2J,,,2022-01-31,2007-01-01
+ac7476,N901SC,Hawker Beechcraft,Hawker 800XP,H25B,258561,L2J,,,2023-05-31,2001-01-01
+ac7e36,N904BW,British Aerospace,BAe 125-800A,H25B,258042,L2J,,,2022-07-31,
 ac7e74,N904EH,British Aerospace,BAe-3101 Jetstream 31,JS31,613,L2T,,,2022-02-28,1983-01-01
+ac7eae,N904GR,British Aerospace,BAe 125-800A,H25B,258179,L2J,,,,
+ac7ee0,N904JR,British Aerospace,BAe 125-800A,H25B,258018,L2J,,,,
+ac8587,N906AS,Hawker Beechcraft,Hawker 800XP,H25B,258569,L2J,,,2023-01-31,2002-01-01
+ac859a,N906BL,Hawker Beechcraft,Hawker 850XP,H25B,258806,L2J,,,2022-01-31,
+ac8a43,N907MC,Hawker Beechcraft,Hawker 800XP,H25B,258340,L2J,,,,
+ac95a8,N91PS,Hawker Beechcraft,Hawker 800XP,H25B,258328,L2J,,,2022-03-31,1996-01-01
+ac96e3,N910CF,Hawker Beechcraft,Hawker 800,H25B,258267,L2J,,,2024-04-30,
+ac979d,N910KS,Hawker Siddeley,HS 125-700A,H25B,NA0328,L2J,,,2021-12-31,1982-01-01
 aca1d5,N913AE,British Aerospace,BAe-3201 Jetstream 32,JS32,913,L2T,,,2023-12-31,1990-01-01
+aca363,N913SC,British Aerospace,BAe 125-800A,H25B,NA0418,L2J,,,2023-10-31,
+aca94c,N915AP,Hawker Beechcraft,Hawker 800XP,H25B,258574,L2J,,,2022-01-31,2002-01-01
+acbda1,N92UP,Hawker Beechcraft,Hawker 800XP,H25B,258309,L2J,,,2022-11-30,1997-01-01
+acca27,N923JR,Hawker Beechcraft,Hawker 800XP,H25B,258666,L2J,BSM,,2024-08-31,2004-01-01
+acd1de,N925MP,Hawker Beechcraft,Hawker 800XP,H25B,258457,L2J,,,2022-07-31,2000-01-01
+acd58a,N926MC,British Aerospace,BAe 125-700A,H25B,257021,L2J,,,,
+acd930,N927LL,British Aerospace,BAe 125-700A,H25B,257135,L2J,,,,
+ace24d,N9292X,Hawker Beechcraft,Hawker 800XP,H25B,258315,L2J,,,,
+ace700,N930PT,Hawker Beechcraft,Hawker 800XP,H25B,258404,L2J,,,2023-11-30,
+acf600,N934RD,Hawker Beechcraft,Hawker 800XP,H25B,258296,L2J,,,2022-04-30,1996-01-01
+acf8eb,N935H,British Aerospace,BAe 125-800A,H25B,258225,L2J,COO,,,
+ad08d3,N939TT,British Aerospace,BAe 125-800A,H25B,258205,L2J,,,,
+ad1884,N943CE,British Aerospace,BAe 125-700A,H25B,257141,L2J,,,,
+ad1c1f,N944BB,Hawker Beechcraft,Hawker 800XP,H25B,258611,L2J,,,2024-03-31,2003-01-01
+ad1cf5,N944KR,Hawker Beechcraft,Hawker 800XP,H25B,258688,L2J,,,2023-03-31,2004-01-01
+ad1daf,N944TB,Hawker Siddeley,HS 125-700A,H25B,257177,L2J,,,2024-03-31,
+ad2ece,N949CE,British Aerospace,BAe 125-700A,H25B,257204,L2J,,,,
+ad2f60,N949JA,Hawker Beechcraft,Hawker 800XP,H25B,258362,L2J,,,2021-11-30,1998-01-01
+ad341e,N95UP,Hawker Beechcraft,Hawker 800XP,H25B,258639,L2J,,,2024-05-31,
+ad3500,N950DP,British Aerospace,C-29A,H25B,258154,L2J,,,,
+ad35ef,N950PC,Hawker Beechcraft,Hawker 800XP,H25B,258300,L2J,,,2022-10-31,1996-01-01
+ad38b7,N951DP,Hawker Beechcraft,Hawker 800XP,H25B,258338,L2J,,,,
+ad3c6e,N952DP,British Aerospace,BAe 125-800A,H25B,258135,L2J,,,,
+ad4025,N953DP,British Aerospace,BAe 125-800A,H25B,258134,L2J,,,,
+ad4432,N954H,Hawker Beechcraft,Hawker 800,H25B,258259,L2J,,,2022-02-28,1994-01-01
+ad4793,N955DP,British Aerospace,BAe 125-800A,H25B,258117,L2J,,,,
+ad4c69,N956RA,British Aerospace,BAe 125-800A,H25B,258129,L2J,SCM,,,
+ad4f57,N957H,British Aerospace,BAe 125-800,H25B,258260,L2J,,,,
+ad5dd2,N960TC,Hawker Beechcraft,Hawker 800XP,H25B,258297,L2J,,,,
 ad6399,N962AE,British Aerospace,BAe-3201 Jetstream 32,JS32,962,L2T,,,2024-01-31,1992-01-01
+ad6966,N963XP,Hawker Beechcraft,Hawker 850XP,H25B,258963,L2J,,,2024-01-31,2008-01-01
+ad73f0,N966RJ,British Aerospace,BAe 125-700A,H25B,257129,L2J,,,,
+ad8238,N97KL,Hawker Beechcraft,Hawker 850XP,H25B,258876,L2J,,,2022-08-31,2007-01-01
+ad8367,N97XP,Hawker Beechcraft,Hawker 800XP,H25B,258310,L2J,,,2022-07-31,1996-01-01
+ad8d07,N972W,British Aerospace,BAe 125-700A,H25B,257111,L2J,,,,
+ad9b82,N976SC,British Aerospace,BAe 125-800A,H25B,NA0435,L2J,,,2023-03-31,1989-01-01
+ad9dba,N977AV,Hawker Beechcraft,Hawker 800XP,H25B,258559,L2J,,,2021-12-31,2001-01-01
+ad9ea3,N977LC,Hawker Beechcraft,Hawker 850XP,H25B,258977,L2J,,,2022-07-31,2008-01-01
+adaf12,N981CE,Hawker Beechcraft,Hawker 800XP,H25B,258563,L2J,,,2023-09-30,2002-01-01
+adb38f,N982LC,British Aerospace,BAe 125-1000A,H25C,259005,L2J,,,,
+adb680,N983CE,Hawker Beechcraft,Hawker 800XP,H25B,258446,L2J,,,,
+adbdee,N985CE,Hawker Beechcraft,Hawker 800XP,H25B,258490,L2J,,,2023-01-31,2000-01-01
+adc4bb,N9867,Hawker Beechcraft,Hawker 800XP,H25B,258678,L2J,,,,
+adc55c,N987CE,Hawker Beechcraft,Hawker 800XP,H25B,258557,L2J,,,2023-01-31,2001-01-01
+adca64,N988RS,Hawker Beechcraft,Hawker 800XP,H25B,258598,L2J,,,2024-08-31,2002-01-01
+adce35,N989ST,Hawker Beechcraft,Hawker 800XP,H25B,258478,L2J,,,2024-03-31,2000-01-01
+add058,N99AP,Hawker Beechcraft,Hawker 800XP,H25B,258423,L2J,,,,
+add355,N990HC,Hawker Beechcraft,Hawker 800XP,H25B,258412,L2J,,,2022-01-31,1999-01-01
+addf61,N993SJ,Hawker Beechcraft,Hawker 800XP,H25B,258377,L2J,,,,
+c004be,C-FBUR,British Aerospace,BAe 125-800A,H25B,258232,L2J,,2003-11-03,,
 c006d2,C-FCPD,British Aerospace,BAe-3112 Jetstream 31,JS31,822,L2T,,2002-03-29,,
 c006d3,C-FCPE,British Aerospace,BAe-3112 Jetstream 31,JS31,825,L2T,PLR,1995-01-17,,
+c00843,C-FDDI,British Aerospace,BAe 125-800A,H25B,258038,L2J,,,,
 c00e05,C-FFIA,British Aerospace,BAe-3112 Jetstream 31,JS31,779,L2T,BXH,2012-08-15,,
+c016c6,C-FIQF,British Aerospace,BAe 125-800A,H25B,258181,L2J,,2013-04-05,2018-10-11,
 c02255,C-FNAA,British Aerospace,BAe-3212 Jetstream 32,JS32,929,L2T,PLR,2013-05-08,,
 c02259,C-FNAE,British Aerospace,BAe-3212 Jetstream 32,JS32,881,L2T,PLR,2005-12-21,,
 c0225a,C-FNAF,British Aerospace,BAe-3112 Jetstream 31,JS31,789,L2T,PLR,2002-11-14,,
@@ -332,28 +1168,60 @@ c0226e,C-FNAZ,British Aerospace,BAe-3212 Jetstream 32,JS32,843,L2T,PLR,2008-12-1
 c02973,C-FPSC,British Aerospace,BAe-3212 Jetstream 32,JS32,930,L2T,,2017-01-23,,
 c02979,C-FPSI,British Aerospace,BAe-3212 Jetstream 32,JS32,963,L2T,,2017-01-23,,
 c02d5d,C-FREQ,British Aerospace,BAe-3101 Jetstream 31,JS31,733,L2T,HRT,,,
+c03d67,C-FXGO,British Aerospace,BAe 125-800A,H25B,258166,L2J,,,,
 c0443f,C-FZVY,British Aerospace,BAe-3212 Jetstream 32,JS32,833,L2T,PSC,2012-03-16,2017-01-29,
 c04a32,C-GCCN,British Aerospace,BAe-3112 Jetstream 31,JS31,704,L2T,,2017-02-03,,
+c04a9f,C-GCGS,British Aerospace,BAe 125-800A,H25B,258123,L2J,,2011-11-02,,
+c04aa0,C-GCGT,Hawker Beechcraft,Hawker 850XP,H25B,258828,L2J,,2007-06-05,,
+c04ad8,C-GCIX,Hawker Beechcraft,Hawker 800XP,H25B,258492,L2J,,2016-03-01,,
+c04cb1,C-GDBC,British Aerospace,BAe 125-800A,H25B,258193,L2J,,2014-10-16,,
 c04d2d,C-GDFW,British Aerospace,BAe-3112 Jetstream 31,JS31,720,L2T,,2017-02-14,,
 c05551,C-GGIA,British Aerospace,BAe-3112 Jetstream 31,JS31,778,L2T,,2017-10-11,,
 c057cb,C-GHGK,British Aerospace,BAe-3112 Jetstream 31,JS31,786,L2T,,2004-02-04,,
+c05d7b,C-GJKK,Hawker Beechcraft,Hawker 800XP,H25B,258605,L2J,,2018-02-28,,
+c060a6,C-GKPP,Hawker Beechcraft,Hawker 800XP,H25B,258572,L2J,,2011-07-07,,
 c06704,C-GNAH,British Aerospace,BAe-3212 Jetstream 32,JS32,874,L2T,PLR,2013-07-31,,
 c0670d,C-GNAQ,British Aerospace,BAe-3212 Jetstream 32,JS32,837,L2T,PLR,2008-12-10,,
 c067a1,C-GNGI,British Aerospace,BAe-3101 Jetstream 31,JS31,739,L2T,,,,
+c06a60,C-GOHJ,Hawker Siddeley,HS 125-700A,H25B,257049,L2J,,2007-03-27,,
 c06ddd,C-GPPS,British Aerospace,BAe-3212 Jetstream 32,JS32,961,L2T,,2018-04-03,,
 c06e23,C-GPSK,British Aerospace,BAe-3212 Jetstream 32,JS32,958,L2T,,2017-01-23,,
 c072f2,C-GRNT,British Aerospace,BAe 146-200,B462,E2140,L4J,,2015-07-27,,
+c075d3,C-GSQC,Hawker Siddeley,HS 125-700A,H25B,NA 0327,L2J,,2018-03-06,,
+c07852,C-GTOR,Hawker Siddeley,HS 125-700A,H25B,NA 0221,L2J,,2008-07-23,,
+c078e2,C-GTUF,Hawker Beechcraft,Hawker 850XP,H25B,258796,L2J,HRT,2015-02-03,,
 c07f40,C-GWEX,British Aerospace,BAe-3112 Jetstream 31,JS31,796,L2T,,2016-10-28,2017-04-17,
+c082f1,C-GXPG,Hawker Beechcraft,Hawker 800XP,H25B,258444,L2J,,2018-01-04,,
 c812e0,ZK-JSH,British Aerospace,BAe-3102 Jetstream 31,JS31,838,L2T,,,,
 c81403,ZK-ECI,British Aerospace,BAe-3201 Jetstream 32EP,JS32,946,L2T,,,,
 c81415,ZK-ECJ,British Aerospace,BAe-3201 Jetstream 32EP,JS32,969,L2T,,,,
 c81fcc,ZK-LFW,British Aerospace,BAe-3202 Jetstream 32,JS32,976,L2T,,,,
 c823d0,ZK-LFT,British Aerospace,BAe-3202 Jetstream 32,JS32,977,L2T,,,,
+e02087,LV-BBG,Hawker Beechcraft,Hawker 800XP,H25B,258707,L2J,,,,
+e03287,LV-CJG,Hawker Beechcraft,Hawker 800XP,H25B,258411,L2J,,,,
+e06417,LV-FPW,Hawker Beechcraft,Hawker 800XP,H25B,258466,L2J,,,,
 e1a3d7,LV-ZOW,British Aerospace,BAe-3201 Jetstream 32EP,JS32,869,L2T,,,,
 e1a417,LV-ZPW,British Aerospace,BAe-3201 Jetstream 32EP,JS32,861,L2T,AVA,,,
 e1a41a,LV-ZPZ,British Aerospace,BAe-3201 Jetstream 32EP,JS32,931,L2T,AVA,,,
 e1a48c,LV-ZRL,British Aerospace,BAe-3201 Jetstream 32EP,JS32,928,L2T,AVA,,,
 e1a4c2,LV-ZSB,British Aerospace,BAe-3201 Jetstream 32EP,JS32,942,L2T,AVA,,,
+e1a512,LV-ZTR,Hawker Beechcraft,Hawker 800XP,H25B,258462,L2J,,,,
+e40086,6050,Raytheon,Hawker IU-93A,H25B,258401,L2J,BRS,,,
+e40087,6051,Raytheon,Hawker IU-93A,H25B,258421,L2J,BRS,,,
+e40088,6052,Raytheon,Hawker IU-93A,H25B,258434,L2J,BRS,,,
+e47e77,PT-LQP,British Aerospace,BAe 125-800B,H25B,258116,L2J,,,,
+e47ee6,PT-OSW,British Aerospace,BAe 125-800B,H25B,258184,L2J,,,,
+e47f07,PR-DBB,Hawker Beechcraft,Hawker 800XP,H25B,258284,L2J,,,,
+e47f17,PR-LUG,Hawker Beechcraft,Hawker 800XP,H25B,258553,L2J,,,,
+e47f29,PT-JAA,British Aerospace,BAe 125-800B,H25B,258190,L2J,,,,
+e47f2b,PR-LTA,British Aerospace,BAe 125-800B,H25B,258025,L2J,,,,
+e47f63,PT-GAF,British Aerospace,BAe 125-800,H25B,258261,L2J,,,,
+e47f65,PT-WAL,British Aerospace,BAe 125-800B,H25B,258198,L2J,,,,
+e48656,PR-HFW,British Aerospace,BAe 125-800A,H25B,258226,L2J,,,,
+e4869f,PR-FNE,Hawker Beechcraft,Hawker 850XP,H25B,258762,L2J,,,,
+e4882e,PT-FPM,Hawker Beechcraft,Hawker 850XP,H25B,258826,L2J,,,,
+e48ab7,PR-WSW,British Aerospace,BAe 125-800A,H25B,258084,L2J,,,,
+e48d00,PP-JFZ,Hawker Beechcraft,Hawker 850XP,H25B,258844,L2J,,,,
 e803c1,CC-CZP,British Aerospace,BAe 146-200,B462,E2042,L4J,DAP,,,
 e803c2,CC-ACO,British Aerospace,BAe 146-200,B462,E2094,L4J,DAP,,,
 e8c016,OB-1943-P,British Aerospace,BAe 146-200,B462,E2133,L4J,,,,
@@ -362,4 +1230,5 @@ e8c02f,OB-1923-P,British Aerospace,BAe 146-300,B463,E3185,L4J,,,,
 e8c030,OB-1914-P,British Aerospace,BAe 146-300,B463,E3181,L4J,,,,
 e8c035,OB-1930-P,British Aerospace,BAe 146-200,B462,E2201,L4J,,,,
 e8c044,OB-2014-T,British Aerospace,BAe 146-200,B462,E2058,L4J,,,,
+e909fb,CX-CIB,British Aerospace,BAe 125-700A,H25B,257071,L2J,,,,
 e94104,FAB-105,British Aerospace,BAe 146-200,B462,E2022,L4J,,,,

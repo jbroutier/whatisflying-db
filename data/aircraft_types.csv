@@ -1,4 +1,4 @@
-icao_code,iata_code,manufacturer,name,description,wtc,service_ceiling,absolute_ceiling,rate_of_climb,approach_speed,cruise_speed,maximum_speed,never_exceed_speed,fuselage_height,fuselage_width,height,length,wing_area,wingspan,main_rotor_area,main_rotor_diameter,fuel_capacity,operating_range,ferry_range,oew,auw,mlw,mrw,mtow,mzfw,type_certificate
+icao_code,iata_code,manufacturer,name,description,wtc,service_ceiling,absolute_ceiling,climb_rate,approach_speed,cruise_speed,maximum_speed,never_exceed_speed,fuselage_height,fuselage_width,height,length,wing_area,wingspan,main_rotor_area,main_rotor_diameter,fuel_capacity,operating_range,ferry_range,oew,auw,mlw,mrw,mtow,mzfw,type_certificate
 A002,,Irkut,A-002,G1P,L,9800,,980,,97,110,,,,3.20,4.98,,,83.32,10.30,150,330,,420,,,,750,,
 A1,,Douglas,A-1 Skyraider,L1P,M,28500,,2850,,172,280,,,,4.78,11.84,37.19,15.25,,,1400,1144,,5429,8213,,,,,
 A10,,Fairchild,A-10 Thunderbolt II,L2J,M,13700,,6000,,300,381,450,,,4.47,16.26,47.00,17.53,,,3992,250,2240,11321,13782,,,22700,,

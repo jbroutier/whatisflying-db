@@ -131,7 +131,7 @@ AMB,,DRF - Deutsche Luftrettung,DE,CIVIL AIR AMBULANCE,1,0,0,0,14.61,17,0,0,,,
 AMC,KM,Air Malta,MT,AIR MALTA,1,1,1,1,1.33,0,0,0,31,0,12310
 AME,,Spanish Air Force,ES,AIRMIL,1,0,0,0,14.13,258,0,0,,,
 AMF,,Ameriflight,US,AMFLIGHT,1,0,0,0,35.95,128,1,0,,,
-AMI,,"Air America, Inc",PR,AIRMEK,1,0,0,0,46.00,2,0,0,,,
+AMI,L6,Air Maldives,MV,AIR MALDIVES,0,1,0,0,,,,,,,
 AMJ,,Amjet Executive,GR,AMJET EXEC,1,0,0,0,20.00,0,0,0,,,
 AMP,4A,ATSA - Aero Transporte,PE,ATSA,1,0,0,0,30.47,14,0,0,,,
 AMQ,,AMC Aviation Sp ZOO,PL,AMEX,1,0,0,0,12.36,1,0,0,,,

@@ -2,7 +2,7 @@ icao_code,iata_code,name,country,callsign,active,international,iata_member,iosa_
 AAB,,Luxaviation Belgium,BE,ABG,1,0,0,0,8.22,0,0,0,,,
 AAC,,Army Air Corps,GB,ARMYAIR,1,0,0,0,19.38,25,0,0,,,
 AAD,,Arrendamientos Aereos,PA,PANABEAR,1,0,0,0,7.00,0,0,0,,,
-AAF,ZI,Aigle Azur,FR,AIGLE AZUR,0,0,0,0,,,,,,,
+AAF,ZI,Aigle Azur,FR,AIGLE AZUR,0,1,0,0,,,,,,,
 AAH,,Aloha Air Cargo,US,ALOHA,1,0,0,0,24.50,3,1,0,7,15053,0
 AAJ,,Alfa Airlines,SD,ALFA SUDAN,1,0,0,0,47.00,1,0,0,,,
 AAL,AA,American Airlines,US,AMERICAN,1,1,1,1,10.88,0,24,0,295,921489,213447

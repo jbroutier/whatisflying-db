@@ -433,7 +433,7 @@ icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,d
 49d038,OK-AER,Cirrus,SR20,SR20,1666,L1P,,,,
 49d046,OK-SWG,Cirrus,SR20,SR20,1193,L1P,,,,
 49d058,OK-FAC,Cirrus,SR22,SR22,2160,L1P,,,,
-49d067,OK-TTP,Cirrus,SR22,SR22,3698,L1P,APH,,,
+49d067,OK-TTP,Cirrus,SR22,SR22,3698,L1P,,,,
 49d075,OK-MIR,Cirrus,SR22,SR22,2486,L1P,,,,
 49d079,OK-IBA,Cirrus,SR22,SR22,4038,L1P,,,,
 49d07f,OK-TWI,Cirrus,SR20,SR20,1462,L1P,,,,

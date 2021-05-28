@@ -8,10 +8,10 @@ This repository contains the database for [https://whatisflying.com](https://wha
 
 ## Statistics
 
-- 225,900 aircraft, 11,400 with a picture.
+- 227,900 aircraft, 11,600 with a picture.
 - 750 aircraft types, 660 with a picture.
 - 190 aircraft models.
-- 2,000 airlines, 800 with a picture, 300 with a logo.
+- 2,000 airlines, 830 with a picture, 300 with a logo.
 - 10,000 airports.
 - 8,600 airport runways.
 - 18,700 airport radio frequencies.

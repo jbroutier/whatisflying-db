@@ -2,7 +2,7 @@ icao_code,iata_code,name,country,callsign,active,international,iata_member,iosa_
 AAB,,Luxaviation Belgium,BE,ABG,1,0,0,0,8.22,0,0,0,,,
 AAC,,Army Air Corps,GB,ARMYAIR,1,0,0,0,19.38,25,0,0,,,
 AAD,,Arrendamientos Aereos,PA,PANABEAR,1,0,0,0,7.00,0,0,0,,,
-AAF,ZI,Aigle Azur,FR,AIGLE AZUR,0,0,0,0,,,,,,,
+AAF,ZI,Aigle Azur,FR,AIGLE AZUR,0,1,0,0,,,,,,,
 AAH,,Aloha Air Cargo,US,ALOHA,1,0,0,0,24.50,3,1,0,7,15053,0
 AAJ,,Alfa Airlines,SD,ALFA SUDAN,1,0,0,0,47.00,1,0,0,,,
 AAL,AA,American Airlines,US,AMERICAN,1,1,1,1,10.88,0,24,0,295,921489,213447
@@ -131,7 +131,7 @@ AMB,,DRF - Deutsche Luftrettung,DE,CIVIL AIR AMBULANCE,1,0,0,0,14.61,17,0,0,,,
 AMC,KM,Air Malta,MT,AIR MALTA,1,1,1,1,1.33,0,0,0,31,0,12310
 AME,,Spanish Air Force,ES,AIRMIL,1,0,0,0,14.13,258,0,0,,,
 AMF,,Ameriflight,US,AMFLIGHT,1,0,0,0,35.95,128,1,0,,,
-AMI,,"Air America, Inc",PR,AIRMEK,1,0,0,0,46.00,2,0,0,,,
+AMI,L6,Air Maldives,MV,AIR MALDIVES,0,1,0,0,,,,,,,
 AMJ,,Amjet Executive,GR,AMJET EXEC,1,0,0,0,20.00,0,0,0,,,
 AMP,4A,ATSA - Aero Transporte,PE,ATSA,1,0,0,0,30.47,14,0,0,,,
 AMQ,,AMC Aviation Sp ZOO,PL,AMEX,1,0,0,0,12.36,1,0,0,,,
@@ -1000,7 +1000,7 @@ IRO,,CSA Air,US,IRON AIR,1,0,0,0,29.40,23,0,0,,,
 IRZ,,SAHA Airlines,IR,SAHA,1,0,0,0,23.00,0,0,0,,,
 ISM,,AIST M Airclub,RU,STORK,1,0,0,0,31.00,1,0,0,,,
 ISR,6H,Israir,IL,ISRAIR,1,1,1,1,8.40,0,0,0,59,4603,3506
-ISS,IG,Air Italy,IT,AIR ITALY,1,0,1,0,,,,,,,
+ISS,IG,Air Italy,IT,AIR ITALY,1,1,1,0,,,,,,,
 ISV,,Avianca Honduras,HN,,1,1,0,1,54.00,1,0,0,2,0,1
 ITL,,Italfly Srl,IT,ITALFLY,1,0,0,0,8.43,0,0,0,,,
 ITW,,Inter Air,BG,,1,0,0,0,30.00,1,0,0,,,

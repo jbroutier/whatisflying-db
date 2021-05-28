@@ -1,5 +1,21 @@
 # Changelog for version 2.x
 
+## Version 2.0.31
+
+- Add 15 Airbus aircraft.
+- Add 34 Boeing aircraft.
+- Add 2005 Cessna aircraft.
+- Add 21 Embraer aircraft.
+- Add 182 aircraft pictures.
+- Add 29 airlines pictures.
+- Fix aircraft `39adae` description.
+- Fix Cessna 320C serial numbers.
+- Add Air Maldives (AMI/L6) airline.
+- Mark Aigle Azur (AAF/ZI) airline as international.
+- Mark Air Italy (ISS/IG) airline as international.
+- Remove erroneous flights.
+- Remove erroneous airline codes from aircraft.
+
 ## Version 2.0.30
 
 - Add 12 Airbus aircraft.

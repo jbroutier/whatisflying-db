@@ -402,36 +402,36 @@ E110,EMB,Embraer,EMB-110 Bandeirante,L2T,L,21490,,1640,92,222,,,,,4.92,15.10,29.
 E120,EM2,Embraer,EMB-120 Brasilia,L2T,M,,,,113,298,328,,,,6.35,20.00,39.40,19.78,,,,940,,7070,,11250,,11500,,
 E121,,Embraer,EMB-121 Xingu,L2T,L,28000,,1800,99,205,252,,,,4.84,12.25,27.50,14.05,,,1635,660,,3710,,,,5670,,
 E135,ERD,Embraer,ERJ-135,L2J,M,37000,,,124,450,,,,,6.76,26.33,51.18,20.04,,,5624,1750,,11501,,,,20000,,
-E145,ER4,Embraer,ERJ-145,L2J,M,37000,,,124,461,,,,,6.76,29.87,51.18,20.04,,,7466,2000,,12591,,,,24100,,
+E145,ER4,Embraer,ERJ-145,L2J,M,37000,,,124,461,,,,,6.76,29.87,51.18,20.04,,,,,,,,,,,,
 E170,E70,Embraer,E170,L2J,M,41000,,,124,430,470,,,,9.85,29.90,72.72,26.00,,,11670,2150,,21141,,,,38600,,
 E190,E90,Embraer,E190,L2J,M,41000,,,124,447,470,,,,10.57,36.24,92.53,28.72,,,16210,2450,,27837,,,,51800,,
 E195,E95,Embraer,E195,L2J,M,41000,,,,447,470,,,,10.55,38.65,92.53,28.72,,,16210,2300,,28667,,,,52290,,
-E2,,Grumman,E-2 Hawkeye,L2T,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E290,290,Embraer,E190-E2,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E295,295,Embraer,E195-E2,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E314,,Embraer,EMB-314 Super Tucano,L1T,L,,,,104,,,,,,,,,,,,,,,,,,,,,
+E2,,Grumman,E-2 Hawkeye,L2T,M,34700,,,,256,350,,,,5.58,17.60,65.00,24.56,,,,,1462,18234,19535,,,26082,,
+E290,290,Embraer,E190-E2,L2J,M,41000,,,,450,,,,,10.95,36.24,103.00,35.12,,,16875,2850,,33000,,,,56400,,
+E295,295,Embraer,E195-E2,L2J,M,41000,,,,450,,,,,10.90,41.50,103.00,35.12,,,17113,2655,,35700,,,,61500,,
+E314,,Embraer,EMB-314 Super Tucano,L1T,L,35000,,3230,104,280,320,,,,3.97,11.38,19.40,11.14,,,,300,1542,3200,,,,5400,,
 E350,,Cessna,E350,L1T,L,,,,,,,,,,,,,,,,,,,,,,,,,
-E35L,ER3,Embraer,EMB-135BJ Legacy 600,L2J,M,,,,124,,,,,,,,,,,,,,,,,,,,,
+E35L,ER3,Embraer,EMB-135BJ Legacy 600,L2J,M,41000,,,124,448,459,,,,6.76,26.33,,21.17,,,10303,3400,,13645,,,,22500,,
 E3CF,,Boeing,E-3 Sentry (CFM56 engines),L4J,H,,,,,,,,,,,,,,,,,,,,,,,,,
-E3TF,,Boeing,E-3 Sentry (TF33 engines),L4J,H,,,,,,,,,,,,,,,,,,,,,,,,,
-E45X,,Embraer,ERJ-145XR,L2J,M,,,,124,,,,,,,,,,,,,,,,,,,,,
-E50P,EP1,Embraer,EMB-500 Phenom 100,L2J,L,,,,100,,,,,,,,,,,,,,,,,,,,,
+E3TF,,Boeing,E-3 Sentry (TF33 engines),L4J,H,29000,,,,310,461,,,,12.60,46.61,283.00,44.42,,,,4000,,83915,156036,,,157397,,
+E45X,,Embraer,ERJ-145XR,L2J,M,37000,,,124,461,,,,,6.76,29.87,51.18,20.04,,,7466,2000,,12591,,,,24100,,
+E50P,EP1,Embraer,EMB-500 Phenom 100,L2J,L,41000,,,100,400,,,,,4.35,12.82,,12.30,,,1590,1178,,3275,,,,4800,,
 E530,,Cessna,E530,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E545,,Embraer,EMB-545 Legacy 450,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E550,,Embraer,EMB-550 Legacy 500,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E55P,EP3,Embraer,EMB-505 Phenom 300,L2J,M,,,,116,,,,,,,,,,,,,,,,,,,,,
-E6,,Boeing,E-6 Mercury,L4J,H,,,,,,,,,,,,,,,,,,,,,,,,,
-E737,,Boeing,E-7A Wedgetail,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E75L,E7W,Embraer,E175 (Long wings),L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E75S,E7W,Embraer,E175 (Short wings),L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
-E767,,Boeing,E-767,L2J,H,,,,,,,,,,,,,,,,,,,,,,,,,
-EC20,,Airbus Helicopters,H120 Colibri,H1T,L,,,,,,,,3.40,1.50,,,,,,,,,,,,,,1715,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar508
-EC25,,Airbus Helicopters,H225,H2T,M,,,,,,,,4.97,3.96,,,,,,,,,,,,,,11000,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar002
-EC30,,Airbus Helicopters,H130,H1T,L,,,,,,,,3.61,2.03,,,,,,,,,,,,,,2500,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar008
-EC35,,Airbus Helicopters,H135,H2T,L,,,,,,,,3.35,1.56,,,,,,,,,,,,,,2980,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar009
-EC45,,Airbus Helicopters,H145,H2T,L,,,,,,,,3.45,1.85,,,,,,,,,,,,,,3800,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar010
-EC55,,Airbus Helicopters,H155,H2T,L,,,,,,,,4.35,3.48,,,,,,,,,,,,,,4920,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar105
-EC75,,Airbus Helicopters,H175,H2T,L,,,,,,,,4.84,3.35,,,,,,,,,,,,,,7800,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar150
+E545,,Embraer,EMB-545 Legacy 450,L2J,M,45000,,,,462,476,,,,6.43,19.69,44.85,19.25,,,6203,2900,,10425,,,,16220,,
+E550,,Embraer,EMB-550 Legacy 500,L2J,M,45000,,,,466,476,,,,6.44,20.74,44.85,19.25,,,7400,3125,,10750,,,,17400,,
+E55P,EP3,Embraer,EMB-505 Phenom 300,L2J,M,45000,,,116,,450,,,,5.00,15.90,,16.20,,,3035,2010,,,,,,8150,,
+E6,,Boeing,E-6 Mercury,L4J,H,40000,,,,455,530,,,,12.93,46.61,26.33,45.16,,,,6600,,79378,,,,155129,,
+E737,,Boeing,E-7A Wedgetail,L2J,M,41000,,,,460,,,,,12.50,33.60,91.00,35.80,,,,3500,,46606,,,,77600,,
+E75L,E7W,Embraer,E175 (Long wings),L2J,M,41000,,,,430,470,,,,9.86,31.68,,28.65,,,11675,2200,,21890,,,,40370,,
+E75S,E7W,Embraer,E175 (Short wings),L2J,M,41000,,,,430,470,,,,9.86,31.68,72.72,26.00,,,11675,2200,,21890,,,,40370,,
+E767,,Boeing,E-767,L2J,H,40100,,,,460,493,,,,15.80,48.50,,47.60,,,,5600,,85595,128870,,,175000,,
+EC20,,Airbus Helicopters,H120 Colibri,H1T,L,16990,,1200,,122,,150,,1.50,3.40,11.52,,,78.54,10.00,416,393,,960,,,,1715,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar508
+EC25,,Airbus Helicopters,H225,H2T,M,19400,,1710,,140,149,175,,3.96,4.97,19.50,,,206.15,16.20,,463,,5256,11000,,,11200,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar002
+EC30,,Airbus Helicopters,H130,H1T,L,23000,,1800,,130,,155,,2.03,3.34,10.68,,,89.75,10.69,540,330,,1377,,,,2500,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar008
+EC35,,Airbus Helicopters,H135,H2T,L,20000,,1500,,137,,155,,1.56,3.51,10.20,,,81.70,10.20,,343,,1455,,,,2980,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar009
+EC45,,Airbus Helicopters,H145,H2T,L,17190,,1590,,133,,145,,1.85,3.45,13.03,,,95.00,11.00,900,370,462,1792,3585,,,3800,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar010
+EC55,,Airbus Helicopters,H155,H2T,L,,,,,,,,,3.48,,,,,,,,,,,,,,4920,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar105
+EC75,,Airbus Helicopters,H175,H2T,L,,,,,,,,,3.35,,,,,,,,,,,,,,7800,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar150
 EFAN,,Airbus,E-Fan,L2E,L,,,,,,,,,,,,,,,,,,,,,,,,,
 EH10,,AgustaWestland,AW101 Merlin,H3T,M,,,,,,,,,,,,,,,,,,,,,,,,,
 ERCO,,ERCO,Ercoupe,L1P,L,,,,55,,,,,,,,,,,,,,,,,,,,,

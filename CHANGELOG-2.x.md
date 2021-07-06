@@ -1,5 +1,9 @@
 # Changelog for version 2.x
 
+## Version 2.0.32
+
+- Remove duplicate aircraft `4b169c` (#149).
+
 ## Version 2.0.31
 
 - Add 15 Airbus aircraft.

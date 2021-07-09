@@ -1,0 +1,32 @@
+name: CI
+on: [ push, pull_request ]
+
+jobs:
+  validation:
+    name: Data validation
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Configure Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: '16.4'
+
+      - name: Cache Node modules
+        id: node-cache
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+
+      - name: Install dependencies
+        if: steps.node-cache.outputs.cache-hit != 'true'
+        run: npm install
+
+      - name: Validate CSV files
+        run: npm run validate

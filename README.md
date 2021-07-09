@@ -8,7 +8,7 @@ This repository contains the database for [https://whatisflying.com](https://wha
 
 ## Statistics
 
-- 227,900 aircraft, 11,600 with a picture.
+- 228,600 aircraft, 11,600 with a picture.
 - 750 aircraft types, 660 with a picture.
 - 190 aircraft models.
 - 2,000 airlines, 830 with a picture, 300 with a logo.
@@ -18,7 +18,7 @@ This repository contains the database for [https://whatisflying.com](https://wha
 - 53,900 airport statistic datasets.
 - 367,900 flights.
 - 270 flight information regions.
-- 20,500 navaids.
+- 21,700 navaids.
 - 211,600 fixes / waypoints.
 
 ## Database structure

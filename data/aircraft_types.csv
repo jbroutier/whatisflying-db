@@ -742,16 +742,16 @@ YK38,,Yakovlev,Yak-38,L3J,M,36000,,14800,,,,,,,4.25,16.37,18.50,7.32,,,,700,,738
 YK40,YK4,Yakovlev,Yak-40,L3J,M,26000,,1575,,300,401,,,,6.50,20.36,70.00,25.00,,,3910,970,,9400,,,,15500,,
 YK42,YK2,Yakovlev,Yak-42,L3J,M,31500,,,,400,440,,,,9.83,36.38,150.00,34.88,,,,2200,,33000,,,,57500,,
 YK50,,Yakovlev,Yak-50,L1P,L,13000,,3120,70,150,220,240,,,3.20,7.80,15.00,9.50,,,,270,,750,,,,910,,
-YK52,,Yakovlev,Yak-52,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-YK53,,Yakovlev,Yak-53,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-YK54,,Yakovlev,Yak-54,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-YK55,,Yakovlev,Yak-55,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-YK58,,Yakovlev,Yak-58,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-Z22,,Zlín,Z-22 Junak,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-Z26,,Zlín,Z-26 Trener,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
-Z37P,,Zlín,Z-37 Čmelák,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
+YK52,,Yakovlev,Yak-52,L1P,L,13000,,985,60,100,154,190,,,2.70,7.75,15.00,9.30,,,122,300,,1015,,,,1305,,
+YK53,,Yakovlev,Yak-53,L1P,L,,,,,,160,,,,,7.68,15.00,9.50,,,,,,900,1060,,,,,
+YK54,,Yakovlev,Yak-54,L1P,L,13125,,2955,78,,243,,,,,6.91,12.89,8.15,,,,,378,,,,,990,,
+YK55,,Yakovlev,Yak-55,L1P,L,,,3050,70,,165,240,,,2.80,7.29,12.80,8.10,,,,,381,,855,,,975,,
+YK58,,Yakovlev,Yak-58,L1P,L,13000,,,,154,160,,,,3.16,8.55,20.00,12.70,,,,540,,1270,2800,,,,,
+Z22,,Zlín,Z-22 Junak,L1P,L,12500,,460,,86,97,,,,1.96,7.25,14.65,10.60,,,72,650,,370,650,,,,,
+Z26,,Zlín,Z-26 Trener,L1P,L,14800,,980,69,117,127,,,,2.06,7.98,14.89,9.88,,,,240,,700,,,,1000,,
+Z37P,,Zlín,Z-37 Čmelák,L1P,L,,,730,57,92,110,150,,,2.90,8.55,23.80,12.22,,,250,,,1043,1850,,,1850,,
 Z37T,,Zlín,Z-37T Agro-Turbo,L1T,L,,,,,,,,,,,,,,,,,,,,,,,,,
-Z42,,Zlín,Z-42,L1P,L,,,,,,,,,,,,,,,,,,,,,970,,970,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa027
-Z43,,Zlín,Z-43,L1P,L,,,,,,,,,,,,,,,,,,,,,1280,,1350,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa028
-Z50,,Zlín,Z-50,L1P,L,,,,,,,,,,,,,,,,,,,,,800,,800,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa108
+Z42,,Zlín,Z-42,L1P,L,13940,,1020,62,116,122,170,,,2.69,7.07,13.15,9.19,,,130,290,650,645,,970,,970,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa027
+Z43,,Zlín,Z-43,L1P,L,12500,,690,73,110,,147,,,2.91,7.75,14.50,9.76,,,130,330,620,730,,1280,,1350,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa028
+Z50,,Zlín,Z-50,L1P,L,20000,,2400,,130,158,,,,1.86,6.62,12.50,8.58,,,60,,350,570,,800,,720,,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaa108
 ZZZZ,,Generic,Aircraft,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -26,7 +26,7 @@
 * [Flight information regions](#flight-information-regions)
     + [firs.csv](#firscsv)
 * [Navaids](#navaids)
-    + [navaids.csv](#navaidscsv)
+    + [navaids/*type*.csv](#navaidstypecsv)
 
 ## Aircraft
 
@@ -83,30 +83,51 @@ This file contains information on aircraft types. The structure of this file is 
 | ------------------- | :-----------: | ------------------------------------------------------------ | :-------: |
 | icao_code           |    string     | The ICAO code of the aircraft type.                          |   A35K    |
 | iata_code           | string\|null  | The IATA code of the aircraft type.                          |    351    |
-| manufacturer        |    string     | The manufacturer of the aircraft.                            |  Airbus   |
+| manufacturer        |    string     | The manufacturer of the aircraft ¹.                          |  Airbus   |
 | name                |    string     | The name of the aircraft type.                               | A350-1000 |
-| description         |    string     | The description of the aircraft, as defined in the ICAO Document 8643. |    L2J    |
-| wtc                 |    string     | The wake turbulence category of the aircraft, as defined in the ICAO Document 8643. |     H     |
-| length              |  float\|null  | The length of the aircraft, in metres.                       |   73.78   |
-| height              |  float\|null  | The height of the aircraft, in metres.                       |   16.90   |
-| wingspan            |  float\|null  | The wingspan of the aircraft, in metres.                     |   64.75   |
-| wing_area           |  float\|null  | The wing area of the aircraft, in square metres.             |  464.30   |
-| fuselage_height     |  float\|null  | The height of the aircraft fuselage, in metres.              |   5.96    |
-| fuselage_width      |  float\|null  | The width of the aircraft fuselage, in metres.               |   5.96    |
-| main_rotor_diameter |  float\|null  | The diameter of the aircraft main rotor, in metres.          |           |
-| main_rotor_area     |  float\|null  | The area of the aircraft main rotor, in square metres.       |           |
-| mzfw                | integer\|null | The maximum zero-fuel weight of the aircraft, in kilograms.  |  220000   |
-| mrw                 | integer\|null | The maximum ramp weight of the aircraft, in kilograms.       |  317500   |
-| mtow                | integer\|null | The maximum takeoff weight of the aircraft, in kilograms.    |  316000   |
-| mlw                 | integer\|null | The maximum landing weight of the aircraft, in kilograms.    |  236000   |
-| fuel_capacity       | integer\|null | The fuel capacity of the aircraft, in litres.                |  158791   |
-| approach_speed      | integer\|null | The approach speed (V<sub>Ref</sub>) of the aircraft, in knots. |    142    |
-| cruise_speed        | integer\|null | The cruise speed (V<sub>no</sub>) of the aircraft, in knots. |    500    |
-| maximum_speed       | integer\|null | The maximum speed (V<sub>ne</sub>) of the aircraft, in knots. |    520    |
+| description         | string\|null  | The description of the aircraft, as defined in the ICAO Document 8643 ². |    L2J    |
 | service_ceiling     | integer\|null | The service ceiling of the aircraft, in feet.                |   35000   |
 | absolute_ceiling    | integer\|null | The absolute ceiling of the aircraft, in feet.               |   41450   |
-| operating_range     | integer\|null | The operating range of the aircraft, in nautical miles.      |   16100   |
+| climb_rate          | integer\|null | The rate of climb of the aircraft, in feet per minute ⁹.     |   6000    |
+| wtc                 | string\|null  | The ICAO wake turbulence category of the aircraft, as defined in the ICAO Document 8643 ². |     H     |
+| approach_speed      | integer\|null | The approach speed (V<sub>Ref</sub>) of the aircraft, in knots IAS. |    142    |
+| cruise_speed        | integer\|null | The cruise speed (V<sub>no</sub>) of the aircraft, in knots IAS. |    500    |
+| maximum_speed       | integer\|null | The maximum speed (V<sub>mo</sub>) of the aircraft, in knots IAS. |    520    |
+| never_exceed_speed  | integer\|null | The never exceed speed (V<sub>ne</sub>) of the aircraft, in knots IAS. |    610    |
+| fuselage_height     |  float\|null  | The height of the aircraft fuselage, in metres.              |   5.96    |
+| fuselage_width      |  float\|null  | The width of the aircraft fuselage, in metres.               |   5.96    |
+| height              |  float\|null  | The overall height of the aircraft, in metres ³.             |   16.90   |
+| length              |  float\|null  | The overall length of the aircraft, in metres ⁴.             |   73.78   |
+| wingspan            |  float\|null  | The wingspan of the aircraft, in metres ⁵.                   |   64.75   |
+| wing_area           |  float\|null  | The wing area of the aircraft, in square metres.             |  464.30   |
+| main_rotor_area     |  float\|null  | The area of the aircraft main rotor, in square metres ⁶.     |           |
+| main_rotor_diameter |  float\|null  | The diameter of the aircraft main rotor, in metres.          |           |
+| fuel_capacity       | integer\|null | The fuel capacity of the aircraft, in litres.                |  158791   |
+| operating_range     | integer\|null | The operating range of the aircraft, in nautical miles ⁷.    |   16100   |
+| ferry_range         | integer\|null | The ferry range of the aircraft, in nautical miles ⁸.        |   18500   |
+| oew                 | integer\|null | The operating empty weight of the aircraft, in kilograms.    |  155000   |
+| auw                 | integer\|null | The all-up weight of the aircraft, in kilograms.             |  305700   |
+| mlw                 | integer\|null | The maximum landing weight of the aircraft, in kilograms.    |  236000   |
+| mrw                 | integer\|null | The maximum ramp weight of the aircraft, in kilograms.       |  317500   |
+| mtow                | integer\|null | The maximum takeoff weight of the aircraft, in kilograms.    |  316000   |
+| mzfw                | integer\|null | The maximum zero-fuel weight of the aircraft, in kilograms.  |  220000   |
 | type_certificate    | string\|null  | The URL of the aircraft type certificate.                    |           |
+
+¹ For generic aircraft types, this value is always *Generic*.
+
+² This value is never null, except for generic aircraft types (*BALL*, *GLID*, *GYRO*, *PARA*, *SHIP*, *UHEL*, *ULAC* and *ZZZZ*).
+
+³ For tiltrotors, the height is measured with nacelles in vertical position.
+
+⁴ For helicopters, this doesn't include the main rotor blades.
+
+⁵ For biplanes or triplanes, the widest plane width is used. For tiltrotors, this doesn't include the rotor blades.
+
+⁶ For tiltrotors or multi-rotor helicopters, this is the sum of rotors areas.
+
+⁷ With maximum internal fuel.
+
+⁸ With maximum internal fuel, external fuel tanks if applicable, and no payload.
 
 ### aircraft_types_pictures.csv
 
@@ -213,7 +234,11 @@ This file contains information on airports. The structure of this file is as fol
 | active        |    boolean    | Whether the airport is active.                               |            1             |
 | international |    boolean    | Whether the airport is international.                        |            1             |
 
-¹ Can take one of the following values: *small* (airstrip), *medium* (air base or local airport) and *large* (international airport).
+¹ Currently relates to the size of the airport, but can be extended in the future. Can take one of the following values :
+
+- *small* (Small airport or air base);
+- *medium* (Medium airport or air base);
+- *large* (Large airport or air base).
 
 ### airports_datasets.csv
 
@@ -239,7 +264,7 @@ This file contains information on radio frequencies used at airports. The struct
 | frequency   | integer | The actual frequency of the radio frequency, in kilohertz. | 118100  |
 | type        | string  | The type of the radio frequency ¹.                         |   TWR   |
 
-¹ Commonly used values: *AFIS*, *ATIS*, *APP* (approach), *DEP* (departure), *GND* (ground), *TWR* (tower), *PFLT* (preflight),...
+¹ Commonly used values includes *AFIS*, *ATIS*, *APP* (approach), *DEP* (departure), *GND* (ground), *TWR* (tower), *PFLT* (preflight),...
 
 ### airports_runways.csv
 
@@ -266,7 +291,29 @@ This file contains information on airport runways. The structure of this file is
 | lighted                |    boolean    | Whether the runway is lighted.                               |    1    |
 | active                 |    boolean    | Whether the runway is active.                                |    1    |
 
-¹ Can take one of the following values: *ASP* (Asphalt), *BIT* (Bituminous asphalt), *BRI* (Bricks), *CLA* (Clay), *COM* (Composite), *CON* (Concrete), *COP* (Composite), *COR* (Coral), *GRE* (Grass or earth, graded/rolled), *GRS* (Grass or earth, non graded/rolled), *GVL* (Gravel), *ICE* (Ice), *LAT* (Laterite), *MAC* (Macadam), *PEM* (Partially asphalt, bituminous asphalt or concrete), *PER* (Permanent surface, details unknown), *PSP* (Pierced-steel planking), *SAN* (Sand), *SMT* (Sommerfeld tracking), *SNO* (Snow) or *WAT* (Water).
+¹ Can take one of the following values:
+
+- *ASP* (Asphalt);
+- *BIT* (Bituminous asphalt);
+- *BRI* (Bricks);
+- *CLA* (Clay);
+- *COM* (Composite);
+- *CON* (Concrete);
+- *COP* (Composite);
+- *COR* (Coral);
+- *GRE* (Grass or earth, graded/rolled);
+- *GRS* (Grass or earth, non graded/rolled);
+- *GVL* (Gravel);
+- *ICE* (Ice);
+- *LAT* (Laterite);
+- *MAC* (Macadam);
+- *PEM* (Partially asphalt, bituminous asphalt or concrete);
+- *PER* (Permanent surface, details unknown);
+- *PSP* (Pierced-steel planking);
+- *SAN* (Sand);
+- *SMT* (Sommerfeld tracking);
+- *SNO* (Snow);
+- *WAT* (Water).
 
 ------
 
@@ -290,7 +337,10 @@ This file contains information on fixes / waypoints. The structure of this file 
 
 ¹ A globally unique combination of the identifier, region and airport.
 
-² Can take one of the following values: *ENROUTE* (En-route navigation) or *TERMINAL* (Approach).
+² Can take one of the following values:
+
+- *ENROUTE* (En-route navigation);
+- *TERMINAL* (Approach).
 
 ------
 
@@ -302,13 +352,13 @@ This dataset includes the following files:
 
 This file contains information on flights. The structure of this file is as follows:
 
-| Column            |      Type      | Description                                                  | Example |
-| ----------------- | :------------: | ------------------------------------------------------------ | :-----: |
-| airline           |     string     | The airline for which the flight is operated, as an ICAO code. |   AFR   |
-| flight_number     |     string     | The flight number.                                           | AFR1032 |
-| departure_airport |     string     | The departure airport of the flight, as an ICAO code.        |  LFPG   |
-| arrival_airport   |     string     | The arrival airport of the flight, as an ICAO code.          |  LGAV   |
-| layover_airports  | string[]\|null | The layover airports of the flight, as a semicolon separated list of ICAO codes. |         |
+| Column            |      Type      | Description                                                  |  Example  |
+| ----------------- | :------------: | ------------------------------------------------------------ | :-------: |
+| airline           |     string     | The airline for which the flight is operated, as an ICAO code. |    AFR    |
+| flight_number     |     string     | The flight number.                                           |  AFR1032  |
+| departure_airport |     string     | The departure airport of the flight, as an ICAO code.        |   LFPG    |
+| arrival_airport   |     string     | The arrival airport of the flight, as an ICAO code.          |   LGAV    |
+| layover_airports  | string[]\|null | The layover airports of the flight, as a semicolon separated list of ICAO codes. | LFPB;LFIT |
 
 ------
 
@@ -331,9 +381,9 @@ This file contains information on flight information regions. The structure of t
 
 This dataset includes the following files:
 
-### navaids.csv
+### navaids/*type*.csv
 
-This file contains information on navigational aids. The structure of this file is as follows:
+This file contains information on navigational aids, for a single navaid type. The structure of these file is as follows:
 
 | Column               |     Type      | Description                                                  |         Example          |
 | -------------------- | :-----------: | ------------------------------------------------------------ | :----------------------: |
@@ -344,23 +394,51 @@ This file contains information on navigational aids. The structure of this file 
 | usage                |    string     | The usage of the navaid ³.                                   |         ENROUTE          |
 | frequency            |    integer    | The frequency of the navaid, in kilohertz.                   |          117700          |
 | dme_channel          | string\|null  | The channel of the navaid DME part.                          |           124X           |
-| dme_rx_frequency     | integer\|null | The RX frequency of the navaid DME part, in kilohertz.       |         1148000          |
-| dme_tx_frequency     | integer\|null | The TX frequency of the navaid DME part, in kilohertz.       |         1211000          |
-| dme_bias             |  float\|null  | The bias of the navaid DME part, in nautical miles.          |            0             |
+| dme_rx_frequency     | integer\|null | The RX frequency of the navaid DME part, in kilohertz ⁴.     |         1148000          |
+| dme_tx_frequency     | integer\|null | The TX frequency of the navaid DME part, in kilohertz ⁴.     |         1211000          |
+| dme_bias             |  float\|null  | The bias of the navaid DME part, in nautical miles ⁵.        |            0             |
 | vor_slaved_variation |  float\|null  | The slaved variation of the navaid VOR part, in degrees.     |            0             |
 | localizer_heading    |  float\|null  | The magnetic heading of the navaid localizer part, in degrees. |                          |
 | glide_slope_angle    |  float\|null  | The angle of the navaid glide slope part, in degrees.        |                          |
 | reception_range      |    integer    | The reception range of the navaid, in nautical miles.        |           130            |
-| latitude             |     float     | The latitude of the navaid, in degrees.                      |       43.680833333       |
-| longitude            |     float     | The longitude of the navaid, in degrees.                     |       1.309805556        |
+| latitude             |     float     | The latitude of the navaid, in degrees.                      |         43.68083         |
+| longitude            |     float     | The longitude of the navaid, in degrees.                     |         1.30980          |
 | elevation            | integer\|null | The elevation of the navaid, in feet AMSL.                   |           574            |
 | region               |    string     | The ICAO region of the navaid, as defined in the ICAO Document 7910. |            LF            |
 | airport              | string\|null  | The airport to which the navaid is associated, as an ICAO code. |                          |
 | airport_runway       | string\|null  | The airport runway to which the navaid is associated.        |                          |
 | country              |    string     | The country where the navaid is located, as an ISO 3166-1 alpha-2 code. |            FR            |
 
-¹ A globally unique combination of the identifier, type, region and airport.
+¹ A globally unique combination of the identifier, type, region and associated airport (if applicable).
 
-² Can take one of the following values: *DME*, *DME-ILS*, *GS*, *IGS*, *ILS-I*, *ILS-II*, *ILS-III*, *LDA*, *LOC*, *NDB*, *SDF*, *TACAN*, *VOR*, *VOR-DME* or *VORTAC*.
+² Can take one of the following values:
 
-³ Can take one of the following values: *ENROUTE* (En-route navigation) or *TERMINAL* (Approach).
+- *DME* (Distance Measuring Equipment);
+- *DME-ILS* (Distance Measuring Equipment, part of an ILS);
+- *DME-NDB* (Distance Measuring Equipment, part of a NDB);
+- *GS* (Glide Slope);
+- *IGS* (Instrument Guidance System);
+- *ILS-I* (Instrument Landing System - Categoty I);
+- *ILS-II* (Instrument Landing System - Category II);
+- *ILS-III* (Instrument Landing System - Category III);
+- *IM* (Inner Marker of an Instrument Landing System);
+- *LDA* (Localizer Directional Aid);
+- *LOC* (Standalone localizer);
+- *MM* (Middle Marker of an Instrument Landing System);
+- *NDB* (Non-Directional Beacon);
+- *OM* (Outer Marker of an Instrument Landing System);
+- *SDF* (Simplified Directional Facility);
+- *TACAN* (Tactical Air Navigation system);
+- *VOR* (VHF Omnidirectional Range);
+- *VOR-DME* (VHF Omnidirectional Range + Distance Measuring Equipment);
+- *VORTAC* (VHF Omnidirectional Range + Tactical Air Navigation system);
+
+³ Can take one of the following values:
+
+- *ENROUTE* (En-route navigation);
+- *TERMINAL* (Approach).
+
+⁴ RX and TX frequencies are observed from the navaid perspective. It means the RX frequency is the *interogation* frequency and the TX frequency the *reply* frequency, from a pilot's perspective.
+
+⁵ This value is always null for DMEs other than *DME-ILS*.
+

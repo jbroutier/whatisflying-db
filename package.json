@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "csval": "^1.1.1"
+    },
+    "scripts": {
+        "validate": "find data -type f -name \"*.csv\" -exec csval {} \\;"
+    }
+}

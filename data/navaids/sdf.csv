@@ -1,0 +1,7 @@
+slug,identifier,name,type,usage,frequency,dme_channel,dme_rx_frequency,dme_tx_frequency,dme_bias,vor_slaved_variation,localizer_heading,glide_slope_angle,reception_range,latitude,longitude,elevation,region,airport,airport_runway,country
+ekp-sdf-k5-kisw,EKP,SDF 02,SDF,TERMINAL,108700,,,,,,20.000,,18,44.36908,-89.83395,0,K5,KISW,02,US
+iii-sdf-k5-ksue,III,SDF 02,SDF,TERMINAL,111900,,,,,,13.000,,18,44.84999,-87.42054,0,K5,KSUE,02,US
+mor-sdf-k7-kmor,MOR,SDF 05,SDF,TERMINAL,109500,,,,,,49.138,,18,36.18766,-83.36352,0,K7,KMOR,05,US
+mrc-sdf-k7-kmrc,MRC,SDF 24,SDF,TERMINAL,108700,,,,,,233.000,,18,35.54980,-87.18798,0,K7,KMRC,24,US
+oqa-sdf-k7-ksif,OQA,SDF 31,SDF,TERMINAL,108300,,,,,,306.000,,18,36.44181,-79.85921,0,K7,KSIF,31,US
+sxl-sdf-k6-ksxl,SXL,SDF 04,SDF,TERMINAL,110100,,,,,,34.000,,18,38.23506,-80.86882,0,K6,KSXL,04,US

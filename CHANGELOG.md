@@ -1,5 +1,14 @@
 # Changelog for version 3.x
 
+## Version 3.1.0
+
+**New data**
+
+- aircraft: Add 35 Focke-Wulf aircraft.
+- aircraft: Add 312 Fokker aircraft.
+- aircraft types: Add 15 aircraft types.
+- aircraft types: Add 13 aircraft types pictures.
+
 ## Version 3.0.0
 
 **New data**

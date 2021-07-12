@@ -99,6 +99,8 @@ AC95,,Rockwell,695 Jetprop Commander,L2T,L,,,,,,,,,,,,,,,,,,,,,,,,,
 ADVN,,Adventure Air,Adventurer,A1P,L,15000,,1200,,110,137,,,,,7.77,16.63,10.92,,,230,850,,907,1512,,,,,
 AEST,,Piper,PA-60 Aerostar,L2P,L,25000,,1840,104,210,266,,,,3.68,10.61,16.56,11.18,,,,890,,1939,2864,,,,,
 AJET,,Dassault-Dornier,Alpha Jet,L2J,M,,,,,,,,,,,,,,,,,,,,,,,,,
+ALO2,,Aérospatiale,SA 318 Alouette II,H1T,L,7500,,820,,92,100,,,,2.75,9.66,,,81.70,10.20,580,305,,895,,,,1600,,
+ALO3,,Aérospatiale,SA 316 Alouette III,H1T,L,10500,,850,,100,110,,,,3.00,10.03,,,95.38,11.02,,290,,1143,2200,,,,,
 AM3,,Aermacchi,AM.3 Bosbok,L1P,L,27600,,1400,,133,150,,,,2.72,8.73,19.04,11.73,,,,530,,1080,,,,1700,,
 AMX,,AMX International,AMX,L1J,M,43000,,10260,,,569,,,,4.55,13.23,21.00,8.87,,,3555,480,1801,6700,10750,,,13000,,
 AN12,ANF,Antonov,An-12,L4T,M,33500,,2000,127,310,360,,,,10.53,33.10,121.70,38.00,,,,3100,,28000,,,,61000,,
@@ -123,6 +125,7 @@ AP28,,Aeroprakt,A-28 Victor,L2P,L,10000,,980,,81,130,,,,2.30,7.00,,12.30,,,180,8
 AP32,,Aeroprakt,A-32 Vixxen,L1P,L,10000,,,,115,125,,,,2.20,6.20,,9.40,,,95,470,,,,,,600,,
 AP36,,Aeroprakt,A-36 Super Vulcan,L2P,L,13000,,2100,,75,90,,,,2.30,7.10,,11.00,,,140,520,,,,,,800,,
 AS32,,Airbus Helicopters,H215,H2T,M,16990,,1460,,150,,177,4.94,3.79,4.97,16.79,,,206.12,16.20,,460,,4660,,,,8600,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar002
+AS3B,,Aérospatiale,AS332 Super Puma Mk2,H2T,M,,,,,,,,,,,,,,,,,,,,,,,,,
 AS50,,Airbus Helicopters,H125,H1T,M,15100,,1670,,132,,155,3.14,1.87,3.15,10.93,,,89.75,10.70,,357,,1174,,,,2250,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar008
 AS55,,Airbus Helicopters,AS355 Écureuil 2,H2T,L,11200,,1280,,121,,150,3.14,1.87,3.14,10.93,,,89.75,10.69,,380,,1305,,,,2540,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar146
 AS65,,Airbus Helicopters,AS365 Dauphin,H2T,L,19242,,1750,,,165,,3.27,3.17,4.06,13.73,,,111.98,11.94,,,447,2389,,,,4300,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar105
@@ -239,6 +242,7 @@ BE95,,Beechcraft,Model 95 Travel Air,L2P,L,18100,,1250,79,169,180,210,,,2.90,7.9
 BE99,,Beechcraft,Model 99 Airliner,L2T,L,26200,,1700,107,205,,,,,4.38,13.58,25.98,13.98,,,,910,,2510,,,,4717,,
 BE9L,,Beechcraft,Model 90 King Air,L2T,L,30000,,2000,98,226,270,,,,4.34,10.82,27.00,15.32,,,,1321,,3150,,,,4580,,
 BE9T,,Beechcraft,Model 90 King Air (F90),L2T,L,,,,108,,,,,,,,,,,,,,,,,,,,,
+BK17,,MBB/Kawasaki,BK-117,H2T,L,15010,,2165,,,130,150,,,3.85,9.91,,,95.03,11.00,697,292,,1727,,,,3350,,
 BLCF,74B,Boeing,747-400LCF Dreamlifter,L4J,H,,,,,474,,,,,21.54,71.68,,64.40,,,199150,4200,,180530,,,,364235,,
 BMAN,,Australian Aircraft Kits,Bushman,L1P,L,,,,36,,,,,,,,,,,,,,,,,,,,,
 BSCA,,Boeing,747SCA Shuttle Carrier,L4J,H,15000,,,,250,,,,,19.33,70.51,510.00,59.64,,,,1150,,144242,,,,322051,,
@@ -484,6 +488,7 @@ G73T,,Grumman,G-73T Turbo Mallard,A2T,L,24500,,1350,,157,187,187,,,5.72,14.70,,2
 G96,,Grumman,G-96/C-1 Trader,L2P,M,24800,,1950,,145,240,,,,4.97,13.00,45.10,21.23,,,,960,,7544,10447,,,11158,,
 G97,,Grumman,G-97 Spotter,L1P,L,,,,,,,,,,,,,,,,,,,,,,,,,
 GA7,,Gulfstream American,GA-7 Cougar,L2P,L,17400,,1150,82,160,168,188,,,3.15,8.74,17.10,11.23,,,,1170,,1165,1724,,,,,
+GAZL,,Aérospatiale,SA 341 Gazelle,H1T,L,16000,,1800,,143,170,,,,3.15,,,,86.50,10.50,735,195,,917,,,,1800,,
 GL5T,,Bombardier,Global 5000,L2J,M,51000,,,108,487,,,,,7.80,29.50,94.80,28.70,,,22255,5200,,23070,,35652,42071,41957,26308,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
 GL7T,,Bombardier,Global 7000,L2J,M,51000,,,,487,530,,,,8.20,33.88,,31.70,,,29203,7700,,27987,,39735,52208,52095,30617,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
 GLEX,CCX,Bombardier,Global Express,L2J,M,51000,,,108,487,,,,,7.80,30.30,94.80,28.70,,,25543,6000,,23691,,35652,45246,45132,26308,https://www.easa.europa.eu/document-library/type-certificates/aircraft-cs-25-cs-22-cs-23-cs-vla-cs-lsa/easaima009
@@ -664,6 +669,7 @@ PC9,,Pilatus,PC-9,L1T,L,37990,,4090,88,300,320,,,,3.26,10.14,16.29,10.13,,,,830,
 PILL,,ENAER,T-35 Pillán,L1P,L,19160,20505,1526,80,144,168,241,,,2.64,8.00,13.69,8.84,,,292,650,,930,,,,1338,,
 PP2,,Pilatus,P-2,L1P,L,,,1280,,179,180,390,,,2.70,9.07,17.00,11.00,,,225,467,,,,,,,,
 PP3,,Pilatus,P-3,L1P,L,18000,,1400,70,148,170,270,,,3.05,8.75,16.55,10.40,,,160,400,,1090,1415,,,1500,,
+PUMA,,Aérospatiale,SA 330 Puma,H2T,L,15750,,1400,,134,138,147,,,5.14,18.15,,,177.00,15.00,,313,,3536,,,,7000,,
 Q4,,Northrop Grumman,RQ-4 Global Hawk,L1J,M,60000,,,,310,340,,,,4.70,14.50,,39.90,,,,12300,,6781,14628,,,,,
 R100,,Robin,R1180 Aiglon,L1P,L,16500,,,,,136,,,,2.38,7.26,15.10,9.08,,,,877,,650,,,,,,
 R135,,Boeing,RC-135,L4J,H,50000,,4900,,,504,,,,12.70,41.53,226.00,39.88,,,,3000,,56245,134717,,,146284,,

@@ -1,5 +1,22 @@
 # Changelog for version 3.x
 
+## Version 3.2.0
+
+**New data**
+
+- aircraft: Add 1 Boeing aircraft.
+- aircraft: Add 956 Mil aircraft.
+- aircraft: Add 2083 Robin aircraft.
+- aircraft: Add 7411 Robinson aircraft.
+- aircraft: Add 265 aircraft pictures.
+- aircraft types: Add 23 aircraft types.
+- aircraft types: Add 27 aircraft types pictures.
+
+**Fixes & improvements**
+
+- aircraft: Fix aircraft `ac82ec` type code.
+- aircraft types: Fix aircraft type `AC56` picture.
+
 ## Version 3.1.0
 
 **New data**

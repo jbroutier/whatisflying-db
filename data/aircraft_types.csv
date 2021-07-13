@@ -435,7 +435,7 @@ E737,,Boeing,E-7A Wedgetail,L2J,M,41000,,,,460,,,,,12.50,33.60,91.00,35.80,,,,35
 E75L,E7W,Embraer,E175 (Long wings),L2J,M,41000,,,,430,470,,,,9.86,31.68,,28.65,,,11675,2200,,21890,,,,40370,,
 E75S,E7W,Embraer,E175 (Short wings),L2J,M,41000,,,,430,470,,,,9.86,31.68,72.72,26.00,,,11675,2200,,21890,,,,40370,,
 E767,,Boeing,E-767,L2J,H,40100,,,,460,493,,,,15.80,48.50,,47.60,,,,5600,,85595,128870,,,175000,,
-EC20,,Airbus Helicopters,H120 Colibri,H1T,L,16990,,1200,,122,,150,,1.50,3.40,11.52,,,78.54,10.00,416,393,,960,,,,1715,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar508
+EC20,,Airbus Helicopters,H120,H1T,L,16990,,1200,,122,,150,,1.50,3.40,11.52,,,78.54,10.00,416,393,,960,,,,1715,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar508
 EC25,,Airbus Helicopters,H225,H2T,M,19400,,1710,,140,149,175,,3.96,4.97,19.50,,,206.15,16.20,,463,,5256,11000,,,11200,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar002
 EC30,,Airbus Helicopters,H130,H1T,L,23000,,1800,,130,,155,,2.03,3.34,10.68,,,89.75,10.69,540,330,,1377,,,,2500,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar008
 EC35,,Airbus Helicopters,H135,H2T,L,20000,,1500,,137,,155,,1.56,3.51,10.20,,,81.70,10.20,,343,,1455,,,,2980,,https://www.easa.europa.eu/document-library/type-certificates/rotorcraft-cs-29-cs-27-cs-vlr/easar009

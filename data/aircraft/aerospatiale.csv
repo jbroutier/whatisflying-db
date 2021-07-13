@@ -1,0 +1,354 @@
+icao_24bit_address,registration,manufacturer,model,aircraft_type,serial_number,description,operator,registered_at,registered_until,manufactured_at
+00adcc,ZS-RIH,Aérospatiale,SA 316A Alouette III,ALO3,1052,H1T,,,,
+00adfc,ZS-RKD,Aérospatiale,SA 330C Puma,PUMA,1118,H2T,,,,
+00ae53,ZS-RNM,Aérospatiale,SA 330J Puma,PUMA,1604,H2T,,,,
+00af3f,ZS-RWO,Aérospatiale,SA 330J Puma,PUMA,1585,H2T,,,,
+090051,D2-EXV,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2646,H2T,SOR,,,
+090052,D2-EXU,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2643,H2T,SOR,,,
+141645,RA-05701,Aérospatiale,SA 316B Alouette III,ALO3,1227,H1T,,,,
+141647,RA-05703,Westland,Gazelle AH.1,GAZL,1524,H1T,,,,
+383de7,F-BPPH,Aérospatiale,SA 316B Alouette III,ALO3,2245,H1T,,,,
+3856b4,F-BVVU,Aérospatiale,SA 341G Gazelle,GAZL,1142,H1T,,,,
+390182,F-GAMC,Aérospatiale,SA 316B Alouette III,ALO3,5310,H1T,,,,
+39056a,F-GBLK,Aérospatiale,SA 341G Gazelle,GAZL,1096,H1T,,,,
+390ab5,F-GCVV,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1010,H1T,,,,
+390c4c,F-GDCM,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1950,H1T,,,,
+390e0b,F-GDQL,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1250,H1T,,,,
+390e0e,F-GDQO,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2151,H1T,,,,
+390e11,F-GDQR,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2262,H1T,,,,
+390e85,F-GDUF,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1727,H1T,,,,
+390e86,F-GDUG,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1907,H1T,,,,
+390ef7,F-GDXX,Aérospatiale,SA 341G Gazelle,GAZL,1262,H1T,,,,
+3910e0,F-GEHA,Aérospatiale,SA 341G Gazelle,GAZL,1064,H1T,,,,
+3910e1,F-GEHB,Aérospatiale,SA 341G Gazelle,GAZL,1099,H1T,,,,
+3910ee,F-GEHO,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1628,H1T,,,,
+391169,F-GELJ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1100,H1T,,,,
+391212,F-GEQS,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1142,H1T,,,,
+391253,F-GEST,Aérospatiale,SA 341G Gazelle,GAZL,1113,H1T,,,,
+391448,F-GFCI,Aérospatiale,SA 341G Gazelle,GAZL,1206,H1T,,,,
+3914f2,F-GFHS,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2233,H1T,,,,
+3915f0,F-GFPQ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2247,H1T,,,,
+391725,F-GFZF,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2352,H1T,,,,
+391730,F-GFZQ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1813,H1T,,,,
+391837,F-GGBX,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1373,H1T,,,,
+391838,F-GGBY,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1332,H1T,,,,
+391846,F-GGCG,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1172,H1T,,,,
+391848,F-GGCI,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1050,H1T,,,,
+391866,F-GGDG,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1104,H1T,,,,
+391867,F-GGDH,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1103,H1T,,,,
+391954,F-GGKU,Aérospatiale,SA 341F Gazelle,GAZL,1378,H1T,,,,
+391955,F-GGKV,Aérospatiale,SA 341F Gazelle,GAZL,1186,H1T,,,,
+391957,F-GGKX,Aérospatiale,SA 330Ba Puma,PUMA,1081,H2T,,,,
+3919e7,F-GGPH,Aérospatiale,SA 341G Gazelle,GAZL,1014,H1T,,,,
+391cd4,F-GHGU,Aérospatiale,SA 341G Gazelle,GAZL,1308,H1T,,,,
+391de3,F-GHPD,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1319,H1T,,,,
+391e6d,F-GHTN,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1401,H1T,,,,
+392120,F-GIJA,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1570,H1T,,,,
+392129,F-GIJJ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1019,H1T,,,,
+3922b4,F-GIVU,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1473,H1T,,,,
+39242d,F-GJBN,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1619,H1T,,,,
+3925cd,F-GJON,Aérospatiale,SA 330J Puma,PUMA,1407,H2T,,,,
+39264b,F-GJSL,Aérospatiale,SA 342J Gazelle,GAZL,1052,H1T,,,,
+3929d3,F-GKOT,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1243,H1T,,,,
+392b02,F-GKYC,Aérospatiale,SA 341G Gazelle,GAZL,1414,H1T,,,,
+392df5,F-GLPV,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1443,H1T,,,,
+392e22,F-GLRC,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1117,H1T,,,,
+392e32,F-GLRS,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1346,H1T,,,,
+393453,F-GNCT,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2265,H1T,,,,
+393475,F-GNDV,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1988,H1T,,,,
+393561,F-GNLB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2163,H1T,,,,
+3935e5,F-GNPF,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1507,H1T,,,,
+393855,F-GOCV,Aérospatiale,SA 341G Gazelle,GAZL,1010,H1T,,,,
+393c4f,F-GPCP,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1046,H1T,,,,
+393c55,F-GPCV,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1384,H1T,,,,
+393c8f,F-GPEP,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1322,H1T,,,,
+393ccf,F-GPGP,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1475,H1T,,,,
+393d68,F-GPLI,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1458,H1T,,,,
+393e87,F-GPUH,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1523,H1T,,,,
+3946a2,F-GRVC,Aérospatiale,SA 341G Gazelle,GAZL,1164,H1T,,,,
+39496f,F-GSLP,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1554,H1T,,,,
+394b05,F-GSYF,Aérospatiale,SA 330J Puma,PUMA,1301,H2T,,,,
+394d6b,F-GTLL,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1181,H1T,,,,
+395003,F-GUAD,Aérospatiale,SA 316B Alouette III,ALO3,1611,H1T,,,,
+395125,F-GUJF,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2096,H1T,,,,
+395412,F-GVAS,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1060,H1T,,,,
+395441,F-GVCB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1539,H1T,,,,
+395caf,F-GXFP,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2152,H1T,,,,
+396068,F-GYDI,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1359,H1T,,,,
+3962ac,F-GYVM,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1411,H1T,,,,
+396525,F-GZJF,Aérospatiale,SA 313B Alouette II,ALO2,1865,H1T,,,,
+39a022,F-HIBC,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2018,H1T,,,,
+3a0a06,F-OCQG,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2219,H1T,,,,
+3a1caa,F-OHFK,Aérospatiale,SA 316C Alouette III,ALO3,1510,H1T,,,,
+3a2258,F-OISY,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2664,H2T,,,,
+3aab8c,4230,Aérospatiale,SA 342L1 Gazelle,GAZL,2230,H1T,FMY,,,
+3aaba2,1507,Aérospatiale,SA 330Ba Puma,PUMA,1507,H2T,FMY,,,
+3aaba3,1451,Aérospatiale,SA 330Ba Puma,PUMA,1451,H2T,FMY,,,
+3dd4fd,D-HAXH,Aérospatiale,SA 330J Puma,PUMA,1410,H2T,,,,
+3dd504,D-HAXO,Aérospatiale,SA 330J Puma,PUMA,1537,H2T,,,,
+3dd506,D-HAXQ,Aérospatiale,SA 330J Puma,PUMA,1549,H2T,,,,
+3dd638,D-HBJK,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2248,H1T,,,,
+3dd639,D-HBJL,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2086,H1T,,,,
+3dd646,D-HBJY,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2061,H1T,,,,
+3df832,D-HOFY,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1883,H1T,,,,
+3df92b,D-HOPN,Aérospatiale,SA 342J Gazelle,GAZL,1601,H1T,,,,
+400979,G-CHCF,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2567,H2T,,2001-11-30,,2001-01-01
+40099b,G-PUMM,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2477,H2T,,2016-09-09,,1998-01-01
+40099c,G-PUMN,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2484,H2T,,1999-07-16,,1998-01-01
+40099d,G-PUMO,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2467,H2T,,2016-09-09,,1998-01-01
+40099e,G-PUMS,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2504,H2T,,2016-09-09,,2000-01-01
+400a22,G-CHCG,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2592,H2T,,2017-02-25,,2003-01-01
+400a6d,G-CHCH,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2601,H2T,,2017-02-25,,2003-01-01
+400aaa,G-REDJ,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2608,H2T,,2004-05-19,,2004-01-01
+400aab,G-REDK,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2610,H2T,,2004-06-02,,2004-01-01
+400aad,G-REDM,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2614,H2T,,2004-07-26,,2004-01-01
+400aae,G-REDN,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2616,H2T,,2004-08-20,,2004-01-01
+400c14,G-REDO,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2622,H2T,,2005-09-12,,2005-01-01
+400c15,G-REDP,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2634,H2T,,2005-11-17,,2005-01-01
+400d39,G-CHCI,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2395,H2T,,2005-09-30,,1996-01-01
+400e1a,G-WNSC,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2393,H2T,,2017-02-25,,1994-01-01
+401acc,G-EROL,Aérospatiale,SA 341G Gazelle,GAZL,WA1108,H1T,,2009-07-24,,1973-01-01
+402056,G-OLDH,Aérospatiale,SA 341G Gazelle,GAZL,1307,H1T,,2012-07-17,,1976-01-01
+4022fa,G-LOYD,Aérospatiale,SA 341G Gazelle,GAZL,1289,H1T,,2012-03-06,,1975-01-01
+4022fc,G-GAZA,Aérospatiale,SA 341G Gazelle,GAZL,1187,H1T,,1998-10-15,,1974-01-01
+4025d8,G-EZEL,Aérospatiale,SA 341G Gazelle,GAZL,WA1073,H1T,,2000-12-01,,1973-01-01
+402f53,G-OGAZ,Aérospatiale,SA 341G Gazelle,GAZL,1274,H1T,,2017-04-08,,1975-01-01
+4030f4,G-GAZZ,Aérospatiale,SA 341G Gazelle,GAZL,1271,H1T,,2009-11-19,,1976-01-01
+403e22,G-OGEO,Aérospatiale,SA 341G Gazelle,GAZL,1417,H1T,,2017-08-16,,1977-01-01
+404534,G-ZLLE,Aérospatiale,SA 341G Gazelle,GAZL,1012,H1T,,2006-06-07,,1973-01-01
+406490,G-CHCU,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2617,H2T,,2017-02-25,,2004-01-01
+406502,G-CGTJ,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2488,H2T,,2015-05-05,,1999-01-01
+4066b3,G-CHCY,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2398,H2T,,2017-02-25,,1993-01-01
+407447,G-CKPI,Aérospatiale,SA 319B Alouette III,ALO3,2076,H1T,,2017-09-19,,1973-01-01
+43c07d,XW847,Westland,Gazelle AH.1,GAZL,1011,H1T,AAC,,,
+43c081,XW865,Westland,Gazelle AH.1,GAZL,1118,H1T,AAC,,,
+43c092,XZ345,Westland,Gazelle AH.1,GAZL,1705,H1T,AAC,,,
+43c0b4,XX405,Westland,Gazelle AH.1,GAZL,1343,H1T,AAC,,,
+43c0cc,XZ290,Westland,Gazelle AH.1,GAZL,1489,H1T,AAC,,,
+43c112,XZ320,Westland,Gazelle AH.1,GAZL,1613,H1T,AAC,,,
+43c117,XZ326,Westland,Gazelle AH.1,GAZL,1644,H1T,AAC,,,
+43c11e,XZ334,Westland,Gazelle AH.1,GAZL,1673,H1T,AAC,,,
+43c123,XZ340,Westland,Gazelle AH.1,GAZL,1691,H1T,AAC,,,
+43c216,ZA731,Westland,Gazelle AH.1,GAZL,1800,H1T,,,,
+43c218,ZA736,Westland,Gazelle AH.1,GAZL,1805,H1T,AAC,,,
+43c219,ZA766,Westland,Gazelle AH.1,GAZL,1808,H1T,AAC,,,
+43c222,ZB665,Westland,Gazelle AH.1,GAZL,1932,H1T,AAC,,,
+43c228,ZB669,Westland,Gazelle AH.1,GAZL,1950,H1T,AAC,,,
+43c22b,ZB674,Westland,Gazelle AH.1,GAZL,1967,H1T,AAC,,,
+43c22d,ZB677,Westland,Gazelle AH.1,GAZL,1978,H1T,AAC,,,
+43c22e,ZB678,Westland,Gazelle AH.1,GAZL,1979,H1T,AAC,,,
+43c22f,ZB679,Westland,Gazelle AH.1,GAZL,1982,H1T,AAC,,,
+43c231,ZB683,Westland,Gazelle AH.1,GAZL,1990,H1T,AAC,,,
+43c235,ZB689,Westland,Gazelle AH.1,GAZL,2002,H1T,AAC,,,
+43c237,ZB691,Westland,Gazelle AH.1,GAZL,2006,H1T,AAC,,,
+43c283,XW199,Westland,Puma HC.2,PUMA,1042,H2T,SHF,,,
+43c287,XW204,Westland,Puma HC.2,PUMA,1074,H2T,SHF,,,
+43c28b,XW209,Westland,Puma HC.2,PUMA,1096,H2T,SHF,,,
+43c28e,XW212,Westland,Puma HC.2,PUMA,1111,H2T,SHF,,,
+43c290,XW214,Westland,Puma HC.2,PUMA,1120,H2T,SHF,,,
+43c291,XW216,Westland,Puma HC.2,PUMA,1129,H2T,SHF,,,
+43c292,XW217,Westland,Puma HC.2,PUMA,1134,H2T,SHF,,,
+43c294,XW219,Westland,Puma HC.2,PUMA,1144,H2T,SHF,,,
+43c295,XW220,Westland,Puma HC.2,PUMA,1148,H2T,SHF,,,
+43c299,XW224,Westland,Puma HC.2,PUMA,1166,H2T,SHF,,,
+43c29e,XW231,Westland,Puma HC.2,PUMA,1195,H2T,SHF,,,
+43c2a1,XW235,Westland,Puma HC.2,PUMA,1212,H2T,SHF,,,
+43c2a3,XW237,Westland,Puma HC.2,PUMA,1218,H2T,SHF,,,
+43c2a5,ZA935,Westland,Puma HC.2,PUMA,1633,H2T,SHF,,,
+43c2a6,ZA936,Westland,Puma HC.2,PUMA,1640,H2T,SHF,,,
+43c2a9,ZA939,Westland,Puma HC.2,PUMA,1653,H2T,SHF,,,
+43c2aa,ZA940,Westland,Puma HC.2,PUMA,1656,H2T,SHF,,,
+43c2ad,ZJ954,Westland,Puma HC.2,PUMA,1310,H2T,SHF,,,
+43c2ae,ZJ955,Westland,Puma HC.2,PUMA,1363,H2T,SHF,,,
+43c2af,ZJ956,Westland,Puma HC.2,PUMA,1374,H2T,SHF,,,
+43c2b0,ZJ957,Westland,Puma HC.2,PUMA,1474,H2T,SHF,,,
+43c2fa,XX453,Westland,Gazelle AH.1,GAZL,1454,H1T,,,,
+43c5cb,XX449,Westland,Gazelle AH.1,GAZL,1443,H1T,,,,
+43c5cc,XZ936,Westland,Gazelle HT.3,GAZL,1743,H1T,,,,
+43c5cd,XZ939,Westland,Gazelle HT.3,GAZL,1750,H1T,,,,
+43c5ce,ZB625,Westland,Gazelle HT.3,GAZL,1905,H1T,,,,
+44ed81,M-1,Aérospatiale,SA 316B Alouette III,ALO3,1812,H1T,,,,
+44ed82,M-2,Aérospatiale,SA 316B Alouette III,ALO3,1816,H1T,,,,
+468077,4119,Aérospatiale,SA 342M Gazelle,GAZL,2119,H1T,FMY,,,
+46830c,2780,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2780,H2T,,,,
+468313,2787,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2787,H2T,,,,
+46a083,SX-HDC,Aérospatiale,SA 341G Gazelle,GAZL,1205,H1T,,,,
+46a08b,SX-HDK,Aérospatiale,SA 341G Gazelle,GAZL,1280,H1T,,,,
+471d95,HA-LFH,Aérospatiale,SA 342J Gazelle,GAZL,1775,H1T,,,,
+472887,HA-PJB,Aérospatiale,SA 341G Gazelle,GAZL,1392,H1T,,,,
+473b2e,HA-WKS,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2204,H1T,,,,
+473b35,HA-WKZ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2138,H1T,,,,
+4780a7,LN-OHG,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2493,H2T,,,,
+480802,S-419,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2419,H2T,NAF,,,
+480805,S-440,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2440,H2T,NAF,,,
+480806,S-441,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2441,H2T,NAF,,,
+480807,S-442,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2442,H2T,NAF,,,
+480808,S-444,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2444,H2T,NAF,,,
+480809,S-445,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2445,H2T,NAF,,,
+48080a,S-447,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2447,H2T,NAF,,,
+48080c,S-453,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2453,H2T,NAF,,,
+48080d,S-454,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2454,H2T,NAF,,,
+48080e,S-456,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2456,H2T,NAF,,,
+480810,S-458,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2458,H2T,NAF,,,
+480811,S-459,Aérospatiale,AS532 U2 Cougar Mk2,AS3B,2459,H2T,NAF,,,
+485001,PH-NHR,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2572,H2T,,,,
+485002,PH-NHS,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2599,H2T,,,,
+4aa8c7,SE-JFG,Aérospatiale,SA 316B Alouette III,ALO3,5377,H1T,,,,
+4b3cf1,HB-XCB,Aérospatiale,SA 316B Alouette III,ALO3,1259,H1T,AGV,1987-11-17,,1965-01-01
+4b4280,HB-ZEU,Aérospatiale,SA 341G Gazelle,GAZL,1111,H1T,,2002-06-06,,1974-01-01
+4b428f,HB-ZFJ,Aérospatiale,SA 316B Alouette III,ALO3,1408,H1T,,2003-12-08,,1966-01-01
+4c1c27,YU-HBH,Aérospatiale,SA 341G Gazelle,GAZL,1292,H1T,,,,
+4c1c29,YU-HBJ,Aérospatiale,SA 341G Gazelle,GAZL,1304,H1T,,,,
+4c1c2a,YU-HBK,Aérospatiale,SA 341G Gazelle,GAZL,1348,H1T,,,,
+4c1c58,YU-HCY,Soko,SA 341H Gazelle,GAZL,SOKO 024,H1T,,,,
+4c1c81,YU-HEB,Aérospatiale,SA 341L Gazelle,GAZL,1926,H1T,,,,
+4c1c82,YU-HEC,Aérospatiale,SA 341L Gazelle,GAZL,1830,H1T,,,,
+4c1c83,YU-HED,Aérospatiale,SA 341L Gazelle,GAZL,1847,H1T,,,,
+4c1c87,YU-HEH,Soko,SA 341H Gazelle,GAZL,SOKO 011,H1T,,,,
+4c1c88,YU-HEI,Soko,SA 341G Gazelle,GAZL,SOKO 012,H1T,,,,
+4c1c8e,YU-HEO,Aérospatiale,SA 341G Gazelle,GAZL,1140,H1T,,,,
+4c1c92,YU-HES,Aérospatiale,SA 342J Gazelle,GAZL,1057,H1T,,,,
+4c1c93,YU-HET,Aérospatiale,SA 342J Gazelle,GAZL,1204,H1T,,,,
+4c1c95,YU-HEV,Aérospatiale,SA 342K Gazelle,GAZL,1393,H1T,,,,
+4c1c98,YU-HEY,Aérospatiale,SA 341G Gazelle,GAZL,1320,H1T,,,,
+4c1d82,YU-HMC,Aérospatiale,SA 341G Gazelle,GAZL,1136,H1T,,,,
+4c1dd3,YU-HOT,Aérospatiale,SA 341G Gazelle,GAZL,1390,H1T,,,,
+4c1eb9,YU-HVZ,Aérospatiale,SA 341G Gazelle,GAZL,1295,H1T,,,,
+4c1ec5,YU-HWF,Aérospatiale,SA 341G Gazelle,GAZL,1407,H1T,,,,
+4c3198,YU-MMY,Aérospatiale,SA 341G Gazelle,GAZL,1155,H1T,,,,
+732048,EP-HBH,Aérospatiale,SA 316B Alouette III,ALO3,1061,H1T,,,,
+73204e,EP-HBN,Aérospatiale,SA 316B Alouette III,ALO3,2236,H1T,,,,
+73204f,EP-HBO,Aérospatiale,SA 316B Alouette III,ALO3,2198,H1T,,,,
+7320e2,EP-HGB,Aérospatiale,SA 316B Alouette III,ALO3,1932,H1T,,,,
+7320e4,EP-HGD,Aérospatiale,SA 316B Alouette III,ALO3,5246,H1T,,,,
+73226f,EP-HSO,Aérospatiale,SA 316B Alouette III,ALO3,1951,H1T,,,,
+732277,EP-HSW,Aérospatiale,SA 316B Alouette III,ALO3,2223,H1T,,,,
+732278,EP-HSX,Aérospatiale,SA 316B Alouette III,ALO3,5192,H1T,,,,
+73227a,EP-HSZ,Aérospatiale,SA 316B Alouette III,ALO3,5206,H1T,,,,
+732281,EP-HTA,Aérospatiale,SA 316B Alouette III,ALO3,1936,H1T,,,,
+732282,EP-HTB,Aérospatiale,SA 316B Alouette III,ALO3,1942,H1T,,,,
+732283,EP-HTC,Aérospatiale,SA 316B Alouette III,ALO3,2246,H1T,,,,
+732284,EP-HTD,Aérospatiale,SA 316B Alouette III,ALO3,2249,H1T,,,,
+732285,EP-HTE,Aérospatiale,SA 316B Alouette III,ALO3,2258,H1T,,,,
+732290,EP-HTP,Aérospatiale,SA 330G Puma,PUMA,1272,H2T,,,,
+732293,EP-HTS,Aérospatiale,SA 316B Alouette III,ALO3,5267,H1T,,,,
+732295,EP-HTU,Aérospatiale,SA 316B Alouette III,ALO3,5239,H1T,,,,
+732296,EP-HTV,Aérospatiale,SA 316B Alouette III,ALO3,2232,H1T,,,,
+732299,EP-HTY,Aérospatiale,SA 316B Alouette III,ALO3,5232,H1T,,,,
+73229a,EP-HTZ,Aérospatiale,SA 316B Alouette III,ALO3,5213,H1T,,,,
+75010c,9M-SPC,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2639,H2T,,,,
+750144,9M-SPD,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2655,H2T,,,,
+78019d,B-HRL,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2535,H2T,,,,
+78019e,B-HRM,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2543,H2T,,,,
+78019f,B-HRN,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2547,H2T,,,,
+8633e5,JA6717,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2394,H2T,,,,
+863750,JA6800,Aérospatiale,AS332 L2 Super Puma Mk2,AS3B,2471,H2T,,,,
+a008a8,N101CL,Aérospatiale,SA 341G Gazelle,GAZL,1061,H1T,,,,
+a00f27,N10248,Aérospatiale,SA 330J Puma,PUMA,1502,H2T,,,2022-12-31,1977-01-01
+a0b0ab,N1433W,Aérospatiale,SA 341F2 Gazelle,GAZL,1433,H1T,,,2024-03-31,
+a0f03e,N16KH,Aérospatiale,SA 341G Gazelle,GAZL,1456,H1T,,,2024-04-30,
+a0fc11,N1624S,Aérospatiale,SA 330J Puma,PUMA,1611,H2T,,,,
+a0fc34,N1625S,Aérospatiale,SA 330J Puma,PUMA,1619,H2T,,,,
+a11d92,N171GZ,Aérospatiale,SA 341F Gazelle,GAZL,1171,H1T,,,,
+a13e6f,N18BC,Aérospatiale,SA 341G Gazelle,GAZL,1051,H1T,,,,
+a18de3,N2FW,Aérospatiale,SA 341G Gazelle,GAZL,1363,H1T,,,2022-08-31,1977-01-01
+a18e6a,N2MF,Aérospatiale,SA 341F2 Gazelle,GAZL,1448,H1T,,,2024-05-31,1976-01-01
+a20045,N228RW,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2114,H1T,,,2023-03-31,1969-01-01
+a20b72,N2304P,Aérospatiale,SA 316B Alouette III,ALO3,1446,H1T,,,2024-01-31,1967-01-01
+a25870,N250KS,Aérospatiale,SA 341F2 Gazelle,GAZL,1598,H1T,,,2022-08-31,1977-01-01
+a2c0ca,N277DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2027,H1T,,,,
+a2c705,N2783R,Aérospatiale,SA 330J Puma,PUMA,1592,H2T,,,2022-05-31,
+a2c838,N279DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2075,H1T,,,2022-10-31,
+a2ce48,N280DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1943,H1T,,,2023-06-30,
+a2d260,N281GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1281,H1T,,,,
+a2e31b,N2851T,Aérospatiale,SA 330J Puma,PUMA,1499,H2T,,,,
+a33232,N305DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2016,H1T,,,2023-08-31,1968-01-01
+a34eed,N312GZ,Aérospatiale,SA 341F Gazelle,GAZL,1312,H1T,,,,
+a352c4,N313JF,Aérospatiale,SA 313B Alouette II,ALO2,1652,H1T,,,2022-09-30,1961-01-01
+a35eda,N316TX,Aérospatiale,SA 316B Alouette III,ALO3,2191,H1T,,,2024-10-31,
+a364c8,N318CN,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2108,H1T,USH,,,
+a364d6,N318DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2031,H1T,,,,
+a364dc,N318DH,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2163,H1T,,,2023-05-31,1970-01-01
+a36508,N318FB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2411,H1T,,,,
+a36642,N318TR,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2189,H1T,,,2023-06-30,1970-01-01
+a371bb,N32075,Aérospatiale,SA 316B Alouette III,ALO3,1888,H1T,,,,
+a373f6,N321VV,Aérospatiale,SA 341F2 Gazelle,GAZL,1558,H1T,,,2023-06-30,
+a3773c,N322RG,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2101,H1T,,,,
+a39697,N330J,Aérospatiale,SA 330J Puma,PUMA,1647,H2T,,,,
+a3969d,N330JF,Aérospatiale,SA 330J Puma,PUMA,1514,H2T,,,2022-05-31,
+a396c5,N330KW,Aérospatiale,SA 330J Puma,PUMA,1418,H2T,,,,
+a39d1b,N3319B,Aérospatiale,SA 319B Alouette III,ALO3,2030,H1T,,,2024-01-31,
+a3a4f8,N334DB,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2116,H1T,,,,
+a3b048,N337EV,Aérospatiale,SA 330J Puma,PUMA,1549,H2T,,,2023-04-30,1978-01-01
+a3b3ff,N338EV,Aérospatiale,SA 330J Puma,PUMA,1573,H2T,,,2023-04-30,1978-01-01
+a3b7b6,N339EV,Aérospatiale,SA 330J Puma,PUMA,1285,H2T,,,2024-01-31,1974-01-01
+a3beea,N340SM,Aérospatiale,SA 341G Gazelle,GAZL,1509,H1T,,,2023-12-31,1978-01-01
+a3c116,N341AS,Aérospatiale,SA 341G Gazelle,GAZL,1042,H1T,,,2024-07-31,1972-01-01
+a3c162,N341DT,Aérospatiale,SA 341G Gazelle,GAZL,1110,H1T,,,2022-02-28,1974-01-01
+a3c19b,N341G,Aérospatiale,SA 341G Gazelle,GAZL,1056,H1T,,,,
+a3c1a2,N341GG,Aérospatiale,SA 341G Gazelle,GAZL,1181,H1T,,,2022-01-31,1974-01-01
+a3c1a6,N341GL,Aérospatiale,SA 341G Gazelle,GAZL,1413,H1T,,,,
+a3c1ef,N341KJ,Aérospatiale,SA 341F2 Gazelle,GAZL,1483,H1T,,,2023-11-30,
+a3c1ff,N341L,Aérospatiale,SA 341G Gazelle,GAZL,1263,H1T,,,2024-01-31,
+a3c21f,N341MG,Aérospatiale,SA 341F2 Gazelle,GAZL,1482,H1T,,,2024-02-29,1976-01-01
+a3c220,N341MH,Aérospatiale,SA 341F2 Gazelle,GAZL,1541,H1T,,,2024-03-31,1976-01-01
+a3c280,N341RD,Aérospatiale,SA 341F2 Gazelle,GAZL,1501,H1T,,,2023-09-30,1976-01-01
+a3c29d,N341SH,Aérospatiale,SA 341F2 Gazelle,GAZL,1594,H1T,,,2023-04-30,1977-01-01
+a3c34f,N341ZL,Aérospatiale,SA 341G Gazelle,GAZL,1262,H1T,,,2022-03-31,1975-01-01
+a3c532,N342ET,Aérospatiale,SA 342J Gazelle,GAZL,1058,H1T,,,2022-06-30,
+a3c56a,N342GZ,Aérospatiale,SA 342M Gazelle,GAZL,4055,H1T,,,2022-07-31,
+a3c584,N342J,Aérospatiale,SA 342J Gazelle,GAZL,1708,H1T,,,2022-08-31,1979-01-01
+a3c5df,N342MR,Aérospatiale,SA 342M Gazelle,GAZL,3956,H1T,,,2023-12-31,1982-01-01
+a3c641,N342RP,Aérospatiale,SA 342M Gazelle,GAZL,4123,H1T,,,2024-02-29,
+a3c6b6,N342WF,Aérospatiale,SA 342J Gazelle,GAZL,1470,H1T,,,2022-03-31,1977-01-01
+a43342,N37UP,Aérospatiale,SA 341G Gazelle,GAZL,1224,H1T,,,2022-06-30,1975-01-01
+a4671d,N383GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1383,H1T,,,2024-07-31,1975-01-01
+a4a9b9,N4UH,Aérospatiale,SA 319B Alouette III,ALO3,2279,H1T,,,2024-07-31,
+a4c0ab,N405R,Aérospatiale,SA 330J Puma,PUMA,1475,H2T,,,2022-05-31,1977-01-01
+a4f63d,N419GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1419,H1T,,,,
+a59999,N46ZZ,Aérospatiale,SA 341G Gazelle,GAZL,1035,H1T,,,2022-09-30,1973-01-01
+a62b38,N497MM,Aérospatiale,SA 341F2 Gazelle,GAZL,1384,H1T,,,2023-07-31,1975-01-01
+a6341e,N49913,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1091,H1T,,,,
+a634dd,N4997J,Aérospatiale,SA 316B Alouette III,ALO3,1316,H1T,,,,
+a64d33,N505HA,Aérospatiale,SA 341G Gazelle,GAZL,1022,H1T,,,2023-02-28,1972-01-01
+a64d6c,N505KH,Aérospatiale,SA 341G Gazelle,GAZL,1239,H1T,,,2023-02-28,1975-01-01
+a64dbb,N505NM,Aérospatiale,SA 341G Gazelle,GAZL,1408,H1T,,,2023-08-31,1977-01-01
+a67dca,N5170B,Aérospatiale,SA 319B Alouette III,ALO3,2206,H1T,,,,
+a6e776,N544GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1544,H1T,,,2022-05-31,1976-01-01
+a70882,N552T,Aérospatiale,SA 341G Gazelle,GAZL,1246,H1T,,,,
+a723a8,N5593N,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2174,H1T,,,2023-08-31,
+a7c457,N6UH,Aérospatiale,SA 319B Alouette III,ALO3,1972,H1T,,,2024-07-31,
+a7db49,N605R,Aérospatiale,SA 330J Puma,PUMA,1358,H2T,,,2022-12-31,1975-01-01
+a82588,N624EL,Aérospatiale,SA 342J Gazelle,GAZL,1094,H1T,,,2023-12-31,1973-01-01
+a85316,N6353F,Aérospatiale,SA 316B Alouette III,ALO3,1706,H1T,,,,
+a88a71,N65AR,Aérospatiale,SA 342J Gazelle,GAZL,1602,H1T,,,2023-01-31,1977-01-01
+a8a769,N657GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1657,H1T,,,2023-01-31,1976-01-01
+a8df42,N67081,Aérospatiale,SA 316B Alouette III,ALO3,2184,H1T,,,2022-09-30,
+a919de,N686DT,Aérospatiale,SA 341G Gazelle,GAZL,1200,H1T,,,2023-03-31,1974-01-01
+a9477b,N6973C,Aérospatiale,SA 330J Puma,PUMA,1434,H2T,,,2022-05-31,
+a95384,N70PK,Aérospatiale,SA 318C Alouette II Astazou,ALO2,1123,H1T,,,,
+a95626,N700SH,Aérospatiale,SA 341G Gazelle,GAZL,1154,H1T,,,2023-03-31,1974-01-01
+a97a41,N71FR,Aérospatiale,SA 341G Gazelle,GAZL,1274,H1T,,,2023-11-30,1975-01-01
+a9cb06,N73ZW,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2092,H1T,,,,
+a9d5c6,N7327,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2238,H1T,,,2024-04-30,
+aa04ed,N7448Y,Aérospatiale,SA 341G Gazelle,GAZL,1566,H1T,,,2022-02-28,
+aa10db,N748GC,Aérospatiale,SA 316B Alouette III,ALO3,2020,H1T,,,,
+aa4542,N761AC,Aérospatiale,SA 330J Puma,PUMA,1429,H2T,,,,
+aa57d5,N766AC,Aérospatiale,SA 330J Puma,PUMA,1454,H2T,,,,
+aa7482,N773DL,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2151,H1T,,,2024-04-30,
+ab1848,N814AR,Aérospatiale,SA 330J Puma,PUMA,1450,H2T,,,2023-02-28,1977-01-01
+ab1bff,N815AR,Aérospatiale,SA 330J Puma,PUMA,1478,H2T,,,2023-02-28,1977-01-01
+abe471,N8655,Aérospatiale,SA 316B Alouette III,ALO3,1728,H1T,,,2022-09-30,1970-01-01
+ac3c3b,N888GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1540,H1T,,,2023-10-31,1976-01-01
+ac6c00,N9RQ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2033,H1T,,,,
+ac72fc,N901B,Aérospatiale,SA 341G Gazelle,GAZL,1410,H1T,,,2024-07-31,1977-01-01
+ac7811,N902R,Aérospatiale,SA 330J Puma,PUMA,1637,H2T,,,2022-12-31,1981-01-01
+acb511,N918GZ,Aérospatiale,SA 341F2 Gazelle,GAZL,1672,H1T,,,2022-07-31,1977-01-01
+acf3c7,N9334W,Aérospatiale,SA 341F Gazelle,GAZL,1575,H1T,,,,
+ad9b85,N976SF,Aérospatiale,SA 341G Gazelle,GAZL,1259,H1T,,,2023-11-30,
+adaff6,N981MH,Aérospatiale,SA 341F2 Gazelle,GAZL,1419,H1T,,,2024-07-31,1976-01-01
+c02a8a,C-FQCV,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2251,H1T,,1973-04-24,2005-01-17,
+c02bac,C-QNZ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2258,H1T,,1978-05-19,2001-06-12,
+c033d0,C-FTQD,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2078,H1T,,1984-06-08,1989-09-12,
+c050d6,C-GEPX,Aérospatiale,SA 341G Gazelle,GAZL,1262,H1T,,1999-04-06,,
+c079a3,C-GUBQ,Aérospatiale,SA 318C Alouette II Astazou,ALO2,2198,H1T,,1975-06-12,2005-01-17,

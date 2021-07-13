@@ -1,5 +1,27 @@
 # Changelog for version 3.x
 
+## Version 3.3.0
+
+**New data**
+
+- aircraft: Add 353 Aérospatiale aircraft.
+- aircraft: Add 4 Airbus aircraft.
+- aircraft: Add 343 Airbus Helicopter aircraft.
+- aircraft: Add 183 MBB/Kawasaki aircraft.
+- aircraft types: Add 6 aircraft types.
+- aircraft types: Add 6 aircraft types pictures.
+
+**Removed data**
+
+- aircraft: Remove 23 outdated Airbus Helicopters aircraft.
+
+**Fixes & improvements**
+
+- aircraft: Fix a lot of Airbus Helicopters aircraft data (model names, types, …).
+- aircraft: Move Airbus Helicopters aircraft to separate file.
+- aircraft: Sort MBB aircraft.
+- aircraft types: Fix aircraft type `EC20` name.
+
 ## Version 3.2.0
 
 **New data**
@@ -45,5 +67,5 @@
 - navaids: Update data (decommissioned NDBs were removed).
 - navaids: Improve names formatting (no more truncated/capital letters names).
 - navaids: Round the `latitude` and `longitude` columns to 5 decimal places.
-- navaids: Set the type of DMEs associated with NDBs to `DME-NDB`. These navaids were previously undifferentiated from terminal, standalone NDBs. 
+- navaids: Set the type of DMEs associated with NDBs to `DME-NDB`. These navaids were previously undifferentiated from terminal, standalone NDBs.
 - navaids: Split data across multiple files, each one containing only a single navaid type.
